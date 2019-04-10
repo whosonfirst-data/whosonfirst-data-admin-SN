@@ -1,0 +1,61 @@
+{
+  "id": 1209501249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.3628,15.7224,-15.3628,15.7224",
+    "geom:latitude":15.7224,
+    "geom:longitude":-15.3628,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doro",
+    "gn:country_code":"SN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252145,
+    "gn:latitude":15.7224,
+    "gn:longitude":-15.3628,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Doro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252145
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b5477b5eceb4de2f43bb97e22f24c3b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209501249
+        }
+    ],
+    "wof:id":1209501249,
+    "wof:lastmodified":1536285176,
+    "wof:name":"Doro",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.3628,
+    15.7224,
+    -15.3628,
+    15.7224
+],
+  "geometry": {"coordinates":[-15.3628,15.7224],"type":"Point"}
+}

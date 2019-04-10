@@ -1,0 +1,114 @@
+{
+  "id": 421196533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.95,14.26667,-15.95,14.26667",
+    "geom:latitude":14.26667,
+    "geom:longitude":-15.95,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u4eac\u5409\u5167\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "Guinguin\u00e9o"
+    ],
+    "name:eng_x_preferred":[
+        "Guinguin\u00e9o"
+    ],
+    "name:fra_x_preferred":[
+        "Guinguin\u00e9o"
+    ],
+    "name:fre_x_preferred":[
+        "Guinguin\u00e9o"
+    ],
+    "name:ita_x_preferred":[
+        "Guinguin\u00e9o"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30f3\u30ae\u30cd\u30aa"
+    ],
+    "name:pol_x_preferred":[
+        "Guinguin\u00e9o"
+    ],
+    "name:swe_x_preferred":[
+        "Guinguin\u00e9o"
+    ],
+    "name:zho_x_preferred":[
+        "\u4eac\u5409\u5167\u5967"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2251230,
+    "qs:gn_pop":15395,
+    "qs:name":"Guinguin\u00e9o",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Fatick",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":944751,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1413498,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":14.266667,
+    "wd:longitude":-15.95,
+    "wd:wordcount":527,
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677011,
+        1108691479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251230,
+        "gp:id":1413498,
+        "qs:id":944751,
+        "wd:id":"Q3100518",
+        "wk:page":"Guinguin\u00e9o"
+    },
+    "wof:country":"SN",
+    "wof:created":1459009884,
+    "wof:geomhash":"cb809440137dfda500a00202c8bb8e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691479,
+            "locality_id":421196533,
+            "region_id":85677011
+        }
+    ],
+    "wof:id":421196533,
+    "wof:lastmodified":1527716360,
+    "wof:name":"Guinguin\u00e9o",
+    "wof:parent_id":1108691479,
+    "wof:placetype":"locality",
+    "wof:population":15395,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.95,
+    14.26667,
+    -15.95,
+    14.26667
+],
+  "geometry": {"coordinates":[-15.95,14.26667],"type":"Point"}
+}

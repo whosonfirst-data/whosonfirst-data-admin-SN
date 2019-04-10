@@ -1,0 +1,72 @@
+{
+  "id": 1343642691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.9,12.83333,-14.9,12.83333",
+    "geom:latitude":12.83333,
+    "geom:longitude":-14.9,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Diatourou Kounda",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252616,
+    "gn:latitude":12.83333,
+    "gn:longitude":-14.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diatourou Kounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diatourou Counda",
+        "Diatourou Kounda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252616
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c8071f3602402ac877a3916f1e2ee9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1343642691,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1343642691,
+    "wof:lastmodified":1537701126,
+    "wof:name":"Diatourou Kounda",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.9,
+    12.83333,
+    -14.9,
+    12.83333
+],
+  "geometry": {"coordinates":[-14.9,12.83333],"type":"Point"}
+}

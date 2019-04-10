@@ -1,0 +1,67 @@
+{
+  "id": 1260056521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.6338,15.3742,-16.6338,15.3742",
+    "geom:latitude":15.3742,
+    "geom:longitude":-16.6338,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ndiavrigne Amadou",
+    "gn:country_code":"SN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6920413,
+    "gn:latitude":15.3742,
+    "gn:longitude":-16.6338,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Ndiavrigne Amadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6920413
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"6aa8c59627978608a6b502cacc70a883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1260056521,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1260056521,
+    "wof:lastmodified":1537025793,
+    "wof:name":"Ndiavrigne Amadou",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.6338,
+    15.3742,
+    -16.6338,
+    15.3742
+],
+  "geometry": {"coordinates":[-16.6338,15.3742],"type":"Point"}
+}

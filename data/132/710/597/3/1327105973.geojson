@@ -1,0 +1,72 @@
+{
+  "id": 1327105973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.03333,15.9,-16.03333,15.9",
+    "geom:latitude":15.9,
+    "geom:longitude":-16.03333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Guene Goudi",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251304,
+    "gn:latitude":15.9,
+    "gn:longitude":-16.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gu\u00e8ne Goudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guenne Goundi",
+        "Gu\u00e8ne Goudi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251304
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"cee263fa03ccde24c41945ef717a8d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1327105973,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1327105973,
+    "wof:lastmodified":1537701098,
+    "wof:name":"Guene Goudi",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.03333,
+    15.9,
+    -16.03333,
+    15.9
+],
+  "geometry": {"coordinates":[-16.03333,15.9],"type":"Point"}
+}

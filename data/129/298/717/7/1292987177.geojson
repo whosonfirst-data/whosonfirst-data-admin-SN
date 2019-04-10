@@ -1,0 +1,67 @@
+{
+  "id": 1292987177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.1333,15.576,-15.1333,15.576",
+    "geom:latitude":15.576,
+    "geom:longitude":-15.1333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Daganabe",
+    "gn:country_code":"SN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253373,
+    "gn:latitude":15.576,
+    "gn:longitude":-15.1333,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Daganab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253373
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ff68b4372dcdd612705ee3888307aa71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1292987177,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1292987177,
+    "wof:lastmodified":1537010620,
+    "wof:name":"Daganabe",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.1333,
+    15.576,
+    -15.1333,
+    15.576
+],
+  "geometry": {"coordinates":[-15.1333,15.576],"type":"Point"}
+}

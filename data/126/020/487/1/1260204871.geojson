@@ -1,0 +1,67 @@
+{
+  "id": 1260204871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.63333,14.65,-16.63333,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":-16.63333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bofaye",
+    "gn:country_code":"SN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253790,
+    "gn:latitude":14.65,
+    "gn:longitude":-16.63333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bofaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253790
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2adddd90a6134b20cf6338c9e99e0a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1260204871,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1260204871,
+    "wof:lastmodified":1536817863,
+    "wof:name":"Bofaye",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.63332999999999,
+    14.65,
+    -16.63332999999999,
+    14.65
+],
+  "geometry": {"coordinates":[-16.63332999999999,14.65],"type":"Point"}
+}

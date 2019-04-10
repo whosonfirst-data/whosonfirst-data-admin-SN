@@ -1,0 +1,67 @@
+{
+  "id": 1292987191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.3313,15.3581,-15.3313,15.3581",
+    "geom:latitude":15.3581,
+    "geom:longitude":-15.3313,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Som",
+    "gn:country_code":"SN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245230,
+    "gn:latitude":15.3581,
+    "gn:longitude":-15.3313,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Som",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245230
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"75d296fc4c761116c40ee3a4414b5e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1292987191,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1292987191,
+    "wof:lastmodified":1537010601,
+    "wof:name":"Som",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.3313,
+    15.3581,
+    -15.3313,
+    15.3581
+],
+  "geometry": {"coordinates":[-15.3313,15.3581],"type":"Point"}
+}

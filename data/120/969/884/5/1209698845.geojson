@@ -1,0 +1,67 @@
+{
+  "id": 1209698845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.37906,15.5639,-13.37906,15.5639",
+    "geom:latitude":15.5639,
+    "geom:longitude":-13.37906,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dika",
+    "gn:country_code":"SN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252530,
+    "gn:latitude":15.5639,
+    "gn:longitude":-13.37906,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Dika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252530
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"13633ed14d804e07fe537331c26642a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1209698845,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1209698845,
+    "wof:lastmodified":1536395908,
+    "wof:name":"Dika",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.37906,
+    15.5639,
+    -13.37906,
+    15.5639
+],
+  "geometry": {"coordinates":[-13.37906,15.5639],"type":"Point"}
+}

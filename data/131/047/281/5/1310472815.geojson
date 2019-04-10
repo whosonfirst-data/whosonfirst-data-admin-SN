@@ -1,0 +1,67 @@
+{
+  "id": 1310472815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.5229,15.9173,-14.5229,15.9173",
+    "geom:latitude":15.9173,
+    "geom:longitude":-14.5229,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rendo",
+    "gn:country_code":"SN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246572,
+    "gn:latitude":15.9173,
+    "gn:longitude":-14.5229,
+    "gn:modification_date":"2008-11-26",
+    "gn:name":"R\u00e8ndo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246572
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"6049cfe2a312fd5b222eeef67d46f228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1310472815,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1310472815,
+    "wof:lastmodified":1536963944,
+    "wof:name":"Rendo",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.5229,
+    15.9173,
+    -14.5229,
+    15.9173
+],
+  "geometry": {"coordinates":[-14.5229,15.9173],"type":"Point"}
+}

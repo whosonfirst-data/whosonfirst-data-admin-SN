@@ -1,0 +1,67 @@
+{
+  "id": 1327300107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.21389,12.93444,-15.21389,12.93444",
+    "geom:latitude":12.93444,
+    "geom:longitude":-15.21389,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sare Farim",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246040,
+    "gn:latitude":12.93444,
+    "gn:longitude":-15.21389,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sar\u00e9 Farim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246040
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2153fe93a146a64e1730249ff6a98ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1327300107,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1327300107,
+    "wof:lastmodified":1536870870,
+    "wof:name":"Sare Farim",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.21389,
+    12.93444,
+    -15.21389,
+    12.93444
+],
+  "geometry": {"coordinates":[-15.21389,12.93444],"type":"Point"}
+}

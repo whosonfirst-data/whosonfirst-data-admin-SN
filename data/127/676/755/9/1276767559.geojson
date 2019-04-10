@@ -1,0 +1,67 @@
+{
+  "id": 1276767559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.3,13.71667,-14.3,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":-14.3,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tiountou Aladi",
+    "gn:country_code":"SN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244410,
+    "gn:latitude":13.71667,
+    "gn:longitude":-14.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tiountou Aladi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244410
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"de71460675bdf8a84f598d9da76f8e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691483,
+            "locality_id":1276767559,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1276767559,
+    "wof:lastmodified":1536694195,
+    "wof:name":"Tiountou Aladi",
+    "wof:parent_id":1108691483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.3,
+    13.71667,
+    -14.3,
+    13.71667
+],
+  "geometry": {"coordinates":[-14.3,13.71667],"type":"Point"}
+}

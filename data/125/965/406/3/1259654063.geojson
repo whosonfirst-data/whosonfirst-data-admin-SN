@@ -1,0 +1,67 @@
+{
+  "id": 1259654063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.2041,15.2165,-14.2041,15.2165",
+    "geom:latitude":15.2165,
+    "geom:longitude":-14.2041,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nalal Daou",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248184,
+    "gn:latitude":15.2165,
+    "gn:longitude":-14.2041,
+    "gn:modification_date":"2008-11-26",
+    "gn:name":"Nalal Daou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248184
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8166c53d174303e8389bc83091dcc302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691507,
+            "locality_id":1259654063,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1259654063,
+    "wof:lastmodified":1536610529,
+    "wof:name":"Nalal Daou",
+    "wof:parent_id":1108691507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.2041,
+    15.2165,
+    -14.2041,
+    15.2165
+],
+  "geometry": {"coordinates":[-14.2041,15.2165],"type":"Point"}
+}

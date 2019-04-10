@@ -1,0 +1,67 @@
+{
+  "id": 1209610425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.2,14.26667,-16.2,14.26667",
+    "geom:latitude":14.26667,
+    "geom:longitude":-16.2,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Diokoul",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252451,
+    "gn:latitude":14.26667,
+    "gn:longitude":-16.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diokoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dickul",
+        "Diokhoul",
+        "Diokoul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252451
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"60f7fd089743bb8a231ccce8731100c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209610425
+        }
+    ],
+    "wof:id":1209610425,
+    "wof:lastmodified":1537701122,
+    "wof:name":"Diokoul",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.2,
+    14.26667,
+    -16.2,
+    14.26667
+],
+  "geometry": {"coordinates":[-16.2,14.26667],"type":"Point"}
+}

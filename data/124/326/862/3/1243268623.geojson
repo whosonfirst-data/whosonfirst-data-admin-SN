@@ -1,0 +1,67 @@
+{
+  "id": 1243268623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.01667,13.75,-14.01667,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-14.01667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sara Koli",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246191,
+    "gn:latitude":13.75,
+    "gn:longitude":-14.01667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sara Koli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246191
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"496a061a5410a96c92e13353413796ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1243268623,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1243268623,
+    "wof:lastmodified":1537059242,
+    "wof:name":"Sara Koli",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.01667,
+    13.75,
+    -14.01667,
+    13.75
+],
+  "geometry": {"coordinates":[-14.01667,13.75],"type":"Point"}
+}

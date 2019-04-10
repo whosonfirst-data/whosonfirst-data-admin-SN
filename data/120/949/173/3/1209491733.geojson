@@ -1,0 +1,61 @@
+{
+  "id": 1209491733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.18333,15.4,-16.18333,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":-16.18333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ndiobo",
+    "gn:country_code":"SN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247736,
+    "gn:latitude":15.4,
+    "gn:longitude":-16.18333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ndiobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247736
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f2645b7ecc0e470937b11cbe6b1aa172",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209491733
+        }
+    ],
+    "wof:id":1209491733,
+    "wof:lastmodified":1536285464,
+    "wof:name":"Ndiobo",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.183329999999998,
+    15.4,
+    -16.183329999999998,
+    15.4
+],
+  "geometry": {"coordinates":[-16.18333,15.4],"type":"Point"}
+}

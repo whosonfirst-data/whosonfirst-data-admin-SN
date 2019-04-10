@@ -1,0 +1,67 @@
+{
+  "id": 1209698765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.36667,15.96667,-13.36667,15.96667",
+    "geom:latitude":15.96667,
+    "geom:longitude":-13.36667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ali Ouri",
+    "gn:country_code":"SN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254705,
+    "gn:latitude":15.96667,
+    "gn:longitude":-13.36667,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Ali Ouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254705
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7563f7902154a6cda66fb5ee23a1f62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1209698765,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1209698765,
+    "wof:lastmodified":1536395941,
+    "wof:name":"Ali Ouri",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.36667,
+    15.96667,
+    -13.36667,
+    15.96667
+],
+  "geometry": {"coordinates":[-13.36667,15.96667],"type":"Point"}
+}

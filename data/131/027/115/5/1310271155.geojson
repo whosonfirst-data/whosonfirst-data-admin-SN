@@ -1,0 +1,67 @@
+{
+  "id": 1310271155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.71667,13.28333,-15.71667,13.28333",
+    "geom:latitude":13.28333,
+    "geom:longitude":-15.71667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Boudouk",
+    "gn:country_code":"SN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253634,
+    "gn:latitude":13.28333,
+    "gn:longitude":-15.71667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Boudouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253634
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0952012beb8a493483abf25991f49f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691465,
+            "locality_id":1310271155,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1310271155,
+    "wof:lastmodified":1536757676,
+    "wof:name":"Boudouk",
+    "wof:parent_id":1108691465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.71667,
+    13.28333,
+    -15.71667,
+    13.28333
+],
+  "geometry": {"coordinates":[-15.71667,13.28333],"type":"Point"}
+}

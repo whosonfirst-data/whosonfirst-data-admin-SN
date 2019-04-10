@@ -1,0 +1,72 @@
+{
+  "id": 1276251827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.23333,13.86667,-14.23333,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":-14.23333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Patoulane Peul",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246741,
+    "gn:latitude":13.86667,
+    "gn:longitude":-14.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Patoulane Peul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patoulane",
+        "Patoulane Peul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246741
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c777ba69ef1e1ec03c1722e3907fa7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691483,
+            "locality_id":1276251827,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1276251827,
+    "wof:lastmodified":1537701005,
+    "wof:name":"Patoulane Peul",
+    "wof:parent_id":1108691483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.23333,
+    13.86667,
+    -14.23333,
+    13.86667
+],
+  "geometry": {"coordinates":[-14.23333,13.86667],"type":"Point"}
+}

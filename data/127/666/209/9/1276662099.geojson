@@ -1,0 +1,72 @@
+{
+  "id": 1276662099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.45101,13.39645,-12.45101,13.39645",
+    "geom:latitude":13.39645,
+    "geom:longitude":-12.45101,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sinntiou Galo",
+    "gn:country_code":"SN",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245375,
+    "gn:latitude":13.39645,
+    "gn:longitude":-12.45101,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sinntiou Galo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinthiou Galo",
+        "Sintiou Galo",
+        "Sinntiou Galo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245375
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d0d6da11beb813e6767adc1cc9f6e210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1276662099,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1276662099,
+    "wof:lastmodified":1537700982,
+    "wof:name":"Sinntiou Galo",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.45101,
+    13.39645,
+    -12.45101,
+    13.39645
+],
+  "geometry": {"coordinates":[-12.45101,13.39645],"type":"Point"}
+}

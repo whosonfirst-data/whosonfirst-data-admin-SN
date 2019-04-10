@@ -1,0 +1,72 @@
+{
+  "id": 1276662233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.90827,13.85718,-12.90827,13.85718",
+    "geom:latitude":13.85718,
+    "geom:longitude":-12.90827,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Madina-Diaka",
+    "gn:country_code":"SN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249039,
+    "gn:latitude":13.85718,
+    "gn:longitude":-12.90827,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Madina-Diaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diaka M\u00e9dina",
+        "M\u00e9dina-Diaka",
+        "Madina-Diaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249039
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c37ac5ef01964a018f9260c4990c7f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1276662233,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1276662233,
+    "wof:lastmodified":1537701057,
+    "wof:name":"Madina-Diaka",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.90827,
+    13.85718,
+    -12.90827,
+    13.85718
+],
+  "geometry": {"coordinates":[-12.90827,13.85718],"type":"Point"}
+}

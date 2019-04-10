@@ -1,0 +1,73 @@
+{
+  "id": 1226645119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.16667,13.65,-14.16667,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-14.16667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fadiyakounda",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252003,
+    "gn:latitude":13.65,
+    "gn:longitude":-14.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fadiyakounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fadiakounda",
+        "Fadiacounda",
+        "Fadiyakounda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252003
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c152418207728b863963bf1f2df7f27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1226645119,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1226645119,
+    "wof:lastmodified":1537701113,
+    "wof:name":"Fadiyakounda",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.16667,
+    13.65,
+    -14.16667,
+    13.65
+],
+  "geometry": {"coordinates":[-14.16667,13.65],"type":"Point"}
+}

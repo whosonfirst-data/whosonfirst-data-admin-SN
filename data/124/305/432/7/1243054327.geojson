@@ -1,0 +1,71 @@
+{
+  "id": 1243054327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.0138,15.5236,-16.0138,15.5236",
+    "geom:latitude":15.5236,
+    "geom:longitude":-16.0138,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ndiakhar",
+    "gn:country_code":"SN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247976,
+    "gn:latitude":15.5236,
+    "gn:longitude":-16.0138,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ndiakhar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dialakar",
+        "Ndiakhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247976
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5ab2e5ce9b5c4a5162f2fbf3a4fedad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1243054327,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1243054327,
+    "wof:lastmodified":1537701035,
+    "wof:name":"Ndiakhar",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.0138,
+    15.5236,
+    -16.0138,
+    15.5236
+],
+  "geometry": {"coordinates":[-16.0138,15.5236],"type":"Point"}
+}

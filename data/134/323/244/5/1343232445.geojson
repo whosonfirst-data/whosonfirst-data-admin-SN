@@ -1,0 +1,67 @@
+{
+  "id": 1343232445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.26667,14.61667,-13.26667,14.61667",
+    "geom:latitude":14.61667,
+    "geom:longitude":-13.26667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Toubere Amadou",
+    "gn:country_code":"SN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244277,
+    "gn:latitude":14.61667,
+    "gn:longitude":-13.26667,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Toub\u00e9r\u00e9 Amadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244277
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"fa475a66774e9e16137bf2d742a64117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1343232445,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1343232445,
+    "wof:lastmodified":1537072419,
+    "wof:name":"Toubere Amadou",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.26667,
+    14.61667,
+    -13.26667,
+    14.61667
+],
+  "geometry": {"coordinates":[-13.26667,14.61667],"type":"Point"}
+}

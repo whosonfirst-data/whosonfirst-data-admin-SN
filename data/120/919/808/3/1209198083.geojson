@@ -1,0 +1,61 @@
+{
+  "id": 1209198083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.83333,13.95,-15.83333,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":-15.83333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Touba",
+    "gn:country_code":"SN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244325,
+    "gn:latitude":13.95,
+    "gn:longitude":-15.83333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Touba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244325
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8da857a1181c5d67b0a50ac054654cdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209198083
+        }
+    ],
+    "wof:id":1209198083,
+    "wof:lastmodified":1536294705,
+    "wof:name":"Touba",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.833329999999998,
+    13.95,
+    -15.833329999999998,
+    13.95
+],
+  "geometry": {"coordinates":[-15.83333,13.95],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209388645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.97566,16.60868,-14.97566,16.60868",
+    "geom:latitude":16.60868,
+    "geom:longitude":-14.97566,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"As",
+    "gn:country_code":"SN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254629,
+    "gn:latitude":16.60868,
+    "gn:longitude":-14.97566,
+    "gn:modification_date":"2007-09-19",
+    "gn:name":"As",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254629
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"851dd02e58f0262b9eda11e92f4d9f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209388645
+        }
+    ],
+    "wof:id":1209388645,
+    "wof:lastmodified":1536288537,
+    "wof:name":"As",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.97566,
+    16.60868,
+    -14.97566,
+    16.60868
+],
+  "geometry": {"coordinates":[-14.97566,16.60868],"type":"Point"}
+}

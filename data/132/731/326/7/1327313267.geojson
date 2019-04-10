@@ -1,0 +1,67 @@
+{
+  "id": 1327313267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.75,14.73333,-14.75,14.73333",
+    "geom:latitude":14.73333,
+    "geom:longitude":-14.75,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dayane Keur Diamba Sira",
+    "gn:country_code":"SN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253081,
+    "gn:latitude":14.73333,
+    "gn:longitude":-14.75,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Dayane Keur Diamba Sira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253081
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"926a1505b875697a7b3b52cee02992c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691507,
+            "locality_id":1327313267,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1327313267,
+    "wof:lastmodified":1536851816,
+    "wof:name":"Dayane Keur Diamba Sira",
+    "wof:parent_id":1108691507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.75,
+    14.73333,
+    -14.75,
+    14.73333
+],
+  "geometry": {"coordinates":[-14.75,14.73333],"type":"Point"}
+}

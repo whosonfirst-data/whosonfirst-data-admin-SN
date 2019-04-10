@@ -1,0 +1,67 @@
+{
+  "id": 1276954629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4092,12.6871,-12.4092,12.6871",
+    "geom:latitude":12.6871,
+    "geom:longitude":-12.4092,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Baraboye",
+    "gn:country_code":"SN",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254185,
+    "gn:latitude":12.6871,
+    "gn:longitude":-12.4092,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Baraboye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254185
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5b91ae716c40d4e06de28639dd0e3494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691463,
+            "locality_id":1276954629,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1276954629,
+    "wof:lastmodified":1536941778,
+    "wof:name":"Baraboye",
+    "wof:parent_id":1108691463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4092,
+    12.6871,
+    -12.4092,
+    12.6871
+],
+  "geometry": {"coordinates":[-12.4092,12.6871],"type":"Point"}
+}

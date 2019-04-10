@@ -1,0 +1,67 @@
+{
+  "id": 1242894991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.11544,14.70282,-17.11544,14.70282",
+    "geom:latitude":14.70282,
+    "geom:longitude":-17.11544,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tok Lou Ouolof",
+    "gn:country_code":"SN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595575,
+    "gn:latitude":14.70282,
+    "gn:longitude":-17.11544,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Tok Lou Ouolof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595575
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9d5183c3a22d88f1fdc7e473aaeae0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1242894991,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1242894991,
+    "wof:lastmodified":1536603461,
+    "wof:name":"Tok Lou Ouolof",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.11544,
+    14.70282,
+    -17.11544,
+    14.70282
+],
+  "geometry": {"coordinates":[-17.11544,14.70282],"type":"Point"}
+}

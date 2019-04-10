@@ -1,0 +1,77 @@
+{
+  "id": 421185111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.43333,14.7,-17.43333,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":-17.43333,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2246601,
+    "qs:gn_pop":0,
+    "qs:name":"Poutou",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Dakar",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1018262,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1416905,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        421187965,
+        85676997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246601,
+        "gp:id":1416905,
+        "qs:id":1018262
+    },
+    "wof:country":"SN",
+    "wof:created":1459009432,
+    "wof:geomhash":"fc6ce577885dab39b20df1e535d0c631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187965,
+            "locality_id":-1,
+            "neighbourhood_id":421185111,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":421185111,
+    "wof:lastmodified":1531858564,
+    "wof:name":"Poutou",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.43333,
+    14.7,
+    -17.43333,
+    14.7
+],
+  "geometry": {"coordinates":[-17.43333,14.7],"type":"Point"}
+}

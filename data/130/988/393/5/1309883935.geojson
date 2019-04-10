@@ -1,0 +1,67 @@
+{
+  "id": 1309883935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.85,12.7,-14.85,12.7",
+    "geom:latitude":12.7,
+    "geom:longitude":-14.85,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hamdallaye",
+    "gn:country_code":"SN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251157,
+    "gn:latitude":12.7,
+    "gn:longitude":-14.85,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Hamdallaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251157
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b04881af63950697b8ed462b1a24dabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1309883935,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1309883935,
+    "wof:lastmodified":1536817717,
+    "wof:name":"Hamdallaye",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.85,
+    12.7,
+    -14.85,
+    12.7
+],
+  "geometry": {"coordinates":[-14.85,12.7],"type":"Point"}
+}

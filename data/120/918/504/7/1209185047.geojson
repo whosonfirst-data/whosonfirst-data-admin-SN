@@ -1,0 +1,61 @@
+{
+  "id": 1209185047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.31667,15.96667,-16.31667,15.96667",
+    "geom:latitude":15.96667,
+    "geom:longitude":-16.31667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Diassap",
+    "gn:country_code":"SN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252640,
+    "gn:latitude":15.96667,
+    "gn:longitude":-16.31667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Diassap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252640
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"288f5912800918e6f611301a34201c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209185047
+        }
+    ],
+    "wof:id":1209185047,
+    "wof:lastmodified":1536295128,
+    "wof:name":"Diassap",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.316670000000002,
+    15.96667,
+    -16.316670000000002,
+    15.96667
+],
+  "geometry": {"coordinates":[-16.31667,15.96667],"type":"Point"}
+}

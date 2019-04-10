@@ -1,0 +1,61 @@
+{
+  "id": 1209105281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.66667,13.8,-14.66667,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":-14.66667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sare Tiernon",
+    "gn:country_code":"SN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245781,
+    "gn:latitude":13.8,
+    "gn:longitude":-14.66667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sar\u00e9 Tiernon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245781
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"72f84fc2752ce92c4e26e1a85f0ddc6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209105281
+        }
+    ],
+    "wof:id":1209105281,
+    "wof:lastmodified":1536297594,
+    "wof:name":"Sare Tiernon",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.666670000000002,
+    13.8,
+    -14.666670000000002,
+    13.8
+],
+  "geometry": {"coordinates":[-14.66667,13.8],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293853569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.58333,14.35,-15.58333,14.35",
+    "geom:latitude":14.35,
+    "geom:longitude":-15.58333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Diouni Guel",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252320,
+    "gn:latitude":14.35,
+    "gn:longitude":-15.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diouni Guel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dioute Gal",
+        "Diouni Guel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252320
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d27c11ff42ac7bd9d099e90b658777dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691481,
+            "locality_id":1293853569,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1293853569,
+    "wof:lastmodified":1537701119,
+    "wof:name":"Diouni Guel",
+    "wof:parent_id":1108691481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.58333,
+    14.35,
+    -15.58333,
+    14.35
+],
+  "geometry": {"coordinates":[-15.58333,14.35],"type":"Point"}
+}

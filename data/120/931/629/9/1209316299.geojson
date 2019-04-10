@@ -1,0 +1,69 @@
+{
+  "id": 1209316299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.3,14.8,-16.3,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-16.3,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taiba Moutoufa",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245054,
+    "gn:latitude":14.8,
+    "gn:longitude":-16.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ta\u00efba Moutoufa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u00efba Moutoufat",
+        "Ta\u00efba Mouloufa",
+        "Ta\u00efba",
+        "Ta\u00efba Moutoufal",
+        "Ta\u00efba Moutoufa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245054
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3699419f1b2eb3c123bca780f27cbce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209316299
+        }
+    ],
+    "wof:id":1209316299,
+    "wof:lastmodified":1537700973,
+    "wof:name":"Taiba Moutoufa",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.3,
+    14.8,
+    -16.3,
+    14.8
+],
+  "geometry": {"coordinates":[-16.3,14.8],"type":"Point"}
+}

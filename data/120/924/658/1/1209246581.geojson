@@ -1,0 +1,61 @@
+{
+  "id": 1209246581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.16073,13.87017,-12.16073,13.87017",
+    "geom:latitude":13.87017,
+    "geom:longitude":-12.16073,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kare",
+    "gn:country_code":"SN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250760,
+    "gn:latitude":13.87017,
+    "gn:longitude":-12.16073,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Kar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250760
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"864b9c5685fc600297b2802ff0aa7502",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209246581
+        }
+    ],
+    "wof:id":1209246581,
+    "wof:lastmodified":1536293144,
+    "wof:name":"Kare",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.16073,
+    13.870170000000002,
+    -12.16073,
+    13.870170000000002
+],
+  "geometry": {"coordinates":[-12.16073,13.87017],"type":"Point"}
+}

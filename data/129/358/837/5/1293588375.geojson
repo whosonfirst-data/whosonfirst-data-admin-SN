@@ -1,0 +1,72 @@
+{
+  "id": 1293588375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.65,13.68333,-13.65,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":-13.65,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Baba Gale",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254600,
+    "gn:latitude":13.68333,
+    "gn:longitude":-13.65,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Baba Gal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinntiou Diaka",
+        "Baba Gal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254600
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"32a93b5aa734231ea7fb5c845930185f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1293588375,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1293588375,
+    "wof:lastmodified":1537701163,
+    "wof:name":"Baba Gale",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.65,
+    13.68333,
+    -13.65,
+    13.68333
+],
+  "geometry": {"coordinates":[-13.65,13.68333],"type":"Point"}
+}

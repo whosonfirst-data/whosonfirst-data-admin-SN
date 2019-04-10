@@ -1,0 +1,67 @@
+{
+  "id": 1226822849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.68611,16.06917,-15.68611,16.06917",
+    "geom:latitude":16.06917,
+    "geom:longitude":-15.68611,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sier",
+    "gn:country_code":"SN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245588,
+    "gn:latitude":16.06917,
+    "gn:longitude":-15.68611,
+    "gn:modification_date":"2007-06-08",
+    "gn:name":"Si\u00e8r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245588
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"126f0333fac62f056ccf4cd6dca0cca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1226822849,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1226822849,
+    "wof:lastmodified":1536601387,
+    "wof:name":"Sier",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.68611,
+    16.06917,
+    -15.68611,
+    16.06917
+],
+  "geometry": {"coordinates":[-15.68611,16.06917],"type":"Point"}
+}

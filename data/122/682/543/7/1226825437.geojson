@@ -1,0 +1,67 @@
+{
+  "id": 1226825437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.9321,13.18327,-11.9321,13.18327",
+    "geom:latitude":13.18327,
+    "geom:longitude":-11.9321,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lefakho",
+    "gn:country_code":"SN",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6659162,
+    "gn:latitude":13.18327,
+    "gn:longitude":-11.9321,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"L\u00e9fakho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6659162
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2d38d214ee0f6a753bdbb1697375733d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1226825437,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1226825437,
+    "wof:lastmodified":1537094412,
+    "wof:name":"Lefakho",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.9321,
+    13.18327,
+    -11.9321,
+    13.18327
+],
+  "geometry": {"coordinates":[-11.9321,13.18327],"type":"Point"}
+}

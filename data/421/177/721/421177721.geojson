@@ -1,0 +1,79 @@
+{
+  "id": 421177721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.51083,16.02306,-16.51083,16.02306",
+    "geom:latitude":16.02306,
+    "geom:longitude":-16.51083,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Guet N\u2019Dar"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2251278,
+    "qs:gn_pop":0,
+    "qs:name":"Guet Dar",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"St.-Louis",
+    "qs:photos":37,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1352852,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1413464,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251278,
+        "gp:id":1413464,
+        "qs:id":1352852
+    },
+    "wof:country":"SN",
+    "wof:created":1459009158,
+    "wof:geomhash":"b7529279b89a351f6612a7cbd1531e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691511,
+            "locality_id":421177721,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":421177721,
+    "wof:lastmodified":1501262037,
+    "wof:name":"Guet Dar",
+    "wof:parent_id":1108691511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.51083,
+    16.02306,
+    -16.51083,
+    16.02306
+],
+  "geometry": {"coordinates":[-16.51083,16.02306],"type":"Point"}
+}

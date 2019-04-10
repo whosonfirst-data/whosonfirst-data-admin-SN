@@ -1,0 +1,67 @@
+{
+  "id": 1225867759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.30996,13.83654,-12.30996,13.83654",
+    "geom:latitude":13.83654,
+    "geom:longitude":-12.30996,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goundafa",
+    "gn:country_code":"SN",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251429,
+    "gn:latitude":13.83654,
+    "gn:longitude":-12.30996,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Goundafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251429
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f8551ae5b4bef1fca77cb0128f6bf8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1225867759,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1225867759,
+    "wof:lastmodified":1536981299,
+    "wof:name":"Goundafa",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.30996,
+    13.83654,
+    -12.30996,
+    13.83654
+],
+  "geometry": {"coordinates":[-12.30996,13.83654],"type":"Point"}
+}

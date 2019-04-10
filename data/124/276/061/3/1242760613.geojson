@@ -1,0 +1,72 @@
+{
+  "id": 1242760613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.38453,16.02115,-13.38453,16.02115",
+    "geom:latitude":16.02115,
+    "geom:longitude":-13.38453,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dondou",
+    "gn:country_code":"SN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252157,
+    "gn:latitude":16.02115,
+    "gn:longitude":-13.38453,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"D\u00f4ndou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Do\u00f4ndou",
+        "Diopondou",
+        "D\u00f4ndou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252157
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3db95ce26bbaec45e2d5f8c01f4798e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1242760613,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1242760613,
+    "wof:lastmodified":1537701116,
+    "wof:name":"Dondou",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.38453,
+    16.02115,
+    -13.38453,
+    16.02115
+],
+  "geometry": {"coordinates":[-13.38453,16.02115],"type":"Point"}
+}

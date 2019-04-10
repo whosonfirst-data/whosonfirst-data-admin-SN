@@ -1,0 +1,72 @@
+{
+  "id": 1226123705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.28333,13.33333,-15.28333,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":-15.28333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sare Samba Cisse",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245851,
+    "gn:latitude":13.33333,
+    "gn:longitude":-15.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sar\u00e9 Samba Ciss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar\u00e9 Samba Siss\u00e9",
+        "Sar\u00e9 Samba Ciss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245851
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4a724c8d98db666baf55e92fc96dcd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691473,
+            "locality_id":1226123705,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1226123705,
+    "wof:lastmodified":1537700996,
+    "wof:name":"Sare Samba Cisse",
+    "wof:parent_id":1108691473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.28333,
+    13.33333,
+    -15.28333,
+    13.33333
+],
+  "geometry": {"coordinates":[-15.28333,13.33333],"type":"Point"}
+}

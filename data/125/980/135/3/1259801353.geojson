@@ -1,0 +1,67 @@
+{
+  "id": 1259801353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.35904,14.77248,-17.35904,14.77248",
+    "geom:latitude":14.77248,
+    "geom:longitude":-17.35904,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yeumbeul sud",
+    "gn:country_code":"SN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101619,
+    "gn:latitude":14.77248,
+    "gn:longitude":-17.35904,
+    "gn:modification_date":"2016-03-15",
+    "gn:name":"Yeumbeul sud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421193105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101619
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"47fde344a5b64fc8b238b53ee5caca17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421193105,
+            "locality_id":1259801353,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1259801353,
+    "wof:lastmodified":1536897360,
+    "wof:name":"Yeumbeul sud",
+    "wof:parent_id":421193105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.35904,
+    14.77248,
+    -17.35904,
+    14.77248
+],
+  "geometry": {"coordinates":[-17.35904,14.77248],"type":"Point"}
+}

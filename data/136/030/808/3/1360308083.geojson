@@ -1,0 +1,72 @@
+{
+  "id": 1360308083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.88333,13.55,-13.88333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-13.88333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fode Kounda",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251832,
+    "gn:latitude":13.55,
+    "gn:longitude":-13.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fod\u00e9 Kounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fod\u00e9 Kounde",
+        "Fod\u00e9 Kounda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251832
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5ca95ee8062aa2983d27aaa302922f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1360308083,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1360308083,
+    "wof:lastmodified":1537701111,
+    "wof:name":"Fode Kounda",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.88333,
+    13.55,
+    -13.88333,
+    13.55
+],
+  "geometry": {"coordinates":[-13.88333,13.55],"type":"Point"}
+}

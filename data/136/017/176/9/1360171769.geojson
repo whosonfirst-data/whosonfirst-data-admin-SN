@@ -1,0 +1,67 @@
+{
+  "id": 1360171769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.32444,13.16639,-16.32444,13.16639",
+    "geom:latitude":13.16639,
+    "geom:longitude":-16.32444,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karounor Narang",
+    "gn:country_code":"SN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571698,
+    "gn:latitude":13.16639,
+    "gn:longitude":-16.32444,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Karounor Narang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571698
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0e8152247406d84ba8203ab90a6b808a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422707,
+            "locality_id":1360171769,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1360171769,
+    "wof:lastmodified":1536819764,
+    "wof:name":"Karounor Narang",
+    "wof:parent_id":890422707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.32444,
+    13.16639,
+    -16.32444,
+    13.16639
+],
+  "geometry": {"coordinates":[-16.32444,13.16639],"type":"Point"}
+}

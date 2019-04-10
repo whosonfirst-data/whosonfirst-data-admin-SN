@@ -1,0 +1,67 @@
+{
+  "id": 1293461353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4949,12.5005,-12.4949,12.5005",
+    "geom:latitude":12.5005,
+    "geom:longitude":-12.4949,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dongol Nialbi",
+    "gn:country_code":"SN",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917786,
+    "gn:latitude":12.5005,
+    "gn:longitude":-12.4949,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Dongol Nialbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917786
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"36e1754011c7e24b50b716681a7258c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691463,
+            "locality_id":1293461353,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1293461353,
+    "wof:lastmodified":1536823988,
+    "wof:name":"Dongol Nialbi",
+    "wof:parent_id":1108691463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4949,
+    12.5005,
+    -12.4949,
+    12.5005
+],
+  "geometry": {"coordinates":[-12.4949,12.5005],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276204413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.35,13.13333,-14.35,13.13333",
+    "geom:latitude":13.13333,
+    "geom:longitude":-14.35,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sare Tening Mbalo",
+    "gn:country_code":"SN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245785,
+    "gn:latitude":13.13333,
+    "gn:longitude":-14.35,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sar\u00e9 T\u00e9ning Mbalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245785
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ed7c2e60ffec2f33d20ab87cc74f0b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691473,
+            "locality_id":1276204413,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1276204413,
+    "wof:lastmodified":1536951995,
+    "wof:name":"Sare Tening Mbalo",
+    "wof:parent_id":1108691473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.35,
+    13.13333,
+    -14.35,
+    13.13333
+],
+  "geometry": {"coordinates":[-14.35,13.13333],"type":"Point"}
+}

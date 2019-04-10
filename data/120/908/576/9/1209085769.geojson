@@ -1,0 +1,61 @@
+{
+  "id": 1209085769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.58333,15.43333,-16.58333,15.43333",
+    "geom:latitude":15.43333,
+    "geom:longitude":-16.58333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ndiavrigne Ndiaye",
+    "gn:country_code":"SN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247857,
+    "gn:latitude":15.43333,
+    "gn:longitude":-16.58333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ndiavrigne Ndiaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247857
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"db8aab2701afcd3d7adc1122aa6bbc69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209085769
+        }
+    ],
+    "wof:id":1209085769,
+    "wof:lastmodified":1536298192,
+    "wof:name":"Ndiavrigne Ndiaye",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.58333,
+    15.433329999999998,
+    -16.58333,
+    15.433329999999998
+],
+  "geometry": {"coordinates":[-16.58333,15.43333],"type":"Point"}
+}

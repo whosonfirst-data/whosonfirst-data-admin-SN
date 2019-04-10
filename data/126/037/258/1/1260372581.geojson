@@ -1,0 +1,71 @@
+{
+  "id": 1260372581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.68333,14.18333,-14.68333,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":-14.68333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Koura Mouride",
+    "gn:country_code":"SN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249533,
+    "gn:latitude":14.18333,
+    "gn:longitude":-14.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koura Mouride",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koura Mourid",
+        "Koura Mouride"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        421166855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249533
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0395b2ad530bd465a9a4b585aba731e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421166855,
+            "locality_id":1260372581,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1260372581,
+    "wof:lastmodified":1537701065,
+    "wof:name":"Koura Mouride",
+    "wof:parent_id":421166855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.68333,
+    14.18333,
+    -14.68333,
+    14.18333
+],
+  "geometry": {"coordinates":[-14.68333,14.18333],"type":"Point"}
+}

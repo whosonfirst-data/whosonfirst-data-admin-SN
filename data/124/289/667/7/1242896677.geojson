@@ -1,0 +1,73 @@
+{
+  "id": 1242896677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.46667,13.6,-14.46667,13.6",
+    "geom:latitude":13.6,
+    "geom:longitude":-14.46667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koussalang",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249494,
+    "gn:latitude":13.6,
+    "gn:longitude":-14.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koussalang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koussalan",
+        "Koussalana",
+        "Koussalang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249494
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c490b064514f8aecc9c7c0e2f178e0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691483,
+            "locality_id":1242896677,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1242896677,
+    "wof:lastmodified":1537701064,
+    "wof:name":"Koussalang",
+    "wof:parent_id":1108691483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.46667,
+    13.6,
+    -14.46667,
+    13.6
+],
+  "geometry": {"coordinates":[-14.46667,13.6],"type":"Point"}
+}

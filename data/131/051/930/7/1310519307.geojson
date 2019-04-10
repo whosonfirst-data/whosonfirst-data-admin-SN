@@ -1,0 +1,71 @@
+{
+  "id": 1310519307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.17561,14.64163,-17.17561,14.64163",
+    "geom:latitude":14.64163,
+    "geom:longitude":-17.17561,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yene",
+    "gn:country_code":"SN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595605,
+    "gn:latitude":14.64163,
+    "gn:longitude":-17.17561,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Y\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00e8ne",
+        "Y\u00e8ne Gu\u00e8dj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595605
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"bd6ca8554d1aa6f4498e7bb5a424463f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187963,
+            "locality_id":1310519307,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1310519307,
+    "wof:lastmodified":1537701169,
+    "wof:name":"Yene",
+    "wof:parent_id":421187963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.17561,
+    14.64163,
+    -17.17561,
+    14.64163
+],
+  "geometry": {"coordinates":[-17.17561,14.64163],"type":"Point"}
+}

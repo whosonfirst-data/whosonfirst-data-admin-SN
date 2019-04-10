@@ -1,0 +1,74 @@
+{
+  "id": 1276521379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.72659,16.14582,-13.72659,16.14582",
+    "geom:latitude":16.14582,
+    "geom:longitude":-13.72659,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sintiou Amadou Mariama",
+    "gn:country_code":"SN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245435,
+    "gn:latitude":16.14582,
+    "gn:longitude":-13.72659,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sintiou Amadou Mariama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinthiou Amadou Melram",
+        "Sintiou Amadi M\u00e9riam",
+        "Sintiou Amadi",
+        "Sintiou Amadi Maram",
+        "Sintiou Amadou Mariama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245435
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"08d1d3a2da7336c63f654521bb0400d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1276521379,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1276521379,
+    "wof:lastmodified":1537700986,
+    "wof:name":"Sintiou Amadou Mariama",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.72659,
+    16.14582,
+    -13.72659,
+    16.14582
+],
+  "geometry": {"coordinates":[-13.72659,16.14582],"type":"Point"}
+}

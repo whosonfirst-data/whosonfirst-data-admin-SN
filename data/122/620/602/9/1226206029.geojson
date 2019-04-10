@@ -1,0 +1,67 @@
+{
+  "id": 1226206029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.3174,12.5283,-12.3174,12.5283",
+    "geom:latitude":12.5283,
+    "geom:longitude":-12.3174,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bandafassi Tenda",
+    "gn:country_code":"SN",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917790,
+    "gn:latitude":12.5283,
+    "gn:longitude":-12.3174,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Bandafassi Tenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917790
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"be2315dc64d68be54e8a4559539cba0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691463,
+            "locality_id":1226206029,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1226206029,
+    "wof:lastmodified":1536990164,
+    "wof:name":"Bandafassi Tenda",
+    "wof:parent_id":1108691463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.3174,
+    12.5283,
+    -12.3174,
+    12.5283
+],
+  "geometry": {"coordinates":[-12.3174,12.5283],"type":"Point"}
+}

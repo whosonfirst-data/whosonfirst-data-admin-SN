@@ -1,0 +1,67 @@
+{
+  "id": 1360061855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.3341,15.2882,-15.3341,15.2882",
+    "geom:latitude":15.2882,
+    "geom:longitude":-15.3341,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gueto",
+    "gn:country_code":"SN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251275,
+    "gn:latitude":15.2882,
+    "gn:longitude":-15.3341,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Gu\u00e8to",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251275
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"bd6d2fd01f18d572edb20839303585f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1360061855,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1360061855,
+    "wof:lastmodified":1536978667,
+    "wof:name":"Gueto",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.3341,
+    15.2882,
+    -15.3341,
+    15.2882
+],
+  "geometry": {"coordinates":[-15.3341,15.2882],"type":"Point"}
+}

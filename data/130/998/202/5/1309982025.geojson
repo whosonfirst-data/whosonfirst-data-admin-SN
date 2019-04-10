@@ -1,0 +1,67 @@
+{
+  "id": 1309982025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.63111,12.56583,-15.63111,12.56583",
+    "geom:latitude":12.56583,
+    "geom:longitude":-15.63111,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Massaria",
+    "gn:country_code":"SN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248760,
+    "gn:latitude":12.56583,
+    "gn:longitude":-15.63111,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Massaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248760
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e58427b5f56c8975879f6134efab7df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1309982025,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1309982025,
+    "wof:lastmodified":1536677204,
+    "wof:name":"Massaria",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.63111,
+    12.56583,
+    -15.63111,
+    12.56583
+],
+  "geometry": {"coordinates":[-15.63111,12.56583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310002933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.11363,14.69821,-17.11363,14.69821",
+    "geom:latitude":14.69821,
+    "geom:longitude":-17.11363,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tankoye",
+    "gn:country_code":"SN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595582,
+    "gn:latitude":14.69821,
+    "gn:longitude":-17.11363,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Tankoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595582
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"77a6fcd14bd44085bd4a8d29cdd527d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1310002933,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1310002933,
+    "wof:lastmodified":1536646609,
+    "wof:name":"Tankoye",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.11363,
+    14.69821,
+    -17.11363,
+    14.69821
+],
+  "geometry": {"coordinates":[-17.11363,14.69821],"type":"Point"}
+}

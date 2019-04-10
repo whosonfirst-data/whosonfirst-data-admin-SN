@@ -1,0 +1,73 @@
+{
+  "id": 1209899737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.38198,16.14547,-16.38198,16.14547",
+    "geom:latitude":16.14547,
+    "geom:longitude":-16.38198,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mberaye",
+    "gn:country_code":"SN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248572,
+    "gn:latitude":16.14547,
+    "gn:longitude":-16.38198,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mb\u00e9raye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beraye",
+        "N\u2019Beraye",
+        "Mb\u00e9gaye",
+        "Mb\u00e9raye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248572
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a2c06f69f9777fdf8c7895445332ad29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1209899737,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1209899737,
+    "wof:lastmodified":1537701048,
+    "wof:name":"Mberaye",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.38198,
+    16.14547,
+    -16.38198,
+    16.14547
+],
+  "geometry": {"coordinates":[-16.38198,16.14547],"type":"Point"}
+}

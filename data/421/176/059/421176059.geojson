@@ -1,0 +1,79 @@
+{
+  "id": 421176059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.4999,15.8812,-16.4999,15.8812",
+    "geom:latitude":15.8812,
+    "geom:longitude":-16.4999,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ndi\u00e9ben"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2247807,
+    "qs:gn_pop":0,
+    "qs:name":"Ndi\u00e9b\u00e8ne",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"St.-Louis",
+    "qs:photos":43,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1040905,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1416027,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247807,
+        "gp:id":1416027,
+        "qs:id":1040905
+    },
+    "wof:country":"SN",
+    "wof:created":1459009088,
+    "wof:geomhash":"69196330ef78e2e8bc6ce8e0f0036a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691511,
+            "locality_id":421176059,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":421176059,
+    "wof:lastmodified":1501262030,
+    "wof:name":"Ndi\u00e9b\u00e8ne",
+    "wof:parent_id":1108691511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.4999,
+    15.8812,
+    -16.4999,
+    15.8812
+],
+  "geometry": {"coordinates":[-16.4999,15.8812],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209202699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.85,13.06667,-14.85,13.06667",
+    "geom:latitude":13.06667,
+    "geom:longitude":-14.85,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Belimaounde",
+    "gn:country_code":"SN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253982,
+    "gn:latitude":13.06667,
+    "gn:longitude":-14.85,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"B\u00e9limaound\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253982
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"882413e31eaac4cfe8652f1d2f1513f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209202699
+        }
+    ],
+    "wof:id":1209202699,
+    "wof:lastmodified":1536294555,
+    "wof:name":"Belimaounde",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.85,
+    13.06667,
+    -14.85,
+    13.06667
+],
+  "geometry": {"coordinates":[-14.85,13.06667],"type":"Point"}
+}

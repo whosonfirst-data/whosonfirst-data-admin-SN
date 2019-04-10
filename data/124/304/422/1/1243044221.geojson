@@ -1,0 +1,67 @@
+{
+  "id": 1243044221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.88333,12.98333,-11.88333,12.98333",
+    "geom:latitude":12.98333,
+    "geom:longitude":-11.88333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Oulogore",
+    "gn:country_code":"SN",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247000,
+    "gn:latitude":12.98333,
+    "gn:longitude":-11.88333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Oulogor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247000
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0d7d908511dc024409a858635659d1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1243044221,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1243044221,
+    "wof:lastmodified":1536888005,
+    "wof:name":"Oulogore",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.88333,
+    12.98333,
+    -11.88333,
+    12.98333
+],
+  "geometry": {"coordinates":[-11.88333,12.98333],"type":"Point"}
+}

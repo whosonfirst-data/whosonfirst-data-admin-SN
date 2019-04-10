@@ -1,0 +1,67 @@
+{
+  "id": 1292987231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8731,15.0434,-15.8731,15.0434",
+    "geom:latitude":15.0434,
+    "geom:longitude":-15.8731,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taif Diop",
+    "gn:country_code":"SN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245036,
+    "gn:latitude":15.0434,
+    "gn:longitude":-15.8731,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Ta\u00eff Diop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245036
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"fe04100ec950d7bdb5375f8f54117091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1292987231,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1292987231,
+    "wof:lastmodified":1537010544,
+    "wof:name":"Taif Diop",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8731,
+    15.0434,
+    -15.8731,
+    15.0434
+],
+  "geometry": {"coordinates":[-15.8731,15.0434],"type":"Point"}
+}

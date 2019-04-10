@@ -1,0 +1,101 @@
+{
+  "id": 421169935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.64706,16.51293,-14.64706,16.51293",
+    "geom:latitude":16.51293,
+    "geom:longitude":-14.64706,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ndioum"
+    ],
+    "name:eng_x_preferred":[
+        "Ndioum"
+    ],
+    "name:fre_x_preferred":[
+        "Ndioum"
+    ],
+    "name:pol_x_preferred":[
+        "Ndioum"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0434\u0438\u0443\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Ndioum"
+    ],
+    "name:unk_x_variant":[
+        "Ndioum-Oualo"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2247684,
+    "qs:gn_pop":13198,
+    "qs:name":"Ndioum",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"St.-Louis",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":780524,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1416126,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247684,
+        "gp:id":1416126,
+        "qs:id":780524,
+        "wd:id":"Q3337485"
+    },
+    "wof:country":"SN",
+    "wof:created":1459008830,
+    "wof:geomhash":"f4eeaee4b2a949aa283ecbef74e2516f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":421169935,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":421169935,
+    "wof:lastmodified":1514505484,
+    "wof:name":"Ndioum",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:population":13198,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.64706,
+    16.51293,
+    -14.64706,
+    16.51293
+],
+  "geometry": {"coordinates":[-14.64706,16.51293],"type":"Point"}
+}

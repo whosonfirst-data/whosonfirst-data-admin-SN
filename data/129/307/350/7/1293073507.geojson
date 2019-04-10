@@ -1,0 +1,71 @@
+{
+  "id": 1293073507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.13333,13.96667,-15.13333,13.96667",
+    "geom:latitude":13.96667,
+    "geom:longitude":-15.13333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ainoumal",
+    "gn:country_code":"SN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254738,
+    "gn:latitude":13.96667,
+    "gn:longitude":-15.13333,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"A\u00efnoumal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efnoumal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        421166855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254738,
+        "wk:page":"A%C3%AFnoumal"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3ea8bba5b64f7a17ee2889dbda996e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421166855,
+            "locality_id":1293073507,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1293073507,
+    "wof:lastmodified":1537701165,
+    "wof:name":"Ainoumal",
+    "wof:parent_id":421166855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.13333,
+    13.96667,
+    -15.13333,
+    13.96667
+],
+  "geometry": {"coordinates":[-15.13333,13.96667],"type":"Point"}
+}

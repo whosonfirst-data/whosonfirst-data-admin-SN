@@ -1,0 +1,67 @@
+{
+  "id": 1326618313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.10917,12.95389,-15.10917,12.95389",
+    "geom:latitude":12.95389,
+    "geom:longitude":-15.10917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dieminguike",
+    "gn:country_code":"SN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252562,
+    "gn:latitude":12.95389,
+    "gn:longitude":-15.10917,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Dieminguik\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252562
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3d5c05b451163f9756f0abb45de0bb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1326618313,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1326618313,
+    "wof:lastmodified":1536858630,
+    "wof:name":"Dieminguike",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.10917,
+    12.95389,
+    -15.10917,
+    12.95389
+],
+  "geometry": {"coordinates":[-15.10917,12.95389],"type":"Point"}
+}

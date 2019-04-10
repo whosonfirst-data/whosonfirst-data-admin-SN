@@ -1,0 +1,72 @@
+{
+  "id": 1326524629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.12899,14.66405,-17.12899,14.66405",
+    "geom:latitude":14.66405,
+    "geom:longitude":-17.12899,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mbouroukh Serer",
+    "gn:country_code":"SN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248472,
+    "gn:latitude":14.66405,
+    "gn:longitude":-17.12899,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Mbouroukh S\u00e9r\u00e8r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbourou",
+        "Mbouroukh S\u00e9r\u00e8re",
+        "Mbouroukh S\u00e9r\u00e8r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421185475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248472
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"925fdb67126d07fc198dd518d3ea31e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421185475,
+            "locality_id":1326524629,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1326524629,
+    "wof:lastmodified":1537701044,
+    "wof:name":"Mbouroukh Serer",
+    "wof:parent_id":421185475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.12899,
+    14.66405,
+    -17.12899,
+    14.66405
+],
+  "geometry": {"coordinates":[-17.12899,14.66405],"type":"Point"}
+}

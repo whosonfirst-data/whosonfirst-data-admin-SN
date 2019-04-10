@@ -1,0 +1,67 @@
+{
+  "id": 1259387435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.45634,14.30602,-12.45634,14.30602",
+    "geom:latitude":14.30602,
+    "geom:longitude":-12.45634,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gailbandoa",
+    "gn:country_code":"SN",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251741,
+    "gn:latitude":14.30602,
+    "gn:longitude":-12.45634,
+    "gn:modification_date":"2007-09-17",
+    "gn:name":"Gailbandoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251741
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ec4cdd6d6eadadb7e88c5f70fdfb2de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1259387435,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1259387435,
+    "wof:lastmodified":1536995715,
+    "wof:name":"Gailbandoa",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.45634,
+    14.30602,
+    -12.45634,
+    14.30602
+],
+  "geometry": {"coordinates":[-12.45634,14.30602],"type":"Point"}
+}

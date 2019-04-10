@@ -1,0 +1,74 @@
+{
+  "id": 1193255529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.75444,12.53444,-16.75444,12.53444",
+    "geom:latitude":12.53444,
+    "geom:longitude":-16.75444,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nyikine",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247115,
+    "gn:latitude":12.53444,
+    "gn:longitude":-16.75444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nyikine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gn\u00e9kin",
+        "Nikine",
+        "Nyikine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421187971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247115,
+        "wk:page":"Nikine"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9878aad6be94d9784220fb4778e53aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187971,
+            "locality_id":1193255529,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1193255529,
+    "wof:lastmodified":1537701012,
+    "wof:name":"Nyikine",
+    "wof:parent_id":421187971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.75444,
+    12.53444,
+    -16.75444,
+    12.53444
+],
+  "geometry": {"coordinates":[-16.75444,12.53444],"type":"Point"}
+}

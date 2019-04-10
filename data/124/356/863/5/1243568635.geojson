@@ -1,0 +1,72 @@
+{
+  "id": 1243568635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.18041,14.73428,-17.18041,14.73428",
+    "geom:latitude":14.73428,
+    "geom:longitude":-17.18041,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Deni Demba Codou",
+    "gn:country_code":"SN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595642,
+    "gn:latitude":14.73428,
+    "gn:longitude":-17.18041,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Deni Demba Codou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thierigne",
+        "D\u00e8ni Demba Kodou",
+        "Deni Demba Codou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595642
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"58cfa322c15e19c73ccf97ac83c564fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187963,
+            "locality_id":1243568635,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1243568635,
+    "wof:lastmodified":1537701169,
+    "wof:name":"Deni Demba Codou",
+    "wof:parent_id":421187963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.18041,
+    14.73428,
+    -17.18041,
+    14.73428
+],
+  "geometry": {"coordinates":[-17.18041,14.73428],"type":"Point"}
+}

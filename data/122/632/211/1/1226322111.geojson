@@ -1,0 +1,67 @@
+{
+  "id": 1226322111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9379,15.1231,-15.9379,15.1231",
+    "geom:latitude":15.1231,
+    "geom:longitude":-15.9379,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Massara",
+    "gn:country_code":"SN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917520,
+    "gn:latitude":15.1231,
+    "gn:longitude":-15.9379,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Massara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917520
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"05bdd461bd4b6544cd9a7cb7a2f8c812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1226322111,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1226322111,
+    "wof:lastmodified":1536822724,
+    "wof:name":"Massara",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.9379,
+    15.1231,
+    -15.9379,
+    15.1231
+],
+  "geometry": {"coordinates":[-15.9379,15.1231],"type":"Point"}
+}

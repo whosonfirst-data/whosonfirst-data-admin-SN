@@ -1,0 +1,71 @@
+{
+  "id": 1225815719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.51565,16.08351,-13.51565,16.08351",
+    "geom:latitude":16.08351,
+    "geom:longitude":-13.51565,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ganki Doumbodje",
+    "gn:country_code":"SN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251665,
+    "gn:latitude":16.08351,
+    "gn:longitude":-13.51565,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ganki Doumbodj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganki Doumbodji\u00e9",
+        "Ganki Doumbodj\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251665
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9fa6cfb0606c959f6417fb287cd95251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1225815719,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1225815719,
+    "wof:lastmodified":1537701107,
+    "wof:name":"Ganki Doumbodje",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.51565,
+    16.08351,
+    -13.51565,
+    16.08351
+],
+  "geometry": {"coordinates":[-13.51565,16.08351],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276427307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.4915,15.414,-15.4915,15.414",
+    "geom:latitude":15.414,
+    "geom:longitude":-15.4915,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gouye Teude",
+    "gn:country_code":"SN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251345,
+    "gn:latitude":15.414,
+    "gn:longitude":-15.4915,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gouye Teude",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngouye T\u00e9d\u00e9",
+        "Gouye T\u00e9d\u00e9",
+        "Gouye Teude"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251345
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0bd263d7c2ee237a27920884607b3c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1276427307,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1276427307,
+    "wof:lastmodified":1537701099,
+    "wof:name":"Gouye Teude",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.4915,
+    15.414,
+    -15.4915,
+    15.414
+],
+  "geometry": {"coordinates":[-15.4915,15.414],"type":"Point"}
+}

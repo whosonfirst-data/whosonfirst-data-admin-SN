@@ -1,0 +1,67 @@
+{
+  "id": 1343443135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.93333,14.1,-14.93333,14.1",
+    "geom:latitude":14.1,
+    "geom:longitude":-14.93333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sinntiou Nguerane",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245488,
+    "gn:latitude":14.1,
+    "gn:longitude":-14.93333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sinntiou Ngu\u00e9rane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        421166855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245488
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"6748ffb5efefe37e1b056afd0ab41019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421166855,
+            "locality_id":1343443135,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1343443135,
+    "wof:lastmodified":1536771829,
+    "wof:name":"Sinntiou Nguerane",
+    "wof:parent_id":421166855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.93333,
+    14.1,
+    -14.93333,
+    14.1
+],
+  "geometry": {"coordinates":[-14.93333,14.1],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 890432159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.54374,15.02196,-12.54374,15.02196",
+    "geom:latitude":15.02196,
+    "geom:longitude":-12.54374,
+    "gn:country":"SN",
+    "gn:fcode":"PPL",
+    "gn:pop":8112,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Diawara"
+    ],
+    "name:eng_x_preferred":[
+        "Diawara"
+    ],
+    "name:fre_x_preferred":[
+        "Diawara"
+    ],
+    "name:pol_x_preferred":[
+        "Diawara"
+    ],
+    "name:swe_x_preferred":[
+        "Diawara"
+    ],
+    "name:unk_x_variant":[
+        "Diawora"
+    ],
+    "qs:name":"Diawara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":207,
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252606,
+        "gp:id":1412496,
+        "qs:id":278318,
+        "wd:id":"Q3026446",
+        "wk:page":"Diawara"
+    },
+    "wof:country":"SN",
+    "wof:created":1469051930,
+    "wof:geomhash":"92362e28706044ac086eca82a4b094af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":890432159,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":890432159,
+    "wof:lastmodified":1527793032,
+    "wof:name":"Diawara",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:population":8112,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.54374,
+    15.02196,
+    -12.54374,
+    15.02196
+],
+  "geometry": {"coordinates":[-12.54374,15.02196],"type":"Point"}
+}

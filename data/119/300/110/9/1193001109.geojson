@@ -1,0 +1,67 @@
+{
+  "id": 1193001109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.96632,15.45593,-12.96632,15.45593",
+    "geom:latitude":15.45593,
+    "geom:longitude":-12.96632,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bapalel Koliabe",
+    "gn:country_code":"SN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254194,
+    "gn:latitude":15.45593,
+    "gn:longitude":-12.96632,
+    "gn:modification_date":"2007-11-13",
+    "gn:name":"Bapalel Koliab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254194
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d2569f938ec4edc13bf132c1d5c050ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1193001109,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1193001109,
+    "wof:lastmodified":1536370532,
+    "wof:name":"Bapalel Koliabe",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.96632,
+    15.45593,
+    -12.96632,
+    15.45593
+],
+  "geometry": {"coordinates":[-12.96632,15.45593],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310191635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.0265,15.4033,-16.0265,15.4033",
+    "geom:latitude":15.4033,
+    "geom:longitude":-16.0265,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ngaye Ndiaye",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247480,
+    "gn:latitude":15.4033,
+    "gn:longitude":-16.0265,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngaye Ndiaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngaye Diaye",
+        "Ngaye Ndiaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247480
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4ea9f1636b5215a4d2f9af57ff3e8e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1310191635,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1310191635,
+    "wof:lastmodified":1537701021,
+    "wof:name":"Ngaye Ndiaye",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.0265,
+    15.4033,
+    -16.0265,
+    15.4033
+],
+  "geometry": {"coordinates":[-16.0265,15.4033],"type":"Point"}
+}

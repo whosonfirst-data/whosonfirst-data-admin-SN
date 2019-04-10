@@ -1,0 +1,72 @@
+{
+  "id": 1276569183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.33333,14.25,-16.33333,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":-16.33333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Keur Bakari Toure",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250477,
+    "gn:latitude":14.25,
+    "gn:longitude":-16.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Keur Bakari Tour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keur Bakary Tour\u00e9",
+        "Keur Bakari Tour\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677011,
+        421181825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250477
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ca0094e4dfeac5e58df0afefd02b95fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421181825,
+            "locality_id":1276569183,
+            "region_id":85677011
+        }
+    ],
+    "wof:id":1276569183,
+    "wof:lastmodified":1537701082,
+    "wof:name":"Keur Bakari Toure",
+    "wof:parent_id":421181825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.33333,
+    14.25,
+    -16.33333,
+    14.25
+],
+  "geometry": {"coordinates":[-16.33333,14.25],"type":"Point"}
+}

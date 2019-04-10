@@ -1,0 +1,67 @@
+{
+  "id": 1276526123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.005,12.89583,-15.005,12.89583",
+    "geom:latitude":12.89583,
+    "geom:longitude":-15.005,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sare Sounkarou",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245791,
+    "gn:latitude":12.89583,
+    "gn:longitude":-15.005,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sar\u00e9 Sounkarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245791
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"47de1f1459cf7c94b581c8d71f1ab42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1276526123,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1276526123,
+    "wof:lastmodified":1537017019,
+    "wof:name":"Sare Sounkarou",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.005,
+    12.89583,
+    -15.005,
+    12.89583
+],
+  "geometry": {"coordinates":[-15.005,12.89583],"type":"Point"}
+}

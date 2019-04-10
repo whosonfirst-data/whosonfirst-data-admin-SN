@@ -1,0 +1,71 @@
+{
+  "id": 1242975593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.61112,14.17774,-12.61112,14.17774",
+    "geom:latitude":14.17774,
+    "geom:longitude":-12.61112,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sintiou Maka",
+    "gn:country_code":"SN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245349,
+    "gn:latitude":14.17774,
+    "gn:longitude":-12.61112,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sintiou Maka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinntiou Maka",
+        "Sintiou Maka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245349
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c75a6e519762f395b759b02188b25bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1242975593,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1242975593,
+    "wof:lastmodified":1537700980,
+    "wof:name":"Sintiou Maka",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.61112,
+    14.17774,
+    -12.61112,
+    14.17774
+],
+  "geometry": {"coordinates":[-12.61112,14.17774],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310388241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.01617,15.28396,-13.01617,15.28396",
+    "geom:latitude":15.28396,
+    "geom:longitude":-13.01617,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Wali Diallo",
+    "gn:country_code":"SN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247058,
+    "gn:latitude":15.28396,
+    "gn:longitude":-13.01617,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wali Diallo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouali Diala",
+        "Wali Diallo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247058
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2efb7163f4dc09432092599c7f5010fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1310388241,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1310388241,
+    "wof:lastmodified":1537701011,
+    "wof:name":"Wali Diallo",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.01617,
+    15.28396,
+    -13.01617,
+    15.28396
+],
+  "geometry": {"coordinates":[-13.01617,15.28396],"type":"Point"}
+}

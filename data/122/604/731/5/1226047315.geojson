@@ -1,0 +1,67 @@
+{
+  "id": 1226047315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.48333,13.65,-13.48333,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-13.48333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Makayaya",
+    "gn:country_code":"SN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248938,
+    "gn:latitude":13.65,
+    "gn:longitude":-13.48333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Makayaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248938
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"1fe7c5b241c98f0810b1fbbb45023f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1226047315,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1226047315,
+    "wof:lastmodified":1536723226,
+    "wof:name":"Makayaya",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.48333,
+    13.65,
+    -13.48333,
+    13.65
+],
+  "geometry": {"coordinates":[-13.48333,13.65],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226420675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.03139,12.93472,-15.03139,12.93472",
+    "geom:latitude":12.93472,
+    "geom:longitude":-15.03139,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sare Samba Diaba",
+    "gn:country_code":"SN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245848,
+    "gn:latitude":12.93472,
+    "gn:longitude":-15.03139,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sar\u00e9 Samba Diaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245848
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e0a2321f4e04f843022908385fc2f8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1226420675,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1226420675,
+    "wof:lastmodified":1536681618,
+    "wof:name":"Sare Samba Diaba",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.03139,
+    12.93472,
+    -15.03139,
+    12.93472
+],
+  "geometry": {"coordinates":[-15.03139,12.93472],"type":"Point"}
+}

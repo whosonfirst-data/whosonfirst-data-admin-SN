@@ -1,0 +1,67 @@
+{
+  "id": 1293407805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.19803,14.86777,-17.19803,14.86777",
+    "geom:latitude":14.86777,
+    "geom:longitude":-17.19803,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Deni Guedj",
+    "gn:country_code":"SN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595860,
+    "gn:latitude":14.86777,
+    "gn:longitude":-17.19803,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"D\u00e8ni Gu\u00e8dj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595860
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3de28046799319e9af398566c593af5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187963,
+            "locality_id":1293407805,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1293407805,
+    "wof:lastmodified":1536902006,
+    "wof:name":"Deni Guedj",
+    "wof:parent_id":421187963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.19803,
+    14.86777,
+    -17.19803,
+    14.86777
+],
+  "geometry": {"coordinates":[-17.19803,14.86777],"type":"Point"}
+}

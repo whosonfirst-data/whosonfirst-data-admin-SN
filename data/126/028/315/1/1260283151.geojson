@@ -1,0 +1,67 @@
+{
+  "id": 1260283151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.0474,13.54221,-12.0474,13.54221",
+    "geom:latitude":13.54221,
+    "geom:longitude":-12.0474,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Leoba",
+    "gn:country_code":"SN",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249326,
+    "gn:latitude":13.54221,
+    "gn:longitude":-12.0474,
+    "gn:modification_date":"2008-04-14",
+    "gn:name":"L\u00e9oba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249326
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"45fa873b9a33a28d5a49a130ed1a76ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1260283151,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1260283151,
+    "wof:lastmodified":1536712692,
+    "wof:name":"Leoba",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.0474,
+    13.54221,
+    -12.0474,
+    13.54221
+],
+  "geometry": {"coordinates":[-12.0474,13.54221],"type":"Point"}
+}

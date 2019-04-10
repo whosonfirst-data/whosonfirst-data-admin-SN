@@ -1,0 +1,80 @@
+{
+  "id": 421185109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.45837,14.68122,-17.45837,14.68122",
+    "geom:latitude":14.68122,
+    "geom:longitude":-17.45837,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Gueule Tap\u00e9e-Fass-Colobane"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2251274,
+    "qs:gn_pop":0,
+    "qs:name":"Gueule Tap\u00e9e",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Dakar",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1018261,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1413468,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        421187965,
+        85676997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251274,
+        "gp:id":1413468,
+        "qs:id":1018261
+    },
+    "wof:country":"SN",
+    "wof:created":1459009432,
+    "wof:geomhash":"1a21b20b1f9f1e4133d1660ce9a98d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187965,
+            "locality_id":-1,
+            "neighbourhood_id":421185109,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":421185109,
+    "wof:lastmodified":1531858563,
+    "wof:name":"Gueule Tap\u00e9e",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.45837,
+    14.68122,
+    -17.45837,
+    14.68122
+],
+  "geometry": {"coordinates":[-17.45837,14.68122],"type":"Point"}
+}

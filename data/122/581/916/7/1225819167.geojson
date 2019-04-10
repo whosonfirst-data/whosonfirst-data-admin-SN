@@ -1,0 +1,67 @@
+{
+  "id": 1225819167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.12556,16.04333,-16.12556,16.04333",
+    "geom:latitude":16.04333,
+    "geom:longitude":-16.12556,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kaniene",
+    "gn:country_code":"SN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250829,
+    "gn:latitude":16.04333,
+    "gn:longitude":-16.12556,
+    "gn:modification_date":"2007-06-08",
+    "gn:name":"Kani\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250829
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5fa82b8e6b634a323f74088a96637fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1225819167,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1225819167,
+    "wof:lastmodified":1537049990,
+    "wof:name":"Kaniene",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.12556,
+    16.04332999999999,
+    -16.12556,
+    16.04332999999999
+],
+  "geometry": {"coordinates":[-16.12556,16.04332999999999],"type":"Point"}
+}

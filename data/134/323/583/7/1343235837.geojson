@@ -1,0 +1,71 @@
+{
+  "id": 1343235837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.70311,16.00638,-13.70311,16.00638",
+    "geom:latitude":16.00638,
+    "geom:longitude":-13.70311,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ouro Molo",
+    "gn:country_code":"SN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246936,
+    "gn:latitude":16.00638,
+    "gn:longitude":-13.70311,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ouro M\u00f4lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouro Mollo",
+        "Ouro M\u00f4lo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246936
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ea573555a862f961980b1e4da91d3376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1343235837,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1343235837,
+    "wof:lastmodified":1537701009,
+    "wof:name":"Ouro Molo",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.70311,
+    16.00638,
+    -13.70311,
+    16.00638
+],
+  "geometry": {"coordinates":[-13.70311,16.00638],"type":"Point"}
+}

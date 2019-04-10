@@ -1,0 +1,67 @@
+{
+  "id": 1259850973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.2,15.05,-16.2,15.05",
+    "geom:latitude":15.05,
+    "geom:longitude":-16.2,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Toure",
+    "gn:country_code":"SN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244217,
+    "gn:latitude":15.05,
+    "gn:longitude":-16.2,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244217
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4dfc5c2cebbb3dec56f658201648d63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1259850973,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1259850973,
+    "wof:lastmodified":1536825167,
+    "wof:name":"Toure",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.2,
+    15.05,
+    -16.2,
+    15.05
+],
+  "geometry": {"coordinates":[-16.2,15.05],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209300835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.6,15.38333,-16.6,15.38333",
+    "geom:latitude":15.38333,
+    "geom:longitude":-16.6,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Makali",
+    "gn:country_code":"SN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248951,
+    "gn:latitude":15.38333,
+    "gn:longitude":-16.6,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Makali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248951
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8b8a982d9417b23c72527355dca9d13c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209300835
+        }
+    ],
+    "wof:id":1209300835,
+    "wof:lastmodified":1536291364,
+    "wof:name":"Makali",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.6,
+    15.38333,
+    -16.6,
+    15.38333
+],
+  "geometry": {"coordinates":[-16.6,15.38333],"type":"Point"}
+}

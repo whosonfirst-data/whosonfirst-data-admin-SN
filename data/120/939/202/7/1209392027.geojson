@@ -1,0 +1,66 @@
+{
+  "id": 1209392027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.40417,12.47056,-16.40417,12.47056",
+    "geom:latitude":12.47056,
+    "geom:longitude":-16.40417,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bafikane",
+    "gn:country_code":"SN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254508,
+    "gn:latitude":12.47056,
+    "gn:longitude":-16.40417,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Bafikane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bafican",
+        "Bafikane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254508,
+        "wk:page":"Bafican"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"99ad7cb4116015603e3e9f90657f40d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209392027
+        }
+    ],
+    "wof:id":1209392027,
+    "wof:lastmodified":1537701161,
+    "wof:name":"Bafikane",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.40417,
+    12.47056,
+    -16.40417,
+    12.47056
+],
+  "geometry": {"coordinates":[-16.40417,12.47056],"type":"Point"}
+}

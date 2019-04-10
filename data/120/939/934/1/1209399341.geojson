@@ -1,0 +1,66 @@
+{
+  "id": 1209399341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.45,14.46667,-16.45,14.46667",
+    "geom:latitude":14.46667,
+    "geom:longitude":-16.45,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Binandar",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253888,
+    "gn:latitude":14.46667,
+    "gn:longitude":-16.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Binandar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binouneder",
+        "Binandar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253888
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"179b010b9c153bd0abbae71d3f8a7ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209399341
+        }
+    ],
+    "wof:id":1209399341,
+    "wof:lastmodified":1537701149,
+    "wof:name":"Binandar",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.45,
+    14.46667,
+    -16.45,
+    14.46667
+],
+  "geometry": {"coordinates":[-16.45,14.46667],"type":"Point"}
+}

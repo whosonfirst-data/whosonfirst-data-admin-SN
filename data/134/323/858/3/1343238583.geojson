@@ -1,0 +1,67 @@
+{
+  "id": 1343238583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.4005,15.4525,-15.4005,15.4525",
+    "geom:latitude":15.4525,
+    "geom:longitude":-15.4005,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Belel Bandia",
+    "gn:country_code":"SN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254039,
+    "gn:latitude":15.4525,
+    "gn:longitude":-15.4005,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"B\u00e9lel Bandia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254039
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c7914e66fe8fb1ae8f2b3aa9e4bad3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1343238583,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1343238583,
+    "wof:lastmodified":1537063790,
+    "wof:name":"Belel Bandia",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.4005,
+    15.4525,
+    -15.4005,
+    15.4525
+],
+  "geometry": {"coordinates":[-15.4005,15.4525],"type":"Point"}
+}

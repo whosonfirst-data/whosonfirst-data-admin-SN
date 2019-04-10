@@ -1,0 +1,67 @@
+{
+  "id": 1276216531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.7,14.61667,-15.7,14.61667",
+    "geom:latitude":14.61667,
+    "geom:longitude":-15.7,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mbene",
+    "gn:country_code":"SN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248578,
+    "gn:latitude":14.61667,
+    "gn:longitude":-15.7,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Mb\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        1108691491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248578
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"cc7ee89103e10f3bf385dcf04ba69727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691491,
+            "locality_id":1276216531,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":1276216531,
+    "wof:lastmodified":1536936308,
+    "wof:name":"Mbene",
+    "wof:parent_id":1108691491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.7,
+    14.61667,
+    -15.7,
+    14.61667
+],
+  "geometry": {"coordinates":[-15.7,14.61667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243327147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.72162,12.85654,-11.72162,12.85654",
+    "geom:latitude":12.85654,
+    "geom:longitude":-11.72162,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sekhoto",
+    "gn:country_code":"SN",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658542,
+    "gn:latitude":12.85654,
+    "gn:longitude":-11.72162,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"S\u00e9khoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658542
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"dee05aed20ce5c9fb072631d43989372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1243327147,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1243327147,
+    "wof:lastmodified":1536977122,
+    "wof:name":"Sekhoto",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.72162,
+    12.85654,
+    -11.72162,
+    12.85654
+],
+  "geometry": {"coordinates":[-11.72162,12.85654],"type":"Point"}
+}

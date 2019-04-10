@@ -1,0 +1,61 @@
+{
+  "id": 1209298989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.26667,13.75,-16.26667,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-16.26667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Keur Saloum Diane",
+    "gn:country_code":"SN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250046,
+    "gn:latitude":13.75,
+    "gn:longitude":-16.26667,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Keur Saloum Dian\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250046
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"85857719cd40af65c94859613b6db661",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209298989
+        }
+    ],
+    "wof:id":1209298989,
+    "wof:lastmodified":1536291424,
+    "wof:name":"Keur Saloum Diane",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.26667,
+    13.75,
+    -16.26667,
+    13.75
+],
+  "geometry": {"coordinates":[-16.26667,13.75],"type":"Point"}
+}

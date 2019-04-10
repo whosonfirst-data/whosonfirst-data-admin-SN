@@ -1,0 +1,67 @@
+{
+  "id": 1343544691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.3271,15.8733,-14.3271,15.8733",
+    "geom:latitude":15.8733,
+    "geom:longitude":-14.3271,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gueye Kadar",
+    "gn:country_code":"SN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6916592,
+    "gn:latitude":15.8733,
+    "gn:longitude":-14.3271,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Gu\u00e9ye Kadar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6916592
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"35a777d6ad8b72eb8b8306fcaea6abda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1343544691,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1343544691,
+    "wof:lastmodified":1536622700,
+    "wof:name":"Gueye Kadar",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.3271,
+    15.8733,
+    -14.3271,
+    15.8733
+],
+  "geometry": {"coordinates":[-14.3271,15.8733],"type":"Point"}
+}

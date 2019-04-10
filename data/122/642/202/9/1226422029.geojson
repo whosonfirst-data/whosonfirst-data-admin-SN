@@ -1,0 +1,71 @@
+{
+  "id": 1226422029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8805,15.4235,-15.8805,15.4235",
+    "geom:latitude":15.4235,
+    "geom:longitude":-15.8805,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Modji",
+    "gn:country_code":"SN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248292,
+    "gn:latitude":15.4235,
+    "gn:longitude":-15.8805,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Modji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndiaye Modji",
+        "Modji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248292
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"401bc9f4cefe62a996a3ff60314c1259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1226422029,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1226422029,
+    "wof:lastmodified":1537701041,
+    "wof:name":"Modji",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8805,
+    15.4235,
+    -15.8805,
+    15.4235
+],
+  "geometry": {"coordinates":[-15.8805,15.4235],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327354873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.98333,14.95,-16.98333,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":-16.98333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Daga",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253392,
+    "gn:latitude":14.95,
+    "gn:longitude":-16.98333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Daga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253392
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"94b1657713fe2cd85bbd0d9a09c8fe0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1327354873,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1327354873,
+    "wof:lastmodified":1536793148,
+    "wof:name":"Daga",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.98333,
+    14.95,
+    -16.98333,
+    14.95
+],
+  "geometry": {"coordinates":[-16.98333,14.95],"type":"Point"}
+}

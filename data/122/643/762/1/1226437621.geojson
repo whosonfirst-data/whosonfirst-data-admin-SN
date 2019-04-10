@@ -1,0 +1,74 @@
+{
+  "id": 1226437621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.86667,13.61667,-15.86667,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-15.86667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Keur Moussa-Poste",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250126,
+    "gn:latitude":13.61667,
+    "gn:longitude":-15.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Keur Moussa-Poste",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moussa",
+        "Ker Moussa",
+        "Keur Moussa",
+        "Keur Moussa-Poste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677011,
+        1108691475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250126
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"79c9b8f6dafd28e189b7f98b231301c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691475,
+            "locality_id":1226437621,
+            "region_id":85677011
+        }
+    ],
+    "wof:id":1226437621,
+    "wof:lastmodified":1537701077,
+    "wof:name":"Keur Moussa-Poste",
+    "wof:parent_id":1108691475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.86667,
+    13.61667,
+    -15.86667,
+    13.61667
+],
+  "geometry": {"coordinates":[-15.86667,13.61667],"type":"Point"}
+}

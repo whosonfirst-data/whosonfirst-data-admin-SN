@@ -1,0 +1,72 @@
+{
+  "id": 1259869441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.52222,13.70139,-16.52222,13.70139",
+    "geom:latitude":13.70139,
+    "geom:longitude":-16.52222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ndangane Touti",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593150,
+    "gn:latitude":13.70139,
+    "gn:longitude":-16.52222,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ndangane Touti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dangane Touti",
+        "Ndangane Touti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593150
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f8c0292e763cb513a83be55536299b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187969,
+            "locality_id":1259869441,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":1259869441,
+    "wof:lastmodified":1537701166,
+    "wof:name":"Ndangane Touti",
+    "wof:parent_id":421187969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.52222,
+    13.70139,
+    -16.52222,
+    13.70139
+],
+  "geometry": {"coordinates":[-16.52222,13.70139],"type":"Point"}
+}

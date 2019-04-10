@@ -1,0 +1,71 @@
+{
+  "id": 1259950287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.12854,15.59459,-13.12854,15.59459",
+    "geom:latitude":15.59459,
+    "geom:longitude":-13.12854,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tiemping",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244586,
+    "gn:latitude":15.59459,
+    "gn:longitude":-13.12854,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Ti\u00e9mping",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9mping",
+        "Tiempin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244586
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"286bd567ff50d13f835406d9a9ed1d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694811,
+            "locality_id":1259950287,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1259950287,
+    "wof:lastmodified":1537700964,
+    "wof:name":"Tiemping",
+    "wof:parent_id":1091694811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.12854,
+    15.59459,
+    -13.12854,
+    15.59459
+],
+  "geometry": {"coordinates":[-13.12854,15.59459],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344071109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.3841,14.78148,-17.3841,14.78148",
+    "geom:latitude":14.78148,
+    "geom:longitude":-17.3841,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"N'diareme limamoulaye",
+    "gn:country_code":"SN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101616,
+    "gn:latitude":14.78148,
+    "gn:longitude":-17.3841,
+    "gn:modification_date":"2016-03-15",
+    "gn:name":"N\u2019diareme limamoulaye",
+    "gn:population":35171,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        890440853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101616
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"989e11a2c59ad205569847aebff39aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890440853,
+            "locality_id":1344071109,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1344071109,
+    "wof:lastmodified":1536858805,
+    "wof:name":"N'diareme limamoulaye",
+    "wof:parent_id":890440853,
+    "wof:placetype":"locality",
+    "wof:population":35171,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.3841,
+    14.78148,
+    -17.3841,
+    14.78148
+],
+  "geometry": {"coordinates":[-17.3841,14.78148],"type":"Point"}
+}

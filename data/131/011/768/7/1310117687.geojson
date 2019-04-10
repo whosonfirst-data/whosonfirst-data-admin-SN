@@ -1,0 +1,68 @@
+{
+  "id": 1310117687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.45911,14.70074,-16.45911,14.70074",
+    "geom:latitude":14.70074,
+    "geom:longitude":-16.45911,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bambey",
+    "gn:country_code":"SN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7670740,
+    "gn:latitude":14.70074,
+    "gn:longitude":-16.45911,
+    "gn:modification_date":"2011-03-03",
+    "gn:name":"Bambey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        1108691495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7670740,
+        "wk:page":"Bambey"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7d34b3839b849150c97f25a60ea17b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691495,
+            "locality_id":1310117687,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1310117687,
+    "wof:lastmodified":1537573726,
+    "wof:name":"Bambey",
+    "wof:parent_id":1108691495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.45911,
+    14.70074,
+    -16.45911,
+    14.70074
+],
+  "geometry": {"coordinates":[-16.45911,14.70074],"type":"Point"}
+}

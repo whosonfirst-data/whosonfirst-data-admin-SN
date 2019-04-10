@@ -1,0 +1,67 @@
+{
+  "id": 1343740453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.26667,13.1,-14.26667,13.1",
+    "geom:latitude":13.1,
+    "geom:longitude":-14.26667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nguide Mbalo",
+    "gn:country_code":"SN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247345,
+    "gn:latitude":13.1,
+    "gn:longitude":-14.26667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nguid\u00e9 Mbalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247345
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"de6cb9459006537759ba6f4e582d4ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691471,
+            "locality_id":1343740453,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1343740453,
+    "wof:lastmodified":1536838749,
+    "wof:name":"Nguide Mbalo",
+    "wof:parent_id":1108691471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.26667,
+    13.1,
+    -14.26667,
+    13.1
+],
+  "geometry": {"coordinates":[-14.26667,13.1],"type":"Point"}
+}

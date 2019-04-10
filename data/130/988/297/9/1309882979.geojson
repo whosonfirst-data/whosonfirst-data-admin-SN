@@ -1,0 +1,67 @@
+{
+  "id": 1309882979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.12639,12.93361,-16.12639,12.93361",
+    "geom:latitude":12.93361,
+    "geom:longitude":-16.12639,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Diacopere",
+    "gn:country_code":"SN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252956,
+    "gn:latitude":12.93361,
+    "gn:longitude":-16.12639,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Diacop\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252956
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5cf8f6678975649332d001a54cb8f7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1309882979,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1309882979,
+    "wof:lastmodified":1536819078,
+    "wof:name":"Diacopere",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.12639,
+    12.93361,
+    -16.12639,
+    12.93361
+],
+  "geometry": {"coordinates":[-16.12639,12.93361],"type":"Point"}
+}

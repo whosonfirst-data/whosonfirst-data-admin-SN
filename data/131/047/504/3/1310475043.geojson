@@ -1,0 +1,73 @@
+{
+  "id": 1310475043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.34305,15.64714,-13.34305,15.64714",
+    "geom:latitude":15.64714,
+    "geom:longitude":-13.34305,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sintiou Boyenadji",
+    "gn:country_code":"SN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245410,
+    "gn:latitude":15.64714,
+    "gn:longitude":-13.34305,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Sintiou Boy\u00e9nadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boinadji Sinthiou",
+        "Sinntiou Boyenadji",
+        "Sinthiou Boy\u00e9nadji",
+        "Sintiou Boy\u00e9nadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245410
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d45bd9a50fabcf8e415abb4c501d22f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1310475043,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1310475043,
+    "wof:lastmodified":1537700985,
+    "wof:name":"Sintiou Boyenadji",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.34305,
+    15.64714,
+    -13.34305,
+    15.64714
+],
+  "geometry": {"coordinates":[-13.34305,15.64714],"type":"Point"}
+}

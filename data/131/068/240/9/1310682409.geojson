@@ -1,0 +1,67 @@
+{
+  "id": 1310682409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.76667,12.96667,-13.76667,12.96667",
+    "geom:latitude":12.96667,
+    "geom:longitude":-13.76667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Lenkering",
+    "gn:country_code":"SN",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249327,
+    "gn:latitude":12.96667,
+    "gn:longitude":-13.76667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"L\u00e9nk\u00e9ring",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249327
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"12d4f6d0e7eba6f80e35f02a5a9e1599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691471,
+            "locality_id":1310682409,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1310682409,
+    "wof:lastmodified":1536661748,
+    "wof:name":"Lenkering",
+    "wof:parent_id":1108691471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.76667,
+    12.96667,
+    -13.76667,
+    12.96667
+],
+  "geometry": {"coordinates":[-13.76667,12.96667],"type":"Point"}
+}

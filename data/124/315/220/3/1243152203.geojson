@@ -1,0 +1,67 @@
+{
+  "id": 1243152203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.08028,12.91778,-16.08028,12.91778",
+    "geom:latitude":12.91778,
+    "geom:longitude":-16.08028,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kahing",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250985,
+    "gn:latitude":12.91778,
+    "gn:longitude":-16.08028,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Kahing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250985
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5c6d03e35b7d9cdae0d23e7b0f52af6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1243152203,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1243152203,
+    "wof:lastmodified":1536733088,
+    "wof:name":"Kahing",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.08028,
+    12.91778,
+    -16.08028,
+    12.91778
+],
+  "geometry": {"coordinates":[-16.08028,12.91778],"type":"Point"}
+}

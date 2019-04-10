@@ -1,0 +1,67 @@
+{
+  "id": 1293594025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.76704,14.06395,-12.76704,14.06395",
+    "geom:latitude":14.06395,
+    "geom:longitude":-12.76704,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Loumbi Sadio",
+    "gn:country_code":"SN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6648009,
+    "gn:latitude":14.06395,
+    "gn:longitude":-12.76704,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Loumbi Sadio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6648009
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"1d3877ee2903ca963e835edd80f50664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1293594025,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1293594025,
+    "wof:lastmodified":1536631996,
+    "wof:name":"Loumbi Sadio",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.76704,
+    14.06395,
+    -12.76704,
+    14.06395
+],
+  "geometry": {"coordinates":[-12.76704,14.06395],"type":"Point"}
+}

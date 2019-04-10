@@ -1,0 +1,72 @@
+{
+  "id": 1242954139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.8,13.33333,-13.8,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":-13.8,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tamindala",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244980,
+    "gn:latitude":13.33333,
+    "gn:longitude":-13.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tamindala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tibindala",
+        "Tamindala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244980
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9eb0e2d25a5ed08b9d5373ab402c0640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691471,
+            "locality_id":1242954139,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1242954139,
+    "wof:lastmodified":1537700972,
+    "wof:name":"Tamindala",
+    "wof:parent_id":1108691471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.8,
+    13.33333,
+    -13.8,
+    13.33333
+],
+  "geometry": {"coordinates":[-13.8,13.33333],"type":"Point"}
+}

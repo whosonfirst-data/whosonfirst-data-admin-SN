@@ -1,0 +1,67 @@
+{
+  "id": 1293862037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.05694,12.70361,-15.05694,12.70361",
+    "geom:latitude":12.70361,
+    "geom:longitude":-15.05694,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sare Samba Diamaka",
+    "gn:country_code":"SN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245846,
+    "gn:latitude":12.70361,
+    "gn:longitude":-15.05694,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sar\u00e9 Samba Diamaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245846
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7e2c7af09cd40f7387db6a730cae42b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1293862037,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1293862037,
+    "wof:lastmodified":1536744001,
+    "wof:name":"Sare Samba Diamaka",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.05694,
+    12.70361,
+    -15.05694,
+    12.70361
+],
+  "geometry": {"coordinates":[-15.05694,12.70361],"type":"Point"}
+}

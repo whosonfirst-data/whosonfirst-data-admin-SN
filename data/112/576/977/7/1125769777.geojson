@@ -1,0 +1,103 @@
+{
+  "id": 1125769777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.6218,15.1097,-16.6218,15.1097",
+    "geom:latitude":15.1097,
+    "geom:longitude":-16.6218,
+    "gn:gn_country":"SN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":19242,
+    "gn:population":19242,
+    "iso:country":"SN",
+    "lbl:latitude":15.1097,
+    "lbl:longitude":-16.6218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Meckhe"
+    ],
+    "name:eng_x_preferred":[
+        "Meckhe"
+    ],
+    "name:fre_x_preferred":[
+        "Meckhe"
+    ],
+    "name:pol_x_preferred":[
+        "Meckhe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043a\u0445\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00e9kh\u00e9"
+    ],
+    "name:unk_x_variant":[
+        "Meck\u00e9"
+    ],
+    "name:wol_x_preferred":[
+        "Mexe"
+    ],
+    "qs_pg:aaroncc":"SN",
+    "qs_pg:gn_country":"SN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2248409,
+    "qs_pg:gn_pop":19242,
+    "qs_pg:name":"M\u00e9kh\u00e9",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":139166,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248409,
+        "qs_pg:id":139166,
+        "wd:id":"Q2981190"
+    },
+    "wof:country":"SN",
+    "wof:created":1497290020,
+    "wof:geomhash":"a694c328d6544145f9f59a3a81cf35b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1125769777,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1125769777,
+    "wof:lastmodified":1514505484,
+    "wof:name":"M\u00e9kh\u00e9",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:population":19242,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.6218,
+    15.1097,
+    -16.6218,
+    15.1097
+],
+  "geometry": {"coordinates":[-16.6218,15.1097],"type":"Point"}
+}

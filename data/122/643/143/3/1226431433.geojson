@@ -1,0 +1,72 @@
+{
+  "id": 1226431433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.05,13.71667,-16.05,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":-16.05,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Keur Lamine",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250315,
+    "gn:latitude":13.71667,
+    "gn:longitude":-16.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Keur Lamine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keur Lamme",
+        "Keur Lamine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677011,
+        1108691475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250315
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"09183e278bf4bf1e0393712d58739fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691475,
+            "locality_id":1226431433,
+            "region_id":85677011
+        }
+    ],
+    "wof:id":1226431433,
+    "wof:lastmodified":1537701080,
+    "wof:name":"Keur Lamine",
+    "wof:parent_id":1108691475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.05,
+    13.71667,
+    -16.05,
+    13.71667
+],
+  "geometry": {"coordinates":[-16.05,13.71667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209298269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.93333,13.8,-15.93333,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":-15.93333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sintiou Tiamene",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245302,
+    "gn:latitude":13.8,
+    "gn:longitude":-15.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sintiou Tiam\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinntiou Tiam\u00e8ne",
+        "Sintiou Tiam\u00e8ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245302
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d37e48795148a59a62d13651c5f40c22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209298269
+        }
+    ],
+    "wof:id":1209298269,
+    "wof:lastmodified":1537700977,
+    "wof:name":"Sintiou Tiamene",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.93333,
+    13.8,
+    -15.93333,
+    13.8
+],
+  "geometry": {"coordinates":[-15.93333,13.8],"type":"Point"}
+}

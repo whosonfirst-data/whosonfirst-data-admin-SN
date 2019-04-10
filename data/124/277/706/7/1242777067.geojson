@@ -1,0 +1,72 @@
+{
+  "id": 1242777067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.48333,13.15,-13.48333,13.15",
+    "geom:latitude":13.15,
+    "geom:longitude":-13.48333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sintian Labe",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245461,
+    "gn:latitude":13.15,
+    "gn:longitude":-13.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sinti\u00e2n Lab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinntian Lab\u00e9",
+        "Sinti\u00e2n Lab\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245461
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7faf1144d70e902f2dc0b6b17b9199aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1242777067,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1242777067,
+    "wof:lastmodified":1537700988,
+    "wof:name":"Sintian Labe",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.48333,
+    13.15,
+    -13.48333,
+    13.15
+],
+  "geometry": {"coordinates":[-13.48333,13.15],"type":"Point"}
+}

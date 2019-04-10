@@ -1,0 +1,67 @@
+{
+  "id": 1326600215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.74817,15.01182,-12.74817,15.01182",
+    "geom:latitude":15.01182,
+    "geom:longitude":-12.74817,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ape Dembagourou",
+    "gn:country_code":"SN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254647,
+    "gn:latitude":15.01182,
+    "gn:longitude":-12.74817,
+    "gn:modification_date":"2007-11-02",
+    "gn:name":"Ap\u00e9 Dembagourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254647
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3eca5673c6538bd18e6841b0ea452cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1326600215,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1326600215,
+    "wof:lastmodified":1536885629,
+    "wof:name":"Ape Dembagourou",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.74817,
+    15.01182,
+    -12.74817,
+    15.01182
+],
+  "geometry": {"coordinates":[-12.74817,15.01182],"type":"Point"}
+}

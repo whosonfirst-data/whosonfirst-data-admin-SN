@@ -1,0 +1,67 @@
+{
+  "id": 1243425891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.90565,13.23596,-11.90565,13.23596",
+    "geom:latitude":13.23596,
+    "geom:longitude":-11.90565,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Berola",
+    "gn:country_code":"SN",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253930,
+    "gn:latitude":13.23596,
+    "gn:longitude":-11.90565,
+    "gn:modification_date":"2007-10-11",
+    "gn:name":"B\u00e9rola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253930
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"170ab8e682cfe9e2c6bb7a22896bd703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1243425891,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1243425891,
+    "wof:lastmodified":1536834168,
+    "wof:name":"Berola",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.90565,
+    13.23596,
+    -11.90565,
+    13.23596
+],
+  "geometry": {"coordinates":[-11.90565,13.23596],"type":"Point"}
+}

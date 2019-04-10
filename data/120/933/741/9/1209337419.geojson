@@ -1,0 +1,61 @@
+{
+  "id": 1209337419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.58333,13.71667,-13.58333,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":-13.58333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dar el Salam",
+    "gn:country_code":"SN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253258,
+    "gn:latitude":13.71667,
+    "gn:longitude":-13.58333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Dar el Salam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253258
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"26b4c3cbaec045f6cafedc114418faab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209337419
+        }
+    ],
+    "wof:id":1209337419,
+    "wof:lastmodified":1536290174,
+    "wof:name":"Dar el Salam",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.583329999999998,
+    13.71667,
+    -13.583329999999998,
+    13.71667
+],
+  "geometry": {"coordinates":[-13.58333,13.71667],"type":"Point"}
+}

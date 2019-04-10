@@ -1,0 +1,68 @@
+{
+  "id": 890424905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.49884,14.25909,-16.49884,14.25909",
+    "geom:latitude":14.25909,
+    "geom:longitude":-16.49884,
+    "gn:country":"SN",
+    "gn:fcode":"ADM2",
+    "gn:pop":267756,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Fatick Department",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7670866,
+        "qs:id":696882,
+        "wd:id":"Q2068250",
+        "wk:page":"Fatick Department"
+    },
+    "wof:country":"SN",
+    "wof:created":1469051568,
+    "wof:geomhash":"2cc37006fa07bc5e50ce6eddd80cafb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424905,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":890424905,
+    "wof:lastmodified":1527727266,
+    "wof:name":"Fatick Department",
+    "wof:parent_id":85677007,
+    "wof:placetype":"county",
+    "wof:population":267756,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.49884,
+    14.25909,
+    -16.49884,
+    14.25909
+],
+  "geometry": {"coordinates":[-16.49884,14.25909],"type":"Point"}
+}

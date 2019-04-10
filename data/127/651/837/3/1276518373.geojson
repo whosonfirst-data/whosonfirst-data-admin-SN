@@ -1,0 +1,67 @@
+{
+  "id": 1276518373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.87157,16.06222,-13.87157,16.06222",
+    "geom:latitude":16.06222,
+    "geom:longitude":-13.87157,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Galoya Torobbe",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646782,
+    "gn:latitude":16.06222,
+    "gn:longitude":-13.87157,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Galoya T\u00f4robb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646782
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"649f39b29cd66b951435b36b159108a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1276518373,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1276518373,
+    "wof:lastmodified":1537027000,
+    "wof:name":"Galoya Torobbe",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.87157,
+    16.06222,
+    -13.87157,
+    16.06222
+],
+  "geometry": {"coordinates":[-13.87157,16.06222],"type":"Point"}
+}

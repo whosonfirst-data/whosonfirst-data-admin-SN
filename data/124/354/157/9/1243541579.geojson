@@ -1,0 +1,67 @@
+{
+  "id": 1243541579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.45361,12.70556,-16.45361,12.70556",
+    "geom:latitude":12.70556,
+    "geom:longitude":-16.45361,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Boutegol",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253479,
+    "gn:latitude":12.70556,
+    "gn:longitude":-16.45361,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Bout\u00e9gol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253479
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2e5d87eb3ec13bfeb44cb11397b5b4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1243541579,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1243541579,
+    "wof:lastmodified":1536668475,
+    "wof:name":"Boutegol",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.45361,
+    12.70556,
+    -16.45361,
+    12.70556
+],
+  "geometry": {"coordinates":[-16.45361,12.70556],"type":"Point"}
+}

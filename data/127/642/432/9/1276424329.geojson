@@ -1,0 +1,67 @@
+{
+  "id": 1276424329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.06716,16.32002,-14.06716,16.32002",
+    "geom:latitude":16.32002,
+    "geom:longitude":-14.06716,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Demba Tilo",
+    "gn:country_code":"SN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253034,
+    "gn:latitude":16.32002,
+    "gn:longitude":-14.06716,
+    "gn:modification_date":"2007-09-20",
+    "gn:name":"Demba Tilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253034
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"17a683bcdda42774f75765caa7accfe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1276424329,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1276424329,
+    "wof:lastmodified":1536656861,
+    "wof:name":"Demba Tilo",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.06716,
+    16.32002,
+    -14.06716,
+    16.32002
+],
+  "geometry": {"coordinates":[-14.06716,16.32002],"type":"Point"}
+}

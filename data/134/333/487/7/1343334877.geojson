@@ -1,0 +1,71 @@
+{
+  "id": 1343334877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.27289,15.49083,-13.27289,15.49083",
+    "geom:latitude":15.49083,
+    "geom:longitude":-13.27289,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Wassa Code Tioutinkobe",
+    "gn:country_code":"SN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244400,
+    "gn:latitude":15.49083,
+    "gn:longitude":-13.27289,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wassa Cod\u00e9 Tioutinkob\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tioutinnkob\u00e9",
+        "Wassa Cod\u00e9 Tioutinkob\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244400
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f5de430e94b91470d052d5029a72cce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1343334877,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1343334877,
+    "wof:lastmodified":1537700960,
+    "wof:name":"Wassa Code Tioutinkobe",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.27289,
+    15.49083,
+    -13.27289,
+    15.49083
+],
+  "geometry": {"coordinates":[-13.27289,15.49083],"type":"Point"}
+}

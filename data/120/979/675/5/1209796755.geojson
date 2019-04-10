@@ -1,0 +1,67 @@
+{
+  "id": 1209796755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.13389,12.69611,-15.13389,12.69611",
+    "geom:latitude":12.69611,
+    "geom:longitude":-15.13389,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sare Yoro Diao",
+    "gn:country_code":"SN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245755,
+    "gn:latitude":12.69611,
+    "gn:longitude":-15.13389,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sar\u00e9 Yoro Diao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245755
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f75c0ba68a520f2c538e512821a91d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1209796755,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1209796755,
+    "wof:lastmodified":1536392538,
+    "wof:name":"Sare Yoro Diao",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.13389,
+    12.69611,
+    -15.13389,
+    12.69611
+],
+  "geometry": {"coordinates":[-15.13389,12.69611],"type":"Point"}
+}

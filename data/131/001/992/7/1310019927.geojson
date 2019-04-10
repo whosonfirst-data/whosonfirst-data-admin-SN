@@ -1,0 +1,70 @@
+{
+  "id": 1310019927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.20359,14.76963,-17.20359,14.76963",
+    "geom:latitude":14.76963,
+    "geom:longitude":-17.20359,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ndiekhirat Peul",
+    "gn:country_code":"SN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595849,
+    "gn:latitude":14.76963,
+    "gn:longitude":-17.20359,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ndi\u00e9khirat Peul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndi\u00e9khirat Peul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595849
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c37cd1f0038d9f894c602a1f501b6403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187963,
+            "locality_id":1310019927,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1310019927,
+    "wof:lastmodified":1537701169,
+    "wof:name":"Ndiekhirat Peul",
+    "wof:parent_id":421187963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.20359,
+    14.76963,
+    -17.20359,
+    14.76963
+],
+  "geometry": {"coordinates":[-17.20359,14.76963],"type":"Point"}
+}

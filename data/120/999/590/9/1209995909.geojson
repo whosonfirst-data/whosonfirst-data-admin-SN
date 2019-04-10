@@ -1,0 +1,71 @@
+{
+  "id": 1209995909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.2609,15.5546,-15.2609,15.5546",
+    "geom:latitude":15.5546,
+    "geom:longitude":-15.2609,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ngouye Dieri",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251355,
+    "gn:latitude":15.5546,
+    "gn:longitude":-15.2609,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngouye Di\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gouye Di\u00e9ri",
+        "Ngouye Di\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251355
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5206b0424f8f09956b929876d18f881b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1209995909,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1209995909,
+    "wof:lastmodified":1537701099,
+    "wof:name":"Ngouye Dieri",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.2609,
+    15.5546,
+    -15.2609,
+    15.5546
+],
+  "geometry": {"coordinates":[-15.2609,15.5546],"type":"Point"}
+}

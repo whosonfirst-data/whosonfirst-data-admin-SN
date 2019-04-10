@@ -1,0 +1,75 @@
+{
+  "id": 421177199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.391185,14.762599,-17.391185,14.762599",
+    "geom:latitude":14.762599,
+    "geom:longitude":-17.391185,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Dagoudane Pikine",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Dakar",
+    "qs:photos":46,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":46,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1116446,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1411978,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421193105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1411978,
+        "qs:id":1116446
+    },
+    "wof:country":"SN",
+    "wof:created":1459009136,
+    "wof:geomhash":"31369ebe9f96de778676143a2295c7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421193105,
+            "locality_id":421177199,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":421177199,
+    "wof:lastmodified":1500025506,
+    "wof:name":"Dagoudane Pikine",
+    "wof:parent_id":421193105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.391185,
+    14.762599,
+    -17.391185,
+    14.762599
+],
+  "geometry": {"coordinates":[-17.391185,14.762599],"type":"Point"}
+}

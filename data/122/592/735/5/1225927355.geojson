@@ -1,0 +1,67 @@
+{
+  "id": 1225927355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.61333,16.035,-15.61333,16.035",
+    "geom:latitude":16.035,
+    "geom:longitude":-15.61333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Panda Yayake",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246822,
+    "gn:latitude":16.035,
+    "gn:longitude":-15.61333,
+    "gn:modification_date":"2007-06-08",
+    "gn:name":"Panda Yayak\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246822
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"12d30fbb6987a2b51bdf44b6320a2cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1225927355,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1225927355,
+    "wof:lastmodified":1536895843,
+    "wof:name":"Panda Yayake",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.61333,
+    16.035,
+    -15.61333,
+    16.035
+],
+  "geometry": {"coordinates":[-15.61333,16.035],"type":"Point"}
+}

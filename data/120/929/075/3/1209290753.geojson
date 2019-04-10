@@ -1,0 +1,61 @@
+{
+  "id": 1209290753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.76162,13.09723,-11.76162,13.09723",
+    "geom:latitude":13.09723,
+    "geom:longitude":-11.76162,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kouroukoukana",
+    "gn:country_code":"SN",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6659340,
+    "gn:latitude":13.09723,
+    "gn:longitude":-11.76162,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Kouroukoukana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6659340
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"075a84f3a34d0cbd30d911ec81f5ab70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209290753
+        }
+    ],
+    "wof:id":1209290753,
+    "wof:lastmodified":1536291703,
+    "wof:name":"Kouroukoukana",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.76162,
+    13.09723,
+    -11.76162,
+    13.09723
+],
+  "geometry": {"coordinates":[-11.76162,13.09723],"type":"Point"}
+}

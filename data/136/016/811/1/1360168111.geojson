@@ -1,0 +1,67 @@
+{
+  "id": 1360168111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.36133,16.32883,-14.36133,16.32883",
+    "geom:latitude":16.32883,
+    "geom:longitude":-14.36133,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tili Daga",
+    "gn:country_code":"SN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244507,
+    "gn:latitude":16.32883,
+    "gn:longitude":-14.36133,
+    "gn:modification_date":"2007-09-24",
+    "gn:name":"Tili Daga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244507
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0811956198bd4cab1842cc3f8c50ab8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1360168111,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1360168111,
+    "wof:lastmodified":1536824967,
+    "wof:name":"Tili Daga",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.36133,
+    16.32883,
+    -14.36133,
+    16.32883
+],
+  "geometry": {"coordinates":[-14.36133,16.32883],"type":"Point"}
+}

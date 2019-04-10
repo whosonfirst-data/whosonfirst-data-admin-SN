@@ -1,0 +1,67 @@
+{
+  "id": 1343540737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.4271,15.1512,-15.4271,15.1512",
+    "geom:latitude":15.1512,
+    "geom:longitude":-15.4271,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kadiel",
+    "gn:country_code":"SN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251032,
+    "gn:latitude":15.1512,
+    "gn:longitude":-15.4271,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Kadiel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251032
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"970f5c37db6a5a791249a09ad42a51bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1343540737,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1343540737,
+    "wof:lastmodified":1536628720,
+    "wof:name":"Kadiel",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.4271,
+    15.1512,
+    -15.4271,
+    15.1512
+],
+  "geometry": {"coordinates":[-15.4271,15.1512],"type":"Point"}
+}

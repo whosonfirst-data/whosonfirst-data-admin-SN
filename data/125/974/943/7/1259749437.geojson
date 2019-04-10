@@ -1,0 +1,67 @@
+{
+  "id": 1259749437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.61917,12.80528,-15.61917,12.80528",
+    "geom:latitude":12.80528,
+    "geom:longitude":-15.61917,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bassaf",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254117,
+    "gn:latitude":12.80528,
+    "gn:longitude":-15.61917,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Bassaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254117
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"dd5e6d93b75bc6dcc9f6bbfa927975f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1259749437,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1259749437,
+    "wof:lastmodified":1536971883,
+    "wof:name":"Bassaf",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.61917,
+    12.80528,
+    -15.61917,
+    12.80528
+],
+  "geometry": {"coordinates":[-15.61917,12.80528],"type":"Point"}
+}

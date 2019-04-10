@@ -1,0 +1,67 @@
+{
+  "id": 1327002571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.3,14.18333,-15.3,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":-15.3,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gnaba",
+    "gn:country_code":"SN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251578,
+    "gn:latitude":14.18333,
+    "gn:longitude":-15.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gnaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251578
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"068743dca5d537f821810b64aa0313d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691489,
+            "locality_id":1327002571,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1327002571,
+    "wof:lastmodified":1536803537,
+    "wof:name":"Gnaba",
+    "wof:parent_id":1108691489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.3,
+    14.18333,
+    -15.3,
+    14.18333
+],
+  "geometry": {"coordinates":[-15.3,14.18333],"type":"Point"}
+}

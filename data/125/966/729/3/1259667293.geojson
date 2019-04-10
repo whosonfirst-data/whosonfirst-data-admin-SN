@@ -1,0 +1,67 @@
+{
+  "id": 1259667293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.31917,16.39861,-16.31917,16.39861",
+    "geom:latitude":16.39861,
+    "geom:longitude":-16.31917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tiguet",
+    "gn:country_code":"SN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244527,
+    "gn:latitude":16.39861,
+    "gn:longitude":-16.31917,
+    "gn:modification_date":"2007-06-08",
+    "gn:name":"Tiguet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244527
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4be90cdee5b70037903110b9b44eee16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1259667293,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1259667293,
+    "wof:lastmodified":1537087152,
+    "wof:name":"Tiguet",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.31917,
+    16.39861,
+    -16.31917,
+    16.39861
+],
+  "geometry": {"coordinates":[-16.31917,16.39861],"type":"Point"}
+}

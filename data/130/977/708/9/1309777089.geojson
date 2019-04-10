@@ -1,0 +1,67 @@
+{
+  "id": 1309777089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.1653,15.7846,-14.1653,15.7846",
+    "geom:latitude":15.7846,
+    "geom:longitude":-14.1653,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Guirvas",
+    "gn:country_code":"SN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251204,
+    "gn:latitude":15.7846,
+    "gn:longitude":-14.1653,
+    "gn:modification_date":"2008-11-26",
+    "gn:name":"Guirvas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251204
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"fb5f578b74807b8b924e3d9b4cd373fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1309777089,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1309777089,
+    "wof:lastmodified":1536972168,
+    "wof:name":"Guirvas",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.1653,
+    15.7846,
+    -14.1653,
+    15.7846
+],
+  "geometry": {"coordinates":[-14.1653,15.7846],"type":"Point"}
+}

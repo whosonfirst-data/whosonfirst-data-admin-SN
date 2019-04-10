@@ -1,0 +1,67 @@
+{
+  "id": 1225818563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.35918,15.6257,-13.35918,15.6257",
+    "geom:latitude":15.6257,
+    "geom:longitude":-13.35918,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Legui",
+    "gn:country_code":"SN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249344,
+    "gn:latitude":15.6257,
+    "gn:longitude":-13.35918,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"L\u00e8gui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249344
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b92b9b1f6a1e9be8f446a9a708367ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1225818563,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1225818563,
+    "wof:lastmodified":1537050837,
+    "wof:name":"Legui",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.35918,
+    15.6257,
+    -13.35918,
+    15.6257
+],
+  "geometry": {"coordinates":[-13.35918,15.6257],"type":"Point"}
+}

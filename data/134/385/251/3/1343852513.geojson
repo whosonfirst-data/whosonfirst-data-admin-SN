@@ -1,0 +1,67 @@
+{
+  "id": 1343852513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.9103,15.1741,-16.9103,15.1741",
+    "geom:latitude":15.1741,
+    "geom:longitude":-16.9103,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mboro-sur-Mer",
+    "gn:country_code":"SN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248513,
+    "gn:latitude":15.1741,
+    "gn:longitude":-16.9103,
+    "gn:modification_date":"2008-12-03",
+    "gn:name":"Mboro-sur-Mer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248513
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b34289892a60b63ceea2184663b3b7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1343852513,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1343852513,
+    "wof:lastmodified":1536678116,
+    "wof:name":"Mboro-sur-Mer",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.9103,
+    15.1741,
+    -16.9103,
+    15.1741
+],
+  "geometry": {"coordinates":[-16.9103,15.1741],"type":"Point"}
+}

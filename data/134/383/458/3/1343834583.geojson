@@ -1,0 +1,72 @@
+{
+  "id": 1343834583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.51861,15.82444,-16.51861,15.82444",
+    "geom:latitude":15.82444,
+    "geom:longitude":-16.51861,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Degou Niaye",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253063,
+    "gn:latitude":15.82444,
+    "gn:longitude":-16.51861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"D\u00e9gou Niaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9gounaye",
+        "D\u00e9gou Niaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253063
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0883e19ef265e420af24357b69571207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1343834583,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1343834583,
+    "wof:lastmodified":1537701136,
+    "wof:name":"Degou Niaye",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.51861,
+    15.82444,
+    -16.51861,
+    15.82444
+],
+  "geometry": {"coordinates":[-16.51861,15.82444],"type":"Point"}
+}

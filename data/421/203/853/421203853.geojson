@@ -1,0 +1,79 @@
+{
+  "id": 421203853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.46667,13.76667,-16.46667,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-16.46667,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Toubakouta"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2244303,
+    "qs:gn_pop":0,
+    "qs:name":"Tabakouta",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Fatick",
+    "qs:photos":170,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":170,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":235450,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1418044,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244303,
+        "gp:id":1418044,
+        "qs:id":235450
+    },
+    "wof:country":"SN",
+    "wof:created":1459010166,
+    "wof:geomhash":"55bb4486de3a3cf3cca030e7cec9e6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187969,
+            "locality_id":421203853,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":421203853,
+    "wof:lastmodified":1501261994,
+    "wof:name":"Tabakouta",
+    "wof:parent_id":421187969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.46667,
+    13.76667,
+    -16.46667,
+    13.76667
+],
+  "geometry": {"coordinates":[-16.46667,13.76667],"type":"Point"}
+}

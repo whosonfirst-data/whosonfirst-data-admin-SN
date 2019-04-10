@@ -1,0 +1,67 @@
+{
+  "id": 1343232355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.91278,14.91758,-12.91278,14.91758",
+    "geom:latitude":14.91758,
+    "geom:longitude":-12.91278,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Koli",
+    "gn:country_code":"SN",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249778,
+    "gn:latitude":14.91758,
+    "gn:longitude":-12.91278,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Koli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249778
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9c87a2e7368e355a3f0d3704c79bbc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1343232355,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1343232355,
+    "wof:lastmodified":1537072556,
+    "wof:name":"Koli",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.91278,
+    14.91758,
+    -12.91278,
+    14.91758
+],
+  "geometry": {"coordinates":[-12.91278,14.91758],"type":"Point"}
+}

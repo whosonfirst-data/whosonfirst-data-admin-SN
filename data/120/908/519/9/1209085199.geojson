@@ -1,0 +1,61 @@
+{
+  "id": 1209085199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.41167,16.15556,-16.41167,16.15556",
+    "geom:latitude":16.15556,
+    "geom:longitude":-16.41167,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taba Darou Salam I",
+    "gn:country_code":"SN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595983,
+    "gn:latitude":16.15556,
+    "gn:longitude":-16.41167,
+    "gn:modification_date":"2002-12-11",
+    "gn:name":"Taba Darou Salam I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595983
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a8210e35f046ad1281139af8a9b9c9b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209085199
+        }
+    ],
+    "wof:id":1209085199,
+    "wof:lastmodified":1536298210,
+    "wof:name":"Taba Darou Salam I",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.41167,
+    16.15556,
+    -16.41167,
+    16.15556
+],
+  "geometry": {"coordinates":[-16.41167,16.15556],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209892345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.61284,12.62013,-11.61284,12.62013",
+    "geom:latitude":12.62013,
+    "geom:longitude":-11.61284,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nafadji",
+    "gn:country_code":"SN",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248185,
+    "gn:latitude":12.62013,
+    "gn:longitude":-11.61284,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nafadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naladji",
+        "Nafadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248185
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"fede863d9a4c1fd2a8f92c21ebecd550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1209892345,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1209892345,
+    "wof:lastmodified":1537701039,
+    "wof:name":"Nafadji",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.61284,
+    12.62013,
+    -11.61284,
+    12.62013
+],
+  "geometry": {"coordinates":[-11.61284,12.62013],"type":"Point"}
+}

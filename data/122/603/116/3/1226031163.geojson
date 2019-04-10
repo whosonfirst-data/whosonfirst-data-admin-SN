@@ -1,0 +1,71 @@
+{
+  "id": 1226031163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.7655,15.3388,-15.7655,15.3388",
+    "geom:latitude":15.3388,
+    "geom:longitude":-15.7655,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koyli Pegna",
+    "gn:country_code":"SN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249820,
+    "gn:latitude":15.3388,
+    "gn:longitude":-15.7655,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koyli Pegna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00e9l\u00e8 P\u00e8gna",
+        "Koyli Pegna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249820
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"fd5fe43bb50319a53d1d1b66c23db400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1226031163,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1226031163,
+    "wof:lastmodified":1537701070,
+    "wof:name":"Koyli Pegna",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.7655,
+    15.3388,
+    -15.7655,
+    15.3388
+],
+  "geometry": {"coordinates":[-15.7655,15.3388],"type":"Point"}
+}

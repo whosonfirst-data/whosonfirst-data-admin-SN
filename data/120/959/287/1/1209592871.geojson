@@ -1,0 +1,61 @@
+{
+  "id": 1209592871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.13833,12.90417,-16.13833,12.90417",
+    "geom:latitude":12.90417,
+    "geom:longitude":-16.13833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kourouk",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249508,
+    "gn:latitude":12.90417,
+    "gn:longitude":-16.13833,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Kourouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249508
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d45c1daf626c65eb144394ca915baaec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209592871
+        }
+    ],
+    "wof:id":1209592871,
+    "wof:lastmodified":1536282421,
+    "wof:name":"Kourouk",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.13833,
+    12.90417,
+    -16.13833,
+    12.90417
+],
+  "geometry": {"coordinates":[-16.13833,12.90417],"type":"Point"}
+}

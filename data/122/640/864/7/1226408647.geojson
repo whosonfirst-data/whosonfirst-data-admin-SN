@@ -1,0 +1,67 @@
+{
+  "id": 1226408647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.58361,12.66694,-15.58361,12.66694",
+    "geom:latitude":12.66694,
+    "geom:longitude":-15.58361,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bounkili Diola",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253523,
+    "gn:latitude":12.66694,
+    "gn:longitude":-15.58361,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Bounkili Diola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253523
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"36e3f66e23837f94b2eba30b81f6ead0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1226408647,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1226408647,
+    "wof:lastmodified":1536699347,
+    "wof:name":"Bounkili Diola",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.58361,
+    12.66694,
+    -15.58361,
+    12.66694
+],
+  "geometry": {"coordinates":[-15.58361,12.66694],"type":"Point"}
+}

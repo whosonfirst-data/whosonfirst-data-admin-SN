@@ -1,0 +1,65 @@
+{
+  "id": 1209589361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.56026,16.57688,-14.56026,16.57688",
+    "geom:latitude":16.57688,
+    "geom:longitude":-14.56026,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tielao",
+    "gn:country_code":"SN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244596,
+    "gn:latitude":16.57688,
+    "gn:longitude":-14.56026,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ti\u00e9lao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thi\u00e9lao",
+        "Ti\u00e9lao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244596
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"92082e5778a798aed6703ac7fae423db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209589361
+        }
+    ],
+    "wof:id":1209589361,
+    "wof:lastmodified":1537700964,
+    "wof:name":"Tielao",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.56026,
+    16.57688,
+    -14.56026,
+    16.57688
+],
+  "geometry": {"coordinates":[-14.56026,16.57688],"type":"Point"}
+}

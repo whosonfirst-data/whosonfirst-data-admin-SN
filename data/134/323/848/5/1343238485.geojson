@@ -1,0 +1,67 @@
+{
+  "id": 1343238485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.982,15.0289,-15.982,15.0289",
+    "geom:latitude":15.0289,
+    "geom:longitude":-15.982,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ndiagne Tiouli",
+    "gn:country_code":"SN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247992,
+    "gn:latitude":15.0289,
+    "gn:longitude":-15.982,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Ndiagne Tiouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247992
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"43f34c42ae2a9606af7533dcc6b6b2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1343238485,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1343238485,
+    "wof:lastmodified":1537063923,
+    "wof:name":"Ndiagne Tiouli",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.982,
+    15.0289,
+    -15.982,
+    15.0289
+],
+  "geometry": {"coordinates":[-15.982,15.0289],"type":"Point"}
+}

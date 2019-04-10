@@ -1,0 +1,67 @@
+{
+  "id": 1343243283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.98884,12.72356,-15.98884,12.72356",
+    "geom:latitude":12.72356,
+    "geom:longitude":-15.98884,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bemete Bidjini",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205314,
+    "gn:latitude":12.72356,
+    "gn:longitude":-15.98884,
+    "gn:modification_date":"2016-07-29",
+    "gn:name":"Bemete Bidjini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205314
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2619a8ed4009478e818791b6dcb85819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1343243283,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1343243283,
+    "wof:lastmodified":1537057274,
+    "wof:name":"Bemete Bidjini",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.98884,
+    12.72356,
+    -15.98884,
+    12.72356
+],
+  "geometry": {"coordinates":[-15.98884,12.72356],"type":"Point"}
+}

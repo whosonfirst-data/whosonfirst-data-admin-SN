@@ -1,0 +1,67 @@
+{
+  "id": 1343437241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.57806,12.52413,-11.57806,12.52413",
+    "geom:latitude":12.52413,
+    "geom:longitude":-11.57806,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Saroudia",
+    "gn:country_code":"SN",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245745,
+    "gn:latitude":12.52413,
+    "gn:longitude":-11.57806,
+    "gn:modification_date":"2007-10-10",
+    "gn:name":"Saroudia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245745
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"1aa31f57e62d9bd7ba29933ce2c30a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1343437241,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1343437241,
+    "wof:lastmodified":1536780328,
+    "wof:name":"Saroudia",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.57806,
+    12.52413,
+    -11.57806,
+    12.52413
+],
+  "geometry": {"coordinates":[-11.57806,12.52413],"type":"Point"}
+}

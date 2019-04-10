@@ -1,0 +1,67 @@
+{
+  "id": 1344271193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.38887,14.77534,-17.38887,14.77534",
+    "geom:latitude":14.77534,
+    "geom:longitude":-17.38887,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sam notaire",
+    "gn:country_code":"SN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101615,
+    "gn:latitude":14.77534,
+    "gn:longitude":-17.38887,
+    "gn:modification_date":"2016-03-15",
+    "gn:name":"Sam notaire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        890440853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101615
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ff3c14d6e4932d0e1b9cd8adfda5a2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890440853,
+            "locality_id":1344271193,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1344271193,
+    "wof:lastmodified":1537065673,
+    "wof:name":"Sam notaire",
+    "wof:parent_id":890440853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.38887,
+    14.77534,
+    -17.38887,
+    14.77534
+],
+  "geometry": {"coordinates":[-17.38887,14.77534],"type":"Point"}
+}

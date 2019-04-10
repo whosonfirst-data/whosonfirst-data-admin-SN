@@ -1,0 +1,73 @@
+{
+  "id": 1326816777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.31861,15.75111,-16.31861,15.75111",
+    "geom:latitude":15.75111,
+    "geom:longitude":-16.31861,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yerwaye",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243979,
+    "gn:latitude":15.75111,
+    "gn:longitude":-16.31861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yerwaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yervaye",
+        "Yarouaye",
+        "Yerwaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243979
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"67a57797e5ad8a635eb8d41740310e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1326816777,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1326816777,
+    "wof:lastmodified":1537700952,
+    "wof:name":"Yerwaye",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.31861,
+    15.75111,
+    -16.31861,
+    15.75111
+],
+  "geometry": {"coordinates":[-16.31861,15.75111],"type":"Point"}
+}

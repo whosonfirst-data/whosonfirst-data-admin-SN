@@ -1,0 +1,67 @@
+{
+  "id": 1209486343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.29611,15.90889,-16.29611,15.90889",
+    "geom:latitude":15.90889,
+    "geom:longitude":-16.29611,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mbakhas",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248690,
+    "gn:latitude":15.90889,
+    "gn:longitude":-16.29611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbakhas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbakhase",
+        "Mbakhass",
+        "Mbakhas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248690
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"54ab56b3257f34388ab61b57432e2bb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209486343
+        }
+    ],
+    "wof:id":1209486343,
+    "wof:lastmodified":1537701051,
+    "wof:name":"Mbakhas",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.29611,
+    15.90889,
+    -16.29611,
+    15.90889
+],
+  "geometry": {"coordinates":[-16.29611,15.90889],"type":"Point"}
+}

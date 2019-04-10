@@ -1,0 +1,66 @@
+{
+  "id": 1209591943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.5316,12.4013,-12.5316,12.4013",
+    "geom:latitude":12.4013,
+    "geom:longitude":-12.5316,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gourenetere",
+    "gn:country_code":"SN",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249745,
+    "gn:latitude":12.4013,
+    "gn:longitude":-12.5316,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gour\u00e9n\u00e9t\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gour\u00e9 N\u00e9h\u00e9r\u00e9",
+        "Komaf\u00e9l\u00e9",
+        "Gour\u00e9n\u00e9t\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249745
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5ceaab712ebfac331c073668e673701a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209591943
+        }
+    ],
+    "wof:id":1209591943,
+    "wof:lastmodified":1537701069,
+    "wof:name":"Gourenetere",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.5316,
+    12.4013,
+    -12.5316,
+    12.4013
+],
+  "geometry": {"coordinates":[-12.5316,12.4013],"type":"Point"}
+}

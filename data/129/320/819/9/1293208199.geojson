@@ -1,0 +1,67 @@
+{
+  "id": 1293208199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.93333,14.55,-15.93333,14.55",
+    "geom:latitude":14.55,
+    "geom:longitude":-15.93333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Keur Modouba",
+    "gn:country_code":"SN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250163,
+    "gn:latitude":14.55,
+    "gn:longitude":-15.93333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Keur Modouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        421176669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250163
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"bbcb48723a39fe2f04af45b146e2cb22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421176669,
+            "locality_id":1293208199,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1293208199,
+    "wof:lastmodified":1536692828,
+    "wof:name":"Keur Modouba",
+    "wof:parent_id":421176669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.93333,
+    14.55,
+    -15.93333,
+    14.55
+],
+  "geometry": {"coordinates":[-15.93333,14.55],"type":"Point"}
+}

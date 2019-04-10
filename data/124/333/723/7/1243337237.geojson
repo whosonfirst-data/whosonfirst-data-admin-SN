@@ -1,0 +1,72 @@
+{
+  "id": 1243337237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.30278,15.92139,-16.30278,15.92139",
+    "geom:latitude":15.92139,
+    "geom:longitude":-16.30278,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Paye",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248205,
+    "gn:latitude":15.92139,
+    "gn:longitude":-16.30278,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Paye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mpay\u00e8",
+        "Paye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248205
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"41c0cf6b89fdab48d1d5b80339fbfa6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691511,
+            "locality_id":1243337237,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1243337237,
+    "wof:lastmodified":1537701039,
+    "wof:name":"Paye",
+    "wof:parent_id":1108691511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.30278,
+    15.92139,
+    -16.30278,
+    15.92139
+],
+  "geometry": {"coordinates":[-16.30278,15.92139],"type":"Point"}
+}

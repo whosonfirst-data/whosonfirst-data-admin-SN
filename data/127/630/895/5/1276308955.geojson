@@ -1,0 +1,67 @@
+{
+  "id": 1276308955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.8743,12.6274,-12.8743,12.6274",
+    "geom:latitude":12.6274,
+    "geom:longitude":-12.8743,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Madina Arsas",
+    "gn:country_code":"SN",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917778,
+    "gn:latitude":12.6274,
+    "gn:longitude":-12.8743,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Madina Arsas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917778
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2a4f7e037f5d760322669ca897c0e0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691455,
+            "locality_id":1276308955,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1276308955,
+    "wof:lastmodified":1536810891,
+    "wof:name":"Madina Arsas",
+    "wof:parent_id":1108691455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.8743,
+    12.6274,
+    -12.8743,
+    12.6274
+],
+  "geometry": {"coordinates":[-12.8743,12.6274],"type":"Point"}
+}

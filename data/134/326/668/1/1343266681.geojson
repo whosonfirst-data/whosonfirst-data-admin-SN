@@ -1,0 +1,71 @@
+{
+  "id": 1343266681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.92977,13.33836,-12.92977,13.33836",
+    "geom:latitude":13.33836,
+    "geom:longitude":-12.92977,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sinntiou Faoura",
+    "gn:country_code":"SN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245382,
+    "gn:latitude":13.33836,
+    "gn:longitude":-12.92977,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sinntiou Faoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sintiou Faoura",
+        "Sinntiou Faoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245382
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"fd09b3ac2fc9f3b615570284fbd8b7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1343266681,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1343266681,
+    "wof:lastmodified":1537700983,
+    "wof:name":"Sinntiou Faoura",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.92977,
+    13.33836,
+    -12.92977,
+    13.33836
+],
+  "geometry": {"coordinates":[-12.92977,13.33836],"type":"Point"}
+}

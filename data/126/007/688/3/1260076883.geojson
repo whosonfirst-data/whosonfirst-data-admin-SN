@@ -1,0 +1,72 @@
+{
+  "id": 1260076883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.76667,14.63333,-16.76667,14.63333",
+    "geom:latitude":14.63333,
+    "geom:longitude":-16.76667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guelor",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251313,
+    "gn:latitude":14.63333,
+    "gn:longitude":-16.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gu\u00e9lor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gulor",
+        "Gu\u00e9lor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251313
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"65f63da35741d49cd4354cac938ed36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1260076883,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1260076883,
+    "wof:lastmodified":1537701098,
+    "wof:name":"Guelor",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.76667,
+    14.63333,
+    -16.76667,
+    14.63333
+],
+  "geometry": {"coordinates":[-16.76667,14.63333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344156051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.05,13.4,-13.05,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-13.05,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Binngel",
+    "gn:country_code":"SN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253868,
+    "gn:latitude":13.4,
+    "gn:longitude":-13.05,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Binngel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253868
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c2398fa4db5b9222df5154b73d2f528c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1344156051,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1344156051,
+    "wof:lastmodified":1536737624,
+    "wof:name":"Binngel",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.05,
+    13.4,
+    -13.05,
+    13.4
+],
+  "geometry": {"coordinates":[-13.05,13.4],"type":"Point"}
+}

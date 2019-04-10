@@ -1,0 +1,67 @@
+{
+  "id": 1292978105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.035,12.84833,-16.035,12.84833",
+    "geom:latitude":12.84833,
+    "geom:longitude":-16.035,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ndiagne",
+    "gn:country_code":"SN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247999,
+    "gn:latitude":12.84833,
+    "gn:longitude":-16.035,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Ndiagne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247999
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5502512236aebe742871fe4b8fb424a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1292978105,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1292978105,
+    "wof:lastmodified":1537023363,
+    "wof:name":"Ndiagne",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.035,
+    12.84833,
+    -16.035,
+    12.84833
+],
+  "geometry": {"coordinates":[-16.035,12.84833],"type":"Point"}
+}

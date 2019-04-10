@@ -1,0 +1,71 @@
+{
+  "id": 1293461241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4965,12.4735,-12.4965,12.4735",
+    "geom:latitude":12.4735,
+    "geom:longitude":-12.4965,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Koumafele",
+    "gn:country_code":"SN",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249601,
+    "gn:latitude":12.4735,
+    "gn:longitude":-12.4965,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koumaf\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koum\u00e9f\u00e9l\u00e9",
+        "Koumaf\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249601
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5e45d5d5f42b3cfe5a9c11bd7c2f7dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691455,
+            "locality_id":1293461241,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1293461241,
+    "wof:lastmodified":1537701066,
+    "wof:name":"Koumafele",
+    "wof:parent_id":1108691455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4965,
+    12.4735,
+    -12.4965,
+    12.4735
+],
+  "geometry": {"coordinates":[-12.4965,12.4735],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343627795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.64917,12.59,-15.64917,12.59",
+    "geom:latitude":12.59,
+    "geom:longitude":-15.64917,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bantandiang",
+    "gn:country_code":"SN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254221,
+    "gn:latitude":12.59,
+    "gn:longitude":-15.64917,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Bantandiang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254221
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8819c591507d544bd26ee24c40fb107d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1343627795,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1343627795,
+    "wof:lastmodified":1537001498,
+    "wof:name":"Bantandiang",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.64917,
+    12.59,
+    -15.64917,
+    12.59
+],
+  "geometry": {"coordinates":[-15.64917,12.59],"type":"Point"}
+}

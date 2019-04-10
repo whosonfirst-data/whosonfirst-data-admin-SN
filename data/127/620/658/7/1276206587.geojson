@@ -1,0 +1,67 @@
+{
+  "id": 1276206587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.74528,12.66167,-16.74528,12.66167",
+    "geom:latitude":12.66167,
+    "geom:longitude":-16.74528,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nissi",
+    "gn:country_code":"SN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247143,
+    "gn:latitude":12.66167,
+    "gn:longitude":-16.74528,
+    "gn:modification_date":"2000-04-06",
+    "gn:name":"Nissi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247143
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"78baaea5daf2dd4d5d6e4d06b6e0b08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1276206587,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1276206587,
+    "wof:lastmodified":1536949212,
+    "wof:name":"Nissi",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.74528,
+    12.66167,
+    -16.74528,
+    12.66167
+],
+  "geometry": {"coordinates":[-16.74528,12.66167],"type":"Point"}
+}

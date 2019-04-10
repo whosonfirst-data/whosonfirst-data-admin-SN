@@ -1,0 +1,67 @@
+{
+  "id": 1309889253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.37056,16.08778,-16.37056,16.08778",
+    "geom:latitude":16.08778,
+    "geom:longitude":-16.37056,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Makhana",
+    "gn:country_code":"SN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248932,
+    "gn:latitude":16.08778,
+    "gn:longitude":-16.37056,
+    "gn:modification_date":"2007-06-08",
+    "gn:name":"Makhana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248932
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e063ad6445add32eb8a0ea4ec1e7d61d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691511,
+            "locality_id":1309889253,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1309889253,
+    "wof:lastmodified":1536810388,
+    "wof:name":"Makhana",
+    "wof:parent_id":1108691511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.37056,
+    16.08778,
+    -16.37056,
+    16.08778
+],
+  "geometry": {"coordinates":[-16.37056,16.08778],"type":"Point"}
+}

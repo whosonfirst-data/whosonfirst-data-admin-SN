@@ -1,0 +1,219 @@
+{
+  "id": 421169867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-02-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.17586,12.55146,-12.17586,12.55146",
+    "geom:latitude":12.55146,
+    "geom:longitude":-12.17586,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u062f\u0648\u063a\u0648"
+    ],
+    "name:baq_x_preferred":[
+        "K\u00e9dougou eskualdea"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09a6\u09c1\u0997\u09cb"
+    ],
+    "name:chi_x_preferred":[
+        "\u51f1\u675c\u53e4\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:deu_x_preferred":[
+        "Region K\u00e9dougou"
+    ],
+    "name:dut_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:eng_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:eus_x_preferred":[
+        "K\u00e9dougou eskualdea"
+    ],
+    "name:fin_x_preferred":[
+        "K\u00e9dougoun alue"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:fre_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:ger_x_preferred":[
+        "Region K\u00e9dougou"
+    ],
+    "name:glg_x_preferred":[
+        "Rexi\u00f3n de K\u00e9dougou"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03bf\u03cd\u03b3\u03ba\u03bf\u03c5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac7\u0aa1\u0acc\u0a97\u0ac2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0921\u0942\u0917\u0942"
+    ],
+    "name:ind_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:ita_x_preferred":[
+        "Regione di K\u00e9dougou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30c9\u30a5\u30b0\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cc6\u0ca1\u0cca\u0c97\u0ccc"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\ub450\uad6c \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "K\u0113dugu"
+    ],
+    "name:lit_x_preferred":[
+        "Kedugu"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0947\u0921\u094c\u0917\u0941"
+    ],
+    "name:may_x_preferred":[
+        "Kedougou"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:nob_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:pol_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:por_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:rum_x_preferred":[
+        "Regiunea K\u00e9dougou"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0434\u0443\u0433\u0443"
+    ],
+    "name:sco_x_preferred":[
+        "K\u00e9dougou Region"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd9\u0daf\u0ddc\u0d9c\u0dd4"
+    ],
+    "name:spa_x_preferred":[
+        "Regi\u00f3n de K\u00e9dougou"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc6\u0b9f\u0bcc\u0b95\u0bcc"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c46\u0c21\u0c4b\u0c17\u0c42"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e04\u0e14\u0e39\u0e14\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u041a\u0435\u0434\u0443\u0433\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u062f\u0624\u06af\u0624 \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "K\u00e9dougou"
+    ],
+    "name:wol_x_preferred":[
+        "Diiwaanu K\u00e9edugu"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":7303936,
+    "qs:gn_pop":0,
+    "qs:name":"K\u00e9dougou",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"K\u00e9dougou",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":150,
+    "qs:photos_sr":2,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1206083,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":56055613,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7303936,
+        "gp:id":56055613,
+        "qs:id":1206083,
+        "wd:id":"Q1046666",
+        "wk:page":"K\u00e9dougou Region"
+    },
+    "wof:country":"SN",
+    "wof:created":1459008827,
+    "wof:geomhash":"6df9c13119d9542cb1b9847b91fe56fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "region_id":421169867
+        }
+    ],
+    "wof:id":421169867,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1551462575,
+    "wof:name":"K\u00e9dougou",
+    "wof:parent_id":85632365,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[
+        85676983
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.17586,
+    12.55146,
+    -12.17586,
+    12.55146
+],
+  "geometry": {"coordinates":[-12.17586,12.55146],"type":"Point"}
+}

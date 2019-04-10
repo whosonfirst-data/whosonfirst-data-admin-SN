@@ -1,0 +1,74 @@
+{
+  "id": 1310493419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.01944,14.44111,-17.01944,14.44111",
+    "geom:latitude":14.44111,
+    "geom:longitude":-17.01944,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sali",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595222,
+    "gn:latitude":14.44111,
+    "gn:longitude":-17.01944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sali Poulang",
+        "Sali",
+        "Saly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421185475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595222,
+        "wk:page":"Saly"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"92fdcc76f2de9f175b1201cdf6fa8c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421185475,
+            "locality_id":1310493419,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1310493419,
+    "wof:lastmodified":1537701167,
+    "wof:name":"Sali",
+    "wof:parent_id":421185475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.01944,
+    14.44111,
+    -17.01944,
+    14.44111
+],
+  "geometry": {"coordinates":[-17.01944,14.44111],"type":"Point"}
+}

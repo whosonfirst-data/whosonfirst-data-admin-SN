@@ -1,0 +1,93 @@
+{
+  "id": 1126069249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.45368,14.7368,-17.45368,14.7368",
+    "geom:latitude":14.7368,
+    "geom:longitude":-17.45368,
+    "gn:gn_country":"SN",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"SN",
+    "lbl:latitude":14.7368,
+    "lbl:longitude":-17.45368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SN",
+    "qs_pg:gn_country":"SN",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2254642,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Arafat I",
+    "qs_pg:name_adm0":"S\u00e9n\u00e9gal",
+    "qs_pg:name_adm1":"Dakar",
+    "qs_pg:photos":375,
+    "qs_pg:photos_1k":76,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":375,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":423492,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424943,
+    "qs_pg:woe_id":1411118,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424943,
+    "woe:name_adm0":"S\u00e9n\u00e9gal",
+    "woe:name_adm1":"Dakar",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85676997,
+        102191573,
+        85632365,
+        421187965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254642,
+        "gp:id":1411118,
+        "qs_pg:id":423492
+    },
+    "wof:country":"SN",
+    "wof:created":1497309538,
+    "wof:geomhash":"79e55bd4abb2ea0d3fb6fdb6a0dc1c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187965,
+            "locality_id":-1,
+            "neighbourhood_id":1126069249,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1126069249,
+    "wof:lastmodified":1534379462,
+    "wof:name":"Arafat I",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[
+        85802215
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.45368,
+    14.7368,
+    -17.45368,
+    14.7368
+],
+  "geometry": {"coordinates":[-17.45368,14.7368],"type":"Point"}
+}

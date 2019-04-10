@@ -1,0 +1,67 @@
+{
+  "id": 1360268205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.35277,15.00482,-13.35277,15.00482",
+    "geom:latitude":15.00482,
+    "geom:longitude":-13.35277,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vendou Dioyi",
+    "gn:country_code":"SN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6644061,
+    "gn:latitude":15.00482,
+    "gn:longitude":-13.35277,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"V\u00e9ndou Dioyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6644061
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9be43b855e3dffd26acfc04361b09613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1360268205,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1360268205,
+    "wof:lastmodified":1536681490,
+    "wof:name":"Vendou Dioyi",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.35277,
+    15.00482,
+    -13.35277,
+    15.00482
+],
+  "geometry": {"coordinates":[-13.35277,15.00482],"type":"Point"}
+}

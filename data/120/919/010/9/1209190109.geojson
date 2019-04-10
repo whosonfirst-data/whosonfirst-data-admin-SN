@@ -1,0 +1,61 @@
+{
+  "id": 1209190109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.60528,12.50722,-15.60528,12.50722",
+    "geom:latitude":12.50722,
+    "geom:longitude":-15.60528,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bilassar",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253892,
+    "gn:latitude":12.50722,
+    "gn:longitude":-15.60528,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Bilassar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253892
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ce32986385051a1386bdfb14558a03aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209190109
+        }
+    ],
+    "wof:id":1209190109,
+    "wof:lastmodified":1536294962,
+    "wof:name":"Bilassar",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.60528,
+    12.50722,
+    -15.60528,
+    12.50722
+],
+  "geometry": {"coordinates":[-15.60528,12.50722],"type":"Point"}
+}

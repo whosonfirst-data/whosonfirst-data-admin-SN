@@ -1,0 +1,72 @@
+{
+  "id": 1193148739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.35,14.9,-16.35,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-16.35,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gade",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251765,
+    "gn:latitude":14.9,
+    "gn:longitude":-16.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gad",
+        "Gade"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        1108691493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251765
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e530e410ec930ac95b7bdc61de28d28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691493,
+            "locality_id":1193148739,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1193148739,
+    "wof:lastmodified":1537701110,
+    "wof:name":"Gade",
+    "wof:parent_id":1108691493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.35,
+    14.9,
+    -16.35,
+    14.9
+],
+  "geometry": {"coordinates":[-16.35,14.9],"type":"Point"}
+}

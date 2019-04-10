@@ -1,0 +1,67 @@
+{
+  "id": 1293267989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.81667,12.45,-15.81667,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":-15.81667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Adiana",
+    "gn:country_code":"SN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254761,
+    "gn:latitude":12.45,
+    "gn:longitude":-15.81667,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Adiana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254761
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c8875750e225b609ef93cce41bc6b328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691457,
+            "locality_id":1293267989,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1293267989,
+    "wof:lastmodified":1536603445,
+    "wof:name":"Adiana",
+    "wof:parent_id":1108691457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.81667,
+    12.45,
+    -15.81667,
+    12.45
+],
+  "geometry": {"coordinates":[-15.81667,12.45],"type":"Point"}
+}

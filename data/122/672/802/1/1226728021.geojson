@@ -1,0 +1,67 @@
+{
+  "id": 1226728021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.1125,12.78139,-15.1125,12.78139",
+    "geom:latitude":12.78139,
+    "geom:longitude":-15.1125,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kandio Kamako",
+    "gn:country_code":"SN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250866,
+    "gn:latitude":12.78139,
+    "gn:longitude":-15.1125,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Kandio Kamako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250866
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"85d0aa4f8090a4c78665390215235d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1226728021,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1226728021,
+    "wof:lastmodified":1536740901,
+    "wof:name":"Kandio Kamako",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.1125,
+    12.78139,
+    -15.1125,
+    12.78139
+],
+  "geometry": {"coordinates":[-15.1125,12.78139],"type":"Point"}
+}

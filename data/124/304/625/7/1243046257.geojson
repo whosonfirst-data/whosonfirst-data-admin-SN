@@ -1,0 +1,67 @@
+{
+  "id": 1243046257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.00917,12.69222,-15.00917,12.69222",
+    "geom:latitude":12.69222,
+    "geom:longitude":-15.00917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sare Manson",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245936,
+    "gn:latitude":12.69222,
+    "gn:longitude":-15.00917,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sar\u00e9 Manson",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245936
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8429d37fd0b6d795252019d8707a6002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1243046257,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1243046257,
+    "wof:lastmodified":1536884959,
+    "wof:name":"Sare Manson",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.00917,
+    12.69222,
+    -15.00917,
+    12.69222
+],
+  "geometry": {"coordinates":[-15.00917,12.69222],"type":"Point"}
+}

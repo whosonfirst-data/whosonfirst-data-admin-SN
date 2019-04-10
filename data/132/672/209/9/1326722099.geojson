@@ -1,0 +1,67 @@
+{
+  "id": 1326722099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.01853,14.85705,-17.01853,14.85705",
+    "geom:latitude":14.85705,
+    "geom:longitude":-17.01853,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Medine",
+    "gn:country_code":"SN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248411,
+    "gn:latitude":14.85705,
+    "gn:longitude":-17.01853,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"M\u00e9dine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248411
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7e66daba331097a11cd2c54739d342c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1326722099,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1326722099,
+    "wof:lastmodified":1536710750,
+    "wof:name":"Medine",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.01853,
+    14.85705,
+    -17.01853,
+    14.85705
+],
+  "geometry": {"coordinates":[-17.01853,14.85705],"type":"Point"}
+}

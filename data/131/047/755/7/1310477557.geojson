@@ -1,0 +1,67 @@
+{
+  "id": 1310477557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.70222,12.9575,-15.70222,12.9575",
+    "geom:latitude":12.9575,
+    "geom:longitude":-15.70222,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Koussaor",
+    "gn:country_code":"SN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249488,
+    "gn:latitude":12.9575,
+    "gn:longitude":-15.70222,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Koussaor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249488
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3c1c4641d3714918e6035f06ed2efb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691465,
+            "locality_id":1310477557,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1310477557,
+    "wof:lastmodified":1536957254,
+    "wof:name":"Koussaor",
+    "wof:parent_id":1108691465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.70222,
+    12.9575,
+    -15.70222,
+    12.9575
+],
+  "geometry": {"coordinates":[-15.70222,12.9575],"type":"Point"}
+}

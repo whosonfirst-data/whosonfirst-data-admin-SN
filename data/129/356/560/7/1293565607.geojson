@@ -1,0 +1,71 @@
+{
+  "id": 1293565607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.5609,15.3167,-16.5609,15.3167",
+    "geom:latitude":15.3167,
+    "geom:longitude":-16.5609,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Talene Gaye",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245015,
+    "gn:latitude":15.3167,
+    "gn:longitude":-16.5609,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tal\u00e8ne Gaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tal\u00e9ne",
+        "Tal\u00e8ne Gaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245015
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"233435745df0208bd01c8ac85aca211d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1293565607,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1293565607,
+    "wof:lastmodified":1537700972,
+    "wof:name":"Talene Gaye",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.5609,
+    15.3167,
+    -16.5609,
+    15.3167
+],
+  "geometry": {"coordinates":[-16.5609,15.3167],"type":"Point"}
+}

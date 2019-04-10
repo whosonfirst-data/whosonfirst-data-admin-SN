@@ -1,0 +1,73 @@
+{
+  "id": 1226625081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.34917,15.86611,-16.34917,15.86611",
+    "geom:latitude":15.86611,
+    "geom:longitude":-16.34917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mbatias Dieye",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254095,
+    "gn:latitude":15.86611,
+    "gn:longitude":-16.34917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbatias Di\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bathias Di\u00e8ye",
+        "Bathias",
+        "Mbatias Di\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254095
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"229ccbf7ac3a215e03acb9053edb583e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691511,
+            "locality_id":1226625081,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1226625081,
+    "wof:lastmodified":1537701153,
+    "wof:name":"Mbatias Dieye",
+    "wof:parent_id":1108691511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.34917,
+    15.86611,
+    -16.34917,
+    15.86611
+],
+  "geometry": {"coordinates":[-16.34917,15.86611],"type":"Point"}
+}

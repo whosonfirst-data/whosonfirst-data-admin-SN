@@ -1,0 +1,67 @@
+{
+  "id": 1276119835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.41667,14.78333,-16.41667,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":-16.41667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Keur Ale",
+    "gn:country_code":"SN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250542,
+    "gn:latitude":14.78333,
+    "gn:longitude":-16.41667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Keur Al\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        1108691495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250542
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7fc4b00c503d2fb3f4ff06c780ba1c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691495,
+            "locality_id":1276119835,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1276119835,
+    "wof:lastmodified":1537061913,
+    "wof:name":"Keur Ale",
+    "wof:parent_id":1108691495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.41667,
+    14.78333,
+    -16.41667,
+    14.78333
+],
+  "geometry": {"coordinates":[-16.41667,14.78333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327416645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.49164,15.88751,-13.49164,15.88751",
+    "geom:latitude":15.88751,
+    "geom:longitude":-13.49164,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Boki Diave",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253736,
+    "gn:latitude":15.88751,
+    "gn:longitude":-13.49164,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Boki Diav\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253736
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ebed54090a70c58508b51f48556b971a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1327416645,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1327416645,
+    "wof:lastmodified":1536703834,
+    "wof:name":"Boki Diave",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.49164,
+    15.88751,
+    -13.49164,
+    15.88751
+],
+  "geometry": {"coordinates":[-13.49164,15.88751],"type":"Point"}
+}

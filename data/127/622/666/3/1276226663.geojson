@@ -1,0 +1,67 @@
+{
+  "id": 1276226663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.79143,14.24702,-12.79143,14.24702",
+    "geom:latitude":14.24702,
+    "geom:longitude":-12.79143,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sintiou Baba",
+    "gn:country_code":"SN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647990,
+    "gn:latitude":14.24702,
+    "gn:longitude":-12.79143,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Sintiou Baba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647990
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0fd7fb67dda22e3f2a9433907cb4ca49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1276226663,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1276226663,
+    "wof:lastmodified":1536922428,
+    "wof:name":"Sintiou Baba",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.79143,
+    14.24702,
+    -12.79143,
+    14.24702
+],
+  "geometry": {"coordinates":[-12.79143,14.24702],"type":"Point"}
+}

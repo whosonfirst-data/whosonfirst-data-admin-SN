@@ -1,0 +1,67 @@
+{
+  "id": 1310522713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.66137,14.81957,-16.66137,14.81957",
+    "geom:latitude":14.81957,
+    "geom:longitude":-16.66137,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Toubatoule",
+    "gn:country_code":"SN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205335,
+    "gn:latitude":14.81957,
+    "gn:longitude":-16.66137,
+    "gn:modification_date":"2016-07-29",
+    "gn:name":"Toubatoule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205335
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"32007fb42dc2730aa2be0d2d3a7e2c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1310522713,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1310522713,
+    "wof:lastmodified":1536891775,
+    "wof:name":"Toubatoule",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.66137,
+    14.81957,
+    -16.66137,
+    14.81957
+],
+  "geometry": {"coordinates":[-16.66137,14.81957],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226544807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.76619,13.67263,-12.76619,13.67263",
+    "geom:latitude":13.67263,
+    "geom:longitude":-12.76619,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kotie Nord",
+    "gn:country_code":"SN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249672,
+    "gn:latitude":13.67263,
+    "gn:longitude":-12.76619,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Koti\u00e9 Nord",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249672
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f946a2ed17f739a88da159dab510e52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1226544807,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1226544807,
+    "wof:lastmodified":1536998590,
+    "wof:name":"Kotie Nord",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.76619,
+    13.67263,
+    -12.76619,
+    13.67263
+],
+  "geometry": {"coordinates":[-12.76619,13.67263],"type":"Point"}
+}

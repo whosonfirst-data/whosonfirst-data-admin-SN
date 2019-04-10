@@ -1,0 +1,67 @@
+{
+  "id": 1260146621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.70806,12.99556,-15.70806,12.99556",
+    "geom:latitude":12.99556,
+    "geom:longitude":-15.70806,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Inor",
+    "gn:country_code":"SN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251099,
+    "gn:latitude":12.99556,
+    "gn:longitude":-15.70806,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Inor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251099
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"928e96b6807e94cd0b9c95961be8fae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691465,
+            "locality_id":1260146621,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1260146621,
+    "wof:lastmodified":1536898477,
+    "wof:name":"Inor",
+    "wof:parent_id":1108691465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.70806,
+    12.99556,
+    -15.70806,
+    12.99556
+],
+  "geometry": {"coordinates":[-15.70806,12.99556],"type":"Point"}
+}

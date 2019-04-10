@@ -1,0 +1,67 @@
+{
+  "id": 1293552925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4398,12.824,-12.4398,12.824",
+    "geom:latitude":12.824,
+    "geom:longitude":-12.4398,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Neguebakho",
+    "gn:country_code":"SN",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917743,
+    "gn:latitude":12.824,
+    "gn:longitude":-12.4398,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"N\u00e9gu\u00e9bakho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917743
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"11a95e6592f3b7ade987fce08c857d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691463,
+            "locality_id":1293552925,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1293552925,
+    "wof:lastmodified":1536693137,
+    "wof:name":"Neguebakho",
+    "wof:parent_id":1108691463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4398,
+    12.824,
+    -12.4398,
+    12.824
+],
+  "geometry": {"coordinates":[-12.4398,12.824],"type":"Point"}
+}

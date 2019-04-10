@@ -1,0 +1,72 @@
+{
+  "id": 1344151605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.56667,15.1,-16.56667,15.1",
+    "geom:latitude":15.1,
+    "geom:longitude":-16.56667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gati",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251619,
+    "gn:latitude":15.1,
+    "gn:longitude":-16.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gatti",
+        "Gati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251619
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"610f20d9d31722ff2e753113dcd8011c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1344151605,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1344151605,
+    "wof:lastmodified":1537701106,
+    "wof:name":"Gati",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.56667,
+    15.1,
+    -16.56667,
+    15.1
+],
+  "geometry": {"coordinates":[-16.56667,15.1],"type":"Point"}
+}

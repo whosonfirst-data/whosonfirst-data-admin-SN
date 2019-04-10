@@ -1,0 +1,67 @@
+{
+  "id": 1293575603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.5686,15.1355,-15.5686,15.1355",
+    "geom:latitude":15.1355,
+    "geom:longitude":-15.5686,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ngassemane",
+    "gn:country_code":"SN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247492,
+    "gn:latitude":15.1355,
+    "gn:longitude":-15.5686,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Ngass\u00e9mane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247492
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"cbde3b3e777bfdbcd3dcfc17a013fbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1293575603,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1293575603,
+    "wof:lastmodified":1536660155,
+    "wof:name":"Ngassemane",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.5686,
+    15.1355,
+    -15.5686,
+    15.1355
+],
+  "geometry": {"coordinates":[-15.5686,15.1355],"type":"Point"}
+}

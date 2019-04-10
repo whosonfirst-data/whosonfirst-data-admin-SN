@@ -1,0 +1,61 @@
+{
+  "id": 1209038243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.45464,14.38146,-12.45464,14.38146",
+    "geom:latitude":14.38146,
+    "geom:longitude":-12.45464,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gourel Bouli",
+    "gn:country_code":"SN",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6648040,
+    "gn:latitude":14.38146,
+    "gn:longitude":-12.45464,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Gourel Bouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6648040
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d6aa2962321c7a12ad7d103e8c81e390",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209038243
+        }
+    ],
+    "wof:id":1209038243,
+    "wof:lastmodified":1536299630,
+    "wof:name":"Gourel Bouli",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.45464,
+    14.38146,
+    -12.45464,
+    14.38146
+],
+  "geometry": {"coordinates":[-12.45464,14.38146],"type":"Point"}
+}

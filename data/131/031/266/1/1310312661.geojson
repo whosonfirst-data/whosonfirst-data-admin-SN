@@ -1,0 +1,72 @@
+{
+  "id": 1310312661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.21667,14.83333,-16.21667,14.83333",
+    "geom:latitude":14.83333,
+    "geom:longitude":-16.21667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bohene",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253766,
+    "gn:latitude":14.83333,
+    "gn:longitude":-16.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Boh\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbob\u00e9ne",
+        "Boh\u00e8ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        1108691493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253766
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"455603b1b8ac8fe5cbfee3b8190b70fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691493,
+            "locality_id":1310312661,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1310312661,
+    "wof:lastmodified":1537701147,
+    "wof:name":"Bohene",
+    "wof:parent_id":1108691493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.21667,
+    14.83333,
+    -16.21667,
+    14.83333
+],
+  "geometry": {"coordinates":[-16.21667,14.83333],"type":"Point"}
+}

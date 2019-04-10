@@ -1,0 +1,61 @@
+{
+  "id": 1209416979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.98333,14.9,-15.98333,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-15.98333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Medina Toure",
+    "gn:country_code":"SN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248415,
+    "gn:latitude":14.9,
+    "gn:longitude":-15.98333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"M\u00e9dina Tour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248415
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"782c6a9f68fea31ef52a393a69b40aff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209416979
+        }
+    ],
+    "wof:id":1209416979,
+    "wof:lastmodified":1536287654,
+    "wof:name":"Medina Toure",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.98333,
+    14.9,
+    -15.98333,
+    14.9
+],
+  "geometry": {"coordinates":[-15.98333,14.9],"type":"Point"}
+}

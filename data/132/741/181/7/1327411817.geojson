@@ -1,0 +1,72 @@
+{
+  "id": 1327411817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.74317,13.49772,-13.74317,13.49772",
+    "geom:latitude":13.49772,
+    "geom:longitude":-13.74317,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gouloumbou",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251449,
+    "gn:latitude":13.49772,
+    "gn:longitude":-13.74317,
+    "gn:modification_date":"2012-06-18",
+    "gn:name":"Gouloumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gouloumbo",
+        "Gouloumbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251449
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8c5a7d6421810b2004a49c7341e1d513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1327411817,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1327411817,
+    "wof:lastmodified":1537701101,
+    "wof:name":"Gouloumbou",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.74317,
+    13.49772,
+    -13.74317,
+    13.49772
+],
+  "geometry": {"coordinates":[-13.74317,13.49772],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226264109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.05333,14.72333,-17.05333,14.72333",
+    "geom:latitude":14.72333,
+    "geom:longitude":-17.05333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lene",
+    "gn:country_code":"SN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595520,
+    "gn:latitude":14.72333,
+    "gn:longitude":-17.05333,
+    "gn:modification_date":"2002-12-11",
+    "gn:name":"L\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595520
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4eebe31e2314ad902cc2d5f6c8ecc9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1226264109,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1226264109,
+    "wof:lastmodified":1536907492,
+    "wof:name":"Lene",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.05333,
+    14.72333,
+    -17.05333,
+    14.72333
+],
+  "geometry": {"coordinates":[-17.05333,14.72333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360164947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.6,13.06667,-16.6,13.06667",
+    "geom:latitude":13.06667,
+    "geom:longitude":-16.6,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Missira",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248329,
+    "gn:latitude":13.06667,
+    "gn:longitude":-16.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Missira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Missara",
+        "Missira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248329
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"cefb6943031fe17aeba2e4344b3d2b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1360164947,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1360164947,
+    "wof:lastmodified":1537701041,
+    "wof:name":"Missira",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.6,
+    13.06667,
+    -16.6,
+    13.06667
+],
+  "geometry": {"coordinates":[-16.6,13.06667],"type":"Point"}
+}

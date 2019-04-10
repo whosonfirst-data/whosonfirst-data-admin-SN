@@ -1,0 +1,67 @@
+{
+  "id": 1226414035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.13621,13.08656,-12.13621,13.08656",
+    "geom:latitude":13.08656,
+    "geom:longitude":-12.13621,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kinemmba",
+    "gn:country_code":"SN",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249881,
+    "gn:latitude":13.08656,
+    "gn:longitude":-12.13621,
+    "gn:modification_date":"2008-04-23",
+    "gn:name":"Kinemmba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249881
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"6a24409385d82b9a7345dde163836b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1226414035,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1226414035,
+    "wof:lastmodified":1536691450,
+    "wof:name":"Kinemmba",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.13621,
+    13.08656,
+    -12.13621,
+    13.08656
+],
+  "geometry": {"coordinates":[-12.13621,13.08656],"type":"Point"}
+}

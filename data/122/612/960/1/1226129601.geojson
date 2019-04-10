@@ -1,0 +1,68 @@
+{
+  "id": 1226129601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.73333,13.0,-16.73333,13.0",
+    "geom:latitude":13.0,
+    "geom:longitude":-16.73333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Abene",
+    "gn:country_code":"SN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8449410,
+    "gn:latitude":13.0,
+    "gn:longitude":-16.73333,
+    "gn:modification_date":"2013-01-14",
+    "gn:name":"Abene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8449410,
+        "wk:page":"Ab%C3%A9n%C3%A9"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"64cfc7aca395b31b54adfb5ecf0f1d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1226129601,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1226129601,
+    "wof:lastmodified":1537573726,
+    "wof:name":"Abene",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.73333,
+    13.0,
+    -16.73333,
+    13.0
+],
+  "geometry": {"coordinates":[-16.73333,13.0],"type":"Point"}
+}

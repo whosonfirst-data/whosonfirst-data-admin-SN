@@ -1,0 +1,67 @@
+{
+  "id": 1260253459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.41667,16.53333,-15.41667,16.53333",
+    "geom:latitude":16.53333,
+    "geom:longitude":-15.41667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Keur Biram",
+    "gn:country_code":"SN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250453,
+    "gn:latitude":16.53333,
+    "gn:longitude":-15.41667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Keur Biram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250453
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0e59d4cdfaf3fdc3b19d26a96285ac71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1260253459,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1260253459,
+    "wof:lastmodified":1536752560,
+    "wof:name":"Keur Biram",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.41667,
+    16.53333,
+    -15.41667,
+    16.53333
+],
+  "geometry": {"coordinates":[-15.41667,16.53333],"type":"Point"}
+}

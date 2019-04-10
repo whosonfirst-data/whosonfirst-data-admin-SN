@@ -1,0 +1,72 @@
+{
+  "id": 1226141979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.28631,13.75204,-12.28631,13.75204",
+    "geom:latitude":13.75204,
+    "geom:longitude":-12.28631,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gouloungua",
+    "gn:country_code":"SN",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251447,
+    "gn:latitude":13.75204,
+    "gn:longitude":-12.28631,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gouloungua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goulonga",
+        "Goulounga",
+        "Gouloungua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251447
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f535d95c27ac83ac3c6fcbc92e9ac046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1226141979,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1226141979,
+    "wof:lastmodified":1537701101,
+    "wof:name":"Gouloungua",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.28631,
+    13.75204,
+    -12.28631,
+    13.75204
+],
+  "geometry": {"coordinates":[-12.28631,13.75204],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209990263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.255,16.21194,-16.255,16.21194",
+    "geom:latitude":16.21194,
+    "geom:longitude":-16.255,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ndiougue Bress",
+    "gn:country_code":"SN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596009,
+    "gn:latitude":16.21194,
+    "gn:longitude":-16.255,
+    "gn:modification_date":"2002-12-11",
+    "gn:name":"Ndiougue Bress",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596009
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3a2ad595f2fc788b58cc117b3e10b6c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1209990263,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1209990263,
+    "wof:lastmodified":1536386739,
+    "wof:name":"Ndiougue Bress",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.255,
+    16.21194,
+    -16.255,
+    16.21194
+],
+  "geometry": {"coordinates":[-16.255,16.21194],"type":"Point"}
+}

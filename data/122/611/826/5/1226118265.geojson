@@ -1,0 +1,67 @@
+{
+  "id": 1226118265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.94,12.67139,-15.94,12.67139",
+    "geom:latitude":12.67139,
+    "geom:longitude":-15.94,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sibikouroto",
+    "gn:country_code":"SN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245603,
+    "gn:latitude":12.67139,
+    "gn:longitude":-15.94,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sibikouroto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245603
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"bf60ef1b132c5175afdd441fc0d554e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1226118265,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1226118265,
+    "wof:lastmodified":1536618341,
+    "wof:name":"Sibikouroto",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.94,
+    12.67139,
+    -15.94,
+    12.67139
+],
+  "geometry": {"coordinates":[-15.94,12.67139],"type":"Point"}
+}

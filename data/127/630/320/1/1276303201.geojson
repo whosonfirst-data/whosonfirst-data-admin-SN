@@ -1,0 +1,67 @@
+{
+  "id": 1276303201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.58194,16.18528,-15.58194,16.18528",
+    "geom:latitude":16.18528,
+    "geom:longitude":-15.58194,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mbelogne Goude",
+    "gn:country_code":"SN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248584,
+    "gn:latitude":16.18528,
+    "gn:longitude":-15.58194,
+    "gn:modification_date":"2007-06-08",
+    "gn:name":"Mb\u00e9logne Goud\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248584
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8f8ca2a7a0f0ff4ce717474a7f9e47e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1276303201,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1276303201,
+    "wof:lastmodified":1536818286,
+    "wof:name":"Mbelogne Goude",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.58194,
+    16.18528,
+    -15.58194,
+    16.18528
+],
+  "geometry": {"coordinates":[-15.58194,16.18528],"type":"Point"}
+}

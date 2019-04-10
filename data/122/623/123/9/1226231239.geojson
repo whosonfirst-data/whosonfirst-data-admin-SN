@@ -1,0 +1,68 @@
+{
+  "id": 1226231239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.14967,14.08305,-15.14967,14.08305",
+    "geom:latitude":14.08305,
+    "geom:longitude":-15.14967,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Malem Hodar",
+    "gn:country_code":"SN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427368,
+    "gn:latitude":14.08305,
+    "gn:longitude":-15.14967,
+    "gn:modification_date":"2017-01-11",
+    "gn:name":"Malem Hodar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427368,
+        "wk:page":"Malem_Hodar"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f5cee75f99c1959fab0740f5ade62267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691489,
+            "locality_id":1226231239,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1226231239,
+    "wof:lastmodified":1537573726,
+    "wof:name":"Malem Hodar",
+    "wof:parent_id":1108691489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.14967,
+    14.08305,
+    -15.14967,
+    14.08305
+],
+  "geometry": {"coordinates":[-15.14967,14.08305],"type":"Point"}
+}

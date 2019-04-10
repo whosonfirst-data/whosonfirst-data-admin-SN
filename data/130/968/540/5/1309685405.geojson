@@ -1,0 +1,67 @@
+{
+  "id": 1309685405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.12942,15.37,-13.12942,15.37",
+    "geom:latitude":15.37,
+    "geom:longitude":-13.12942,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Banadie",
+    "gn:country_code":"SN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254305,
+    "gn:latitude":15.37,
+    "gn:longitude":-13.12942,
+    "gn:modification_date":"2007-08-02",
+    "gn:name":"Banadi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254305
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"07d019ac25b4a157bf9118e1bb55841a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1309685405,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1309685405,
+    "wof:lastmodified":1536604806,
+    "wof:name":"Banadie",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.12942,
+    15.37,
+    -13.12942,
+    15.37
+],
+  "geometry": {"coordinates":[-13.12942,15.37],"type":"Point"}
+}

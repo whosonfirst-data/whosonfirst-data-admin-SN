@@ -1,0 +1,71 @@
+{
+  "id": 1310572735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.5472,12.3869,-12.5472,12.3869",
+    "geom:latitude":12.3869,
+    "geom:longitude":-12.5472,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nepen Peul",
+    "gn:country_code":"SN",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247557,
+    "gn:latitude":12.3869,
+    "gn:longitude":-12.5472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"N\u00e9pen Peul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9pin Peul",
+        "N\u00e9pen Peul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247557
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"dad88fb92e9cee26b81ffc9707a3fa6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691455,
+            "locality_id":1310572735,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1310572735,
+    "wof:lastmodified":1537701023,
+    "wof:name":"Nepen Peul",
+    "wof:parent_id":1108691455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.5472,
+    12.3869,
+    -12.5472,
+    12.3869
+],
+  "geometry": {"coordinates":[-12.5472,12.3869],"type":"Point"}
+}

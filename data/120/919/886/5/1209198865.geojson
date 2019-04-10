@@ -1,0 +1,66 @@
+{
+  "id": 1209198865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.05,14.43333,-16.05,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":-16.05,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ouadiour",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247076,
+    "gn:latitude":14.43333,
+    "gn:longitude":-16.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ouadiour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouadio",
+        "Ouadiour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247076
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b8b72cd25acf09ccd013dc67ab15bc08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209198865
+        }
+    ],
+    "wof:id":1209198865,
+    "wof:lastmodified":1537701011,
+    "wof:name":"Ouadiour",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.05,
+    14.43333,
+    -16.05,
+    14.43333
+],
+  "geometry": {"coordinates":[-16.05,14.43333],"type":"Point"}
+}

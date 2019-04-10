@@ -1,0 +1,67 @@
+{
+  "id": 1310281397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.63333,15.28333,-16.63333,15.28333",
+    "geom:latitude":15.28333,
+    "geom:longitude":-16.63333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Darou Dia",
+    "gn:country_code":"SN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253216,
+    "gn:latitude":15.28333,
+    "gn:longitude":-16.63333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Darou Dia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253216
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"06f6121d95a2c398380d0998f5f967b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1310281397,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1310281397,
+    "wof:lastmodified":1536742485,
+    "wof:name":"Darou Dia",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.63332999999999,
+    15.28333,
+    -16.63332999999999,
+    15.28333
+],
+  "geometry": {"coordinates":[-16.63332999999999,15.28333],"type":"Point"}
+}

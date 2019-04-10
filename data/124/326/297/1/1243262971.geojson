@@ -1,0 +1,67 @@
+{
+  "id": 1243262971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.68822,13.77423,-13.68822,13.77423",
+    "geom:latitude":13.77423,
+    "geom:longitude":-13.68822,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gourel Diadie",
+    "gn:country_code":"SN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497856,
+    "gn:latitude":13.77423,
+    "gn:longitude":-13.68822,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Gourel Diadie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497856
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a1f016d0ec87a4afb021aa4ea336963f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1243262971,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1243262971,
+    "wof:lastmodified":1537067108,
+    "wof:name":"Gourel Diadie",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.68822,
+    13.77423,
+    -13.68822,
+    13.77423
+],
+  "geometry": {"coordinates":[-13.68822,13.77423],"type":"Point"}
+}

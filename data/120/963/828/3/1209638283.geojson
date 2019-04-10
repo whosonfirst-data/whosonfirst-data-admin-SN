@@ -1,0 +1,61 @@
+{
+  "id": 1209638283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.98813,14.92063,-12.98813,14.92063",
+    "geom:latitude":14.92063,
+    "geom:longitude":-12.98813,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gourel Samba Ketieli",
+    "gn:country_code":"SN",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647963,
+    "gn:latitude":14.92063,
+    "gn:longitude":-12.98813,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Gourel Samba K\u00e9ti\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647963
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a07d6041b5193e9d3d24f2d09a8b4874",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209638283
+        }
+    ],
+    "wof:id":1209638283,
+    "wof:lastmodified":1536280969,
+    "wof:name":"Gourel Samba Ketieli",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.98813,
+    14.92063,
+    -12.98813,
+    14.92063
+],
+  "geometry": {"coordinates":[-12.98813,14.92063],"type":"Point"}
+}

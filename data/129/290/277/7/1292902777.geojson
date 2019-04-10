@@ -1,0 +1,67 @@
+{
+  "id": 1292902777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.77754,14.26014,-12.77754,14.26014",
+    "geom:latitude":14.26014,
+    "geom:longitude":-12.77754,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mbailadji",
+    "gn:country_code":"SN",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248707,
+    "gn:latitude":14.26014,
+    "gn:longitude":-12.77754,
+    "gn:modification_date":"2007-09-18",
+    "gn:name":"Mba\u00efladji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248707
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"84dc4ab0c17837c3536e84f747461afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1292902777,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1292902777,
+    "wof:lastmodified":1536634598,
+    "wof:name":"Mbailadji",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.77754,
+    14.26014,
+    -12.77754,
+    14.26014
+],
+  "geometry": {"coordinates":[-12.77754,14.26014],"type":"Point"}
+}

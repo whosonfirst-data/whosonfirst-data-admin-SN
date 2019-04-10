@@ -1,0 +1,67 @@
+{
+  "id": 1242873227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.16667,13.53333,-14.16667,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-14.16667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sare Eli",
+    "gn:country_code":"SN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246045,
+    "gn:latitude":13.53333,
+    "gn:longitude":-14.16667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sar\u00e9 Eli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890413179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246045
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"09d8ef2d745bd67e4b413a31ffb047ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413179,
+            "locality_id":1242873227,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":1242873227,
+    "wof:lastmodified":1536636718,
+    "wof:name":"Sare Eli",
+    "wof:parent_id":890413179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.16667,
+    13.53333,
+    -14.16667,
+    13.53333
+],
+  "geometry": {"coordinates":[-14.16667,13.53333],"type":"Point"}
+}

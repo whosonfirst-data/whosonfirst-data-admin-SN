@@ -1,0 +1,67 @@
+{
+  "id": 1309882211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.3657,15.6723,-16.3657,15.6723",
+    "geom:latitude":15.6723,
+    "geom:longitude":-16.3657,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbaye Mbaye",
+    "gn:country_code":"SN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248634,
+    "gn:latitude":15.6723,
+    "gn:longitude":-16.3657,
+    "gn:modification_date":"2008-12-03",
+    "gn:name":"Mbaye Mbaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248634
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7098faf065e0b4e1aa50e25853ffd765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1309882211,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1309882211,
+    "wof:lastmodified":1536820176,
+    "wof:name":"Mbaye Mbaye",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.3657,
+    15.6723,
+    -16.3657,
+    15.6723
+],
+  "geometry": {"coordinates":[-16.3657,15.6723],"type":"Point"}
+}

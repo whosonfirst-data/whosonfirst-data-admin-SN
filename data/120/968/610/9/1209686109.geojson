@@ -1,0 +1,61 @@
+{
+  "id": 1209686109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.96966,15.48587,-12.96966,15.48587",
+    "geom:latitude":15.48587,
+    "geom:longitude":-12.96966,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ornolde",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6611633,
+    "gn:latitude":15.48587,
+    "gn:longitude":-12.96966,
+    "gn:modification_date":"2007-11-13",
+    "gn:name":"Ornold\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6611633
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"10da1ba164de165f9487fe2f330eff0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209686109
+        }
+    ],
+    "wof:id":1209686109,
+    "wof:lastmodified":1536279405,
+    "wof:name":"Ornolde",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.96966,
+    15.485870000000002,
+    -12.96966,
+    15.485870000000002
+],
+  "geometry": {"coordinates":[-12.96966,15.48587],"type":"Point"}
+}

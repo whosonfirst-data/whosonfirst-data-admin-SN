@@ -1,0 +1,72 @@
+{
+  "id": 1276857665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.31667,15.46667,-16.31667,15.46667",
+    "geom:latitude":15.46667,
+    "geom:longitude":-16.31667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bakhere",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254436,
+    "gn:latitude":15.46667,
+    "gn:longitude":-16.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bakh\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakr\u00e8re",
+        "Bakh\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254436
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"dc4502e423ccdfb78e292364b8155541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1276857665,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1276857665,
+    "wof:lastmodified":1537701159,
+    "wof:name":"Bakhere",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.31667,
+    15.46667,
+    -16.31667,
+    15.46667
+],
+  "geometry": {"coordinates":[-16.31667,15.46667],"type":"Point"}
+}

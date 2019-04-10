@@ -1,0 +1,82 @@
+{
+  "id": 421205413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.93333,13.91667,-15.93333,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":-15.93333,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "N\u2019Dofan"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2247660,
+    "qs:gn_pop":9946,
+    "qs:name":"Ndofane",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Kaolack",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":263072,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1416146,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677011,
+        421181825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247660,
+        "gp:id":1416146,
+        "qs:id":263072
+    },
+    "wof:country":"SN",
+    "wof:created":1459010224,
+    "wof:geomhash":"d309e88bdc2b4fb652de6fc82d14e5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421181825,
+            "locality_id":421205413,
+            "region_id":85677011
+        }
+    ],
+    "wof:id":421205413,
+    "wof:lastmodified":1505340794,
+    "wof:name":"Ndofane",
+    "wof:parent_id":421181825,
+    "wof:placetype":"locality",
+    "wof:population":9946,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.93333,
+    13.91667,
+    -15.93333,
+    13.91667
+],
+  "geometry": {"coordinates":[-15.93333,13.91667],"type":"Point"}
+}

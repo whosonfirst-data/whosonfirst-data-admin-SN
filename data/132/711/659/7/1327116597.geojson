@@ -1,0 +1,67 @@
+{
+  "id": 1327116597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.51667,13.8,-15.51667,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":-15.51667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ndakhar",
+    "gn:country_code":"SN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248106,
+    "gn:latitude":13.8,
+    "gn:longitude":-15.51667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ndakhar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248106
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d6a2ea777fe44d0f354a1a0311e8d86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691481,
+            "locality_id":1327116597,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1327116597,
+    "wof:lastmodified":1536637886,
+    "wof:name":"Ndakhar",
+    "wof:parent_id":1108691481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.51667,
+    13.8,
+    -15.51667,
+    13.8
+],
+  "geometry": {"coordinates":[-15.51667,13.8],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310491293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.53333,14.43333,-16.53333,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":-16.53333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mbetit Gouye",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248565,
+    "gn:latitude":14.43333,
+    "gn:longitude":-16.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbetit Gouye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbetite",
+        "Mbetit Gouye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248565
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4b5e39a7751b0bce7115971c670ff6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187935,
+            "locality_id":1310491293,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":1310491293,
+    "wof:lastmodified":1537701047,
+    "wof:name":"Mbetit Gouye",
+    "wof:parent_id":421187935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.53333,
+    14.43333,
+    -16.53333,
+    14.43333
+],
+  "geometry": {"coordinates":[-16.53333,14.43333],"type":"Point"}
+}

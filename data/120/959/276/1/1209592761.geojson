@@ -1,0 +1,61 @@
+{
+  "id": 1209592761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.47833,12.55361,-16.47833,12.55361",
+    "geom:latitude":12.55361,
+    "geom:longitude":-16.47833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Etama",
+    "gn:country_code":"SN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252023,
+    "gn:latitude":12.55361,
+    "gn:longitude":-16.47833,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Etama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252023
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4bdfcfd154b9006a00ad2b6e7ff7642f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209592761
+        }
+    ],
+    "wof:id":1209592761,
+    "wof:lastmodified":1536282425,
+    "wof:name":"Etama",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.47833,
+    12.55361,
+    -16.47833,
+    12.55361
+],
+  "geometry": {"coordinates":[-16.47833,12.55361],"type":"Point"}
+}

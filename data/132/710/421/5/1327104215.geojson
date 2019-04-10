@@ -1,0 +1,67 @@
+{
+  "id": 1327104215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.06667,14.11667,-15.06667,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":-15.06667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Diayene",
+    "gn:country_code":"SN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252598,
+    "gn:latitude":14.11667,
+    "gn:longitude":-15.06667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Diay\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        421166855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252598
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"6021032089f98fc73f841642426a9a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421166855,
+            "locality_id":1327104215,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1327104215,
+    "wof:lastmodified":1536657083,
+    "wof:name":"Diayene",
+    "wof:parent_id":421166855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.06667,
+    14.11667,
+    -15.06667,
+    14.11667
+],
+  "geometry": {"coordinates":[-15.06667,14.11667],"type":"Point"}
+}

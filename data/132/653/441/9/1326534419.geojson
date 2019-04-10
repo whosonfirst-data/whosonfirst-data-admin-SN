@@ -1,0 +1,74 @@
+{
+  "id": 1326534419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.93679,14.09662,-12.93679,14.09662",
+    "geom:latitude":14.09662,
+    "geom:longitude":-12.93679,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bouingeul Bamba",
+    "gn:country_code":"SN",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253618,
+    "gn:latitude":14.09662,
+    "gn:longitude":-12.93679,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bouingeul Bamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouigueul Bamba",
+        "Bouigheul Bamba",
+        "Boutigheul-Bamba",
+        "Bou\u00efguel Banba",
+        "Bouingeul Bamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253618
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"035ed1c5250be9ef8ddc7bdda029b375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1326534419,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1326534419,
+    "wof:lastmodified":1537701145,
+    "wof:name":"Bouingeul Bamba",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.93679,
+    14.09662,
+    -12.93679,
+    14.09662
+],
+  "geometry": {"coordinates":[-12.93679,14.09662],"type":"Point"}
+}

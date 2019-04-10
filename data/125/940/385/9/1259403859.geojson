@@ -1,0 +1,71 @@
+{
+  "id": 1259403859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.07633,14.72159,-17.07633,14.72159",
+    "geom:latitude":14.72159,
+    "geom:longitude":-17.07633,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Keur Dali Cisse",
+    "gn:country_code":"SN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595513,
+    "gn:latitude":14.72159,
+    "gn:longitude":-17.07633,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Keur Dali Ciss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keur Dali Ciss\u00e9",
+        "Keur Dali Siss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595513
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7ee29ae54f08ac1cda731c903707abe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1259403859,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1259403859,
+    "wof:lastmodified":1537701168,
+    "wof:name":"Keur Dali Cisse",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.07633,
+    14.72159,
+    -17.07633,
+    14.72159
+],
+  "geometry": {"coordinates":[-17.07633,14.72159],"type":"Point"}
+}

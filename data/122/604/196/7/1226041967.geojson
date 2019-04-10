@@ -1,0 +1,68 @@
+{
+  "id": 1226041967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.21659,14.45668,-12.21659,14.45668",
+    "geom:latitude":14.45668,
+    "geom:longitude":-12.21659,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kidira",
+    "gn:country_code":"SN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249892,
+    "gn:latitude":14.45668,
+    "gn:longitude":-12.21659,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kidira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249892,
+        "wk:page":"Kidira"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"177add8647936d5804e648c05eb235df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1226041967,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1226041967,
+    "wof:lastmodified":1537573715,
+    "wof:name":"Kidira",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.21659,
+    14.45668,
+    -12.21659,
+    14.45668
+],
+  "geometry": {"coordinates":[-12.21659,14.45668],"type":"Point"}
+}

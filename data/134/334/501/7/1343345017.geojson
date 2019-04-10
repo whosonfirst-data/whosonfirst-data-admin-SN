@@ -1,0 +1,67 @@
+{
+  "id": 1343345017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.5857,15.9895,-14.5857,15.9895",
+    "geom:latitude":15.9895,
+    "geom:longitude":-14.5857,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Guente Tielenka",
+    "gn:country_code":"SN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251296,
+    "gn:latitude":15.9895,
+    "gn:longitude":-14.5857,
+    "gn:modification_date":"2008-11-26",
+    "gn:name":"Guent\u00e9 Ti\u00e9l\u00e8nka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251296
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"fc2d59c6fcbbc2dd281d3a3ce11243b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1343345017,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1343345017,
+    "wof:lastmodified":1536913344,
+    "wof:name":"Guente Tielenka",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.5857,
+    15.9895,
+    -14.5857,
+    15.9895
+],
+  "geometry": {"coordinates":[-14.5857,15.9895],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209105277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.59085,13.84142,-12.59085,13.84142",
+    "geom:latitude":13.84142,
+    "geom:longitude":-12.59085,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Diarante",
+    "gn:country_code":"SN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252670,
+    "gn:latitude":13.84142,
+    "gn:longitude":-12.59085,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diarant\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diarend\u00e9",
+        "Diarant\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252670
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"10754276ce4473a9691c03d18ad9928a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209105277
+        }
+    ],
+    "wof:id":1209105277,
+    "wof:lastmodified":1537701127,
+    "wof:name":"Diarante",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.59085,
+    13.84142,
+    -12.59085,
+    13.84142
+],
+  "geometry": {"coordinates":[-12.59085,13.84142],"type":"Point"}
+}

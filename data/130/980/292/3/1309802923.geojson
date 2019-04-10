@@ -1,0 +1,67 @@
+{
+  "id": 1309802923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.92553,14.95542,-12.92553,14.95542",
+    "geom:latitude":14.95542,
+    "geom:longitude":-12.92553,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lista",
+    "gn:country_code":"SN",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647967,
+    "gn:latitude":14.95542,
+    "gn:longitude":-12.92553,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Lista",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647967
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"723f2fec72975bfc2d34878c3d7ceef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1309802923,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1309802923,
+    "wof:lastmodified":1536935966,
+    "wof:name":"Lista",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.92553,
+    14.95542,
+    -12.92553,
+    14.95542
+],
+  "geometry": {"coordinates":[-12.92553,14.95542],"type":"Point"}
+}

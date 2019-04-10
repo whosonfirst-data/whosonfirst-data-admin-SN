@@ -1,0 +1,67 @@
+{
+  "id": 1344132859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.68361,12.49778,-15.68361,12.49778",
+    "geom:latitude":12.49778,
+    "geom:longitude":-15.68361,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sibana",
+    "gn:country_code":"SN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245610,
+    "gn:latitude":12.49778,
+    "gn:longitude":-15.68361,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sibana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245610
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"cd65fd853d682a0dcb7c9b06e0415754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691457,
+            "locality_id":1344132859,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1344132859,
+    "wof:lastmodified":1536771745,
+    "wof:name":"Sibana",
+    "wof:parent_id":1108691457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.68361,
+    12.49778,
+    -15.68361,
+    12.49778
+],
+  "geometry": {"coordinates":[-15.68361,12.49778],"type":"Point"}
+}

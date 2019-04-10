@@ -1,0 +1,67 @@
+{
+  "id": 1193258505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.45,13.08333,-16.45,13.08333",
+    "geom:latitude":13.08333,
+    "geom:longitude":-16.45,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ouniak",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246979,
+    "gn:latitude":13.08333,
+    "gn:longitude":-16.45,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Ouniak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246979
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5d218cac25c863aa7983247815cd31a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1193258505,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1193258505,
+    "wof:lastmodified":1536383419,
+    "wof:name":"Ouniak",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.45,
+    13.08333,
+    -16.45,
+    13.08333
+],
+  "geometry": {"coordinates":[-16.45,13.08333],"type":"Point"}
+}

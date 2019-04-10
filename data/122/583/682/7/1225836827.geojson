@@ -1,0 +1,70 @@
+{
+  "id": 1225836827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.05089,14.82514,-17.05089,14.82514",
+    "geom:latitude":14.82514,
+    "geom:longitude":-17.05089,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Niakhib Wolof",
+    "gn:country_code":"SN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595906,
+    "gn:latitude":14.82514,
+    "gn:longitude":-17.05089,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Niakhib Wolof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niakhib Ouolof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595906
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c3230c62a9b3c47d0af343f6f89cbb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1225836827,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1225836827,
+    "wof:lastmodified":1537701170,
+    "wof:name":"Niakhib Wolof",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.05089,
+    14.82514,
+    -17.05089,
+    14.82514
+],
+  "geometry": {"coordinates":[-17.05089,14.82514],"type":"Point"}
+}

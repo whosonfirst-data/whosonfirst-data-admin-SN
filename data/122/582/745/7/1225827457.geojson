@@ -1,0 +1,67 @@
+{
+  "id": 1225827457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.11667,14.21667,-15.11667,14.21667",
+    "geom:latitude":14.21667,
+    "geom:longitude":-15.11667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Djida",
+    "gn:country_code":"SN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252265,
+    "gn:latitude":14.21667,
+    "gn:longitude":-15.11667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Djida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252265
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d0c1c5c7a33114d25c685e71494e726f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691489,
+            "locality_id":1225827457,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1225827457,
+    "wof:lastmodified":1537038413,
+    "wof:name":"Djida",
+    "wof:parent_id":1108691489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.11667,
+    14.21667,
+    -15.11667,
+    14.21667
+],
+  "geometry": {"coordinates":[-15.11667,14.21667],"type":"Point"}
+}

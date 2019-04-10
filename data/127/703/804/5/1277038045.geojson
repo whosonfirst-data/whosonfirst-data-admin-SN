@@ -1,0 +1,67 @@
+{
+  "id": 1277038045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.2,12.7,-15.2,12.7",
+    "geom:latitude":12.7,
+    "geom:longitude":-15.2,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sientankine",
+    "gn:country_code":"SN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245589,
+    "gn:latitude":12.7,
+    "gn:longitude":-15.2,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sientankine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245589
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8203f2a437eb1565c31b95a30fe19fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691457,
+            "locality_id":1277038045,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1277038045,
+    "wof:lastmodified":1536828252,
+    "wof:name":"Sientankine",
+    "wof:parent_id":1108691457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.2,
+    12.7,
+    -15.2,
+    12.7
+],
+  "geometry": {"coordinates":[-15.2,12.7],"type":"Point"}
+}

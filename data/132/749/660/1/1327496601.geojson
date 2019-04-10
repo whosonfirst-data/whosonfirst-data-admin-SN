@@ -1,0 +1,67 @@
+{
+  "id": 1327496601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.17861,12.73278,-15.17861,12.73278",
+    "geom:latitude":12.73278,
+    "geom:longitude":-15.17861,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Talinkoulou",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245005,
+    "gn:latitude":12.73278,
+    "gn:longitude":-15.17861,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Talinkoulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245005
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"43e19f5af85ee2029ac99b0978989cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691457,
+            "locality_id":1327496601,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1327496601,
+    "wof:lastmodified":1537082781,
+    "wof:name":"Talinkoulou",
+    "wof:parent_id":1108691457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.17861,
+    12.73278,
+    -15.17861,
+    12.73278
+],
+  "geometry": {"coordinates":[-15.17861,12.73278],"type":"Point"}
+}

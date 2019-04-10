@@ -1,0 +1,67 @@
+{
+  "id": 1193266411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.00667,12.88083,-15.00667,12.88083",
+    "geom:latitude":12.88083,
+    "geom:longitude":-15.00667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nemourato",
+    "gn:country_code":"SN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247562,
+    "gn:latitude":12.88083,
+    "gn:longitude":-15.00667,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"N\u00e9mourato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247562
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f032c6644ea7c56e1fcaa830fd4cf07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1193266411,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1193266411,
+    "wof:lastmodified":1536375385,
+    "wof:name":"Nemourato",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.00667,
+    12.88083,
+    -15.00667,
+    12.88083
+],
+  "geometry": {"coordinates":[-15.00667,12.88083],"type":"Point"}
+}

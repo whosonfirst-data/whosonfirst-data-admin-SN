@@ -1,0 +1,61 @@
+{
+  "id": 1209695187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.1694,15.4049,-15.1694,15.4049",
+    "geom:latitude":15.4049,
+    "geom:longitude":-15.1694,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kirma Ham Kore",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249864,
+    "gn:latitude":15.4049,
+    "gn:longitude":-15.1694,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Kirma Ham Kor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249864
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"62d492566321adf8b213a5bcebd5478e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209695187
+        }
+    ],
+    "wof:id":1209695187,
+    "wof:lastmodified":1536279100,
+    "wof:name":"Kirma Ham Kore",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.1694,
+    15.4049,
+    -15.1694,
+    15.4049
+],
+  "geometry": {"coordinates":[-15.1694,15.4049],"type":"Point"}
+}

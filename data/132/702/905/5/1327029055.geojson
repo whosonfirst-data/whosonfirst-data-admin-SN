@@ -1,0 +1,73 @@
+{
+  "id": 1327029055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.56667,14.23333,-13.56667,14.23333",
+    "geom:latitude":14.23333,
+    "geom:longitude":-13.56667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sintiou Bokar Ali",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245416,
+    "gn:latitude":14.23333,
+    "gn:longitude":-13.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sintiou Bokar Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinntiou Bokar Ali",
+        "Sinthiou Bokar Ali",
+        "Sintiou Bokar Ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245416
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d973560d3974249d400a096bb2994f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1327029055,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1327029055,
+    "wof:lastmodified":1537700985,
+    "wof:name":"Sintiou Bokar Ali",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.56667,
+    14.23333,
+    -13.56667,
+    14.23333
+],
+  "geometry": {"coordinates":[-13.56667,14.23333],"type":"Point"}
+}

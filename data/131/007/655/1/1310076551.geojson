@@ -1,0 +1,67 @@
+{
+  "id": 1310076551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.69167,16.25194,-15.69167,16.25194",
+    "geom:latitude":16.25194,
+    "geom:longitude":-15.69167,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mbane Eleana",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248674,
+    "gn:latitude":16.25194,
+    "gn:longitude":-15.69167,
+    "gn:modification_date":"2007-06-08",
+    "gn:name":"Mbane El\u00e9ana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248674
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7065dbb4827c7cf71e15d5b2289ca75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1310076551,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1310076551,
+    "wof:lastmodified":1537036784,
+    "wof:name":"Mbane Eleana",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.69167,
+    16.25194,
+    -15.69167,
+    16.25194
+],
+  "geometry": {"coordinates":[-15.69167,16.25194],"type":"Point"}
+}

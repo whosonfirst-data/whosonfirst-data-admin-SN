@@ -1,0 +1,67 @@
+{
+  "id": 1292976811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.52889,12.80583,-15.52889,12.80583",
+    "geom:latitude":12.80583,
+    "geom:longitude":-15.52889,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Madina Finndifeto",
+    "gn:country_code":"SN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249032,
+    "gn:latitude":12.80583,
+    "gn:longitude":-15.52889,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Madina Finndif\u00e9to",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249032
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9ca92d540399e14e03c15a22c49af34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1292976811,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1292976811,
+    "wof:lastmodified":1537025158,
+    "wof:name":"Madina Finndifeto",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.52889,
+    12.80583,
+    -15.52889,
+    12.80583
+],
+  "geometry": {"coordinates":[-15.52889,12.80583],"type":"Point"}
+}

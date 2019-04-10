@@ -1,0 +1,67 @@
+{
+  "id": 1344128299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.0062,12.4979,-12.0062,12.4979",
+    "geom:latitude":12.4979,
+    "geom:longitude":-12.0062,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Madinatou",
+    "gn:country_code":"SN",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917795,
+    "gn:latitude":12.4979,
+    "gn:longitude":-12.0062,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Madinatou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917795
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a21f2feb88ed9e8e55076526840534e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691463,
+            "locality_id":1344128299,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1344128299,
+    "wof:lastmodified":1536778302,
+    "wof:name":"Madinatou",
+    "wof:parent_id":1108691463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.0062,
+    12.4979,
+    -12.0062,
+    12.4979
+],
+  "geometry": {"coordinates":[-12.0062,12.4979],"type":"Point"}
+}

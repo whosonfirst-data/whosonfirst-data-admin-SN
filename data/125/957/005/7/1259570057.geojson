@@ -1,0 +1,72 @@
+{
+  "id": 1259570057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.01806,12.85528,-16.01806,12.85528",
+    "geom:latitude":12.85528,
+    "geom:longitude":-16.01806,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djringoumane",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252194,
+    "gn:latitude":12.85528,
+    "gn:longitude":-16.01806,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Djringoumane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djiringoumane",
+        "Djringoumane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252194
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a7ce5607225f56b35bd29fe16b86d65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1259570057,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1259570057,
+    "wof:lastmodified":1537701116,
+    "wof:name":"Djringoumane",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.01806,
+    12.85528,
+    -16.01806,
+    12.85528
+],
+  "geometry": {"coordinates":[-16.01806,12.85528],"type":"Point"}
+}

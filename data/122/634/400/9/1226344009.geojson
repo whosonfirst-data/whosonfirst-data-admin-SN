@@ -1,0 +1,67 @@
+{
+  "id": 1226344009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.95,14.9,-15.95,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-15.95,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Darou Rahmane",
+    "gn:country_code":"SN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253151,
+    "gn:latitude":14.9,
+    "gn:longitude":-15.95,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Darou Rahmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        421176669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253151
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"927b495b9e79e79389ae5622601d125d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421176669,
+            "locality_id":1226344009,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1226344009,
+    "wof:lastmodified":1536792284,
+    "wof:name":"Darou Rahmane",
+    "wof:parent_id":421176669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.95,
+    14.9,
+    -15.95,
+    14.9
+],
+  "geometry": {"coordinates":[-15.95,14.9],"type":"Point"}
+}

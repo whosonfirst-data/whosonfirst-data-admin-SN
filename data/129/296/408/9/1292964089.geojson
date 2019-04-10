@@ -1,0 +1,67 @@
+{
+  "id": 1292964089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.27,12.7625,-15.27,12.7625",
+    "geom:latitude":12.7625,
+    "geom:longitude":-15.27,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Patekounda",
+    "gn:country_code":"SN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246756,
+    "gn:latitude":12.7625,
+    "gn:longitude":-15.27,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Pat\u00e9kounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246756
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c7591c5ce68db214eee8d47729caa7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691457,
+            "locality_id":1292964089,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1292964089,
+    "wof:lastmodified":1537042891,
+    "wof:name":"Patekounda",
+    "wof:parent_id":1108691457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.27,
+    12.7625,
+    -15.27,
+    12.7625
+],
+  "geometry": {"coordinates":[-15.27,12.7625],"type":"Point"}
+}

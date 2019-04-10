@@ -1,0 +1,72 @@
+{
+  "id": 1259865807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8934,15.5738,-15.8934,15.5738",
+    "geom:latitude":15.5738,
+    "geom:longitude":-15.8934,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Keur Bassine",
+    "gn:country_code":"SN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250462,
+    "gn:latitude":15.5738,
+    "gn:longitude":-15.8934,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Keur Bassine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ker-Bassine",
+        "Ker Bacine",
+        "Keur Bassine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250462
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f853abfbeb183cd39ebb44853b2c1589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1259865807,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1259865807,
+    "wof:lastmodified":1537701082,
+    "wof:name":"Keur Bassine",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8934,
+    15.5738,
+    -15.8934,
+    15.5738
+],
+  "geometry": {"coordinates":[-15.8934,15.5738],"type":"Point"}
+}

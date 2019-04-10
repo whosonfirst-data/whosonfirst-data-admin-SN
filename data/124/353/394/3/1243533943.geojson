@@ -1,0 +1,67 @@
+{
+  "id": 1243533943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.815,15.4585,-15.815,15.4585",
+    "geom:latitude":15.4585,
+    "geom:longitude":-15.815,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Loumbi-Laoube",
+    "gn:country_code":"SN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249129,
+    "gn:latitude":15.4585,
+    "gn:longitude":-15.815,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Loumbi-Laoub\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249129
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3455a2698cafd50558538604f3eed70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1243533943,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1243533943,
+    "wof:lastmodified":1536679449,
+    "wof:name":"Loumbi-Laoube",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.815,
+    15.4585,
+    -15.815,
+    15.4585
+],
+  "geometry": {"coordinates":[-15.815,15.4585],"type":"Point"}
+}

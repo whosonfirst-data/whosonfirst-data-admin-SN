@@ -1,0 +1,67 @@
+{
+  "id": 1343725331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.74,12.98806,-15.74,12.98806",
+    "geom:latitude":12.98806,
+    "geom:longitude":-15.74,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kandialon",
+    "gn:country_code":"SN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250876,
+    "gn:latitude":12.98806,
+    "gn:longitude":-15.74,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Kandialon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250876
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ad2a8b9f0fdc7de42238c52116a0fa7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691465,
+            "locality_id":1343725331,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1343725331,
+    "wof:lastmodified":1536860284,
+    "wof:name":"Kandialon",
+    "wof:parent_id":1108691465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.74,
+    12.98806,
+    -15.74,
+    12.98806
+],
+  "geometry": {"coordinates":[-15.74,12.98806],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209016217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.85,14.73333,-15.85,14.73333",
+    "geom:latitude":14.73333,
+    "geom:longitude":-15.85,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Leyene",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249300,
+    "gn:latitude":14.73333,
+    "gn:longitude":-15.85,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"L\u00e9y\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249300
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"997defc64bf619f4cc41c59e3fbe9649",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209016217
+        }
+    ],
+    "wof:id":1209016217,
+    "wof:lastmodified":1536300291,
+    "wof:name":"Leyene",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.85,
+    14.73333,
+    -15.85,
+    14.73333
+],
+  "geometry": {"coordinates":[-15.85,14.73333],"type":"Point"}
+}

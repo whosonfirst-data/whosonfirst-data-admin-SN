@@ -1,0 +1,67 @@
+{
+  "id": 1276212993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.48333,15.4,-16.48333,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":-16.48333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kanene",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250844,
+    "gn:latitude":15.4,
+    "gn:longitude":-16.48333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kan\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250844
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"abe69168a9d7b931ff16869d0f3fbbcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1276212993,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1276212993,
+    "wof:lastmodified":1536941032,
+    "wof:name":"Kanene",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.48333,
+    15.4,
+    -16.48333,
+    15.4
+],
+  "geometry": {"coordinates":[-16.48333,15.4],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259857729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.35,13.05,-14.35,13.05",
+    "geom:latitude":13.05,
+    "geom:longitude":-14.35,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sare Ndiobo Mamakounda",
+    "gn:country_code":"SN",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245904,
+    "gn:latitude":13.05,
+    "gn:longitude":-14.35,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sar\u00e9 Ndiobo Mamakounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245904
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"14c6a6e3ad41127fd8739b190e60eb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691473,
+            "locality_id":1259857729,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1259857729,
+    "wof:lastmodified":1536815545,
+    "wof:name":"Sare Ndiobo Mamakounda",
+    "wof:parent_id":1108691473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.35,
+    13.05,
+    -14.35,
+    13.05
+],
+  "geometry": {"coordinates":[-14.35,13.05],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259997145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.39947,14.78011,-17.39947,14.78011",
+    "geom:latitude":14.78011,
+    "geom:longitude":-17.39947,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cite Barry & Ly",
+    "gn:country_code":"SN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497859,
+    "gn:latitude":14.78011,
+    "gn:longitude":-17.39947,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Cite Barry & Ly",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        890440853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497859
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"35acd1fff3a5b14416d96bd47fbb3c04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890440853,
+            "locality_id":1259997145,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1259997145,
+    "wof:lastmodified":1536613002,
+    "wof:name":"Cite Barry & Ly",
+    "wof:parent_id":890440853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.39947,
+    14.78011,
+    -17.39947,
+    14.78011
+],
+  "geometry": {"coordinates":[-17.39947,14.78011],"type":"Point"}
+}

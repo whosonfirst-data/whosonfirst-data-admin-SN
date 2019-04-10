@@ -1,0 +1,67 @@
+{
+  "id": 1293171241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.96114,15.28211,-12.96114,15.28211",
+    "geom:latitude":15.28211,
+    "geom:longitude":-12.96114,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Orkadiere",
+    "gn:country_code":"SN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247085,
+    "gn:latitude":15.28211,
+    "gn:longitude":-12.96114,
+    "gn:modification_date":"2007-11-13",
+    "gn:name":"Orkadi\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247085
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"63cfca77f9e2ead54bed3c0d1eaf32e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1293171241,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1293171241,
+    "wof:lastmodified":1536745861,
+    "wof:name":"Orkadiere",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.96114,
+    15.28211,
+    -12.96114,
+    15.28211
+],
+  "geometry": {"coordinates":[-12.96114,15.28211],"type":"Point"}
+}

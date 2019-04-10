@@ -1,0 +1,67 @@
+{
+  "id": 1260355421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.59139,12.64056,-15.59139,12.64056",
+    "geom:latitude":12.64056,
+    "geom:longitude":-15.59139,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bamakounda",
+    "gn:country_code":"SN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254337,
+    "gn:latitude":12.64056,
+    "gn:longitude":-15.59139,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Bamakounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254337
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"6c15bc1847143996425db2597014001a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1260355421,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1260355421,
+    "wof:lastmodified":1536613215,
+    "wof:name":"Bamakounda",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.59139,
+    12.64056,
+    -15.59139,
+    12.64056
+],
+  "geometry": {"coordinates":[-15.59139,12.64056],"type":"Point"}
+}

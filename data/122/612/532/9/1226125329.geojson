@@ -1,0 +1,67 @@
+{
+  "id": 1226125329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.73814,14.99441,-12.73814,14.99441",
+    "geom:latitude":14.99441,
+    "geom:longitude":-12.73814,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ape Sakobe",
+    "gn:country_code":"SN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254645,
+    "gn:latitude":14.99441,
+    "gn:longitude":-12.73814,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Ap\u00e9 Sakob\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254645
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c0d2f223da5fc2f32fe4410dd97dc406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1226125329,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1226125329,
+    "wof:lastmodified":1536607516,
+    "wof:name":"Ape Sakobe",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.73814,
+    14.99441,
+    -12.73814,
+    14.99441
+],
+  "geometry": {"coordinates":[-12.73814,14.99441],"type":"Point"}
+}

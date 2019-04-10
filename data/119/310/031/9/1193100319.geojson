@@ -1,0 +1,67 @@
+{
+  "id": 1193100319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.45889,12.89,-15.45889,12.89",
+    "geom:latitude":12.89,
+    "geom:longitude":-15.45889,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kounkali",
+    "gn:country_code":"SN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249546,
+    "gn:latitude":12.89,
+    "gn:longitude":-15.45889,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Kounkali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249546
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5961a07e6755bb4a78e44a49de593d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1193100319,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1193100319,
+    "wof:lastmodified":1536384160,
+    "wof:name":"Kounkali",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.45889,
+    12.89,
+    -15.45889,
+    12.89
+],
+  "geometry": {"coordinates":[-15.45889,12.89],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242955915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.50017,15.85566,-13.50017,15.85566",
+    "geom:latitude":15.85566,
+    "geom:longitude":-13.50017,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tiouti",
+    "gn:country_code":"SN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244401,
+    "gn:latitude":15.85566,
+    "gn:longitude":-13.50017,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Tiouti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244401
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8e500224b3907c59b2e1bfb2047ab2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1242955915,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1242955915,
+    "wof:lastmodified":1537015098,
+    "wof:name":"Tiouti",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.50017,
+    15.85566,
+    -13.50017,
+    15.85566
+],
+  "geometry": {"coordinates":[-13.50017,15.85566],"type":"Point"}
+}

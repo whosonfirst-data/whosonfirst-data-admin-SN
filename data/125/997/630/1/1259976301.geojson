@@ -1,0 +1,73 @@
+{
+  "id": 1259976301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.8793,15.0371,-16.8793,15.0371",
+    "geom:latitude":15.0371,
+    "geom:longitude":-16.8793,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taiba Ndiaye",
+    "gn:country_code":"SN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245051,
+    "gn:latitude":15.0371,
+    "gn:longitude":-16.8793,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ta\u00efba Ndiaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taiba N\u2019Diaga",
+        "Ta\u00efba",
+        "Ta\u00efba N\u2019Diaya",
+        "Ta\u00efba Ndiaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245051
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d4e86e812beaad3a7a7125265f7eda59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1259976301,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1259976301,
+    "wof:lastmodified":1537700973,
+    "wof:name":"Taiba Ndiaye",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.8793,
+    15.0371,
+    -16.8793,
+    15.0371
+],
+  "geometry": {"coordinates":[-16.8793,15.0371],"type":"Point"}
+}

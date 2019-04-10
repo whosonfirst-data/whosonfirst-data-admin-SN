@@ -1,0 +1,102 @@
+{
+  "id": 890437061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.47993,15.34844,-15.47993,15.34844",
+    "geom:latitude":15.34844,
+    "geom:longitude":-15.47993,
+    "gn:country":"SN",
+    "gn:fcode":"PPL",
+    "gn:pop":30000,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9054\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Dahra"
+    ],
+    "name:eng_x_preferred":[
+        "Dahra"
+    ],
+    "name:fre_x_preferred":[
+        "Dahra"
+    ],
+    "name:ger_x_preferred":[
+        "Dahra"
+    ],
+    "name:ita_x_preferred":[
+        "Dahra"
+    ],
+    "name:pol_x_preferred":[
+        "Dahra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Dahra"
+    ],
+    "name:unk_x_variant":[
+        "Dahra"
+    ],
+    "name:vie_x_preferred":[
+        "Dahra"
+    ],
+    "qs:name":"Dara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":650,
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253277,
+        "gp:id":1511457,
+        "qs:id":1034550,
+        "wd:id":"Q3012013",
+        "wk:page":"Dara"
+    },
+    "wof:country":"SN",
+    "wof:created":1469052137,
+    "wof:geomhash":"dff8030a4afba3aa03674e00052930be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":890437061,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":890437061,
+    "wof:lastmodified":1527729753,
+    "wof:name":"Dara",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:population":30000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.47993,
+    15.34844,
+    -15.47993,
+    15.34844
+],
+  "geometry": {"coordinates":[-15.47993,15.34844],"type":"Point"}
+}

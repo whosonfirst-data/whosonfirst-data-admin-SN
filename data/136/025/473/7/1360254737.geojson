@@ -1,0 +1,71 @@
+{
+  "id": 1360254737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.2,14.36667,-15.2,14.36667",
+    "geom:latitude":14.36667,
+    "geom:longitude":-15.2,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ndioum Guent",
+    "gn:country_code":"SN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247681,
+    "gn:latitude":14.36667,
+    "gn:longitude":-15.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ndioum Gu\u00e8nt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dioum Guennt",
+        "Ndioum Gu\u00e8nt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247681
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"deaed48f4733c8d4173e6b63b900d72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691489,
+            "locality_id":1360254737,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1360254737,
+    "wof:lastmodified":1537701026,
+    "wof:name":"Ndioum Guent",
+    "wof:parent_id":1108691489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.2,
+    14.36667,
+    -15.2,
+    14.36667
+],
+  "geometry": {"coordinates":[-15.2,14.36667],"type":"Point"}
+}

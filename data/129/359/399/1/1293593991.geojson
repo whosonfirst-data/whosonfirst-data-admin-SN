@@ -1,0 +1,71 @@
+{
+  "id": 1293593991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.41363,12.97844,-11.41363,12.97844",
+    "geom:latitude":12.97844,
+    "geom:longitude":-11.41363,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koliya",
+    "gn:country_code":"SN",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249773,
+    "gn:latitude":12.97844,
+    "gn:longitude":-11.41363,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koliya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolia",
+        "Koliya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249773
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"88a8f364c63362dd5b32d1a61fa01336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1293593991,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1293593991,
+    "wof:lastmodified":1537701069,
+    "wof:name":"Koliya",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.41363,
+    12.97844,
+    -11.41363,
+    12.97844
+],
+  "geometry": {"coordinates":[-11.41363,12.97844],"type":"Point"}
+}

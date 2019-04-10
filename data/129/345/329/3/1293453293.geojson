@@ -1,0 +1,67 @@
+{
+  "id": 1293453293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.07296,13.27171,-12.07296,13.27171",
+    "geom:latitude":13.27171,
+    "geom:longitude":-12.07296,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Fessene",
+    "gn:country_code":"SN",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251889,
+    "gn:latitude":13.27171,
+    "gn:longitude":-12.07296,
+    "gn:modification_date":"2008-04-23",
+    "gn:name":"Fess\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251889
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"24c556aac7a2f4d9151b8c7f9f89eaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1293453293,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1293453293,
+    "wof:lastmodified":1536835466,
+    "wof:name":"Fessene",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.07296,
+    13.27171,
+    -12.07296,
+    13.27171
+],
+  "geometry": {"coordinates":[-12.07296,13.27171],"type":"Point"}
+}

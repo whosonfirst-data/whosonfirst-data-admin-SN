@@ -1,0 +1,61 @@
+{
+  "id": 1209626787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.56667,14.68333,-16.56667,14.68333",
+    "geom:latitude":14.68333,
+    "geom:longitude":-16.56667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taleg",
+    "gn:country_code":"SN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245018,
+    "gn:latitude":14.68333,
+    "gn:longitude":-16.56667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Taleg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245018
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a79afc27a5b4afedc780d8207701a51e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209626787
+        }
+    ],
+    "wof:id":1209626787,
+    "wof:lastmodified":1536281329,
+    "wof:name":"Taleg",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.566670000000002,
+    14.683329999999998,
+    -16.566670000000002,
+    14.683329999999998
+],
+  "geometry": {"coordinates":[-16.56667,14.68333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343684667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.89314,13.38499,-11.89314,13.38499",
+    "geom:latitude":13.38499,
+    "geom:longitude":-11.89314,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sonkounkou",
+    "gn:country_code":"SN",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245212,
+    "gn:latitude":13.38499,
+    "gn:longitude":-11.89314,
+    "gn:modification_date":"2007-10-12",
+    "gn:name":"Sonkounkou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245212
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"624d640d9bd4f7cdb6ccb01a4c3cb65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1343684667,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1343684667,
+    "wof:lastmodified":1536920806,
+    "wof:name":"Sonkounkou",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.89314,
+    13.38499,
+    -11.89314,
+    13.38499
+],
+  "geometry": {"coordinates":[-11.89314,13.38499],"type":"Point"}
+}

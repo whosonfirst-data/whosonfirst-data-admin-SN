@@ -1,0 +1,71 @@
+{
+  "id": 1260259103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.7451,15.3294,-15.7451,15.3294",
+    "geom:latitude":15.3294,
+    "geom:longitude":-15.7451,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koylogne",
+    "gn:country_code":"SN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249801,
+    "gn:latitude":15.3294,
+    "gn:longitude":-15.7451,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koylogne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koilogn\u00e9",
+        "Koylogne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249801
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"eb0bdce537c75843877b588bf6ac0143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1260259103,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1260259103,
+    "wof:lastmodified":1537701070,
+    "wof:name":"Koylogne",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.7451,
+    15.3294,
+    -15.7451,
+    15.3294
+],
+  "geometry": {"coordinates":[-15.7451,15.3294],"type":"Point"}
+}

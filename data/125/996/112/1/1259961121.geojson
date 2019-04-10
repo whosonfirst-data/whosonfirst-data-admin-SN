@@ -1,0 +1,67 @@
+{
+  "id": 1259961121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.6391,12.92593,-13.6391,12.92593",
+    "geom:latitude":12.92593,
+    "geom:longitude":-13.6391,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kalifourou",
+    "gn:country_code":"SN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250946,
+    "gn:latitude":12.92593,
+    "gn:longitude":-13.6391,
+    "gn:modification_date":"2012-06-18",
+    "gn:name":"Kalifourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250946
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c29bb0e2de7cea0703ff6e9c9750fdfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691471,
+            "locality_id":1259961121,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1259961121,
+    "wof:lastmodified":1536667423,
+    "wof:name":"Kalifourou",
+    "wof:parent_id":1108691471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.6391,
+    12.92593,
+    -13.6391,
+    12.92593
+],
+  "geometry": {"coordinates":[-13.6391,12.92593],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310474983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.23057,15.61282,-13.23057,15.61282",
+    "geom:latitude":15.61282,
+    "geom:longitude":-13.23057,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beli Diallo",
+    "gn:country_code":"SN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8464259,
+    "gn:latitude":15.61282,
+    "gn:longitude":-13.23057,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"B\u00e9li Diallo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8464259
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ae2ce9917a2e0dc00c4922fa160fbf57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1310474983,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1310474983,
+    "wof:lastmodified":1536960883,
+    "wof:name":"Beli Diallo",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.23057,
+    15.61282,
+    -13.23057,
+    15.61282
+],
+  "geometry": {"coordinates":[-13.23057,15.61282],"type":"Point"}
+}

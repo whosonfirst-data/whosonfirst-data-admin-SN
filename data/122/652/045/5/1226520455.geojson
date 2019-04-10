@@ -1,0 +1,67 @@
+{
+  "id": 1226520455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.08639,12.81417,-15.08639,12.81417",
+    "geom:latitude":12.81417,
+    "geom:longitude":-15.08639,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Boguel",
+    "gn:country_code":"SN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253778,
+    "gn:latitude":12.81417,
+    "gn:longitude":-15.08639,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Boguel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253778
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ccc0be1d8bed44aae92bb7a688e7647a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1226520455,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1226520455,
+    "wof:lastmodified":1537033135,
+    "wof:name":"Boguel",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.08639,
+    12.81417,
+    -15.08639,
+    12.81417
+],
+  "geometry": {"coordinates":[-15.08639,12.81417],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 421167579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.17627,15.4916,-13.17627,15.4916",
+    "geom:latitude":15.4916,
+    "geom:longitude":-13.17627,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kanel"
+    ],
+    "name:eng_x_preferred":[
+        "Kanel"
+    ],
+    "name:fre_x_preferred":[
+        "Kanel"
+    ],
+    "name:ita_x_preferred":[
+        "Kanel"
+    ],
+    "name:pol_x_preferred":[
+        "Kanel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Kanel"
+    ],
+    "name:unk_x_variant":[
+        "Karel"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2250849,
+    "qs:gn_pop":10165,
+    "qs:name":"Kanel",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Matam",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":139190,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1413763,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250849,
+        "gp:id":1413763,
+        "qs:id":139190,
+        "wd:id":"Q3192625"
+    },
+    "wof:country":"SN",
+    "wof:created":1459008736,
+    "wof:geomhash":"38b9222175fa612b234da2c89043cdf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":421167579,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":421167579,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Kanel",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:population":10165,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.17627,
+    15.4916,
+    -13.17627,
+    15.4916
+],
+  "geometry": {"coordinates":[-13.17627,15.4916],"type":"Point"}
+}

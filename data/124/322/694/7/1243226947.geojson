@@ -1,0 +1,67 @@
+{
+  "id": 1243226947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.56444,12.89583,-15.56444,12.89583",
+    "geom:latitude":12.89583,
+    "geom:longitude":-15.56444,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Alanbato",
+    "gn:country_code":"SN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254719,
+    "gn:latitude":12.89583,
+    "gn:longitude":-15.56444,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Alanbato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254719
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"683a539982c454723e72118b432b29c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1243226947,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1243226947,
+    "wof:lastmodified":1536623104,
+    "wof:name":"Alanbato",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.56444,
+    12.89583,
+    -15.56444,
+    12.89583
+],
+  "geometry": {"coordinates":[-15.56444,12.89583],"type":"Point"}
+}

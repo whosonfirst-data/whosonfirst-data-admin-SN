@@ -1,0 +1,71 @@
+{
+  "id": 1343583937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.86194,13.53981,-12.86194,13.53981",
+    "geom:latitude":13.53981,
+    "geom:longitude":-12.86194,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Diana",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252742,
+    "gn:latitude":13.53981,
+    "gn:longitude":-12.86194,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dianra",
+        "Diana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252742
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"27860437a9fdd749f266c04807735dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1343583937,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1343583937,
+    "wof:lastmodified":1537701129,
+    "wof:name":"Diana",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.86194,
+    13.53981,
+    -12.86194,
+    13.53981
+],
+  "geometry": {"coordinates":[-12.86194,13.53981],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890437291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.696,14.13938,-16.696,14.13938",
+    "geom:latitude":14.13938,
+    "geom:longitude":-16.696,
+    "gn:country":"SN",
+    "gn:fcode":"PPL",
+    "gn:pop":500,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Samba Diallo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7118124,
+        "gp:id":1413033,
+        "qs:id":106152
+    },
+    "wof:country":"SN",
+    "wof:created":1469052146,
+    "wof:geomhash":"c9c4786b980e5407f0726b3d35afe972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187935,
+            "locality_id":890437291,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":890437291,
+    "wof:lastmodified":1505343558,
+    "wof:name":"Samba Diallo",
+    "wof:parent_id":421187935,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.696,
+    14.13938,
+    -16.696,
+    14.13938
+],
+  "geometry": {"coordinates":[-16.696,14.13938],"type":"Point"}
+}

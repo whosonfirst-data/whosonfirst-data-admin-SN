@@ -1,0 +1,67 @@
+{
+  "id": 1260379063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.01444,12.92611,-15.01444,12.92611",
+    "geom:latitude":12.92611,
+    "geom:longitude":-15.01444,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sare Sara",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245817,
+    "gn:latitude":12.92611,
+    "gn:longitude":-15.01444,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sar\u00e9 Sara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245817
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d24528c8112a63015b623af1a121c73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1260379063,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1260379063,
+    "wof:lastmodified":1537077834,
+    "wof:name":"Sare Sara",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.01444,
+    12.92611,
+    -15.01444,
+    12.92611
+],
+  "geometry": {"coordinates":[-15.01444,12.92611],"type":"Point"}
+}

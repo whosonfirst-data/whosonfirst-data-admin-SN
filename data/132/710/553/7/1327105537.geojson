@@ -1,0 +1,67 @@
+{
+  "id": 1327105537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.88722,16.255,-15.88722,16.255",
+    "geom:latitude":16.255,
+    "geom:longitude":-15.88722,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nder",
+    "gn:country_code":"SN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248027,
+    "gn:latitude":16.255,
+    "gn:longitude":-15.88722,
+    "gn:modification_date":"2007-06-08",
+    "gn:name":"Nder",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248027
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2d6df381c19849f6c3ce85538f5f183a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1327105537,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1327105537,
+    "wof:lastmodified":1536655057,
+    "wof:name":"Nder",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.88722,
+    16.255,
+    -15.88722,
+    16.255
+],
+  "geometry": {"coordinates":[-15.88722,16.255],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259759441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4,12.46667,-11.4,12.46667",
+    "geom:latitude":12.46667,
+    "geom:longitude":-11.4,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lelou",
+    "gn:country_code":"SN",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249337,
+    "gn:latitude":12.46667,
+    "gn:longitude":-11.4,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"L\u00e9lou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249337
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"1d5f5d63737e291159107d89eab59725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1259759441,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1259759441,
+    "wof:lastmodified":1536957798,
+    "wof:name":"Lelou",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4,
+    12.46667,
+    -11.4,
+    12.46667
+],
+  "geometry": {"coordinates":[-11.4,12.46667],"type":"Point"}
+}

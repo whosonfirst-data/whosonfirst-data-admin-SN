@@ -1,0 +1,72 @@
+{
+  "id": 1343568563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.55,14.86667,-16.55,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":-16.55,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Diam Sine",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252747,
+    "gn:latitude":14.86667,
+    "gn:longitude":-16.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diam Sine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndiam Sine",
+        "Diam Sine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        1108691495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252747
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"fbb32c8576a3eae7d9ff24cf9e971960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691495,
+            "locality_id":1343568563,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1343568563,
+    "wof:lastmodified":1537701129,
+    "wof:name":"Diam Sine",
+    "wof:parent_id":1108691495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.55,
+    14.86667,
+    -16.55,
+    14.86667
+],
+  "geometry": {"coordinates":[-16.55,14.86667],"type":"Point"}
+}

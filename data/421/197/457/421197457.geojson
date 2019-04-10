@@ -1,0 +1,82 @@
+{
+  "id": 421197457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.98056,12.8275,-15.98056,12.8275",
+    "geom:latitude":12.8275,
+    "geom:longitude":-15.98056,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Marssassoum"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2248777,
+    "qs:gn_pop":6817,
+    "qs:name":"Marsassoum",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"S\u00e9dhiou",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":139179,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1415312,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248777,
+        "gp:id":1415312,
+        "qs:id":139179
+    },
+    "wof:country":"SN",
+    "wof:created":1459009914,
+    "wof:geomhash":"f71bc5287859b503369d85f49cf1cfef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":421197457,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":421197457,
+    "wof:lastmodified":1505340751,
+    "wof:name":"Marsassoum",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:population":6817,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.98056,
+    12.8275,
+    -15.98056,
+    12.8275
+],
+  "geometry": {"coordinates":[-15.98056,12.8275],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343857501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.49736,13.40332,-12.49736,13.40332",
+    "geom:latitude":13.40332,
+    "geom:longitude":-12.49736,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sinntiou Salo",
+    "gn:country_code":"SN",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245313,
+    "gn:latitude":13.40332,
+    "gn:longitude":-12.49736,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sinntiou Salo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sintiou Salo",
+        "Sinntiou Salo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245313
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d4269baa91601a04f315b375b8395d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1343857501,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1343857501,
+    "wof:lastmodified":1537700978,
+    "wof:name":"Sinntiou Salo",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.49736,
+    13.40332,
+    -12.49736,
+    13.40332
+],
+  "geometry": {"coordinates":[-12.49736,13.40332],"type":"Point"}
+}

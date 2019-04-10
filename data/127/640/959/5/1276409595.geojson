@@ -1,0 +1,67 @@
+{
+  "id": 1276409595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.6,13.9,-15.6,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":-15.6,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Keur Mademba",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250308,
+    "gn:latitude":13.9,
+    "gn:longitude":-15.6,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Keur Mademba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250308
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"1f4caacff79d4550b82b33399080737a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691477,
+            "locality_id":1276409595,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1276409595,
+    "wof:lastmodified":1536676544,
+    "wof:name":"Keur Mademba",
+    "wof:parent_id":1108691477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.6,
+    13.9,
+    -15.6,
+    13.9
+],
+  "geometry": {"coordinates":[-15.6,13.9],"type":"Point"}
+}

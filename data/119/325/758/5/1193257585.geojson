@@ -1,0 +1,67 @@
+{
+  "id": 1193257585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8633,15.5562,-15.8633,15.5562",
+    "geom:latitude":15.5562,
+    "geom:longitude":-15.8633,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ndiayene",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247831,
+    "gn:latitude":15.5562,
+    "gn:longitude":-15.8633,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Ndiay\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247831
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ffb5ffcc312a695f1ee53f2454bfe813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1193257585,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1193257585,
+    "wof:lastmodified":1536384296,
+    "wof:name":"Ndiayene",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8633,
+    15.5562,
+    -15.8633,
+    15.5562
+],
+  "geometry": {"coordinates":[-15.8633,15.5562],"type":"Point"}
+}

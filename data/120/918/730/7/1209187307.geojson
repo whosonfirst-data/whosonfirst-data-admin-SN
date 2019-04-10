@@ -1,0 +1,61 @@
+{
+  "id": 1209187307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.53333,15.86667,-13.53333,15.86667",
+    "geom:latitude":15.86667,
+    "geom:longitude":-13.53333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kirir",
+    "gn:country_code":"SN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249865,
+    "gn:latitude":15.86667,
+    "gn:longitude":-13.53333,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Kirir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249865
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"099fd685f6a1c936eed697e512609399",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209187307
+        }
+    ],
+    "wof:id":1209187307,
+    "wof:lastmodified":1536295055,
+    "wof:name":"Kirir",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.53333,
+    15.86667,
+    -13.53333,
+    15.86667
+],
+  "geometry": {"coordinates":[-13.53333,15.86667],"type":"Point"}
+}

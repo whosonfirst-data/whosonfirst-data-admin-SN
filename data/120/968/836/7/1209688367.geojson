@@ -1,0 +1,61 @@
+{
+  "id": 1209688367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.51667,13.91667,-15.51667,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":-15.51667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Rorane",
+    "gn:country_code":"SN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246524,
+    "gn:latitude":13.91667,
+    "gn:longitude":-15.51667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Rorane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246524
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e5a6d4ecec0a176d9cd838bdf6a18d2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209688367
+        }
+    ],
+    "wof:id":1209688367,
+    "wof:lastmodified":1536279331,
+    "wof:name":"Rorane",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.51667,
+    13.916670000000002,
+    -15.51667,
+    13.916670000000002
+],
+  "geometry": {"coordinates":[-15.51667,13.91667],"type":"Point"}
+}

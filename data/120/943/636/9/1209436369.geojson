@@ -1,0 +1,68 @@
+{
+  "id": 1209436369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.07732,14.61028,-17.07732,14.61028",
+    "geom:latitude":14.61028,
+    "geom:longitude":-17.07732,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Thiki",
+    "gn:country_code":"SN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244603,
+    "gn:latitude":14.61028,
+    "gn:longitude":-17.07732,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Thiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9ky",
+        "Thi\u00e8guy",
+        "Ti\u00e9ki",
+        "Thi\u00e9gui",
+        "Thiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244603
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"08bfd611246299a364b5ae49f04429f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209436369
+        }
+    ],
+    "wof:id":1209436369,
+    "wof:lastmodified":1537700964,
+    "wof:name":"Thiki",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.07732,
+    14.61028,
+    -17.07732,
+    14.61028
+],
+  "geometry": {"coordinates":[-17.07732,14.61028],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259374525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.0785,14.89523,-17.0785,14.89523",
+    "geom:latitude":14.89523,
+    "geom:longitude":-17.0785,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mbidiam Wolof",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248553,
+    "gn:latitude":14.89523,
+    "gn:longitude":-17.0785,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Mbidiam Wolof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019Bidjein",
+        "Mbidjem",
+        "Mbidjame Wolof",
+        "Mbidiam Ouolof",
+        "Mbidiam Wolof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248553
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4312ed2529b1adea290f63432bbc8e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1259374525,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1259374525,
+    "wof:lastmodified":1537701047,
+    "wof:name":"Mbidiam Wolof",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.0785,
+    14.89523,
+    -17.0785,
+    14.89523
+],
+  "geometry": {"coordinates":[-17.0785,14.89523],"type":"Point"}
+}

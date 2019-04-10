@@ -1,0 +1,71 @@
+{
+  "id": 1259766115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.10974,15.42323,-13.10974,15.42323",
+    "geom:latitude":15.42323,
+    "geom:longitude":-13.10974,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Fora",
+    "gn:country_code":"SN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251818,
+    "gn:latitude":15.42323,
+    "gn:longitude":-13.10974,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fora Ouolof",
+        "Fora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251818
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"984d6e0baba5396722146d60f5a6d77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1259766115,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1259766115,
+    "wof:lastmodified":1537701110,
+    "wof:name":"Fora",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.10974,
+    15.42323,
+    -13.10974,
+    15.42323
+],
+  "geometry": {"coordinates":[-13.10974,15.42323],"type":"Point"}
+}

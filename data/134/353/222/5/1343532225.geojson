@@ -1,0 +1,67 @@
+{
+  "id": 1343532225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.65028,16.45861,-15.65028,16.45861",
+    "geom:latitude":16.45861,
+    "geom:longitude":-15.65028,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Keur Birane Ndiaye",
+    "gn:country_code":"SN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250449,
+    "gn:latitude":16.45861,
+    "gn:longitude":-15.65028,
+    "gn:modification_date":"2007-06-08",
+    "gn:name":"Keur Birane Ndiaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250449
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"67c511147d5cee94b82e1cb65a012189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1343532225,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1343532225,
+    "wof:lastmodified":1536641957,
+    "wof:name":"Keur Birane Ndiaye",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.65028,
+    16.45861,
+    -15.65028,
+    16.45861
+],
+  "geometry": {"coordinates":[-15.65028,16.45861],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209092615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.31722,15.825,-16.31722,15.825",
+    "geom:latitude":15.825,
+    "geom:longitude":-16.31722,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nianguene Peul",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247252,
+    "gn:latitude":15.825,
+    "gn:longitude":-16.31722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Niangu\u00e8ne Peul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niangu\u00e8ne",
+        "Niangu\u00e8ne Peul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247252
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"102efe81afc3d01a845f2deec0e0670d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209092615
+        }
+    ],
+    "wof:id":1209092615,
+    "wof:lastmodified":1537701014,
+    "wof:name":"Nianguene Peul",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.31722,
+    15.825,
+    -16.31722,
+    15.825
+],
+  "geometry": {"coordinates":[-16.31722,15.825],"type":"Point"}
+}

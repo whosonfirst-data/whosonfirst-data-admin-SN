@@ -1,0 +1,67 @@
+{
+  "id": 1343457767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.92783,13.39218,-12.92783,13.39218",
+    "geom:latitude":13.39218,
+    "geom:longitude":-12.92783,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Difourou",
+    "gn:country_code":"SN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252541,
+    "gn:latitude":13.39218,
+    "gn:longitude":-12.92783,
+    "gn:modification_date":"2008-04-23",
+    "gn:name":"Difourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252541
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"87491ef41a35d7a04ebe53a752e87b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1343457767,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1343457767,
+    "wof:lastmodified":1536749959,
+    "wof:name":"Difourou",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.92783,
+    13.39218,
+    -12.92783,
+    13.39218
+],
+  "geometry": {"coordinates":[-12.92783,13.39218],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293205397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.72932,14.50167,-12.72932,14.50167",
+    "geom:latitude":14.50167,
+    "geom:longitude":-12.72932,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gonado",
+    "gn:country_code":"SN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6647980,
+    "gn:latitude":14.50167,
+    "gn:longitude":-12.72932,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Gonado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647980
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d39c26f01d96ad9f22737fe97052a9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1293205397,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1293205397,
+    "wof:lastmodified":1536696906,
+    "wof:name":"Gonado",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.72932,
+    14.50167,
+    -12.72932,
+    14.50167
+],
+  "geometry": {"coordinates":[-12.72932,14.50167],"type":"Point"}
+}

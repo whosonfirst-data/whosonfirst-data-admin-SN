@@ -1,0 +1,72 @@
+{
+  "id": 1343637857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8396,15.3092,-15.8396,15.3092",
+    "geom:latitude":15.3092,
+    "geom:longitude":-15.8396,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Galene Ndjououndjou",
+    "gn:country_code":"SN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251723,
+    "gn:latitude":15.3092,
+    "gn:longitude":-15.8396,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gal\u00e8ne Ndjououndjou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galenn Ndiououndiou",
+        "Galenn Ndiououndjou",
+        "Gal\u00e8ne Ndjououndjou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251723
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0cb40eabd9a2e7e270cd2ee74758ba5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1343637857,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1343637857,
+    "wof:lastmodified":1537701109,
+    "wof:name":"Galene Ndjououndjou",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8396,
+    15.3092,
+    -15.8396,
+    15.3092
+],
+  "geometry": {"coordinates":[-15.8396,15.3092],"type":"Point"}
+}

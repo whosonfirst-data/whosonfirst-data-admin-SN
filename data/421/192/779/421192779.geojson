@@ -1,0 +1,96 @@
+{
+  "id": 421192779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.66611,12.50583,-16.66611,12.50583",
+    "geom:latitude":12.50583,
+    "geom:longitude":-16.66611,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Elinkine"
+    ],
+    "name:eng_x_preferred":[
+        "Elinkine"
+    ],
+    "name:fra_x_preferred":[
+        "Elinkine"
+    ],
+    "name:fre_x_preferred":[
+        "Elinkine"
+    ],
+    "name:spa_x_preferred":[
+        "Elinqu\u00edn"
+    ],
+    "name:unk_x_variant":[
+        "Elinkin"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2252052,
+    "qs:gn_pop":0,
+    "qs:name":"Elinkine",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Ziguinchor",
+    "qs:photos":38,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1175226,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1412921,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":181,
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421187971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252052,
+        "gp:id":1412921,
+        "qs:id":1175226,
+        "wd:id":"Q3051019"
+    },
+    "wof:country":"SN",
+    "wof:created":1459009748,
+    "wof:geomhash":"8375140c33868d87b48fd52ac4262d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187971,
+            "locality_id":421192779,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":421192779,
+    "wof:lastmodified":1527716112,
+    "wof:name":"Elinkine",
+    "wof:parent_id":421187971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.66611,
+    12.50583,
+    -16.66611,
+    12.50583
+],
+  "geometry": {"coordinates":[-16.66611,12.50583],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226347187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.01158,13.50765,-12.01158,13.50765",
+    "geom:latitude":13.50765,
+    "geom:longitude":-12.01158,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Massakounda",
+    "gn:country_code":"SN",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248771,
+    "gn:latitude":13.50765,
+    "gn:longitude":-12.01158,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Massakounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Massacounda",
+        "Massakounda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248771
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"23003626260d643e641ac0abf4aa9276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1226347187,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1226347187,
+    "wof:lastmodified":1537701053,
+    "wof:name":"Massakounda",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.01158,
+    13.50765,
+    -12.01158,
+    13.50765
+],
+  "geometry": {"coordinates":[-12.01158,13.50765],"type":"Point"}
+}

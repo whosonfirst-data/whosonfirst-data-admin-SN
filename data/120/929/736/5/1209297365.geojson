@@ -1,0 +1,74 @@
+{
+  "id": 1209297365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.25544,15.65587,-13.25544,15.65587",
+    "geom:latitude":15.65587,
+    "geom:longitude":-13.25544,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Matam",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2248752,
+    "gn:latitude":15.65587,
+    "gn:longitude":-13.25544,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Matam",
+    "gn:population":15306,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matam"
+    ],
+    "name:fra_x_preferred":[
+        "Matam"
+    ],
+    "name:swe_x_preferred":[
+        "Matam"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248752,
+        "wk:page":"Matam%2C_Senegal"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"1e156368a2fe665750a6686b0da456ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209297365
+        }
+    ],
+    "wof:id":1209297365,
+    "wof:lastmodified":1537701052,
+    "wof:name":"Matam",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:population":15306,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.25544,
+    15.65587,
+    -13.25544,
+    15.65587
+],
+  "geometry": {"coordinates":[-13.25544,15.65587],"type":"Point"}
+}

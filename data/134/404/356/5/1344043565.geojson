@@ -1,0 +1,71 @@
+{
+  "id": 1344043565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9073,15.4856,-15.9073,15.4856",
+    "geom:latitude":15.4856,
+    "geom:longitude":-15.9073,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gati Baba Ndiaye",
+    "gn:country_code":"SN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251616,
+    "gn:latitude":15.4856,
+    "gn:longitude":-15.9073,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gati Baba Ndiaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gati Babe Ndiaye",
+        "Gati Baba Ndiaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251616
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9dae24acbe1556a664a16dec8fa3b025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1344043565,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1344043565,
+    "wof:lastmodified":1537701106,
+    "wof:name":"Gati Baba Ndiaye",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.9073,
+    15.4856,
+    -15.9073,
+    15.4856
+],
+  "geometry": {"coordinates":[-15.9073,15.4856],"type":"Point"}
+}

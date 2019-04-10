@@ -1,0 +1,71 @@
+{
+  "id": 1260377125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8872,15.6637,-15.8872,15.6637",
+    "geom:latitude":15.6637,
+    "geom:longitude":-15.8872,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Keur Mody Beye",
+    "gn:country_code":"SN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250170,
+    "gn:latitude":15.6637,
+    "gn:longitude":-15.8872,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Keur Mody B\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keur Modib\u00e8ye",
+        "Keur Mody B\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250170
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"59e79008673dc8c59fca4c23e33e95fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1260377125,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1260377125,
+    "wof:lastmodified":1537701077,
+    "wof:name":"Keur Mody Beye",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8872,
+    15.6637,
+    -15.8872,
+    15.6637
+],
+  "geometry": {"coordinates":[-15.8872,15.6637],"type":"Point"}
+}

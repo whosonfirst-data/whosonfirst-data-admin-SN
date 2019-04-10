@@ -1,0 +1,71 @@
+{
+  "id": 1343434073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.95002,15.43772,-12.95002,15.43772",
+    "geom:latitude":15.43772,
+    "geom:longitude":-12.95002,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gonriki Samba Diom",
+    "gn:country_code":"SN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251517,
+    "gn:latitude":15.43772,
+    "gn:longitude":-12.95002,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gonriki Samba Diom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gouriki Samba Diom",
+        "Gonriki Samba Diom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251517
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b35d90b363e6e93953a3b4a57e8e4b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1343434073,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1343434073,
+    "wof:lastmodified":1537701104,
+    "wof:name":"Gonriki Samba Diom",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.95002,
+    15.43772,
+    -12.95002,
+    15.43772
+],
+  "geometry": {"coordinates":[-12.95002,15.43772],"type":"Point"}
+}

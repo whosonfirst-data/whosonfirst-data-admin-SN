@@ -1,0 +1,67 @@
+{
+  "id": 1259770377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.93333,13.13333,-15.93333,13.13333",
+    "geom:latitude":13.13333,
+    "geom:longitude":-15.93333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafounda",
+    "gn:country_code":"SN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251003,
+    "gn:latitude":13.13333,
+    "gn:longitude":-15.93333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kafounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251003
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d4687776090d22febb492519dc6bbc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1259770377,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1259770377,
+    "wof:lastmodified":1536942616,
+    "wof:name":"Kafounda",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.93333,
+    13.13333,
+    -15.93333,
+    13.13333
+],
+  "geometry": {"coordinates":[-15.93333,13.13333],"type":"Point"}
+}

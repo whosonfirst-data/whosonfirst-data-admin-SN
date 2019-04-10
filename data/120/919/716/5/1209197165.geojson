@@ -1,0 +1,61 @@
+{
+  "id": 1209197165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.5487,15.1404,-14.5487,15.1404",
+    "geom:latitude":15.1404,
+    "geom:longitude":-14.5487,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kak",
+    "gn:country_code":"SN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250971,
+    "gn:latitude":15.1404,
+    "gn:longitude":-14.5487,
+    "gn:modification_date":"2008-11-26",
+    "gn:name":"Kak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250971
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4351a8503349965375b844df582d2b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209197165
+        }
+    ],
+    "wof:id":1209197165,
+    "wof:lastmodified":1536294732,
+    "wof:name":"Kak",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.5487,
+    15.1404,
+    -14.5487,
+    15.1404
+],
+  "geometry": {"coordinates":[-14.5487,15.1404],"type":"Point"}
+}

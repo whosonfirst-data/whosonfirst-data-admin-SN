@@ -1,0 +1,67 @@
+{
+  "id": 1326917365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.73083,12.62083,-16.73083,12.62083",
+    "geom:latitude":12.62083,
+    "geom:longitude":-16.73083,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kanho",
+    "gn:country_code":"SN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250836,
+    "gn:latitude":12.62083,
+    "gn:longitude":-16.73083,
+    "gn:modification_date":"2000-04-06",
+    "gn:name":"Kanho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250836
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7bc02082d98242f861a9f1a3ccd92fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1326917365,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1326917365,
+    "wof:lastmodified":1536926939,
+    "wof:name":"Kanho",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.73082999999999,
+    12.62083,
+    -16.73082999999999,
+    12.62083
+],
+  "geometry": {"coordinates":[-16.73082999999999,12.62083],"type":"Point"}
+}

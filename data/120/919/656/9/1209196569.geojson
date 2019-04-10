@@ -1,0 +1,61 @@
+{
+  "id": 1209196569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.1,14.11667,-15.1,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":-15.1,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Fas Diayene",
+    "gn:country_code":"SN",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251932,
+    "gn:latitude":14.11667,
+    "gn:longitude":-15.1,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Fas Diay\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251932
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ba72e90d65ea48b623a6a76fef226f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209196569
+        }
+    ],
+    "wof:id":1209196569,
+    "wof:lastmodified":1536294750,
+    "wof:name":"Fas Diayene",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.1,
+    14.11667,
+    -15.1,
+    14.11667
+],
+  "geometry": {"coordinates":[-15.1,14.11667],"type":"Point"}
+}

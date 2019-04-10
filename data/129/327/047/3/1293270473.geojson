@@ -1,0 +1,67 @@
+{
+  "id": 1293270473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.15056,12.99778,-15.15056,12.99778",
+    "geom:latitude":12.99778,
+    "geom:longitude":-15.15056,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Diassina",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252638,
+    "gn:latitude":12.99778,
+    "gn:longitude":-15.15056,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Diassina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252638
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0d86339e408f5260dd7e1c855120da10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1293270473,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1293270473,
+    "wof:lastmodified":1537096668,
+    "wof:name":"Diassina",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.15056,
+    12.99778,
+    -15.15056,
+    12.99778
+],
+  "geometry": {"coordinates":[-15.15056,12.99778],"type":"Point"}
+}

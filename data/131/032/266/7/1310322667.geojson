@@ -1,0 +1,67 @@
+{
+  "id": 1310322667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.14917,14.64306,-17.14917,14.64306",
+    "geom:latitude":14.64306,
+    "geom:longitude":-17.14917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yeni Kao",
+    "gn:country_code":"SN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595230,
+    "gn:latitude":14.64306,
+    "gn:longitude":-17.14917,
+    "gn:modification_date":"2001-09-21",
+    "gn:name":"Y\u00e9ni Kao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595230
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"1f7a4af95bd94a1b459c95c2a259a9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187963,
+            "locality_id":1310322667,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1310322667,
+    "wof:lastmodified":1536683143,
+    "wof:name":"Yeni Kao",
+    "wof:parent_id":421187963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.14917,
+    14.64306,
+    -17.14917,
+    14.64306
+],
+  "geometry": {"coordinates":[-17.14917,14.64306],"type":"Point"}
+}

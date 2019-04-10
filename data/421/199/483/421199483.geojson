@@ -1,0 +1,97 @@
+{
+  "id": 421199483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.35941,14.75816,-17.35941,14.75816",
+    "geom:latitude":14.75816,
+    "geom:longitude":-17.35941,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Thiaroye"
+    ],
+    "name:eng_x_preferred":[
+        "Thiaroye"
+    ],
+    "name:fra_x_preferred":[
+        "Thiaroye"
+    ],
+    "name:fre_x_preferred":[
+        "Thiaroye"
+    ],
+    "name:spa_x_preferred":[
+        "Thiaroye"
+    ],
+    "name:unk_x_variant":[
+        "Thiaroye"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2595783,
+    "qs:gn_pop":0,
+    "qs:name":"Tiaroye",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Dakar",
+    "qs:photos":232,
+    "qs:photos_1k":47,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":232,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":479003,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1418345,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1168,
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421193105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595783,
+        "gp:id":1418345,
+        "qs:id":479003,
+        "wd:id":"Q3523983",
+        "wk:page":"Thiaroye"
+    },
+    "wof:country":"SN",
+    "wof:created":1459009990,
+    "wof:geomhash":"73f36f5bd5dd3247ebc12413d9ad8663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421193105,
+            "locality_id":421199483,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":421199483,
+    "wof:lastmodified":1527716411,
+    "wof:name":"Tiaroye",
+    "wof:parent_id":421193105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.35941,
+    14.75816,
+    -17.35941,
+    14.75816
+],
+  "geometry": {"coordinates":[-17.35941,14.75816],"type":"Point"}
+}

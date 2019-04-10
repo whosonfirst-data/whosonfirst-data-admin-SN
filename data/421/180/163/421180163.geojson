@@ -1,0 +1,92 @@
+{
+  "id": 421180163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.779144,12.514335,-16.779144,12.514335",
+    "geom:latitude":12.514335,
+    "geom:longitude":-16.779144,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Diemb\u00e9ring"
+    ],
+    "name:eng_x_preferred":[
+        "Diemb\u00e9ring"
+    ],
+    "name:fra_x_preferred":[
+        "Diemb\u00e9ring"
+    ],
+    "name:fre_x_preferred":[
+        "Diemb\u00e9ring"
+    ],
+    "name:spa_x_preferred":[
+        "Diembering"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Diemb\u00e9ring",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Ziguinchor",
+    "qs:photos":82,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":82,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1116472,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1412527,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":204,
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421187971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1412527,
+        "qs:id":1116472,
+        "wd:id":"Q3027485"
+    },
+    "wof:country":"SN",
+    "wof:created":1459009246,
+    "wof:geomhash":"ed5c3cfe6a3c6f047e5316fc868e580d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187971,
+            "locality_id":421180163,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":421180163,
+    "wof:lastmodified":1527716238,
+    "wof:name":"Diemb\u00e9ring",
+    "wof:parent_id":421187971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.779144,
+    12.514335,
+    -16.779144,
+    12.514335
+],
+  "geometry": {"coordinates":[-16.779144,12.514335],"type":"Point"}
+}

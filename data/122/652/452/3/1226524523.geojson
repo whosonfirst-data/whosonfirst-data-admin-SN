@@ -1,0 +1,71 @@
+{
+  "id": 1226524523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.74409,14.12933,-15.74409,14.12933",
+    "geom:latitude":14.12933,
+    "geom:longitude":-15.74409,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Birkelane",
+    "gn:country_code":"SN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253844,
+    "gn:latitude":14.12933,
+    "gn:longitude":-15.74409,
+    "gn:modification_date":"2012-06-25",
+    "gn:name":"Birkelane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gangui Birkelane",
+        "Birkelane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253844
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"28dfaf9acdc536617cc3a308f2ac2acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691477,
+            "locality_id":1226524523,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1226524523,
+    "wof:lastmodified":1537701148,
+    "wof:name":"Birkelane",
+    "wof:parent_id":1108691477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.74409,
+    14.12933,
+    -15.74409,
+    14.12933
+],
+  "geometry": {"coordinates":[-15.74409,14.12933],"type":"Point"}
+}

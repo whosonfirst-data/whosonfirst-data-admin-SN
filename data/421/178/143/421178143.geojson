@@ -1,0 +1,103 @@
+{
+  "id": 421178143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.23015,14.69707,-17.23015,14.69707",
+    "geom:latitude":14.69707,
+    "geom:longitude":-17.23015,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Bargny"
+    ],
+    "name:dut_x_preferred":[
+        "Bargny"
+    ],
+    "name:eng_x_preferred":[
+        "Bargny"
+    ],
+    "name:fra_x_preferred":[
+        "Bargny"
+    ],
+    "name:fre_x_preferred":[
+        "Bargny"
+    ],
+    "name:ger_x_preferred":[
+        "Bargny"
+    ],
+    "name:swe_x_preferred":[
+        "Bargny"
+    ],
+    "name:unk_x_variant":[
+        "Bargny-Gouddau"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2254154,
+    "qs:gn_pop":0,
+    "qs:name":"Bargny",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Dakar",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":44292,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1411442,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254154,
+        "gp:id":1411442,
+        "qs:id":44292,
+        "wd:id":"Q2884475",
+        "wk:page":"Bargny, Senegal"
+    },
+    "wof:country":"SN",
+    "wof:created":1459009172,
+    "wof:geomhash":"8f4c029d4a77e5a3381ec03f2c5079bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187963,
+            "locality_id":421178143,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":421178143,
+    "wof:lastmodified":1553816367,
+    "wof:name":"Bargny",
+    "wof:parent_id":421187963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.23015,
+    14.69707,
+    -17.23015,
+    14.69707
+],
+  "geometry": {"coordinates":[-17.23015,14.69707],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260374119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.84443,16.09226,-13.84443,16.09226",
+    "geom:latitude":16.09226,
+    "geom:longitude":-13.84443,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ganguel",
+    "gn:country_code":"SN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6645325,
+    "gn:latitude":16.09226,
+    "gn:longitude":-13.84443,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Ganguel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6645325
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9f45c6a75b17f4141ae6e22acda2ab9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1260374119,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1260374119,
+    "wof:lastmodified":1537084291,
+    "wof:name":"Ganguel",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.84443,
+    16.09226,
+    -13.84443,
+    16.09226
+],
+  "geometry": {"coordinates":[-13.84443,16.09226],"type":"Point"}
+}

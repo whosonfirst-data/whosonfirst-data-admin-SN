@@ -1,0 +1,61 @@
+{
+  "id": 1209399311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.78333,14.66667,-15.78333,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":-15.78333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kayane",
+    "gn:country_code":"SN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250680,
+    "gn:latitude":14.66667,
+    "gn:longitude":-15.78333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kayane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250680
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2d1bdc86bb4314444bae1b3e2f748653",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209399311
+        }
+    ],
+    "wof:id":1209399311,
+    "wof:lastmodified":1536288198,
+    "wof:name":"Kayane",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.78333,
+    14.666670000000002,
+    -15.78333,
+    14.666670000000002
+],
+  "geometry": {"coordinates":[-15.78333,14.66667],"type":"Point"}
+}

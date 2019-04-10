@@ -1,0 +1,72 @@
+{
+  "id": 1193007881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.33417,13.60944,-16.33417,13.60944",
+    "geom:latitude":13.60944,
+    "geom:longitude":-16.33417,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Keur Ousainou Jeng",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571745,
+    "gn:latitude":13.60944,
+    "gn:longitude":-16.33417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Keur Ousainou Jeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ker Ousainou Jeng",
+        "Keur Ousainou Jeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571745
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9314057c17790b65b0a5962c0c14b7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187969,
+            "locality_id":1193007881,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":1193007881,
+    "wof:lastmodified":1537701166,
+    "wof:name":"Keur Ousainou Jeng",
+    "wof:parent_id":421187969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.33417,
+    13.60944,
+    -16.33417,
+    13.60944
+],
+  "geometry": {"coordinates":[-16.33417,13.60944],"type":"Point"}
+}

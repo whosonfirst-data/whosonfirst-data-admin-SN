@@ -1,0 +1,67 @@
+{
+  "id": 1310683389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.36667,13.98333,-15.36667,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":-15.36667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bali",
+    "gn:country_code":"SN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254370,
+    "gn:latitude":13.98333,
+    "gn:longitude":-15.36667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254370
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"bf4f7004164272a12a63a7df14aa7bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691481,
+            "locality_id":1310683389,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1310683389,
+    "wof:lastmodified":1536660352,
+    "wof:name":"Bali",
+    "wof:parent_id":1108691481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.36667,
+    13.98333,
+    -15.36667,
+    13.98333
+],
+  "geometry": {"coordinates":[-15.36667,13.98333],"type":"Point"}
+}

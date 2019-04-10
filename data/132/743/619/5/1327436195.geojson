@@ -1,0 +1,73 @@
+{
+  "id": 1327436195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.01667,13.61667,-14.01667,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-14.01667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dioutabassi",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252299,
+    "gn:latitude":13.61667,
+    "gn:longitude":-14.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dioutabassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doutatassi",
+        "Doutabassi",
+        "Dioutabassi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252299
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"789c89ab65ce25c2588f7e1b2c200562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1327436195,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1327436195,
+    "wof:lastmodified":1537701119,
+    "wof:name":"Dioutabassi",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.01667,
+    13.61667,
+    -14.01667,
+    13.61667
+],
+  "geometry": {"coordinates":[-14.01667,13.61667],"type":"Point"}
+}

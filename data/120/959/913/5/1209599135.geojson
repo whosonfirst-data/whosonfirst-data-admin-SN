@@ -1,0 +1,61 @@
+{
+  "id": 1209599135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.91667,13.96667,-15.91667,13.96667",
+    "geom:latitude":13.96667,
+    "geom:longitude":-15.91667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Selik",
+    "gn:country_code":"SN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245674,
+    "gn:latitude":13.96667,
+    "gn:longitude":-15.91667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"S\u00e9lik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245674
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"26262d41669ac4abcdb4761115f747c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209599135
+        }
+    ],
+    "wof:id":1209599135,
+    "wof:lastmodified":1536282226,
+    "wof:name":"Selik",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.916670000000002,
+    13.96667,
+    -15.916670000000002,
+    13.96667
+],
+  "geometry": {"coordinates":[-15.91667,13.96667],"type":"Point"}
+}

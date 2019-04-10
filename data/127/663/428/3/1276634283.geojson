@@ -1,0 +1,67 @@
+{
+  "id": 1276634283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.92471,16.13527,-13.92471,16.13527",
+    "geom:latitude":16.13527,
+    "geom:longitude":-13.92471,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Fonde Ngouri",
+    "gn:country_code":"SN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6645010,
+    "gn:latitude":16.13527,
+    "gn:longitude":-13.92471,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Fond\u00e9 Ngouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6645010
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4317540ef003e70d746e2b6d7c16de56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1276634283,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1276634283,
+    "wof:lastmodified":1536871770,
+    "wof:name":"Fonde Ngouri",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.92471,
+    16.13527,
+    -13.92471,
+    16.13527
+],
+  "geometry": {"coordinates":[-13.92471,16.13527],"type":"Point"}
+}

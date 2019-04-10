@@ -1,0 +1,72 @@
+{
+  "id": 1242781975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.18371,14.72158,-17.18371,14.72158",
+    "geom:latitude":14.72158,
+    "geom:longitude":-17.18371,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Deni Ndiarkheth",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253024,
+    "gn:latitude":14.72158,
+    "gn:longitude":-17.18371,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"D\u00e8ni Ndiarkh\u00e9th",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9ni Diarke",
+        "Dieni Dack",
+        "D\u00e8ni Ndiarkh\u00e9th"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253024
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ed1df4a01629c280784bde1d9b02769b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187963,
+            "locality_id":1242781975,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1242781975,
+    "wof:lastmodified":1537701135,
+    "wof:name":"Deni Ndiarkheth",
+    "wof:parent_id":421187963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.18371,
+    14.72158,
+    -17.18371,
+    14.72158
+],
+  "geometry": {"coordinates":[-17.18371,14.72158],"type":"Point"}
+}

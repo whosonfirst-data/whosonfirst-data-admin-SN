@@ -1,0 +1,67 @@
+{
+  "id": 1259756925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.71983,16.1166,-13.71983,16.1166",
+    "geom:latitude":16.1166,
+    "geom:longitude":-13.71983,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Diorbivol Station",
+    "gn:country_code":"SN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6645344,
+    "gn:latitude":16.1166,
+    "gn:longitude":-13.71983,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Diorbivol Station",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6645344
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e577730904675bb95d0ae6c28f703340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1259756925,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1259756925,
+    "wof:lastmodified":1536961355,
+    "wof:name":"Diorbivol Station",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.71983,
+    16.1166,
+    -13.71983,
+    16.1166
+],
+  "geometry": {"coordinates":[-13.71983,16.1166],"type":"Point"}
+}

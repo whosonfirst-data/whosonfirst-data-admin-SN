@@ -1,0 +1,67 @@
+{
+  "id": 1226121989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.7731,15.5845,-15.7731,15.5845",
+    "geom:latitude":15.5845,
+    "geom:longitude":-15.7731,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gande Ko",
+    "gn:country_code":"SN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251689,
+    "gn:latitude":15.5845,
+    "gn:longitude":-15.7731,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Gand\u00e9 K\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251689
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"10b770ac0e16de6c3a7fa32f019648e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1226121989,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1226121989,
+    "wof:lastmodified":1536612669,
+    "wof:name":"Gande Ko",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.7731,
+    15.5845,
+    -15.7731,
+    15.5845
+],
+  "geometry": {"coordinates":[-15.7731,15.5845],"type":"Point"}
+}

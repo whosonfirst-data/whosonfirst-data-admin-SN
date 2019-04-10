@@ -1,0 +1,67 @@
+{
+  "id": 1276155005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.76341,14.07705,-12.76341,14.07705",
+    "geom:latitude":14.07705,
+    "geom:longitude":-12.76341,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Guelode",
+    "gn:country_code":"SN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251315,
+    "gn:latitude":14.07705,
+    "gn:longitude":-12.76341,
+    "gn:modification_date":"2007-09-18",
+    "gn:name":"Gu\u00e9lod\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251315
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ab7a5c617af55b3a18b56f21fb5f5c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1276155005,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1276155005,
+    "wof:lastmodified":1537017003,
+    "wof:name":"Guelode",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.76341,
+    14.07705,
+    -12.76341,
+    14.07705
+],
+  "geometry": {"coordinates":[-12.76341,14.07705],"type":"Point"}
+}

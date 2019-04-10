@@ -1,0 +1,71 @@
+{
+  "id": 1225856507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.422,15.016,-16.422,15.016",
+    "geom:latitude":15.016,
+    "geom:longitude":-16.422,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Keur Madiop",
+    "gn:country_code":"SN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250298,
+    "gn:latitude":15.016,
+    "gn:longitude":-16.422,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Keur Madiop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keur M\u00eadiop",
+        "Keur Madiop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        1108691495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250298
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"da693dee01e48ba1df776b1b2f198b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691495,
+            "locality_id":1225856507,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1225856507,
+    "wof:lastmodified":1537701080,
+    "wof:name":"Keur Madiop",
+    "wof:parent_id":1108691495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.422,
+    15.016,
+    -16.422,
+    15.016
+],
+  "geometry": {"coordinates":[-16.422,15.016],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293797697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.15037,14.76696,-17.15037,14.76696",
+    "geom:latitude":14.76696,
+    "geom:longitude":-17.15037,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ndoyene Un",
+    "gn:country_code":"SN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247593,
+    "gn:latitude":14.76696,
+    "gn:longitude":-17.15037,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Ndoy\u00e8ne Un",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ker Ahdou N\u2019Doye",
+        "Ndoy\u00e8ne I",
+        "Keur Abdou Ndoye",
+        "Ndoy\u00e8ne",
+        "Ndoy\u00e8ne Un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247593
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"df2da7ff527e9843c030f52b54d65470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187963,
+            "locality_id":1293797697,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1293797697,
+    "wof:lastmodified":1537701024,
+    "wof:name":"Ndoyene Un",
+    "wof:parent_id":421187963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.15037,
+    14.76696,
+    -17.15037,
+    14.76696
+],
+  "geometry": {"coordinates":[-17.15037,14.76696],"type":"Point"}
+}

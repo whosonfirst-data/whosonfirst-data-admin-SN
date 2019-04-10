@@ -1,0 +1,71 @@
+{
+  "id": 1209787271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.92305,12.43727,-11.92305,12.43727",
+    "geom:latitude":12.43727,
+    "geom:longitude":-11.92305,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Temberi",
+    "gn:country_code":"SN",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586393,
+    "gn:latitude":12.43727,
+    "gn:longitude":-11.92305,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u00e9mb\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timb\u00e9ri",
+        "T\u00e9mb\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586393
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"91c13c0cd70c812d6b3d6f655e1136d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691463,
+            "locality_id":1209787271,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1209787271,
+    "wof:lastmodified":1537701170,
+    "wof:name":"Temberi",
+    "wof:parent_id":1108691463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.92305,
+    12.43727,
+    -11.92305,
+    12.43727
+],
+  "geometry": {"coordinates":[-11.92305,12.43727],"type":"Point"}
+}

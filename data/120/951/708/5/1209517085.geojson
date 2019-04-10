@@ -1,0 +1,61 @@
+{
+  "id": 1209517085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.26667,14.68333,-16.26667,14.68333",
+    "geom:latitude":14.68333,
+    "geom:longitude":-16.26667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sous",
+    "gn:country_code":"SN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245125,
+    "gn:latitude":14.68333,
+    "gn:longitude":-16.26667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245125
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ba1e8eedbd392c8e2165feab3855a1ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209517085
+        }
+    ],
+    "wof:id":1209517085,
+    "wof:lastmodified":1536284698,
+    "wof:name":"Sous",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.26667,
+    14.683329999999998,
+    -16.26667,
+    14.683329999999998
+],
+  "geometry": {"coordinates":[-16.26667,14.68333],"type":"Point"}
+}

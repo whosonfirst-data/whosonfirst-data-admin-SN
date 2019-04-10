@@ -1,0 +1,72 @@
+{
+  "id": 1360061843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.16667,15.33333,-16.16667,15.33333",
+    "geom:latitude":15.33333,
+    "geom:longitude":-16.16667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kermesamba",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250578,
+    "gn:latitude":15.33333,
+    "gn:longitude":-16.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kerm\u00e8samba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keur Massemba Silla",
+        "Kerm\u00e8samba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250578
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"375d98b5b11a4a53deb04c20431eb5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1360061843,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1360061843,
+    "wof:lastmodified":1537701084,
+    "wof:name":"Kermesamba",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.16667,
+    15.33333,
+    -16.16667,
+    15.33333
+],
+  "geometry": {"coordinates":[-16.16667,15.33333],"type":"Point"}
+}

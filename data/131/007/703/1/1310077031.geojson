@@ -1,0 +1,67 @@
+{
+  "id": 1310077031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.3429,12.8302,-12.3429,12.8302",
+    "geom:latitude":12.8302,
+    "geom:longitude":-12.3429,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bafoundou",
+    "gn:country_code":"SN",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254507,
+    "gn:latitude":12.8302,
+    "gn:longitude":-12.3429,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Bafoundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254507
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"fb4d136a38bce5f9312629f94b4ae206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691463,
+            "locality_id":1310077031,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1310077031,
+    "wof:lastmodified":1537036113,
+    "wof:name":"Bafoundou",
+    "wof:parent_id":1108691463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.3429,
+    12.8302,
+    -12.3429,
+    12.8302
+],
+  "geometry": {"coordinates":[-12.3429,12.8302],"type":"Point"}
+}

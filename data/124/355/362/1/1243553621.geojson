@@ -1,0 +1,67 @@
+{
+  "id": 1243553621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.9656,13.35398,-11.9656,13.35398",
+    "geom:latitude":13.35398,
+    "geom:longitude":-11.9656,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bouroubourou",
+    "gn:country_code":"SN",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253503,
+    "gn:latitude":13.35398,
+    "gn:longitude":-11.9656,
+    "gn:modification_date":"2007-10-11",
+    "gn:name":"Bouroubourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253503
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2ed683a0ac35c579c772c1149736c1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1243553621,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1243553621,
+    "wof:lastmodified":1536650920,
+    "wof:name":"Bouroubourou",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.9656,
+    13.35398,
+    -11.9656,
+    13.35398
+],
+  "geometry": {"coordinates":[-11.9656,13.35398],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243234091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.38074,15.70621,-13.38074,15.70621",
+    "geom:latitude":15.70621,
+    "geom:longitude":-13.38074,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sintiou Bara",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245423,
+    "gn:latitude":15.70621,
+    "gn:longitude":-13.38074,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Sintiou Bara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinntiou Bara",
+        "Sintiou Bara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245423
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"aeb5ddf68430380b02b568b0d9ece16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1243234091,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1243234091,
+    "wof:lastmodified":1537700986,
+    "wof:name":"Sintiou Bara",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.38074,
+    15.70621,
+    -13.38074,
+    15.70621
+],
+  "geometry": {"coordinates":[-13.38074,15.70621],"type":"Point"}
+}

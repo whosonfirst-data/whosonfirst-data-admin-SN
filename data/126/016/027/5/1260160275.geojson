@@ -1,0 +1,71 @@
+{
+  "id": 1260160275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.4376,15.5507,-16.4376,15.5507",
+    "geom:latitude":15.5507,
+    "geom:longitude":-16.4376,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pal Mbaouar",
+    "gn:country_code":"SN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246840,
+    "gn:latitude":15.5507,
+    "gn:longitude":-16.4376,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pal Mbaouar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pal",
+        "Pal Mbaouar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246840
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"54b8b4c3ef0ffb0cc68c5a2579da99f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1260160275,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1260160275,
+    "wof:lastmodified":1537701007,
+    "wof:name":"Pal Mbaouar",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.4376,
+    15.5507,
+    -16.4376,
+    15.5507
+],
+  "geometry": {"coordinates":[-16.4376,15.5507],"type":"Point"}
+}

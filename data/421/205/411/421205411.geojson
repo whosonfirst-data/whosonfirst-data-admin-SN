@@ -1,0 +1,84 @@
+{
+  "id": 421205411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.11978,14.91893,-17.11978,14.91893",
+    "geom:latitude":14.91893,
+    "geom:longitude":-17.11978,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Cayar"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2250677,
+    "qs:gn_pop":17193,
+    "qs:name":"Kayar",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Thi\u00e8s",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":263066,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1413889,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":336,
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250677,
+        "gp:id":1413889,
+        "qs:id":263066,
+        "wd:id":"Q16386526"
+    },
+    "wof:country":"SN",
+    "wof:created":1459010224,
+    "wof:geomhash":"8c701b7e748ade019190dd0a27a2b0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":421205411,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":421205411,
+    "wof:lastmodified":1527716220,
+    "wof:name":"Kayar",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:population":17193,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.11978,
+    14.91893,
+    -17.11978,
+    14.91893
+],
+  "geometry": {"coordinates":[-17.11978,14.91893],"type":"Point"}
+}

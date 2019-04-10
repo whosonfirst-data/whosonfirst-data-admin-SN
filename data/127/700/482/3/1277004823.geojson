@@ -1,0 +1,72 @@
+{
+  "id": 1277004823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.83333,13.78333,-13.83333,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":-13.83333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Likounda",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249289,
+    "gn:latitude":13.78333,
+    "gn:longitude":-13.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Likounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Licounda",
+        "Likounda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249289
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4bfd9c1876a2f13e0ff2fb613df4f87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1277004823,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1277004823,
+    "wof:lastmodified":1537701062,
+    "wof:name":"Likounda",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.83333,
+    13.78333,
+    -13.83333,
+    13.78333
+],
+  "geometry": {"coordinates":[-13.83333,13.78333],"type":"Point"}
+}

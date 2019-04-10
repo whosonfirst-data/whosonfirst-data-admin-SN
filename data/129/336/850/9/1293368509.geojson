@@ -1,0 +1,67 @@
+{
+  "id": 1293368509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.16667,12.98333,-15.16667,12.98333",
+    "geom:latitude":12.98333,
+    "geom:longitude":-15.16667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sare Magnon",
+    "gn:country_code":"SN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245953,
+    "gn:latitude":12.98333,
+    "gn:longitude":-15.16667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sar\u00e9 Magnon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245953
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8dca57065f2fc8d1a51aaba74976f29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1293368509,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1293368509,
+    "wof:lastmodified":1536958595,
+    "wof:name":"Sare Magnon",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.16667,
+    12.98333,
+    -15.16667,
+    12.98333
+],
+  "geometry": {"coordinates":[-15.16667,12.98333],"type":"Point"}
+}

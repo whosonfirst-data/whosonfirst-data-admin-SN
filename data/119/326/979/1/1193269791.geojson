@@ -1,0 +1,75 @@
+{
+  "id": 1193269791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.05396,14.80095,-17.05396,14.80095",
+    "geom:latitude":14.80095,
+    "geom:longitude":-17.05396,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Seun Wolof",
+    "gn:country_code":"SN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245658,
+    "gn:latitude":14.80095,
+    "gn:longitude":-17.05396,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Seun Wolof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e8ne Ouolof",
+        "Sen",
+        "S\u00e9ne Wolof",
+        "Sene",
+        "Seun Ouolof",
+        "Seun Wolof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245658
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"870fdca28961701a346876edaa998c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1193269791,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1193269791,
+    "wof:lastmodified":1537700993,
+    "wof:name":"Seun Wolof",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.05396,
+    14.80095,
+    -17.05396,
+    14.80095
+],
+  "geometry": {"coordinates":[-17.05396,14.80095],"type":"Point"}
+}

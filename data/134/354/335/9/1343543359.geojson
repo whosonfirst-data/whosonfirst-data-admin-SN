@@ -1,0 +1,71 @@
+{
+  "id": 1343543359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.53333,14.05,-15.53333,14.05",
+    "geom:latitude":14.05,
+    "geom:longitude":-15.53333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tisse",
+    "gn:country_code":"SN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244390,
+    "gn:latitude":14.05,
+    "gn:longitude":-15.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tiss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soulkhou Thiss\u00e9",
+        "Tiss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244390
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ff768856c18ff5c06ee07907d928cc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691481,
+            "locality_id":1343543359,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1343543359,
+    "wof:lastmodified":1537700959,
+    "wof:name":"Tisse",
+    "wof:parent_id":1108691481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.53333,
+    14.05,
+    -15.53333,
+    14.05
+],
+  "geometry": {"coordinates":[-15.53333,14.05],"type":"Point"}
+}

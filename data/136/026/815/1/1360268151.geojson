@@ -1,0 +1,67 @@
+{
+  "id": 1360268151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.64513,14.90593,-12.64513,14.90593",
+    "geom:latitude":14.90593,
+    "geom:longitude":-12.64513,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Seno Mamadou Pinda",
+    "gn:country_code":"SN",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245640,
+    "gn:latitude":14.90593,
+    "gn:longitude":-12.64513,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"S\u00e9no Mamadou Pinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245640
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"45bf7e1970f97fbb07465685fd0e69bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691501,
+            "locality_id":1360268151,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1360268151,
+    "wof:lastmodified":1536681566,
+    "wof:name":"Seno Mamadou Pinda",
+    "wof:parent_id":1108691501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.64513,
+    14.90593,
+    -12.64513,
+    14.90593
+],
+  "geometry": {"coordinates":[-12.64513,14.90593],"type":"Point"}
+}

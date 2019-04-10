@@ -1,0 +1,65 @@
+{
+  "id": 1209190651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.0248,12.4459,-12.0248,12.4459",
+    "geom:latitude":12.4459,
+    "geom:longitude":-12.0248,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lesfello",
+    "gn:country_code":"SN",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249342,
+    "gn:latitude":12.4459,
+    "gn:longitude":-12.0248,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"L\u00e9sf\u00e9llo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le\u00effala",
+        "L\u00e9sf\u00e9llo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249342
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d1409bcfba6b7be1163624b3801125fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209190651
+        }
+    ],
+    "wof:id":1209190651,
+    "wof:lastmodified":1537701062,
+    "wof:name":"Lesfello",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.0248,
+    12.4459,
+    -12.0248,
+    12.4459
+],
+  "geometry": {"coordinates":[-12.0248,12.4459],"type":"Point"}
+}

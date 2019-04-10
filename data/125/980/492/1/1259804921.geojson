@@ -1,0 +1,67 @@
+{
+  "id": 1259804921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.07563,14.76706,-17.07563,14.76706",
+    "geom:latitude":14.76706,
+    "geom:longitude":-17.07563,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sagnafil",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595892,
+    "gn:latitude":14.76706,
+    "gn:longitude":-17.07563,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sagnafil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595892
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"dd82b90ad0e2261d5f02e603b9e4d6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1259804921,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1259804921,
+    "wof:lastmodified":1536892074,
+    "wof:name":"Sagnafil",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.07563,
+    14.76706,
+    -17.07563,
+    14.76706
+],
+  "geometry": {"coordinates":[-17.07563,14.76706],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327230659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.62271,13.97243,-12.62271,13.97243",
+    "geom:latitude":13.97243,
+    "geom:longitude":-12.62271,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Talibadji",
+    "gn:country_code":"SN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245013,
+    "gn:latitude":13.97243,
+    "gn:longitude":-12.62271,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Talibadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245013
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2fdcfeab14bf789c73e128a9043a1a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1327230659,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1327230659,
+    "wof:lastmodified":1536971723,
+    "wof:name":"Talibadji",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.62271,
+    13.97243,
+    -12.62271,
+    13.97243
+],
+  "geometry": {"coordinates":[-12.62271,13.97243],"type":"Point"}
+}

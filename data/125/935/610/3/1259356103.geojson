@@ -1,0 +1,67 @@
+{
+  "id": 1259356103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.37289,15.56081,-13.37289,15.56081",
+    "geom:latitude":15.56081,
+    "geom:longitude":-13.37289,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tiankone Boguel",
+    "gn:country_code":"SN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244703,
+    "gn:latitude":15.56081,
+    "gn:longitude":-13.37289,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Tiankone Bogu\u00e9l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244703
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"526b3535fe98bd9386692369c1a9ed75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1259356103,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1259356103,
+    "wof:lastmodified":1537040066,
+    "wof:name":"Tiankone Boguel",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.37289,
+    15.56081,
+    -13.37289,
+    15.56081
+],
+  "geometry": {"coordinates":[-13.37289,15.56081],"type":"Point"}
+}

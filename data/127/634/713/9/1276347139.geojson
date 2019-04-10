@@ -1,0 +1,71 @@
+{
+  "id": 1276347139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.36052,14.77482,-16.36052,14.77482",
+    "geom:latitude":14.77482,
+    "geom:longitude":-16.36052,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mbeye",
+    "gn:country_code":"SN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248560,
+    "gn:latitude":14.77482,
+    "gn:longitude":-16.36052,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Mb\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mba\u00ef",
+        "Mb\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        1108691495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248560
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"97e39876e577b3074088fbbfe748cc66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691495,
+            "locality_id":1276347139,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1276347139,
+    "wof:lastmodified":1537701047,
+    "wof:name":"Mbeye",
+    "wof:parent_id":1108691495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.36052,
+    14.77482,
+    -16.36052,
+    14.77482
+],
+  "geometry": {"coordinates":[-16.36052,14.77482],"type":"Point"}
+}

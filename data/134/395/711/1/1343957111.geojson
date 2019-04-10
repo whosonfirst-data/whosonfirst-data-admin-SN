@@ -1,0 +1,67 @@
+{
+  "id": 1343957111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.4,14.05,-13.4,14.05",
+    "geom:latitude":14.05,
+    "geom:longitude":-13.4,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Merekoto",
+    "gn:country_code":"SN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248391,
+    "gn:latitude":14.05,
+    "gn:longitude":-13.4,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"M\u00e9r\u00e9koto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248391
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7ecd2f3516b7ad62f07ed1db41ecc6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1343957111,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1343957111,
+    "wof:lastmodified":1537023813,
+    "wof:name":"Merekoto",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.4,
+    14.05,
+    -13.4,
+    14.05
+],
+  "geometry": {"coordinates":[-13.4,14.05],"type":"Point"}
+}

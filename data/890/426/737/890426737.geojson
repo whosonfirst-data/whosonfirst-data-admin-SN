@@ -1,0 +1,65 @@
+{
+  "id": 890426737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.47581,14.70649,-17.47581,14.70649",
+    "geom:latitude":14.70649,
+    "geom:longitude":-17.47581,
+    "gn:country":"SN",
+    "gn:fcode":"PPL",
+    "gn:pop":15000,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mermoz Boabab",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030383,
+        "qs:id":750740
+    },
+    "wof:country":"SN",
+    "wof:created":1469051644,
+    "wof:geomhash":"8c9a08073663d2d284389b819cfc2e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187965,
+            "locality_id":890426737,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":890426737,
+    "wof:lastmodified":1505343495,
+    "wof:name":"Mermoz Boabab",
+    "wof:parent_id":421187965,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.47581,
+    14.70649,
+    -17.47581,
+    14.70649
+],
+  "geometry": {"coordinates":[-17.47581,14.70649],"type":"Point"}
+}

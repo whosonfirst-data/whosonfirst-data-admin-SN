@@ -1,0 +1,67 @@
+{
+  "id": 1293568069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.0287,15.9458,-14.0287,15.9458",
+    "geom:latitude":15.9458,
+    "geom:longitude":-14.0287,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lour Ouolof",
+    "gn:country_code":"SN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249081,
+    "gn:latitude":15.9458,
+    "gn:longitude":-14.0287,
+    "gn:modification_date":"2008-11-26",
+    "gn:name":"Lour Ouolof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249081
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ca3fc0f29da72b9b36cc183ee45c0519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1293568069,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1293568069,
+    "wof:lastmodified":1536670939,
+    "wof:name":"Lour Ouolof",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.0287,
+    15.9458,
+    -14.0287,
+    15.9458
+],
+  "geometry": {"coordinates":[-14.0287,15.9458],"type":"Point"}
+}

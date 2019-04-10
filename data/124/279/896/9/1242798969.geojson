@@ -1,0 +1,71 @@
+{
+  "id": 1242798969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.09065,14.89546,-17.09065,14.89546",
+    "geom:latitude":14.89546,
+    "geom:longitude":-17.09065,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tieudem",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595227,
+    "gn:latitude":14.89546,
+    "gn:longitude":-17.09065,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Tieud\u00e8m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thieud\u00e8me",
+        "Tieud\u00e8m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595227
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0bbe9dc77064f6c26766b1c9640b2ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1242798969,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1242798969,
+    "wof:lastmodified":1537701167,
+    "wof:name":"Tieudem",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.09065,
+    14.89546,
+    -17.09065,
+    14.89546
+],
+  "geometry": {"coordinates":[-17.09065,14.89546],"type":"Point"}
+}

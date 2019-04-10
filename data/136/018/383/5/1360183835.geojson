@@ -1,0 +1,67 @@
+{
+  "id": 1360183835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.67523,14.22083,-12.67523,14.22083",
+    "geom:latitude":14.22083,
+    "geom:longitude":-12.67523,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Feto Niebe",
+    "gn:country_code":"SN",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251858,
+    "gn:latitude":14.22083,
+    "gn:longitude":-12.67523,
+    "gn:modification_date":"2007-09-18",
+    "gn:name":"F\u00e9to Ni\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251858
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"51d7a542f2e1f081d8984763a84ce395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1360183835,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1360183835,
+    "wof:lastmodified":1536803156,
+    "wof:name":"Feto Niebe",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.67523,
+    14.22083,
+    -12.67523,
+    14.22083
+],
+  "geometry": {"coordinates":[-12.67523,14.22083],"type":"Point"}
+}

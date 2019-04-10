@@ -1,0 +1,67 @@
+{
+  "id": 1327319857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.36,15.76361,-16.36,15.76361",
+    "geom:latitude":15.76361,
+    "geom:longitude":-16.36,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbayene",
+    "gn:country_code":"SN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248621,
+    "gn:latitude":15.76361,
+    "gn:longitude":-16.36,
+    "gn:modification_date":"2002-12-11",
+    "gn:name":"Mbay\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248621
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d9f8fa43da4ec9fa3e5ee0822bac7371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1327319857,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1327319857,
+    "wof:lastmodified":1536842367,
+    "wof:name":"Mbayene",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.36,
+    15.76361,
+    -16.36,
+    15.76361
+],
+  "geometry": {"coordinates":[-16.36,15.76361],"type":"Point"}
+}

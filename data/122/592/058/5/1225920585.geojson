@@ -1,0 +1,67 @@
+{
+  "id": 1225920585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9018,15.8941,-15.9018,15.8941",
+    "geom:latitude":15.8941,
+    "geom:longitude":-15.9018,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ndame",
+    "gn:country_code":"SN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248086,
+    "gn:latitude":15.8941,
+    "gn:longitude":-15.9018,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Nd\u00e2me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248086
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7002c41f9689aa037bcd3897827bcab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1225920585,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1225920585,
+    "wof:lastmodified":1536906062,
+    "wof:name":"Ndame",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.9018,
+    15.8941,
+    -15.9018,
+    15.8941
+],
+  "geometry": {"coordinates":[-15.9018,15.8941],"type":"Point"}
+}

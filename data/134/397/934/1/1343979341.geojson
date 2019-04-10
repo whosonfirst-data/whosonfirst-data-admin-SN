@@ -1,0 +1,72 @@
+{
+  "id": 1343979341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.6799,15.1174,-16.6799,15.1174",
+    "geom:latitude":15.1174,
+    "geom:longitude":-16.6799,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mekhe Village",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248407,
+    "gn:latitude":15.1174,
+    "gn:longitude":-16.6799,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"M\u00e9kh\u00e9 Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mekh\u00e9 Mbar",
+        "M\u00e9k\u00e9 Village",
+        "M\u00e9kh\u00e9 Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248407
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b4bc1bb5bea137c8f41cf002d3005086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1343979341,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1343979341,
+    "wof:lastmodified":1537701043,
+    "wof:name":"Mekhe Village",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.6799,
+    15.1174,
+    -16.6799,
+    15.1174
+],
+  "geometry": {"coordinates":[-16.6799,15.1174],"type":"Point"}
+}

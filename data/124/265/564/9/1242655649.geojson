@@ -1,0 +1,70 @@
+{
+  "id": 1242655649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.03778,12.8225,-15.03778,12.8225",
+    "geom:latitude":12.8225,
+    "geom:longitude":-15.03778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tankanto",
+    "gn:country_code":"SN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244956,
+    "gn:latitude":12.8225,
+    "gn:longitude":-15.03778,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Tankanto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tankanton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244956
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ec2c711e45314f92f95d371e1ed912f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1242655649,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1242655649,
+    "wof:lastmodified":1537700971,
+    "wof:name":"Tankanto",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.03778,
+    12.8225,
+    -15.03778,
+    12.8225
+],
+  "geometry": {"coordinates":[-15.03778,12.8225],"type":"Point"}
+}

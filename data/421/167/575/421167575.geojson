@@ -1,0 +1,105 @@
+{
+  "id": 421167575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.90803,14.79032,-15.90803,14.79032",
+    "geom:latitude":14.79032,
+    "geom:longitude":-15.90803,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Mback\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f3\u30d0\u30b1"
+    ],
+    "name:pol_x_preferred":[
+        "Mback\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u0430\u043a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mback\u00e9"
+    ],
+    "name:unk_x_variant":[
+        "Mback\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5df4\u514b"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2248698,
+    "qs:gn_pop":74100,
+    "qs:name":"Mbak\u00e9",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Diourbel",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":139177,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1415370,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":14.790278,
+    "wd:longitude":-15.907778,
+    "wd:wordcount":380,
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        421176669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248698,
+        "gp:id":1415370,
+        "qs:id":139177,
+        "wd:id":"Q965360",
+        "wk:page":"Mback\u00e9"
+    },
+    "wof:country":"SN",
+    "wof:created":1459008736,
+    "wof:geomhash":"b1adc670533f35bb15752dbed19da64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421176669,
+            "locality_id":421167575,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":421167575,
+    "wof:lastmodified":1527716156,
+    "wof:name":"Mbak\u00e9",
+    "wof:parent_id":421176669,
+    "wof:placetype":"locality",
+    "wof:population":74100,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.90803,
+    14.79032,
+    -15.90803,
+    14.79032
+],
+  "geometry": {"coordinates":[-15.90803,14.79032],"type":"Point"}
+}

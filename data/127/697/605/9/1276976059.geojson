@@ -1,0 +1,72 @@
+{
+  "id": 1276976059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.96667,14.18333,-15.96667,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":-15.96667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Daga Guirene",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253378,
+    "gn:latitude":14.18333,
+    "gn:longitude":-15.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Daga Guir\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daga Guizane",
+        "Daga Guir\u00e8ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677011,
+        1108691479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253378
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f7e46a4996228d02a8b6aca2411a16f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691479,
+            "locality_id":1276976059,
+            "region_id":85677011
+        }
+    ],
+    "wof:id":1276976059,
+    "wof:lastmodified":1537701140,
+    "wof:name":"Daga Guirene",
+    "wof:parent_id":1108691479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.96667,
+    14.18333,
+    -15.96667,
+    14.18333
+],
+  "geometry": {"coordinates":[-15.96667,14.18333],"type":"Point"}
+}

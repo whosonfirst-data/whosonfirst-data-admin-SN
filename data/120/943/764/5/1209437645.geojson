@@ -1,0 +1,61 @@
+{
+  "id": 1209437645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.08093,13.85179,-12.08093,13.85179",
+    "geom:latitude":13.85179,
+    "geom:longitude":-12.08093,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Madina-Foulbe",
+    "gn:country_code":"SN",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249030,
+    "gn:latitude":13.85179,
+    "gn:longitude":-12.08093,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Madina-Foulb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249030
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a0d7b7cb7d1f3d838f1553d79e151b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209437645
+        }
+    ],
+    "wof:id":1209437645,
+    "wof:lastmodified":1536287054,
+    "wof:name":"Madina-Foulbe",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.08093,
+    13.85179,
+    -12.08093,
+    13.85179
+],
+  "geometry": {"coordinates":[-12.08093,13.85179],"type":"Point"}
+}

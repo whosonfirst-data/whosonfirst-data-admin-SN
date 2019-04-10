@@ -1,0 +1,61 @@
+{
+  "id": 1209579101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4592,12.6725,-12.4592,12.6725",
+    "geom:latitude":12.6725,
+    "geom:longitude":-12.4592,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Atak",
+    "gn:country_code":"SN",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254624,
+    "gn:latitude":12.6725,
+    "gn:longitude":-12.4592,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Atak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254624
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0a794c1630f48e331783202dc4811c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209579101
+        }
+    ],
+    "wof:id":1209579101,
+    "wof:lastmodified":1536282845,
+    "wof:name":"Atak",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4592,
+    12.6725,
+    -12.4592,
+    12.6725
+],
+  "geometry": {"coordinates":[-12.4592,12.6725],"type":"Point"}
+}

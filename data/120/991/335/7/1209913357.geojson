@@ -1,0 +1,71 @@
+{
+  "id": 1209913357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.19506,14.00481,-12.19506,14.00481",
+    "geom:latitude":14.00481,
+    "geom:longitude":-12.19506,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sambayaye",
+    "gn:country_code":"SN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246295,
+    "gn:latitude":14.00481,
+    "gn:longitude":-12.19506,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sambayay\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanbayay\u00e9",
+        "Sambayay\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246295
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9076b29fb011500601d3610a799394f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1209913357,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1209913357,
+    "wof:lastmodified":1537700998,
+    "wof:name":"Sambayaye",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.19506,
+    14.00481,
+    -12.19506,
+    14.00481
+],
+  "geometry": {"coordinates":[-12.19506,14.00481],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293473235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.98177,16.31183,-13.98177,16.31183",
+    "geom:latitude":16.31183,
+    "geom:longitude":-13.98177,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Fonde Elimane",
+    "gn:country_code":"SN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251823,
+    "gn:latitude":16.31183,
+    "gn:longitude":-13.98177,
+    "gn:modification_date":"2007-08-14",
+    "gn:name":"F\u00f4nd\u00e9 Elimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251823
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"88ccce062ef36a287e328739c41b9dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1293473235,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1293473235,
+    "wof:lastmodified":1536807389,
+    "wof:name":"Fonde Elimane",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.98177,
+    16.31183,
+    -13.98177,
+    16.31183
+],
+  "geometry": {"coordinates":[-13.98177,16.31183],"type":"Point"}
+}

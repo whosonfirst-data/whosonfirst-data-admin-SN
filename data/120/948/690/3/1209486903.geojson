@@ -1,0 +1,65 @@
+{
+  "id": 1209486903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2513,12.8129,-12.2513,12.8129",
+    "geom:latitude":12.8129,
+    "geom:longitude":-12.2513,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Barandoufari",
+    "gn:country_code":"SN",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254603,
+    "gn:latitude":12.8129,
+    "gn:longitude":-12.2513,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Barandoufari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baandofari",
+        "Barandoufari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254603
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"db993a422711de8c82fe2896a671c0fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209486903
+        }
+    ],
+    "wof:id":1209486903,
+    "wof:lastmodified":1537701163,
+    "wof:name":"Barandoufari",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2513,
+    12.8129,
+    -12.2513,
+    12.8129
+],
+  "geometry": {"coordinates":[-12.2513,12.8129],"type":"Point"}
+}

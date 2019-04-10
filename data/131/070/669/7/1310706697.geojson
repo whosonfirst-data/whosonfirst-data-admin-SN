@@ -1,0 +1,67 @@
+{
+  "id": 1310706697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.51831,14.73177,-12.51831,14.73177",
+    "geom:latitude":14.73177,
+    "geom:longitude":-12.51831,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sira",
+    "gn:country_code":"SN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245285,
+    "gn:latitude":14.73177,
+    "gn:longitude":-12.51831,
+    "gn:modification_date":"2007-09-18",
+    "gn:name":"Sira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245285
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"121fc4d31574c2def3887f1fccf50487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1310706697,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1310706697,
+    "wof:lastmodified":1536624641,
+    "wof:name":"Sira",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.51831,
+    14.73177,
+    -12.51831,
+    14.73177
+],
+  "geometry": {"coordinates":[-12.51831,14.73177],"type":"Point"}
+}

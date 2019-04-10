@@ -1,0 +1,65 @@
+{
+  "id": 1209290785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.88351,13.25989,-11.88351,13.25989",
+    "geom:latitude":13.25989,
+    "geom:longitude":-11.88351,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Djegou",
+    "gn:country_code":"SN",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252580,
+    "gn:latitude":13.25989,
+    "gn:longitude":-11.88351,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dj\u00e9gou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di\u00e9gou",
+        "Dj\u00e9gou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252580
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"bd416eb24c998b06ee27d117e4279ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209290785
+        }
+    ],
+    "wof:id":1209290785,
+    "wof:lastmodified":1537701125,
+    "wof:name":"Djegou",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.88351,
+    13.25989,
+    -11.88351,
+    13.25989
+],
+  "geometry": {"coordinates":[-11.88351,13.25989],"type":"Point"}
+}

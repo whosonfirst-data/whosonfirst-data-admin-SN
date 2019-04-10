@@ -1,0 +1,67 @@
+{
+  "id": 1276954153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.23611,12.89639,-15.23611,12.89639",
+    "geom:latitude":12.89639,
+    "geom:longitude":-15.23611,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Same Kouta",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246330,
+    "gn:latitude":12.89639,
+    "gn:longitude":-15.23611,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sam\u00e9 Kouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246330
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"6c772b19abc20292d998609428ff3452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1276954153,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1276954153,
+    "wof:lastmodified":1536942393,
+    "wof:name":"Same Kouta",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.23611,
+    12.89639,
+    -15.23611,
+    12.89639
+],
+  "geometry": {"coordinates":[-15.23611,12.89639],"type":"Point"}
+}

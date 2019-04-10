@@ -1,0 +1,71 @@
+{
+  "id": 1192994765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9665,15.692,-15.9665,15.692",
+    "geom:latitude":15.692,
+    "geom:longitude":-15.9665,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Loyene",
+    "gn:country_code":"SN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249252,
+    "gn:latitude":15.692,
+    "gn:longitude":-15.9665,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"L\u00f4y\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lohi\u00e8ne",
+        "L\u00f4y\u00e8ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249252
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3ccb408d35d95e1c2cfcd6564289b36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1192994765,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1192994765,
+    "wof:lastmodified":1537701061,
+    "wof:name":"Loyene",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.9665,
+    15.692,
+    -15.9665,
+    15.692
+],
+  "geometry": {"coordinates":[-15.9665,15.692],"type":"Point"}
+}

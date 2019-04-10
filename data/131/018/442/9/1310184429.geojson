@@ -1,0 +1,72 @@
+{
+  "id": 1310184429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.15,15.5,-16.15,15.5",
+    "geom:latitude":15.5,
+    "geom:longitude":-16.15,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Diad Ndiaye",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252948,
+    "gn:latitude":15.5,
+    "gn:longitude":-16.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diad Ndiaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Diadi N\u2019Diaye",
+        "Diad Ndiaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252948
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"06dca6cec076f8506fdcb99c64c10ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1310184429,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1310184429,
+    "wof:lastmodified":1537701133,
+    "wof:name":"Diad Ndiaye",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.15,
+    15.5,
+    -16.15,
+    15.5
+],
+  "geometry": {"coordinates":[-16.15,15.5],"type":"Point"}
+}

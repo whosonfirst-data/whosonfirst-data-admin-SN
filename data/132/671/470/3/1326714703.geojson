@@ -1,0 +1,72 @@
+{
+  "id": 1326714703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.13333,14.28333,-16.13333,14.28333",
+    "geom:latitude":14.28333,
+    "geom:longitude":-16.13333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mande",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248862,
+    "gn:latitude":14.28333,
+    "gn:longitude":-16.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mannd",
+        "Mande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677011,
+        421181825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248862
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"1477f40d64a88d6cf0dd677108e081ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421181825,
+            "locality_id":1326714703,
+            "region_id":85677011
+        }
+    ],
+    "wof:id":1326714703,
+    "wof:lastmodified":1537701054,
+    "wof:name":"Mande",
+    "wof:parent_id":421181825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.13332999999999,
+    14.28333,
+    -16.13332999999999,
+    14.28333
+],
+  "geometry": {"coordinates":[-16.13332999999999,14.28333],"type":"Point"}
+}

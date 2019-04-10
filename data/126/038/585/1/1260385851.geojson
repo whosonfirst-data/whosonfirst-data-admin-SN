@@ -1,0 +1,73 @@
+{
+  "id": 1260385851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.96667,14.68333,-16.96667,14.68333",
+    "geom:latitude":14.68333,
+    "geom:longitude":-16.96667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kissane",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249859,
+    "gn:latitude":14.68333,
+    "gn:longitude":-16.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kissane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiss\u00e8ne",
+        "Kissen",
+        "Kissane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249859
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7155dd71dabe432e9327a9590dce1a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1260385851,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1260385851,
+    "wof:lastmodified":1537701071,
+    "wof:name":"Kissane",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.96667,
+    14.68333,
+    -16.96667,
+    14.68333
+],
+  "geometry": {"coordinates":[-16.96667,14.68333],"type":"Point"}
+}

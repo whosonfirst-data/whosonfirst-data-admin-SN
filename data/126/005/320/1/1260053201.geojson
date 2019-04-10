@@ -1,0 +1,67 @@
+{
+  "id": 1260053201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.33512,15.92958,-13.33512,15.92958",
+    "geom:latitude":15.92958,
+    "geom:longitude":-13.33512,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Somono",
+    "gn:country_code":"SN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245220,
+    "gn:latitude":15.92958,
+    "gn:longitude":-13.33512,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Somono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245220
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9eb1c6a544bbbc1e0a375d3f32421bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1260053201,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1260053201,
+    "wof:lastmodified":1537030440,
+    "wof:name":"Somono",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.33512,
+    15.92958,
+    -13.33512,
+    15.92958
+],
+  "geometry": {"coordinates":[-13.33512,15.92958],"type":"Point"}
+}

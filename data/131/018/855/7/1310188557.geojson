@@ -1,0 +1,67 @@
+{
+  "id": 1310188557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.28379,16.38009,-14.28379,16.38009",
+    "geom:latitude":16.38009,
+    "geom:longitude":-14.28379,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Diaga",
+    "gn:country_code":"SN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252936,
+    "gn:latitude":16.38009,
+    "gn:longitude":-14.28379,
+    "gn:modification_date":"2007-09-20",
+    "gn:name":"Diaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252936
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3a867cd066a09121d0c8ba2efc15a5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1310188557,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1310188557,
+    "wof:lastmodified":1536875851,
+    "wof:name":"Diaga",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.28379,
+    16.38009,
+    -14.28379,
+    16.38009
+],
+  "geometry": {"coordinates":[-14.28379,16.38009],"type":"Point"}
+}

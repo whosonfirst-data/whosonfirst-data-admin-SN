@@ -1,0 +1,67 @@
+{
+  "id": 1344133111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.98908,12.41289,-11.98908,12.41289",
+    "geom:latitude":12.41289,
+    "geom:longitude":-11.98908,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Niagalankome",
+    "gn:country_code":"SN",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247317,
+    "gn:latitude":12.41289,
+    "gn:longitude":-11.98908,
+    "gn:modification_date":"2007-10-10",
+    "gn:name":"Niagalankom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247317
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e077a0b824ab3d89e63d1f8de3086fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691463,
+            "locality_id":1344133111,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1344133111,
+    "wof:lastmodified":1536771364,
+    "wof:name":"Niagalankome",
+    "wof:parent_id":1108691463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.98908,
+    12.41289,
+    -11.98908,
+    12.41289
+],
+  "geometry": {"coordinates":[-11.98908,12.41289],"type":"Point"}
+}

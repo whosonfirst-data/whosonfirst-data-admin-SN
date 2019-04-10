@@ -1,0 +1,71 @@
+{
+  "id": 1243255373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.4507,15.2767,-16.4507,15.2767",
+    "geom:latitude":15.2767,
+    "geom:longitude":-16.4507,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngueye Ngueye",
+    "gn:country_code":"SN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251270,
+    "gn:latitude":15.2767,
+    "gn:longitude":-16.4507,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngu\u00e9ye Ngu\u00e9ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9ye Gu\u00e9ye",
+        "Ngu\u00e9ye Ngu\u00e9ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251270
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5fd9da475cab7ae7e77c6bb688b5fe24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1243255373,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1243255373,
+    "wof:lastmodified":1537701097,
+    "wof:name":"Ngueye Ngueye",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.4507,
+    15.2767,
+    -16.4507,
+    15.2767
+],
+  "geometry": {"coordinates":[-16.4507,15.2767],"type":"Point"}
+}

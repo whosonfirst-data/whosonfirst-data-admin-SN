@@ -1,0 +1,66 @@
+{
+  "id": 1209403839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8,13.76667,-15.8,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-15.8,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Diamaguene",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252812,
+    "gn:latitude":13.76667,
+    "gn:longitude":-15.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diamagu\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diamangu\u00e9ne",
+        "Diamagu\u00e8ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252812
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b03ee20b61ab4e05f1b00b24e4ba5dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209403839
+        }
+    ],
+    "wof:id":1209403839,
+    "wof:lastmodified":1537701131,
+    "wof:name":"Diamaguene",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8,
+    13.76667,
+    -15.8,
+    13.76667
+],
+  "geometry": {"coordinates":[-15.8,13.76667],"type":"Point"}
+}

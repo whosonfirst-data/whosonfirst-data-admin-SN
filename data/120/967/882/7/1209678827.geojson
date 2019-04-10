@@ -1,0 +1,61 @@
+{
+  "id": 1209678827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.61944,12.46694,-15.61944,12.46694",
+    "geom:latitude":12.46694,
+    "geom:longitude":-15.61944,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Toubakouta",
+    "gn:country_code":"SN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244306,
+    "gn:latitude":12.46694,
+    "gn:longitude":-15.61944,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Toubakouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244306
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b210f2056c8cd03407afccee1708bada",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209678827
+        }
+    ],
+    "wof:id":1209678827,
+    "wof:lastmodified":1536279651,
+    "wof:name":"Toubakouta",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.61944,
+    12.46694,
+    -15.61944,
+    12.46694
+],
+  "geometry": {"coordinates":[-15.61944,12.46694],"type":"Point"}
+}

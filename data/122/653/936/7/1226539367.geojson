@@ -1,0 +1,71 @@
+{
+  "id": 1226539367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.30764,13.70011,-12.30764,13.70011",
+    "geom:latitude":13.70011,
+    "geom:longitude":-12.30764,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tourekounda",
+    "gn:country_code":"SN",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244213,
+    "gn:latitude":13.70011,
+    "gn:longitude":-12.30764,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tour\u00e9kounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tour\u00e9counda",
+        "Tour\u00e9kounda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244213
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b64ec86a12a379511f998ed9aea5840f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1226539367,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1226539367,
+    "wof:lastmodified":1537700956,
+    "wof:name":"Tourekounda",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.30764,
+    13.70011,
+    -12.30764,
+    13.70011
+],
+  "geometry": {"coordinates":[-12.30764,13.70011],"type":"Point"}
+}

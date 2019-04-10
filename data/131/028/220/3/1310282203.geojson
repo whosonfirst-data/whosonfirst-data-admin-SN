@@ -1,0 +1,67 @@
+{
+  "id": 1310282203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.0625,12.91306,-16.0625,12.91306",
+    "geom:latitude":12.91306,
+    "geom:longitude":-16.0625,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djipakoum",
+    "gn:country_code":"SN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252211,
+    "gn:latitude":12.91306,
+    "gn:longitude":-16.0625,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Djipakoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252211
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"dc3ff2195c339e9c0370e84858e70d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1310282203,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1310282203,
+    "wof:lastmodified":1536741367,
+    "wof:name":"Djipakoum",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.0625,
+    12.91306,
+    -16.0625,
+    12.91306
+],
+  "geometry": {"coordinates":[-16.0625,12.91306],"type":"Point"}
+}

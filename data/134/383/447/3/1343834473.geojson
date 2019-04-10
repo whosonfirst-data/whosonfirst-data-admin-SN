@@ -1,0 +1,67 @@
+{
+  "id": 1343834473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9891,15.2649,-15.9891,15.2649",
+    "geom:latitude":15.2649,
+    "geom:longitude":-15.9891,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Merina",
+    "gn:country_code":"SN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248381,
+    "gn:latitude":15.2649,
+    "gn:longitude":-15.9891,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"M\u00e9rina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248381
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0c27d4d01eb8d986f3fcb892905dee69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1343834473,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1343834473,
+    "wof:lastmodified":1536704438,
+    "wof:name":"Merina",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.9891,
+    15.2649,
+    -15.9891,
+    15.2649
+],
+  "geometry": {"coordinates":[-15.9891,15.2649],"type":"Point"}
+}

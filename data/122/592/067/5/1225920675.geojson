@@ -1,0 +1,67 @@
+{
+  "id": 1225920675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.0563,15.9097,-15.0563,15.9097",
+    "geom:latitude":15.9097,
+    "geom:longitude":-15.0563,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Loumbeoro",
+    "gn:country_code":"SN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249147,
+    "gn:latitude":15.9097,
+    "gn:longitude":-15.0563,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Loumb\u00e9oro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249147
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5fb2de10a28351c17a9521f551c9bc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1225920675,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1225920675,
+    "wof:lastmodified":1536905924,
+    "wof:name":"Loumbeoro",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.0563,
+    15.9097,
+    -15.0563,
+    15.9097
+],
+  "geometry": {"coordinates":[-15.0563,15.9097],"type":"Point"}
+}

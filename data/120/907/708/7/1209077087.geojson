@@ -1,0 +1,65 @@
+{
+  "id": 1209077087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.33167,16.12611,-16.33167,16.12611",
+    "geom:latitude":16.12611,
+    "geom:longitude":-16.33167,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ndialam",
+    "gn:country_code":"SN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247961,
+    "gn:latitude":16.12611,
+    "gn:longitude":-16.33167,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ndialam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dialam",
+        "Ndialam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247961
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"74791f14a56e164c452844bd6dd07f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209077087
+        }
+    ],
+    "wof:id":1209077087,
+    "wof:lastmodified":1537701034,
+    "wof:name":"Ndialam",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.33167000000001,
+    16.12611,
+    -16.33167000000001,
+    16.12611
+],
+  "geometry": {"coordinates":[-16.33167000000001,16.12611],"type":"Point"}
+}

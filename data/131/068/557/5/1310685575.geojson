@@ -1,0 +1,72 @@
+{
+  "id": 1310685575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.65,14.71667,-15.65,14.71667",
+    "geom:latitude":14.71667,
+    "geom:longitude":-15.65,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Guer",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251291,
+    "gn:latitude":14.71667,
+    "gn:longitude":-15.65,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Guer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Gueur",
+        "Guer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        421176669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251291
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"52e9d0c045694571c2d3af0b2e0c4486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421176669,
+            "locality_id":1310685575,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1310685575,
+    "wof:lastmodified":1537701097,
+    "wof:name":"Guer",
+    "wof:parent_id":421176669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.65,
+    14.71667,
+    -15.65,
+    14.71667
+],
+  "geometry": {"coordinates":[-15.65,14.71667],"type":"Point"}
+}

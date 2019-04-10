@@ -1,0 +1,234 @@
+{
+  "id": 421191965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-02-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.5,15.5,-13.5,15.5",
+    "geom:latitude":15.5,
+    "geom:longitude":-13.5,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u062a\u0627\u0645"
+    ],
+    "name:baq_x_preferred":[
+        "Matam eskualdea"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a4\u09be\u09ae"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u043c"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u5854\u59c6\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Matam"
+    ],
+    "name:deu_x_preferred":[
+        "Region Matam"
+    ],
+    "name:dut_x_preferred":[
+        "Matam"
+    ],
+    "name:eng_x_preferred":[
+        "Matam"
+    ],
+    "name:eng_x_variant":[
+        "Matam Region"
+    ],
+    "name:eus_x_preferred":[
+        "Matam eskualdea"
+    ],
+    "name:fin_x_preferred":[
+        "Matam"
+    ],
+    "name:fra_x_preferred":[
+        "Matam"
+    ],
+    "name:fre_x_preferred":[
+        "Matam"
+    ],
+    "name:ger_x_preferred":[
+        "Region Matam"
+    ],
+    "name:glg_x_preferred":[
+        "Rexi\u00f3n de Matam"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03c4\u03ac\u03bc"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0aa4\u0aae"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0924\u092e"
+    ],
+    "name:ind_x_preferred":[
+        "Region Matam"
+    ],
+    "name:ita_x_preferred":[
+        "Regione di Matam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30bf\u30e0\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0ca4\u0cae\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud0d0 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Matama"
+    ],
+    "name:lit_x_preferred":[
+        "Matamo regionas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0924\u092e"
+    ],
+    "name:may_x_preferred":[
+        "Matam"
+    ],
+    "name:nob_x_preferred":[
+        "Matam"
+    ],
+    "name:pol_x_preferred":[
+        "Matam"
+    ],
+    "name:por_x_preferred":[
+        "Matam"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Matam"
+    ],
+    "name:rum_x_preferred":[
+        "Regiunea Matam"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Matam Region"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0da7\u0db8\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Regi\u00f3n de Matam"
+    ],
+    "name:swe_x_preferred":[
+        "Matam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0ba4\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c1f\u0c2e\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e1b\u0e39\u0e21\u0e32\u0e25\u0e32\u0e19\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Matam"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u041c\u0430\u0442\u0430\u043c"
+    ],
+    "name:unk_x_variant":[
+        "R\u00e9gion de Matam"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u062a\u0627\u0645 \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Matam"
+    ],
+    "name:wol_x_preferred":[
+        "Diiwaanu Maatam"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5854\u59c6\u5340"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":2248753,
+    "qs:gn_pop":477964,
+    "qs:name":"Matam",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Matam",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":140,
+    "qs:photos_sr":0,
+    "qs:placetype":"State",
+    "qs:pop_sr":"10",
+    "qs:qs_id":78474,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":56055615,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248753,
+        "gp:id":56055615,
+        "qs:id":78474,
+        "wd:id":"Q856275",
+        "wk:page":"Matam Region"
+    },
+    "wof:country":"SN",
+    "wof:created":1459009715,
+    "wof:geomhash":"d7d8511f4498170eac8ded8f5f41e631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "region_id":421191965
+        }
+    ],
+    "wof:id":421191965,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1551462570,
+    "wof:name":"Matam",
+    "wof:parent_id":85632365,
+    "wof:placetype":"region",
+    "wof:population":477964,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[
+        85677019
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.5,
+    15.5,
+    -13.5,
+    15.5
+],
+  "geometry": {"coordinates":[-13.5,15.5],"type":"Point"}
+}

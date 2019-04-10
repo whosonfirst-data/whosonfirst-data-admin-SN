@@ -1,0 +1,67 @@
+{
+  "id": 1326916585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.2624,15.1349,-15.2624,15.1349",
+    "geom:latitude":15.1349,
+    "geom:longitude":-15.2624,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nayde",
+    "gn:country_code":"SN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248128,
+    "gn:latitude":15.1349,
+    "gn:longitude":-15.2624,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Nayd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248128
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"1fe63af8086f76b249e4195324add6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1326916585,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1326916585,
+    "wof:lastmodified":1536928090,
+    "wof:name":"Nayde",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.2624,
+    15.1349,
+    -15.2624,
+    15.1349
+],
+  "geometry": {"coordinates":[-15.2624,15.1349],"type":"Point"}
+}

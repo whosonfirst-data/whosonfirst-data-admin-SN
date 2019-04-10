@@ -1,0 +1,67 @@
+{
+  "id": 1259878785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.67522,13.38438,-11.67522,13.38438",
+    "geom:latitude":13.38438,
+    "geom:longitude":-11.67522,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Niakabana",
+    "gn:country_code":"SN",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247308,
+    "gn:latitude":13.38438,
+    "gn:longitude":-11.67522,
+    "gn:modification_date":"2007-10-15",
+    "gn:name":"Niakabana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247308
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4dac83aedfe2eafc3f9a6a4a9a259f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1259878785,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1259878785,
+    "wof:lastmodified":1536786466,
+    "wof:name":"Niakabana",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.67522,
+    13.38438,
+    -11.67522,
+    13.38438
+],
+  "geometry": {"coordinates":[-11.67522,13.38438],"type":"Point"}
+}

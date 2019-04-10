@@ -1,0 +1,67 @@
+{
+  "id": 1343867815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.18438,14.77574,-17.18438,14.77574",
+    "geom:latitude":14.77574,
+    "geom:longitude":-17.18438,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Diaksaw Peul",
+    "gn:country_code":"SN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595869,
+    "gn:latitude":14.77574,
+    "gn:longitude":-17.18438,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Diaksaw Peul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595869
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9307a8ac2fcbc0d0740bd25714332903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187963,
+            "locality_id":1343867815,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1343867815,
+    "wof:lastmodified":1536655959,
+    "wof:name":"Diaksaw Peul",
+    "wof:parent_id":421187963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.18437999999999,
+    14.77574,
+    -17.18437999999999,
+    14.77574
+],
+  "geometry": {"coordinates":[-17.18437999999999,14.77574],"type":"Point"}
+}

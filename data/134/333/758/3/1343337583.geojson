@@ -1,0 +1,67 @@
+{
+  "id": 1343337583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.56667,13.01667,-15.56667,13.01667",
+    "geom:latitude":13.01667,
+    "geom:longitude":-15.56667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bantanto",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254206,
+    "gn:latitude":13.01667,
+    "gn:longitude":-15.56667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bantanto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254206
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ee712ef3ac24fac5c171a81702489ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691465,
+            "locality_id":1343337583,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1343337583,
+    "wof:lastmodified":1536924384,
+    "wof:name":"Bantanto",
+    "wof:parent_id":1108691465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.56667,
+    13.01667,
+    -15.56667,
+    13.01667
+],
+  "geometry": {"coordinates":[-15.56667,13.01667],"type":"Point"}
+}

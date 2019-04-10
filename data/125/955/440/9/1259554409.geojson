@@ -1,0 +1,67 @@
+{
+  "id": 1259554409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.43056,16.2025,-16.43056,16.2025",
+    "geom:latitude":16.2025,
+    "geom:longitude":-16.43056,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Demizine",
+    "gn:country_code":"SN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595981,
+    "gn:latitude":16.2025,
+    "gn:longitude":-16.43056,
+    "gn:modification_date":"2002-12-11",
+    "gn:name":"Demizine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595981
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a2e8f555e785c351abe28a5300412e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1259554409,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1259554409,
+    "wof:lastmodified":1536756962,
+    "wof:name":"Demizine",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.43056,
+    16.2025,
+    -16.43056,
+    16.2025
+],
+  "geometry": {"coordinates":[-16.43056,16.2025],"type":"Point"}
+}

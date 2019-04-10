@@ -1,0 +1,71 @@
+{
+  "id": 1193113437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.12096,13.05732,-12.12096,13.05732",
+    "geom:latitude":13.05732,
+    "geom:longitude":-12.12096,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Makana",
+    "gn:country_code":"SN",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248947,
+    "gn:latitude":13.05732,
+    "gn:longitude":-12.12096,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Makana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makama",
+        "Makana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248947
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"aab89d51e2c67fec72fb232652a8ab39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1193113437,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1193113437,
+    "wof:lastmodified":1537701056,
+    "wof:name":"Makana",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.12096,
+    13.05732,
+    -12.12096,
+    13.05732
+],
+  "geometry": {"coordinates":[-12.12096,13.05732],"type":"Point"}
+}

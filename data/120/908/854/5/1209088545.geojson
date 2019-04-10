@@ -1,0 +1,65 @@
+{
+  "id": 1209088545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.71667,14.06667,-14.71667,14.06667",
+    "geom:latitude":14.06667,
+    "geom:longitude":-14.71667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sibi Nokho",
+    "gn:country_code":"SN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245600,
+    "gn:latitude":14.06667,
+    "gn:longitude":-14.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sibi Nokho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sibi Norho",
+        "Sibi Nokho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245600
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b375f7c7e6d1581de7bc71d57f49a1ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209088545
+        }
+    ],
+    "wof:id":1209088545,
+    "wof:lastmodified":1537700992,
+    "wof:name":"Sibi Nokho",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.71667,
+    14.06667,
+    -14.71667,
+    14.06667
+],
+  "geometry": {"coordinates":[-14.71667,14.06667],"type":"Point"}
+}

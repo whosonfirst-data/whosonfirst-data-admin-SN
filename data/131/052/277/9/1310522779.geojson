@@ -1,0 +1,67 @@
+{
+  "id": 1310522779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.00182,14.46459,-17.00182,14.46459",
+    "geom:latitude":14.46459,
+    "geom:longitude":-17.00182,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Keur Youngar",
+    "gn:country_code":"SN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595387,
+    "gn:latitude":14.46459,
+    "gn:longitude":-17.00182,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Keur Youngar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421185475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595387
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"37e0bdb2a038e52924dbb0b7f4c0b646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421185475,
+            "locality_id":1310522779,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1310522779,
+    "wof:lastmodified":1536891675,
+    "wof:name":"Keur Youngar",
+    "wof:parent_id":421185475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.00182,
+    14.46459,
+    -17.00182,
+    14.46459
+],
+  "geometry": {"coordinates":[-17.00182,14.46459],"type":"Point"}
+}

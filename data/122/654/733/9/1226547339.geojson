@@ -1,0 +1,67 @@
+{
+  "id": 1226547339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.93333,14.96667,-15.93333,14.96667",
+    "geom:latitude":14.96667,
+    "geom:longitude":-15.93333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ramnane",
+    "gn:country_code":"SN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246587,
+    "gn:latitude":14.96667,
+    "gn:longitude":-15.93333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ramnane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        421176669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246587
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"acb7c58dab0c6d84e0886e17f4349012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421176669,
+            "locality_id":1226547339,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1226547339,
+    "wof:lastmodified":1536994884,
+    "wof:name":"Ramnane",
+    "wof:parent_id":421176669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.93333,
+    14.96667,
+    -15.93333,
+    14.96667
+],
+  "geometry": {"coordinates":[-15.93333,14.96667],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421178187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.46667,14.13333,-16.46667,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-16.46667,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Poundiougne"
+    ],
+    "qs:gn_country":"SN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2251791,
+    "qs:gn_pop":5306,
+    "qs:name":"Foundiougne",
+    "qs:name_adm0":"S\u00e9n\u00e9gal",
+    "qs:name_adm1":"Fatick",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":278316,
+    "qs:woe_adm0":23424943,
+    "qs:woe_id":1413071,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251791,
+        "gp:id":1413071,
+        "qs:id":278316
+    },
+    "wof:country":"SN",
+    "wof:created":1459009173,
+    "wof:geomhash":"38a3329c49cf6eb8916e0ef9d4ca3e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187969,
+            "locality_id":421178187,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":421178187,
+    "wof:lastmodified":1505340635,
+    "wof:name":"Foundiougne",
+    "wof:parent_id":421187969,
+    "wof:placetype":"locality",
+    "wof:population":5306,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.46667,
+    14.13333,
+    -16.46667,
+    14.13333
+],
+  "geometry": {"coordinates":[-16.46667,14.13333],"type":"Point"}
+}

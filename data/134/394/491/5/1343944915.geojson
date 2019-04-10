@@ -1,0 +1,67 @@
+{
+  "id": 1343944915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.64028,12.51917,-16.64028,12.51917",
+    "geom:latitude":12.51917,
+    "geom:longitude":-16.64028,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Santiaba Ouolof",
+    "gn:country_code":"SN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246212,
+    "gn:latitude":12.51917,
+    "gn:longitude":-16.64028,
+    "gn:modification_date":"2000-04-06",
+    "gn:name":"Santiaba Ouolof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421187971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246212
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"fa9e81afcccf1ba0e85c41710fad0772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187971,
+            "locality_id":1343944915,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1343944915,
+    "wof:lastmodified":1537040779,
+    "wof:name":"Santiaba Ouolof",
+    "wof:parent_id":421187971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.64027999999999,
+    12.51917,
+    -16.64027999999999,
+    12.51917
+],
+  "geometry": {"coordinates":[-16.64027999999999,12.51917],"type":"Point"}
+}

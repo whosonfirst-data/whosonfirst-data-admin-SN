@@ -1,0 +1,67 @@
+{
+  "id": 1293710411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.94782,14.37911,-16.94782,14.37911",
+    "geom:latitude":14.37911,
+    "geom:longitude":-16.94782,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mballing",
+    "gn:country_code":"SN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7670895,
+    "gn:latitude":14.37911,
+    "gn:longitude":-16.94782,
+    "gn:modification_date":"2011-03-04",
+    "gn:name":"Mballing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421185475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7670895
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b0eaee760bb0e91ffe1c3cb0699ad386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421185475,
+            "locality_id":1293710411,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1293710411,
+    "wof:lastmodified":1536962957,
+    "wof:name":"Mballing",
+    "wof:parent_id":421185475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.94782,
+    14.37911,
+    -16.94782,
+    14.37911
+],
+  "geometry": {"coordinates":[-16.94782,14.37911],"type":"Point"}
+}

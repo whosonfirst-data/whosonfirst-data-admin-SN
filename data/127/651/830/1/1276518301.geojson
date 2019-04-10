@@ -1,0 +1,67 @@
+{
+  "id": 1276518301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.50667,15.93694,-16.50667,15.93694",
+    "geom:latitude":15.93694,
+    "geom:longitude":-16.50667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Keur Bernard",
+    "gn:country_code":"SN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596032,
+    "gn:latitude":15.93694,
+    "gn:longitude":-16.50667,
+    "gn:modification_date":"2002-12-11",
+    "gn:name":"Keur Bernard",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596032
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"10fcd77e6dc3a624649d6ccd28b1dd69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691511,
+            "locality_id":1276518301,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1276518301,
+    "wof:lastmodified":1537027096,
+    "wof:name":"Keur Bernard",
+    "wof:parent_id":1108691511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.50667,
+    15.93694,
+    -16.50667,
+    15.93694
+],
+  "geometry": {"coordinates":[-16.50667,15.93694],"type":"Point"}
+}

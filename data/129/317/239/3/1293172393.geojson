@@ -1,0 +1,71 @@
+{
+  "id": 1293172393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.45,12.45,-12.45,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":-12.45,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hore Bova",
+    "gn:country_code":"SN",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251134,
+    "gn:latitude":12.45,
+    "gn:longitude":-12.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hor\u00e9 Bova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hor\u00e9 Boval",
+        "Hor\u00e9 Bova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251134
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"94269bd95b984ffa466d12ace079a8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691463,
+            "locality_id":1293172393,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1293172393,
+    "wof:lastmodified":1537701094,
+    "wof:name":"Hore Bova",
+    "wof:parent_id":1108691463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.45,
+    12.45,
+    -12.45,
+    12.45
+],
+  "geometry": {"coordinates":[-12.45,12.45],"type":"Point"}
+}

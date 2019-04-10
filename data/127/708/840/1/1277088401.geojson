@@ -1,0 +1,67 @@
+{
+  "id": 1277088401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.39779,14.74866,-17.39779,14.74866",
+    "geom:latitude":14.74866,
+    "geom:longitude":-17.39779,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pikine Sud",
+    "gn:country_code":"SN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101622,
+    "gn:latitude":14.74866,
+    "gn:longitude":-17.39779,
+    "gn:modification_date":"2016-03-15",
+    "gn:name":"Pikine Sud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421193105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101622
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4c27bc221c1641cb9f76426731a2e14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421193105,
+            "locality_id":1277088401,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1277088401,
+    "wof:lastmodified":1536759562,
+    "wof:name":"Pikine Sud",
+    "wof:parent_id":421193105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.39779,
+    14.74866,
+    -17.39779,
+    14.74866
+],
+  "geometry": {"coordinates":[-17.39779,14.74866],"type":"Point"}
+}

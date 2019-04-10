@@ -1,0 +1,67 @@
+{
+  "id": 1326702785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.0,13.9,-15.0,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":-15.0,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mousdalifa",
+    "gn:country_code":"SN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248220,
+    "gn:latitude":13.9,
+    "gn:longitude":-15.0,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Mousdalifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        421166855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248220
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e4d75c0a8bcc12e6929933b4c361efbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421166855,
+            "locality_id":1326702785,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1326702785,
+    "wof:lastmodified":1536738195,
+    "wof:name":"Mousdalifa",
+    "wof:parent_id":421166855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.0,
+    13.9,
+    -15.0,
+    13.9
+],
+  "geometry": {"coordinates":[-15.0,13.9],"type":"Point"}
+}

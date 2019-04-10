@@ -1,0 +1,65 @@
+{
+  "id": 1209077567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.6421,15.2343,-15.6421,15.2343",
+    "geom:latitude":15.2343,
+    "geom:longitude":-15.6421,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Diele",
+    "gn:country_code":"SN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252285,
+    "gn:latitude":15.2343,
+    "gn:longitude":-15.6421,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Di\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dj\u00e9l\u00e9",
+        "Di\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252285
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"78aa91633969d889a29c324fca53a14b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209077567
+        }
+    ],
+    "wof:id":1209077567,
+    "wof:lastmodified":1537701118,
+    "wof:name":"Diele",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.6421,
+    15.2343,
+    -15.6421,
+    15.2343
+],
+  "geometry": {"coordinates":[-15.6421,15.2343],"type":"Point"}
+}

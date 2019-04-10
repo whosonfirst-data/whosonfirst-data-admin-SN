@@ -1,0 +1,67 @@
+{
+  "id": 1310410511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.83673,14.47336,-12.83673,14.47336",
+    "geom:latitude":14.47336,
+    "geom:longitude":-12.83673,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rinkori",
+    "gn:country_code":"SN",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647983,
+    "gn:latitude":14.47336,
+    "gn:longitude":-12.83673,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Rinkori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647983
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"de659a6320dfbaef92e7802f0460c568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1310410511,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1310410511,
+    "wof:lastmodified":1537051818,
+    "wof:name":"Rinkori",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.83673,
+    14.47336,
+    -12.83673,
+    14.47336
+],
+  "geometry": {"coordinates":[-12.83673,14.47336],"type":"Point"}
+}

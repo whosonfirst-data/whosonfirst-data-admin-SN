@@ -1,0 +1,71 @@
+{
+  "id": 1310288573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.91889,16.49667,-15.91889,16.49667",
+    "geom:latitude":16.49667,
+    "geom:longitude":-15.91889,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rhor",
+    "gn:country_code":"SN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246551,
+    "gn:latitude":16.49667,
+    "gn:longitude":-15.91889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rhor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khor",
+        "Rhor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246551
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ccb1d0b33b54a68443840788358a6591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1310288573,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1310288573,
+    "wof:lastmodified":1537701002,
+    "wof:name":"Rhor",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.91889,
+    16.49667,
+    -15.91889,
+    16.49667
+],
+  "geometry": {"coordinates":[-15.91889,16.49667],"type":"Point"}
+}

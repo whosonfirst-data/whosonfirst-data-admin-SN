@@ -1,0 +1,68 @@
+{
+  "id": 1310688343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.4,12.73056,-16.4,12.73056",
+    "geom:latitude":12.73056,
+    "geom:longitude":-16.4,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bagaya",
+    "gn:country_code":"SN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254495,
+    "gn:latitude":12.73056,
+    "gn:longitude":-16.4,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bagaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254495,
+        "wk:page":"Bagaya"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"35c1d48b6c2d96f9bd405fb83377ccdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1310688343,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1310688343,
+    "wof:lastmodified":1537573724,
+    "wof:name":"Bagaya",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.4,
+    12.73056,
+    -16.4,
+    12.73056
+],
+  "geometry": {"coordinates":[-16.4,12.73056],"type":"Point"}
+}

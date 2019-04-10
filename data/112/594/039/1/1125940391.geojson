@@ -1,0 +1,97 @@
+{
+  "id": 1125940391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.36667,13.88333,-16.36667,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":-16.36667,
+    "gn:gn_country":"SN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11680,
+    "gn:population":11680,
+    "iso:country":"SN",
+    "lbl:latitude":13.88333,
+    "lbl:longitude":-16.36667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sokone"
+    ],
+    "name:eng_x_preferred":[
+        "Sokone"
+    ],
+    "name:fre_x_preferred":[
+        "Sokone"
+    ],
+    "name:pol_x_preferred":[
+        "Sokone"
+    ],
+    "name:swe_x_preferred":[
+        "Sokone"
+    ],
+    "name:unk_x_variant":[
+        "Sokon"
+    ],
+    "qs_pg:aaroncc":"SN",
+    "qs_pg:gn_country":"SN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2245241,
+    "qs_pg:gn_pop":11680,
+    "qs_pg:name":"Sokone",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":139159,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245241,
+        "qs_pg:id":139159,
+        "wd:id":"Q3489051"
+    },
+    "wof:country":"SN",
+    "wof:created":1497297099,
+    "wof:geomhash":"4c3b802f34e905343bb511ad13507206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187969,
+            "locality_id":1125940391,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":1125940391,
+    "wof:lastmodified":1514505490,
+    "wof:name":"Sokone",
+    "wof:parent_id":421187969,
+    "wof:placetype":"locality",
+    "wof:population":11680,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.36667,
+    13.88333,
+    -16.36667,
+    13.88333
+],
+  "geometry": {"coordinates":[-16.36667,13.88333],"type":"Point"}
+}

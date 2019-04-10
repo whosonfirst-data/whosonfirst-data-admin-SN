@@ -1,0 +1,81 @@
+{
+  "id": 1226039435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.03292,14.96997,-17.03292,14.96997",
+    "geom:latitude":14.96997,
+    "geom:longitude":-17.03292,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dieleuk Wolof",
+    "gn:country_code":"SN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247796,
+    "gn:latitude":14.96997,
+    "gn:longitude":-17.03292,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Di\u00e9leuk Wolof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "N\u2019Oui\u00e9l\u00e9e"
+    ],
+    "name:fra_x_variant":[
+        "Di\u00e9leuk Ouolof",
+        "Di\u00e9leuk",
+        "Ngui\u00e9l\u00e9e",
+        "Ndi\u00e9l\u00e9k"
+    ],
+    "name:und_x_variant":[
+        "Ngui\u00e9l\u00e9e",
+        "Ndi\u00e9l\u00e9k",
+        "Di\u00e9leuk Wolof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247796
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4243470e808f8a80e8d603ef5b657627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1226039435,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1226039435,
+    "wof:lastmodified":1537701030,
+    "wof:name":"Dieleuk Wolof",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.03292,
+    14.96997,
+    -17.03292,
+    14.96997
+],
+  "geometry": {"coordinates":[-17.03292,14.96997],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243273607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.2159,14.78654,-17.2159,14.78654",
+    "geom:latitude":14.78654,
+    "geom:longitude":-17.2159,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ndiekhirat Ndlobene",
+    "gn:country_code":"SN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595842,
+    "gn:latitude":14.78654,
+    "gn:longitude":-17.2159,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ndi\u00e9khirat Ndlob\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndi\u00e9khirat Ndlob\u00e8ne",
+        "Noflaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676997,
+        421187963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595842
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e8ce10ea9016fbda7d2bdd5ae6127700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187963,
+            "locality_id":1243273607,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1243273607,
+    "wof:lastmodified":1537701169,
+    "wof:name":"Ndiekhirat Ndlobene",
+    "wof:parent_id":421187963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.2159,
+    14.78654,
+    -17.2159,
+    14.78654
+],
+  "geometry": {"coordinates":[-17.2159,14.78654],"type":"Point"}
+}

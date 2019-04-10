@@ -1,0 +1,72 @@
+{
+  "id": 1210013331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.3403,15.0392,-16.3403,15.0392",
+    "geom:latitude":15.0392,
+    "geom:longitude":-16.3403,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Meoundou",
+    "gn:country_code":"SN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248394,
+    "gn:latitude":15.0392,
+    "gn:longitude":-16.3403,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"M\u00e9oundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9oudou",
+        "M\u00e9oundau",
+        "M\u00e9oundou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248394
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"6ac5311358f87441562400db9af3155e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1210013331,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1210013331,
+    "wof:lastmodified":1537701042,
+    "wof:name":"Meoundou",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.3403,
+    15.0392,
+    -16.3403,
+    15.0392
+],
+  "geometry": {"coordinates":[-16.3403,15.0392],"type":"Point"}
+}

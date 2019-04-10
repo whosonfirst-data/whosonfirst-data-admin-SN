@@ -1,0 +1,67 @@
+{
+  "id": 1327024457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.46439,13.78007,-16.46439,13.78007",
+    "geom:latitude":13.78007,
+    "geom:longitude":-16.46439,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tabacouta",
+    "gn:country_code":"SN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101806,
+    "gn:latitude":13.78007,
+    "gn:longitude":-16.46439,
+    "gn:modification_date":"2016-03-16",
+    "gn:name":"Tabacouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101806
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f0dc4aa0c4f6918866a67bc1ceaf7b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187969,
+            "locality_id":1327024457,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":1327024457,
+    "wof:lastmodified":1536772546,
+    "wof:name":"Tabacouta",
+    "wof:parent_id":421187969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.46439,
+    13.78007,
+    -16.46439,
+    13.78007
+],
+  "geometry": {"coordinates":[-16.46439,13.78007],"type":"Point"}
+}

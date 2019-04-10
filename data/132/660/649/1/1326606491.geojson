@@ -1,0 +1,71 @@
+{
+  "id": 1326606491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8225,15.276,-15.8225,15.276",
+    "geom:latitude":15.276,
+    "geom:longitude":-15.8225,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Loumbel Bassinare",
+    "gn:country_code":"SN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249172,
+    "gn:latitude":15.276,
+    "gn:longitude":-15.8225,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Loumbel Bassinar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loumbel Bissinar\u00e9",
+        "Loumbel Bassinar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249172
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5132bbed6437677f77363e2c1682e3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1326606491,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1326606491,
+    "wof:lastmodified":1537701059,
+    "wof:name":"Loumbel Bassinare",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8225,
+    15.276,
+    -15.8225,
+    15.276
+],
+  "geometry": {"coordinates":[-15.8225,15.276],"type":"Point"}
+}

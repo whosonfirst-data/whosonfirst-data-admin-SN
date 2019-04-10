@@ -1,0 +1,78 @@
+{
+  "id": 1310282167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.75056,12.41639,-16.75056,12.41639",
+    "geom:latitude":12.41639,
+    "geom:longitude":-16.75056,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Boukot Ouolof",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253607,
+    "gn:latitude":12.41639,
+    "gn:longitude":-16.75056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Boukot Ouolof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boucotte"
+    ],
+    "name:fra_x_variant":[
+        "Boukot"
+    ],
+    "name:und_x_variant":[
+        "Boukote Ouolof",
+        "Boukot Ouolof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421187971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253607
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"08f07dd3da73dc0154f3f6cd90a88669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187971,
+            "locality_id":1310282167,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1310282167,
+    "wof:lastmodified":1537701145,
+    "wof:name":"Boukot Ouolof",
+    "wof:parent_id":421187971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.75056,
+    12.41639,
+    -16.75056,
+    12.41639
+],
+  "geometry": {"coordinates":[-16.75056,12.41639],"type":"Point"}
+}

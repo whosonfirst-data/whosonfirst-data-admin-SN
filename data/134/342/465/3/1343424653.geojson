@@ -1,0 +1,67 @@
+{
+  "id": 1343424653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.7352,12.74675,-11.7352,12.74675",
+    "geom:latitude":12.74675,
+    "geom:longitude":-11.7352,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sanela",
+    "gn:country_code":"SN",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246282,
+    "gn:latitude":12.74675,
+    "gn:longitude":-11.7352,
+    "gn:modification_date":"2007-10-10",
+    "gn:name":"San\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246282
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ddafaf2e45888f773e1950a43d26bd8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1343424653,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1343424653,
+    "wof:lastmodified":1536798178,
+    "wof:name":"Sanela",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.7352,
+    12.74675,
+    -11.7352,
+    12.74675
+],
+  "geometry": {"coordinates":[-11.7352,12.74675],"type":"Point"}
+}

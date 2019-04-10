@@ -1,0 +1,71 @@
+{
+  "id": 1310277477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.51667,13.93333,-15.51667,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":-15.51667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Diatafaka",
+    "gn:country_code":"SN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252635,
+    "gn:latitude":13.93333,
+    "gn:longitude":-15.51667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diatafaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diatafara",
+        "Diatafaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252635
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d8a1fbcac7c65abdb63f7a16c01e2a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691477,
+            "locality_id":1310277477,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1310277477,
+    "wof:lastmodified":1537701127,
+    "wof:name":"Diatafaka",
+    "wof:parent_id":1108691477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.51667,
+    13.93333,
+    -15.51667,
+    13.93333
+],
+  "geometry": {"coordinates":[-15.51667,13.93333],"type":"Point"}
+}

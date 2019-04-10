@@ -1,0 +1,71 @@
+{
+  "id": 1277052371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.4818,15.8399,-15.4818,15.8399",
+    "geom:latitude":15.8399,
+    "geom:longitude":-15.4818,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Vendou Koumba Khar",
+    "gn:country_code":"SN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244134,
+    "gn:latitude":15.8399,
+    "gn:longitude":-15.4818,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"V\u00e8ndou Koumba Khar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e8ndou Koumba Har",
+        "V\u00e8ndou Koumba Khar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244134
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"746938e85013ff2e19d1aab746051159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1277052371,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1277052371,
+    "wof:lastmodified":1537700955,
+    "wof:name":"Vendou Koumba Khar",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.4818,
+    15.8399,
+    -15.4818,
+    15.8399
+],
+  "geometry": {"coordinates":[-15.4818,15.8399],"type":"Point"}
+}

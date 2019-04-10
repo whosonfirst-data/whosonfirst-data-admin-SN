@@ -1,0 +1,72 @@
+{
+  "id": 1310706557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.64424,13.39143,-11.64424,13.39143",
+    "geom:latitude":13.39143,
+    "geom:longitude":-11.64424,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sayansoutou",
+    "gn:country_code":"SN",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246457,
+    "gn:latitude":13.39143,
+    "gn:longitude":-11.64424,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sayansoutou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u00efsoutou",
+        "Sa\u00efnsoutou",
+        "Sayansoutou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246457
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d781d82581b9d58cf448fb4d5d5c0c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1310706557,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1310706557,
+    "wof:lastmodified":1537701001,
+    "wof:name":"Sayansoutou",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.64424,
+    13.39143,
+    -11.64424,
+    13.39143
+],
+  "geometry": {"coordinates":[-11.64424,13.39143],"type":"Point"}
+}

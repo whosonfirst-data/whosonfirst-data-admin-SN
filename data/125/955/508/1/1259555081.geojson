@@ -1,0 +1,67 @@
+{
+  "id": 1259555081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.05861,13.1499,-12.05861,13.1499",
+    "geom:latitude":13.1499,
+    "geom:longitude":-12.05861,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Korolo",
+    "gn:country_code":"SN",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249696,
+    "gn:latitude":13.1499,
+    "gn:longitude":-12.05861,
+    "gn:modification_date":"2008-04-23",
+    "gn:name":"Korolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249696
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"735e2cb41fcecefc97fd5f144746657d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691467,
+            "locality_id":1259555081,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1259555081,
+    "wof:lastmodified":1536755935,
+    "wof:name":"Korolo",
+    "wof:parent_id":1108691467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.05861,
+    13.1499,
+    -12.05861,
+    13.1499
+],
+  "geometry": {"coordinates":[-12.05861,13.1499],"type":"Point"}
+}

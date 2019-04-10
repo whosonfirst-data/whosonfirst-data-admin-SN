@@ -1,0 +1,71 @@
+{
+  "id": 1293271613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9797,15.1833,-15.9797,15.1833",
+    "geom:latitude":15.1833,
+    "geom:longitude":-15.9797,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbayene Ndjoudam",
+    "gn:country_code":"SN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248619,
+    "gn:latitude":15.1833,
+    "gn:longitude":-15.9797,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbay\u00e8ne Ndjoudam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbay\u00e8ne Ndjoudame",
+        "Mbay\u00e8ne Ndjoudam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248619
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e0462f29de365590b1131d66b8f58533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1293271613,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1293271613,
+    "wof:lastmodified":1537701049,
+    "wof:name":"Mbayene Ndjoudam",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.9797,
+    15.1833,
+    -15.9797,
+    15.1833
+],
+  "geometry": {"coordinates":[-15.9797,15.1833],"type":"Point"}
+}

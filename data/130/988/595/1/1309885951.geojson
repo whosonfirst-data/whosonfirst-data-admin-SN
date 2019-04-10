@@ -1,0 +1,72 @@
+{
+  "id": 1309885951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.22917,12.93889,-16.22917,12.93889",
+    "geom:latitude":12.93889,
+    "geom:longitude":-16.22917,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Balian",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254369,
+    "gn:latitude":12.93889,
+    "gn:longitude":-16.22917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Balian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baliar",
+        "Balian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254369
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"5c42e69c1165c0307c2ca8f68c3e6d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1309885951,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1309885951,
+    "wof:lastmodified":1537701158,
+    "wof:name":"Balian",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.22917,
+    12.93889,
+    -16.22917,
+    12.93889
+],
+  "geometry": {"coordinates":[-16.22917,12.93889],"type":"Point"}
+}

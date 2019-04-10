@@ -1,0 +1,72 @@
+{
+  "id": 1309897583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.6854,15.137,-16.6854,15.137",
+    "geom:latitude":15.137,
+    "geom:longitude":-16.6854,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngakham I",
+    "gn:country_code":"SN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247535,
+    "gn:latitude":15.137,
+    "gn:longitude":-16.6854,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngakham I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gakham",
+        "Ngakham",
+        "Ngakham I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        1108691499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247535
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"4018144b46ea00cb250e83a25b9c1290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691499,
+            "locality_id":1309897583,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1309897583,
+    "wof:lastmodified":1537701023,
+    "wof:name":"Ngakham I",
+    "wof:parent_id":1108691499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.6854,
+    15.137,
+    -16.6854,
+    15.137
+],
+  "geometry": {"coordinates":[-16.6854,15.137],"type":"Point"}
+}

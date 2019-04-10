@@ -1,0 +1,67 @@
+{
+  "id": 1327430755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.3885,14.81189,-12.3885,14.81189",
+    "geom:latitude":14.81189,
+    "geom:longitude":-12.3885,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kounghany",
+    "gn:country_code":"SN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497857,
+    "gn:latitude":14.81189,
+    "gn:longitude":-12.3885,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kounghany",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497857
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"eb34e82538a327f36fb2ff935beba91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1327430755,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1327430755,
+    "wof:lastmodified":1536683127,
+    "wof:name":"Kounghany",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.3885,
+    14.81189,
+    -12.3885,
+    14.81189
+],
+  "geometry": {"coordinates":[-12.3885,14.81189],"type":"Point"}
+}

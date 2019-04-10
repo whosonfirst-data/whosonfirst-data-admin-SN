@@ -1,0 +1,71 @@
+{
+  "id": 1360271671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9405,15.7938,-15.9405,15.7938",
+    "geom:latitude":15.7938,
+    "geom:longitude":-15.9405,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Boudi",
+    "gn:country_code":"SN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253641,
+    "gn:latitude":15.7938,
+    "gn:longitude":-15.9405,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Boudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boudy",
+        "Boudi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253641
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2d9df7476f51e0695d3dcbd483e57d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1360271671,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1360271671,
+    "wof:lastmodified":1537701146,
+    "wof:name":"Boudi",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.9405,
+    15.7938,
+    -15.9405,
+    15.7938
+],
+  "geometry": {"coordinates":[-15.9405,15.7938],"type":"Point"}
+}

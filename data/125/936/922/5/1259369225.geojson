@@ -1,0 +1,71 @@
+{
+  "id": 1259369225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9737,15.3163,-15.9737,15.3163",
+    "geom:latitude":15.3163,
+    "geom:longitude":-15.9737,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taiba Singue",
+    "gn:country_code":"SN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245046,
+    "gn:latitude":15.3163,
+    "gn:longitude":-15.9737,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ta\u00efba Singu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u00efba Sinngu\u00e9",
+        "Ta\u00efba Singu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245046
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"e996b2abf762b29eea376a4fb97f2c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1259369225,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1259369225,
+    "wof:lastmodified":1537700973,
+    "wof:name":"Taiba Singue",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.9737,
+    15.3163,
+    -15.9737,
+    15.3163
+],
+  "geometry": {"coordinates":[-15.9737,15.3163],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310588233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.97278,12.50028,-15.97278,12.50028",
+    "geom:latitude":12.50028,
+    "geom:longitude":-15.97278,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Blaze",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253824,
+    "gn:latitude":12.50028,
+    "gn:longitude":-15.97278,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Blaze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blaz",
+        "Blaze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253824
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9cdb7d20fcc1e579311a0dde6cbb5d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203237,
+            "locality_id":1310588233,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1310588233,
+    "wof:lastmodified":1537701148,
+    "wof:name":"Blaze",
+    "wof:parent_id":421203237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.97278,
+    12.50028,
+    -15.97278,
+    12.50028
+],
+  "geometry": {"coordinates":[-15.97278,12.50028],"type":"Point"}
+}

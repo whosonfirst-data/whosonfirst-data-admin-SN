@@ -1,0 +1,67 @@
+{
+  "id": 1293076907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.64722,12.47972,-15.64722,12.47972",
+    "geom:latitude":12.47972,
+    "geom:longitude":-15.64722,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Satioum",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245728,
+    "gn:latitude":12.47972,
+    "gn:longitude":-15.64722,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Satioum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245728
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"808b9ed3fc8b39b0878e4cc87bd1fcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691457,
+            "locality_id":1293076907,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1293076907,
+    "wof:lastmodified":1536881378,
+    "wof:name":"Satioum",
+    "wof:parent_id":1108691457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.64722,
+    12.47972,
+    -15.64722,
+    12.47972
+],
+  "geometry": {"coordinates":[-15.64722,12.47972],"type":"Point"}
+}

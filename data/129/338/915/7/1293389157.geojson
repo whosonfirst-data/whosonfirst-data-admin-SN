@@ -1,0 +1,71 @@
+{
+  "id": 1293389157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.82296,13.98047,-12.82296,13.98047",
+    "geom:latitude":13.98047,
+    "geom:longitude":-12.82296,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sinntiou Bakari",
+    "gn:country_code":"SN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245429,
+    "gn:latitude":13.98047,
+    "gn:longitude":-12.82296,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sinntiou Bakari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sintiou Bakari",
+        "Sinntiou Bakari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245429
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"8f6f08fe82a9fae8fc2225aae8e3927f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1293389157,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1293389157,
+    "wof:lastmodified":1537700986,
+    "wof:name":"Sinntiou Bakari",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.82296,
+    13.98047,
+    -12.82296,
+    13.98047
+],
+  "geometry": {"coordinates":[-12.82296,13.98047],"type":"Point"}
+}

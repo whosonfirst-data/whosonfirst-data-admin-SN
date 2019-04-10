@@ -1,0 +1,78 @@
+{
+  "id": 1125764697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.52167,12.78556,-16.52167,12.78556",
+    "geom:latitude":12.78556,
+    "geom:longitude":-16.52167,
+    "gn:gn_country":"SN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8151,
+    "gn:population":8151,
+    "iso:country":"SN",
+    "lbl:latitude":12.78556,
+    "lbl:longitude":-16.52167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SN",
+    "qs_pg:gn_country":"SN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2244436,
+    "qs_pg:gn_pop":8151,
+    "qs_pg:name":"Tionk Essil",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1034534,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244436,
+        "qs_pg:id":1034534
+    },
+    "wof:country":"SN",
+    "wof:created":1497289819,
+    "wof:geomhash":"5ac0667d52aea2e9f1bdcc863413e710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1125764697,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1125764697,
+    "wof:lastmodified":1509390619,
+    "wof:name":"Tionk Essil",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:population":8151,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.52167,
+    12.78556,
+    -16.52167,
+    12.78556
+],
+  "geometry": {"coordinates":[-16.52167,12.78556],"type":"Point"}
+}

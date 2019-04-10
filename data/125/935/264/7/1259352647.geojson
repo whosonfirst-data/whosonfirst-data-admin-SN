@@ -1,0 +1,71 @@
+{
+  "id": 1259352647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.68333,14.3,-15.68333,14.3",
+    "geom:latitude":14.3,
+    "geom:longitude":-15.68333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kai",
+    "gn:country_code":"SN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250981,
+    "gn:latitude":14.3,
+    "gn:longitude":-15.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ka\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaki",
+        "Ka\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250981
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"3f8152742e12693689c0e791b1a71073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691481,
+            "locality_id":1259352647,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1259352647,
+    "wof:lastmodified":1537701091,
+    "wof:name":"Kai",
+    "wof:parent_id":1108691481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.68333,
+    14.3,
+    -15.68333,
+    14.3
+],
+  "geometry": {"coordinates":[-15.68333,14.3],"type":"Point"}
+}

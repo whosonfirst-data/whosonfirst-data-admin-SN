@@ -1,0 +1,72 @@
+{
+  "id": 1292987209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.11667,15.78333,-16.11667,15.78333",
+    "geom:latitude":15.78333,
+    "geom:longitude":-16.11667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Keur Mahanta",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250284,
+    "gn:latitude":15.78333,
+    "gn:longitude":-16.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Keur Mahanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ker Manta",
+        "Keur Mahanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250284
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"2389bffb7d709c0091d5dfba161cbc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1292987209,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1292987209,
+    "wof:lastmodified":1537701079,
+    "wof:name":"Keur Mahanta",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.11667000000001,
+    15.78333,
+    -16.11667000000001,
+    15.78333
+],
+  "geometry": {"coordinates":[-16.11667000000001,15.78333],"type":"Point"}
+}

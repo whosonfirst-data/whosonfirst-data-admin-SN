@@ -1,0 +1,72 @@
+{
+  "id": 1310206659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.55,14.95,-16.55,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":-16.55,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Meoudou Kane",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248395,
+    "gn:latitude":14.95,
+    "gn:longitude":-16.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"M\u00e8oudou Kane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9oulou",
+        "M\u00e8oudou Kane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677001,
+        1108691495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248395
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"40c46917801a8d321370894e1c53d5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691495,
+            "locality_id":1310206659,
+            "region_id":85677001
+        }
+    ],
+    "wof:id":1310206659,
+    "wof:lastmodified":1537701042,
+    "wof:name":"Meoudou Kane",
+    "wof:parent_id":1108691495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.55,
+    14.95,
+    -16.55,
+    14.95
+],
+  "geometry": {"coordinates":[-16.55,14.95],"type":"Point"}
+}

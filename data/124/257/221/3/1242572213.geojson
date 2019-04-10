@@ -1,0 +1,73 @@
+{
+  "id": 1242572213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.73333,14.86667,-16.73333,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":-16.73333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Keur Ibra Gueye",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250348,
+    "gn:latitude":14.86667,
+    "gn:longitude":-16.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Keur Ibra Gueye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keur Ibra Gaye",
+        "Kibra-Gaye",
+        "Keur Ibra Gueye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677025,
+        421203459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250348
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c8828a07a94b12551112d7392cfb9b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203459,
+            "locality_id":1242572213,
+            "region_id":85677025
+        }
+    ],
+    "wof:id":1242572213,
+    "wof:lastmodified":1537701081,
+    "wof:name":"Keur Ibra Gueye",
+    "wof:parent_id":421203459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.73333,
+    14.86667,
+    -16.73333,
+    14.86667
+],
+  "geometry": {"coordinates":[-16.73333,14.86667],"type":"Point"}
+}

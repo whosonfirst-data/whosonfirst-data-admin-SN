@@ -1,0 +1,67 @@
+{
+  "id": 1209913351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.51114,14.91862,-12.51114,14.91862",
+    "geom:latitude":14.91862,
+    "geom:longitude":-12.51114,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Korera",
+    "gn:country_code":"SN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2249702,
+    "gn:latitude":14.91862,
+    "gn:longitude":-12.51114,
+    "gn:modification_date":"2007-09-13",
+    "gn:name":"Kor\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2249702
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"12911638e3fcd19a5afc06fd8fe35544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1209913351,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1209913351,
+    "wof:lastmodified":1536376392,
+    "wof:name":"Korera",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.51114,
+    14.91862,
+    -12.51114,
+    14.91862
+],
+  "geometry": {"coordinates":[-12.51114,14.91862],"type":"Point"}
+}

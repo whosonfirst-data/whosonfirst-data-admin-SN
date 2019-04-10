@@ -1,0 +1,66 @@
+{
+  "id": 1209201625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.3,12.55,-16.3,12.55",
+    "geom:latitude":12.55,
+    "geom:longitude":-16.3,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djibelor Bainouk",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252271,
+    "gn:latitude":12.55,
+    "gn:longitude":-16.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Djib\u00e9lor Ba\u00efnouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bainouk",
+        "Djib\u00e9lor Ba\u00efnouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252271
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b0459f1bcd39bf8d9571b10a9c14e940",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209201625
+        }
+    ],
+    "wof:id":1209201625,
+    "wof:lastmodified":1537701118,
+    "wof:name":"Djibelor Bainouk",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.3,
+    12.55,
+    -16.3,
+    12.55
+],
+  "geometry": {"coordinates":[-16.3,12.55],"type":"Point"}
+}

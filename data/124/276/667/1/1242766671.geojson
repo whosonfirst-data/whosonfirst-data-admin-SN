@@ -1,0 +1,67 @@
+{
+  "id": 1242766671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.8082,14.22245,-14.8082,14.22245",
+    "geom:latitude":14.22245,
+    "geom:longitude":-14.8082,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gainthe pathe",
+    "gn:country_code":"SN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101807,
+    "gn:latitude":14.22245,
+    "gn:longitude":-14.8082,
+    "gn:modification_date":"2016-03-16",
+    "gn:name":"Gainthe pathe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        421166855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101807
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"320311c8803b07fe749cc9285f2f8122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421166855,
+            "locality_id":1242766671,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1242766671,
+    "wof:lastmodified":1536791701,
+    "wof:name":"Gainthe pathe",
+    "wof:parent_id":421166855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.8082,
+    14.22245,
+    -14.8082,
+    14.22245
+],
+  "geometry": {"coordinates":[-14.8082,14.22245],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209084377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.96667,12.75,-14.96667,12.75",
+    "geom:latitude":12.75,
+    "geom:longitude":-14.96667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kamako Sanssan",
+    "gn:country_code":"SN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250922,
+    "gn:latitude":12.75,
+    "gn:longitude":-14.96667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kamako Sanssan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250922
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c0550fa4209fb6db527aab52cad0731a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209084377
+        }
+    ],
+    "wof:id":1209084377,
+    "wof:lastmodified":1536298234,
+    "wof:name":"Kamako Sanssan",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.96667,
+    12.75,
+    -14.96667,
+    12.75
+],
+  "geometry": {"coordinates":[-14.96667,12.75],"type":"Point"}
+}

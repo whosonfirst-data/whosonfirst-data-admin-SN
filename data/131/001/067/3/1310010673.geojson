@@ -1,0 +1,67 @@
+{
+  "id": 1310010673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.0595,14.09828,-12.0595,14.09828",
+    "geom:latitude":14.09828,
+    "geom:longitude":-12.0595,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kenieba",
+    "gn:country_code":"SN",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250609,
+    "gn:latitude":14.09828,
+    "gn:longitude":-12.0595,
+    "gn:modification_date":"2007-09-18",
+    "gn:name":"K\u00e9ni\u00e9ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250609
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"beda4e109109334e0fc57778c568329a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1310010673,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1310010673,
+    "wof:lastmodified":1536634525,
+    "wof:name":"Kenieba",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.0595,
+    14.09828,
+    -12.0595,
+    14.09828
+],
+  "geometry": {"coordinates":[-12.0595,14.09828],"type":"Point"}
+}

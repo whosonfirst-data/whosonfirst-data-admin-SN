@@ -1,0 +1,67 @@
+{
+  "id": 1310203951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.94135,13.28914,-12.94135,13.28914",
+    "geom:latitude":13.28914,
+    "geom:longitude":-12.94135,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Massadala",
+    "gn:country_code":"SN",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248773,
+    "gn:latitude":13.28914,
+    "gn:longitude":-12.94135,
+    "gn:modification_date":"2008-04-23",
+    "gn:name":"Massadala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248773
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"01ae7b40d8184a049540056f0bb5758a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1310203951,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1310203951,
+    "wof:lastmodified":1536853418,
+    "wof:name":"Massadala",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.94135,
+    13.28914,
+    -12.94135,
+    13.28914
+],
+  "geometry": {"coordinates":[-12.94135,13.28914],"type":"Point"}
+}

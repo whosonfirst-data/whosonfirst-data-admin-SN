@@ -1,0 +1,67 @@
+{
+  "id": 1293171829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.39222,15.84417,-16.39222,15.84417",
+    "geom:latitude":15.84417,
+    "geom:longitude":-16.39222,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rakhmane",
+    "gn:country_code":"SN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596081,
+    "gn:latitude":15.84417,
+    "gn:longitude":-16.39222,
+    "gn:modification_date":"2002-12-11",
+    "gn:name":"Rakhmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596081
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"b9a2e8185e831d8930d3981c4fe3a325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691511,
+            "locality_id":1293171829,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1293171829,
+    "wof:lastmodified":1536744963,
+    "wof:name":"Rakhmane",
+    "wof:parent_id":1108691511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.39222,
+    15.84417,
+    -16.39222,
+    15.84417
+],
+  "geometry": {"coordinates":[-16.39222,15.84417],"type":"Point"}
+}

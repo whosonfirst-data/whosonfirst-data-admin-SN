@@ -1,0 +1,67 @@
+{
+  "id": 1226418761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.6,12.46667,-12.6,12.46667",
+    "geom:latitude":12.46667,
+    "geom:longitude":-12.6,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Doubel Badiel",
+    "gn:country_code":"SN",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252143,
+    "gn:latitude":12.46667,
+    "gn:longitude":-12.6,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Doubel Badiel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252143
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"df50ff505c81393e18b7b28c2eb9721a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691455,
+            "locality_id":1226418761,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1226418761,
+    "wof:lastmodified":1536684400,
+    "wof:name":"Doubel Badiel",
+    "wof:parent_id":1108691455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.6,
+    12.46667,
+    -12.6,
+    12.46667
+],
+  "geometry": {"coordinates":[-12.6,12.46667],"type":"Point"}
+}

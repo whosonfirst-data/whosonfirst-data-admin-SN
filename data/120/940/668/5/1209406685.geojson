@@ -1,0 +1,61 @@
+{
+  "id": 1209406685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.0607,14.55444,-17.0607,14.55444",
+    "geom:latitude":14.55444,
+    "geom:longitude":-17.0607,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lero",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595435,
+    "gn:latitude":14.55444,
+    "gn:longitude":-17.0607,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"L\u00e8ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595435
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f76ccc384536e7f15f0b636b64b14966",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209406685
+        }
+    ],
+    "wof:id":1209406685,
+    "wof:lastmodified":1536287974,
+    "wof:name":"Lero",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.0607,
+    14.55444,
+    -17.0607,
+    14.55444
+],
+  "geometry": {"coordinates":[-17.0607,14.55444],"type":"Point"}
+}

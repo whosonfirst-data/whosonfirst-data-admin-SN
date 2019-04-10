@@ -1,0 +1,74 @@
+{
+  "id": 1260043079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.81917,12.7025,-15.81917,12.7025",
+    "geom:latitude":12.7025,
+    "geom:longitude":-15.81917,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Subikouroto",
+    "gn:country_code":"SN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245111,
+    "gn:latitude":12.7025,
+    "gn:longitude":-15.81917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Subikouroto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sibikouroto",
+        "Toubacouta",
+        "Sabikouroto",
+        "Toubakouta",
+        "Subikouroto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245111
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c2bbc4ef8dad177b8ac8efadbe7ba11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691459,
+            "locality_id":1260043079,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1260043079,
+    "wof:lastmodified":1537700974,
+    "wof:name":"Subikouroto",
+    "wof:parent_id":1108691459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.81917,
+    12.7025,
+    -15.81917,
+    12.7025
+],
+  "geometry": {"coordinates":[-15.81917,12.7025],"type":"Point"}
+}

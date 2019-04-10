@@ -1,0 +1,67 @@
+{
+  "id": 1276441229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.55,14.41667,-14.55,14.41667",
+    "geom:latitude":14.41667,
+    "geom:longitude":-14.55,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nayon Madou",
+    "gn:country_code":"SN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2248119,
+    "gn:latitude":14.41667,
+    "gn:longitude":-14.55,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nayon Madou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2248119
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a3c4f15f468c08925cf46150565a2417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691483,
+            "locality_id":1276441229,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1276441229,
+    "wof:lastmodified":1536632611,
+    "wof:name":"Nayon Madou",
+    "wof:parent_id":1108691483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.55,
+    14.41667,
+    -14.55,
+    14.41667
+],
+  "geometry": {"coordinates":[-14.55,14.41667],"type":"Point"}
+}

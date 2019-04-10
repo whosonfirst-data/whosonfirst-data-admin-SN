@@ -1,0 +1,71 @@
+{
+  "id": 1193106769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.81667,14.18333,-15.81667,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":-15.81667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ganbou",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251698,
+    "gn:latitude":14.18333,
+    "gn:longitude":-15.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ganbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Gambou",
+        "Ganbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        1108691477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251698
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d50aa27ddb32585854ae585729f506b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691477,
+            "locality_id":1193106769,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1193106769,
+    "wof:lastmodified":1537701108,
+    "wof:name":"Ganbou",
+    "wof:parent_id":1108691477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.81667,
+    14.18333,
+    -15.81667,
+    14.18333
+],
+  "geometry": {"coordinates":[-15.81667,14.18333],"type":"Point"}
+}

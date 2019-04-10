@@ -1,0 +1,67 @@
+{
+  "id": 1343844321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.012,15.3204,-15.012,15.3204",
+    "geom:latitude":15.3204,
+    "geom:longitude":-15.012,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ouro Vendou",
+    "gn:country_code":"SN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246913,
+    "gn:latitude":15.3204,
+    "gn:longitude":-15.012,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Ouro V\u00e8ndou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246913
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"9d0d9dabb30c0f72ae898a2dbe9c9611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1343844321,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1343844321,
+    "wof:lastmodified":1536690024,
+    "wof:name":"Ouro Vendou",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.012,
+    15.3204,
+    -15.012,
+    15.3204
+],
+  "geometry": {"coordinates":[-15.012,15.3204],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226138801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.28361,13.60056,-16.28361,13.60056",
+    "geom:latitude":13.60056,
+    "geom:longitude":-16.28361,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Keur Bourama Bobo",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571746,
+    "gn:latitude":13.60056,
+    "gn:longitude":-16.28361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Keur Bourama Bobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ker Bourama Bobo",
+        "Keur Bourama Bobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571746
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d1d5ea35a99b3499d205784fd21c28e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187969,
+            "locality_id":1226138801,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":1226138801,
+    "wof:lastmodified":1537701166,
+    "wof:name":"Keur Bourama Bobo",
+    "wof:parent_id":421187969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.28361,
+    13.60056,
+    -16.28361,
+    13.60056
+],
+  "geometry": {"coordinates":[-16.28361,13.60056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293562299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.51412,16.08704,-13.51412,16.08704",
+    "geom:latitude":16.08704,
+    "geom:longitude":-13.51412,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Silla",
+    "gn:country_code":"SN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2245560,
+    "gn:latitude":16.08704,
+    "gn:longitude":-13.51412,
+    "gn:modification_date":"2007-08-15",
+    "gn:name":"Silla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        890424907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2245560
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a39547e00b2bd185b081aa246ebfb064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":890424907,
+            "locality_id":1293562299,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1293562299,
+    "wof:lastmodified":1536679321,
+    "wof:name":"Silla",
+    "wof:parent_id":890424907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.51412,
+    16.08704,
+    -13.51412,
+    16.08704
+],
+  "geometry": {"coordinates":[-13.51412,16.08704],"type":"Point"}
+}

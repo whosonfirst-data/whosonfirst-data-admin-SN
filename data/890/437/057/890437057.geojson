@@ -1,0 +1,69 @@
+{
+  "id": 890437057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.10165,16.25574,-14.10165,16.25574",
+    "geom:latitude":16.25574,
+    "geom:longitude":-14.10165,
+    "gn:country":"SN",
+    "gn:fcode":"PPL",
+    "gn:pop":5461,
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Goll\u00e9r\u00e9"
+    ],
+    "qs:name":"Gol\u00e9r\u00e9",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251544,
+        "gp:id":1413264,
+        "qs:id":1034548
+    },
+    "wof:country":"SN",
+    "wof:created":1469052136,
+    "wof:geomhash":"d4811985ac255479e2d8f4f834fd5894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":890437057,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":890437057,
+    "wof:lastmodified":1505343557,
+    "wof:name":"Gol\u00e9r\u00e9",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:population":5461,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.10165,
+    16.25574,
+    -14.10165,
+    16.25574
+],
+  "geometry": {"coordinates":[-14.10165,16.25574],"type":"Point"}
+}

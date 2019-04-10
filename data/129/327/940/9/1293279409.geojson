@@ -1,0 +1,67 @@
+{
+  "id": 1293279409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.55083,12.99778,-16.55083,12.99778",
+    "geom:latitude":12.99778,
+    "geom:longitude":-16.55083,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kansola",
+    "gn:country_code":"SN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250814,
+    "gn:latitude":12.99778,
+    "gn:longitude":-16.55083,
+    "gn:modification_date":"2000-04-06",
+    "gn:name":"Kansola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250814
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"7b03995b884789bdd6a2254b9fdf601c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1293279409,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1293279409,
+    "wof:lastmodified":1537083847,
+    "wof:name":"Kansola",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.55083,
+    12.99778,
+    -16.55083,
+    12.99778
+],
+  "geometry": {"coordinates":[-16.55083,12.99778],"type":"Point"}
+}

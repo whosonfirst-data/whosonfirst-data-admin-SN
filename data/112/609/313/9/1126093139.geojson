@@ -1,0 +1,99 @@
+{
+  "id": 1126093139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.47177,14.69004,-17.47177,14.69004",
+    "geom:latitude":14.69004,
+    "geom:longitude":-17.47177,
+    "gn:gn_country":"SN",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"SN",
+    "lbl:latitude":14.69004,
+    "lbl:longitude":-17.47177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Fann"
+    ],
+    "name:unk_x_variant":[
+        "Fann-R\u00e9sidence",
+        "Fann"
+    ],
+    "qs_pg:aaroncc":"SN",
+    "qs_pg:gn_country":"SN",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2251972,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fann",
+    "qs_pg:name_adm0":"S\u00e9n\u00e9gal",
+    "qs_pg:name_adm1":"Dakar",
+    "qs_pg:photos":362,
+    "qs_pg:photos_1k":73,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":362,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":222665,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424943,
+    "qs_pg:woe_id":1412974,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424943,
+    "woe:name_adm0":"S\u00e9n\u00e9gal",
+    "woe:name_adm1":"Dakar",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85676997,
+        102191573,
+        85632365,
+        421187965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251972,
+        "gp:id":1412974,
+        "qs:id":222665,
+        "qs_pg:id":222665
+    },
+    "wof:country":"SN",
+    "wof:created":1497314469,
+    "wof:geomhash":"f48767e63299858b95611d2c6470e4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187965,
+            "locality_id":-1,
+            "neighbourhood_id":1126093139,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1126093139,
+    "wof:lastmodified":1534379462,
+    "wof:name":"Fann",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85802223
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.47177,
+    14.69004,
+    -17.47177,
+    14.69004
+],
+  "geometry": {"coordinates":[-17.47177,14.69004],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209491723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8535,15.0552,-15.8535,15.0552",
+    "geom:latitude":15.0552,
+    "geom:longitude":-15.8535,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Keur Abdou Siri",
+    "gn:country_code":"SN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250555,
+    "gn:latitude":15.0552,
+    "gn:longitude":-15.8535,
+    "gn:modification_date":"2008-11-28",
+    "gn:name":"Keur Abdou Siri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250555
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ffd089da224db6cfed12df89e8b73f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209491723
+        }
+    ],
+    "wof:id":1209491723,
+    "wof:lastmodified":1536285465,
+    "wof:name":"Keur Abdou Siri",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8535,
+    15.0552,
+    -15.8535,
+    15.0552
+],
+  "geometry": {"coordinates":[-15.8535,15.0552],"type":"Point"}
+}

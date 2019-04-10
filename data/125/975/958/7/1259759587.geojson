@@ -1,0 +1,72 @@
+{
+  "id": 1259759587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9681,15.9229,-15.9681,15.9229",
+    "geom:latitude":15.9229,
+    "geom:longitude":-15.9681,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Keur Momar Sar",
+    "gn:country_code":"SN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2250150,
+    "gn:latitude":15.9229,
+    "gn:longitude":-15.9681,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Keur Momar Sar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kermomarsar",
+        "Keur Momar Sarr",
+        "Keur Momar Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2250150
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ec08cac3d824c22474b524631285ab15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691513,
+            "locality_id":1259759587,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1259759587,
+    "wof:lastmodified":1537701077,
+    "wof:name":"Keur Momar Sar",
+    "wof:parent_id":1108691513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.9681,
+    15.9229,
+    -15.9681,
+    15.9229
+],
+  "geometry": {"coordinates":[-15.9681,15.9229],"type":"Point"}
+}

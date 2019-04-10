@@ -1,0 +1,67 @@
+{
+  "id": 1276197465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.90028,12.46944,-11.90028,12.46944",
+    "geom:latitude":12.46944,
+    "geom:longitude":-11.90028,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lyndiane",
+    "gn:country_code":"SN",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586401,
+    "gn:latitude":12.46944,
+    "gn:longitude":-11.90028,
+    "gn:modification_date":"2007-07-25",
+    "gn:name":"Lyndiane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676983,
+        1108691463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586401
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"1fbedbc80ef934b31185045f50d8bbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691463,
+            "locality_id":1276197465,
+            "region_id":85676983
+        }
+    ],
+    "wof:id":1276197465,
+    "wof:lastmodified":1536961014,
+    "wof:name":"Lyndiane",
+    "wof:parent_id":1108691463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.90028,
+    12.46944,
+    -11.90028,
+    12.46944
+],
+  "geometry": {"coordinates":[-11.90028,12.46944],"type":"Point"}
+}

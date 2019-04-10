@@ -1,0 +1,71 @@
+{
+  "id": 1293765775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.83333,14.05,-14.83333,14.05",
+    "geom:latitude":14.05,
+    "geom:longitude":-14.83333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Diountou Gueyene",
+    "gn:country_code":"SN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2252316,
+    "gn:latitude":14.05,
+    "gn:longitude":-14.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diountou Gu\u00e9y\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dioutou Gu\u00e9y\u00e8ne",
+        "Diountou Gu\u00e9y\u00e8ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676989,
+        421166855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2252316
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"94b59584e6eaecab67973f00299dd2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421166855,
+            "locality_id":1293765775,
+            "region_id":85676989
+        }
+    ],
+    "wof:id":1293765775,
+    "wof:lastmodified":1537701119,
+    "wof:name":"Diountou Gueyene",
+    "wof:parent_id":421166855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.83333,
+    14.05,
+    -14.83333,
+    14.05
+],
+  "geometry": {"coordinates":[-14.83333,14.05],"type":"Point"}
+}

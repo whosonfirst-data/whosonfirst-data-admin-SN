@@ -1,0 +1,67 @@
+{
+  "id": 1209982675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.56667,13.11667,-15.56667,13.11667",
+    "geom:latitude":13.11667,
+    "geom:longitude":-15.56667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sare Dimba Baneba",
+    "gn:country_code":"SN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2246069,
+    "gn:latitude":13.11667,
+    "gn:longitude":-15.56667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sar\u00e9 Dimba Ban\u00e9ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2246069
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"54b59b3ef5c5db2a40cd05b5617b53d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691465,
+            "locality_id":1209982675,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1209982675,
+    "wof:lastmodified":1536390014,
+    "wof:name":"Sare Dimba Baneba",
+    "wof:parent_id":1108691465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.56667,
+    13.11667,
+    -15.56667,
+    13.11667
+],
+  "geometry": {"coordinates":[-15.56667,13.11667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310524143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.23306,14.25454,-12.23306,14.25454",
+    "geom:latitude":14.25454,
+    "geom:longitude":-12.23306,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Guedekou",
+    "gn:country_code":"SN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251325,
+    "gn:latitude":14.25454,
+    "gn:longitude":-12.23306,
+    "gn:modification_date":"2007-09-18",
+    "gn:name":"Gu\u00e9d\u00e9kou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251325
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"d00a260ea2474da36e94c5c338d494c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691497,
+            "locality_id":1310524143,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1310524143,
+    "wof:lastmodified":1536889633,
+    "wof:name":"Guedekou",
+    "wof:parent_id":1108691497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.23306,
+    14.25454,
+    -12.23306,
+    14.25454
+],
+  "geometry": {"coordinates":[-12.23306,14.25454],"type":"Point"}
+}

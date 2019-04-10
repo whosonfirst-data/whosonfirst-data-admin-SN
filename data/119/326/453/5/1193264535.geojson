@@ -1,0 +1,72 @@
+{
+  "id": 1193264535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.23333,15.21667,-16.23333,15.21667",
+    "geom:latitude":15.21667,
+    "geom:longitude":-16.23333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ndiaou",
+    "gn:cc2":"SN",
+    "gn:country_code":"SN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2247913,
+    "gn:latitude":15.21667,
+    "gn:longitude":-16.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ndiaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Diao",
+        "Ndiaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2247913
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0f4c1286dbdc3dc6677d78d77dab86d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1193264535,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1193264535,
+    "wof:lastmodified":1537701033,
+    "wof:name":"Ndiaou",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.23333,
+    15.21667,
+    -16.23333,
+    15.21667
+],
+  "geometry": {"coordinates":[-16.23333,15.21667],"type":"Point"}
+}

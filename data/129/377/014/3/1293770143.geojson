@@ -1,0 +1,67 @@
+{
+  "id": 1293770143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.5257,15.5251,-16.5257,15.5251",
+    "geom:latitude":15.5251,
+    "geom:longitude":-16.5257,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tiep",
+    "gn:country_code":"SN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244555,
+    "gn:latitude":15.5251,
+    "gn:longitude":-16.5257,
+    "gn:modification_date":"2008-12-03",
+    "gn:name":"Tiep",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244555
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"a3413d9ce4b4fd10c5e8a30b0ac490ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691503,
+            "locality_id":1293770143,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1293770143,
+    "wof:lastmodified":1536875779,
+    "wof:name":"Tiep",
+    "wof:parent_id":1108691503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.5257,
+    15.5251,
+    -16.5257,
+    15.5251
+],
+  "geometry": {"coordinates":[-16.5257,15.5251],"type":"Point"}
+}

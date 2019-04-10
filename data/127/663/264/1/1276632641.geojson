@@ -1,0 +1,67 @@
+{
+  "id": 1276632641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.26167,13.15694,-16.26167,13.15694",
+    "geom:latitude":13.15694,
+    "geom:longitude":-16.26167,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guinea",
+    "gn:country_code":"SN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251233,
+    "gn:latitude":13.15694,
+    "gn:longitude":-16.26167,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Guin\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251233
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"c16375f67a4f197f642f778a5c404ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1276632641,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1276632641,
+    "wof:lastmodified":1536874054,
+    "wof:name":"Guinea",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.26167,
+    13.15694,
+    -16.26167,
+    13.15694
+],
+  "geometry": {"coordinates":[-16.26167,13.15694],"type":"Point"}
+}

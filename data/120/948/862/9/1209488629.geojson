@@ -1,0 +1,61 @@
+{
+  "id": 1209488629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.33299,15.62868,-13.33299,15.62868",
+    "geom:latitude":15.62868,
+    "geom:longitude":-13.33299,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tiambe",
+    "gn:country_code":"SN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2244736,
+    "gn:latitude":15.62868,
+    "gn:longitude":-13.33299,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Tiamb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2244736
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0cfa1ada763eb75cb1f351607d06a380",
+    "wof:hierarchy":[
+        {
+            "country_id":85632365,
+            "locality_id":1209488629
+        }
+    ],
+    "wof:id":1209488629,
+    "wof:lastmodified":1536285557,
+    "wof:name":"Tiambe",
+    "wof:parent_id":85632365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.33299,
+    15.62868,
+    -13.33299,
+    15.62868
+],
+  "geometry": {"coordinates":[-13.33299,15.62868],"type":"Point"}
+}

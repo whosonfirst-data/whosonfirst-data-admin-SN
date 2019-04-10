@@ -1,0 +1,67 @@
+{
+  "id": 1293854303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.462,15.0369,-14.462,15.0369",
+    "geom:latitude":15.0369,
+    "geom:longitude":-14.462,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Alana",
+    "gn:country_code":"SN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254720,
+    "gn:latitude":15.0369,
+    "gn:longitude":-14.462,
+    "gn:modification_date":"2008-11-26",
+    "gn:name":"Alana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677019,
+        1108691507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254720
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"0397d2398fac466825e4861962bf4f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691507,
+            "locality_id":1293854303,
+            "region_id":85677019
+        }
+    ],
+    "wof:id":1293854303,
+    "wof:lastmodified":1536755531,
+    "wof:name":"Alana",
+    "wof:parent_id":1108691507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.462,
+    15.0369,
+    -14.462,
+    15.0369
+],
+  "geometry": {"coordinates":[-14.462,15.0369],"type":"Point"}
+}

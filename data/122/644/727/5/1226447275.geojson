@@ -1,0 +1,67 @@
+{
+  "id": 1226447275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.4,14.35,-13.4,14.35",
+    "geom:latitude":14.35,
+    "geom:longitude":-13.4,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gaye Tiali",
+    "gn:country_code":"SN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2251588,
+    "gn:latitude":14.35,
+    "gn:longitude":-13.4,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gaye Tiali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2251588
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"ee0353448f5b2a76c51fea111f415d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691485,
+            "locality_id":1226447275,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1226447275,
+    "wof:lastmodified":1536642460,
+    "wof:name":"Gaye Tiali",
+    "wof:parent_id":1108691485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.4,
+    14.35,
+    -13.4,
+    14.35
+],
+  "geometry": {"coordinates":[-13.4,14.35],"type":"Point"}
+}

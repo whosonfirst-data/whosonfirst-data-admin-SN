@@ -1,0 +1,68 @@
+{
+  "id": 1360160659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.83806,12.95806,-15.83806,12.95806",
+    "geom:latitude":12.95806,
+    "geom:longitude":-15.83806,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bona",
+    "gn:country_code":"SN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2253695,
+    "gn:latitude":12.95806,
+    "gn:longitude":-15.83806,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dakar",
+    "iso:country":"SN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2253695,
+        "wk:page":"Bona_%28S%C3%A9n%C3%A9gal%29"
+    },
+    "wof:country":"SN",
+    "wof:geomhash":"f0f3d826ef55dbf45cf34ee63b8e6507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691465,
+            "locality_id":1360160659,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1360160659,
+    "wof:lastmodified":1537573722,
+    "wof:name":"Bona",
+    "wof:parent_id":1108691465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.83806,
+    12.95806,
+    -15.83806,
+    12.95806
+],
+  "geometry": {"coordinates":[-15.83806,12.95806],"type":"Point"}
+}
