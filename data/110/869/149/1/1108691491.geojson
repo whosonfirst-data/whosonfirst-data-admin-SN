@@ -10,6 +10,12 @@
     "geom:latitude":14.52868,
     "geom:longitude":-15.837994,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Gossas Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.463559,
     "lbl:longitude":-15.864117,
     "meso:adm1_name":"Fatick",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691491,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718184,
     "wof:name":"Gossas",
     "wof:parent_id":85677007,
     "wof:placetype":"county",

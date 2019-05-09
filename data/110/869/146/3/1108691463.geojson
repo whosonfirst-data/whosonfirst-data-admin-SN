@@ -10,6 +10,12 @@
     "geom:latitude":12.76514,
     "geom:longitude":-12.434818,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Kedougou Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.669227,
     "lbl:longitude":-12.297312,
     "meso:adm1_name":"Kedougou",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691463,
-    "wof:lastmodified":1536615238,
+    "wof:lastmodified":1553718184,
     "wof:name":"Kedougou",
     "wof:parent_id":85676983,
     "wof:placetype":"county",

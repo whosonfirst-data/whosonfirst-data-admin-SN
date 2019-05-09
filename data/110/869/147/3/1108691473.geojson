@@ -10,6 +10,12 @@
     "geom:latitude":13.214512,
     "geom:longitude":-14.866529,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Medina Yoro Foulah Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.226922,
     "lbl:longitude":-14.858664,
     "meso:adm1_name":"Kolda",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691473,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718184,
     "wof:name":"Medina Yoro Foulah",
     "wof:parent_id":85677027,
     "wof:placetype":"county",

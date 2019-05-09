@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":233179,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Matam Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.750102,
     "lbl:longitude":-13.624842,
     "meso:adm1_name":"Matam",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890424907,
-    "wof:lastmodified":1536617377,
+    "wof:lastmodified":1553717598,
     "wof:name":"Matam",
     "wof:parent_id":85677019,
     "wof:placetype":"county",

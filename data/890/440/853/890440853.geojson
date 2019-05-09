@@ -12,6 +12,12 @@
     "gn:country":"SN",
     "gp:adm0":23424943,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Guediewaye Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.778031,
     "lbl:longitude":-17.39532,
     "meso:adm1_name":"Dakar",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890440853,
-    "wof:lastmodified":1536617384,
+    "wof:lastmodified":1553717602,
     "wof:name":"Guediewaye",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

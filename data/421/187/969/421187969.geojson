@@ -10,6 +10,12 @@
     "geom:latitude":13.849081,
     "geom:longitude":-16.427083,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Foundiougne Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.746812,
     "lbl:longitude":-16.397459,
     "meso:adm1_name":"Fatick",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421187969,
-    "wof:lastmodified":1536616046,
+    "wof:lastmodified":1553717457,
     "wof:name":"Foundiougne",
     "wof:parent_id":85677007,
     "wof:placetype":"county",

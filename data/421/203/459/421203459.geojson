@@ -10,6 +10,12 @@
     "geom:latitude":14.745971,
     "geom:longitude":-16.869967,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Thies Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.723546,
     "lbl:longitude":-16.865664,
     "meso:adm1_name":"Thies",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421203459,
-    "wof:lastmodified":1536616157,
+    "wof:lastmodified":1553717571,
     "wof:name":"Thies",
     "wof:parent_id":85677025,
     "wof:placetype":"county",

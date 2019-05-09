@@ -10,6 +10,12 @@
     "geom:latitude":14.316852,
     "geom:longitude":-16.490357,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Fatick Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.331655,
     "lbl:longitude":-16.495617,
     "meso:adm1_name":"Fatick",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421187935,
-    "wof:lastmodified":1536616044,
+    "wof:lastmodified":1553717457,
     "wof:name":"Fatick",
     "wof:parent_id":85677007,
     "wof:placetype":"county",

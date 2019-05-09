@@ -10,6 +10,12 @@
     "geom:latitude":15.960059,
     "geom:longitude":-16.365532,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Saint-Louis Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.943015,
     "lbl:longitude":-16.401371,
     "meso:adm1_name":"Saint-Louis",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691511,
-    "wof:lastmodified":1536615240,
+    "wof:lastmodified":1553718185,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85676993,
     "wof:placetype":"county",

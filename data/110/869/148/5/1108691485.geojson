@@ -10,6 +10,12 @@
     "geom:latitude":13.997083,
     "geom:longitude":-12.929176,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Goudiry Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.003676,
     "lbl:longitude":-12.929198,
     "meso:adm1_name":"Tambacounda",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691485,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718185,
     "wof:name":"Goudiry",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.204736,
     "geom:longitude":-14.858494,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Koungheul Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.136299,
     "lbl:longitude":-14.835738,
     "meso:adm1_name":"Kaffrine",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421166855,
-    "wof:lastmodified":1536615893,
+    "wof:lastmodified":1553717299,
     "wof:name":"Koungheul",
     "wof:parent_id":85676989,
     "wof:placetype":"county",

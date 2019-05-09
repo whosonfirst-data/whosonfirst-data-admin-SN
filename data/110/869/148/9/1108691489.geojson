@@ -10,6 +10,12 @@
     "geom:latitude":14.356226,
     "geom:longitude":-15.251061,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Malem Hodar Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.335281,
     "lbl:longitude":-15.224711,
     "meso:adm1_name":"Kaffrine",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691489,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718184,
     "wof:name":"Malem Hodar",
     "wof:parent_id":85676989,
     "wof:placetype":"county",

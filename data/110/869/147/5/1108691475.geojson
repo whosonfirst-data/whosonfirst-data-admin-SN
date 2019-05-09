@@ -10,6 +10,12 @@
     "geom:latitude":13.733591,
     "geom:longitude":-15.834987,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Nioro du Rip Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.746411,
     "lbl:longitude":-15.834962,
     "meso:adm1_name":"Kaolack",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691475,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718184,
     "wof:name":"Nioro du Rip",
     "wof:parent_id":85677011,
     "wof:placetype":"county",

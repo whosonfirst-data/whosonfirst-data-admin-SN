@@ -10,6 +10,12 @@
     "geom:latitude":12.633344,
     "geom:longitude":-15.512406,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Goudomp Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.700925,
     "lbl:longitude":-15.413098,
     "meso:adm1_name":"Sedhiou",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691457,
-    "wof:lastmodified":1536615238,
+    "wof:lastmodified":1553718183,
     "wof:name":"Goudomp",
     "wof:parent_id":85676979,
     "wof:placetype":"county",

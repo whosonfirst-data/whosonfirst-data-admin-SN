@@ -10,6 +10,12 @@
     "geom:latitude":14.067271,
     "geom:longitude":-16.067016,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Kaolack Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.026969,
     "lbl:longitude":-16.096352,
     "meso:adm1_name":"Kaolack",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421181825,
-    "wof:lastmodified":1536615977,
+    "wof:lastmodified":1553717380,
     "wof:name":"Kaolack",
     "wof:parent_id":85677011,
     "wof:placetype":"county",

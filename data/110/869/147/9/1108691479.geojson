@@ -10,6 +10,12 @@
     "geom:latitude":14.284031,
     "geom:longitude":-15.916876,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Guinguineo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.263314,
     "lbl:longitude":-15.939055,
     "meso:adm1_name":"Kaolack",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691479,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718184,
     "wof:name":"Guinguineo",
     "wof:parent_id":85677011,
     "wof:placetype":"county",

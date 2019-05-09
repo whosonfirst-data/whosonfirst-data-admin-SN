@@ -10,6 +10,12 @@
     "geom:latitude":14.163908,
     "geom:longitude":-12.253499,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Bakel Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.100606,
     "lbl:longitude":-12.178939,
     "meso:adm1_name":"Tambacounda",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691497,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718185,
     "wof:name":"Bakel",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

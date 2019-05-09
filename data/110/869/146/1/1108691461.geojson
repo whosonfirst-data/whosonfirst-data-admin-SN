@@ -10,6 +10,12 @@
     "geom:latitude":12.854916,
     "geom:longitude":-14.656132,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Kolda Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.857159,
     "lbl:longitude":-14.487225,
     "meso:adm1_name":"Kolda",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691461,
-    "wof:lastmodified":1536615238,
+    "wof:lastmodified":1553718183,
     "wof:name":"Kolda",
     "wof:parent_id":85677027,
     "wof:placetype":"county",

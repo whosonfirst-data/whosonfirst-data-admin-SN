@@ -10,6 +10,12 @@
     "geom:latitude":15.032214,
     "geom:longitude":-14.133223,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Ranerou Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.04444,
     "lbl:longitude":-14.11989,
     "meso:adm1_name":"Matam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691507,
-    "wof:lastmodified":1536615240,
+    "wof:lastmodified":1553718185,
     "wof:name":"Ranerou",
     "wof:parent_id":85677019,
     "wof:placetype":"county",

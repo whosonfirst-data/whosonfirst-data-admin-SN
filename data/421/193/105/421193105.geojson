@@ -10,6 +10,12 @@
     "geom:latitude":14.76233,
     "geom:longitude":-17.348734,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Pikine Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.765571,
     "lbl:longitude":-17.332846,
     "meso:adm1_name":"Dakar",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421193105,
-    "wof:lastmodified":1536616104,
+    "wof:lastmodified":1553717518,
     "wof:name":"Pikine",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

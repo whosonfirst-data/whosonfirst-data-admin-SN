@@ -10,6 +10,12 @@
     "geom:latitude":14.052826,
     "geom:longitude":-15.684592,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Birkelane Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.076944,
     "lbl:longitude":-15.687423,
     "meso:adm1_name":"Kaffrine",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691477,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718184,
     "wof:name":"Birkelane",
     "wof:parent_id":85676989,
     "wof:placetype":"county",

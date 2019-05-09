@@ -10,6 +10,12 @@
     "geom:latitude":12.807065,
     "geom:longitude":-15.616475,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Sedhiou Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.745247,
     "lbl:longitude":-15.699243,
     "meso:adm1_name":"Sedhiou",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691459,
-    "wof:lastmodified":1536615238,
+    "wof:lastmodified":1553718183,
     "wof:name":"Sedhiou",
     "wof:parent_id":85676979,
     "wof:placetype":"county",

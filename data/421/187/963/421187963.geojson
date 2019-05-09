@@ -10,6 +10,12 @@
     "geom:latitude":14.760713,
     "geom:longitude":-17.208443,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Rufisque Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.770774,
     "lbl:longitude":-17.209974,
     "meso:adm1_name":"Dakar",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421187963,
-    "wof:lastmodified":1536616046,
+    "wof:lastmodified":1553717458,
     "wof:name":"Rufisque",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.134858,
     "geom:longitude":-15.603471,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Bounkiling Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.135818,
     "lbl:longitude":-15.603491,
     "meso:adm1_name":"Sedhiou",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691465,
-    "wof:lastmodified":1536615238,
+    "wof:lastmodified":1553718183,
     "wof:name":"Bounkiling",
     "wof:parent_id":85676979,
     "wof:placetype":"county",

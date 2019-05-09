@@ -10,6 +10,12 @@
     "geom:latitude":12.60139,
     "geom:longitude":-12.79787,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Salemata Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.590089,
     "lbl:longitude":-12.761782,
     "meso:adm1_name":"Kedougou",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691455,
-    "wof:lastmodified":1536615238,
+    "wof:lastmodified":1553718183,
     "wof:name":"Salemata",
     "wof:parent_id":85676983,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.088534,
     "geom:longitude":-16.651812,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Tivaouane Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.07735,
     "lbl:longitude":-16.775497,
     "meso:adm1_name":"Thies",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691499,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718185,
     "wof:name":"Tivaouane",
     "wof:parent_id":85677025,
     "wof:placetype":"county",

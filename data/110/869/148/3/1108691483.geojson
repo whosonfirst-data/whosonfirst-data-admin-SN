@@ -10,6 +10,12 @@
     "geom:latitude":14.132361,
     "geom:longitude":-14.339004,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Koumpentoum Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.217116,
     "lbl:longitude":-14.287175,
     "meso:adm1_name":"Tambacounda",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691483,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718184,
     "wof:name":"Koumpentoum",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

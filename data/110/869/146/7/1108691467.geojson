@@ -10,6 +10,12 @@
     "geom:latitude":12.973248,
     "geom:longitude":-11.834302,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Saraya Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.01352,
     "lbl:longitude":-11.795116,
     "meso:adm1_name":"Kedougou",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691467,
-    "wof:lastmodified":1536615238,
+    "wof:lastmodified":1553718184,
     "wof:name":"Saraya",
     "wof:parent_id":85676983,
     "wof:placetype":"county",

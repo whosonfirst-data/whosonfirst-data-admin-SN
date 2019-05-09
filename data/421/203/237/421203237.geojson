@@ -10,6 +10,12 @@
     "geom:latitude":12.517766,
     "geom:longitude":-16.223011,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Ziguinchor Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.509526,
     "lbl:longitude":-16.282093,
     "meso:adm1_name":"Ziguinchor",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421203237,
-    "wof:lastmodified":1536616151,
+    "wof:lastmodified":1553717566,
     "wof:name":"Ziguinchor",
     "wof:parent_id":85677033,
     "wof:placetype":"county",

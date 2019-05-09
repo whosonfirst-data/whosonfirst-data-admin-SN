@@ -10,6 +10,12 @@
     "geom:latitude":14.972392,
     "geom:longitude":-13.131215,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Kanel Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.969322,
     "lbl:longitude":-13.123134,
     "meso:adm1_name":"Matam",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691501,
-    "wof:lastmodified":1536615240,
+    "wof:lastmodified":1553718185,
     "wof:name":"Kanel",
     "wof:parent_id":85677019,
     "wof:placetype":"county",

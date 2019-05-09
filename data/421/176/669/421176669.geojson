@@ -10,6 +10,12 @@
     "geom:latitude":14.772593,
     "geom:longitude":-15.833084,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Mbacke Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.818139,
     "lbl:longitude":-15.923151,
     "meso:adm1_name":"Diourbel",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421176669,
-    "wof:lastmodified":1536615955,
+    "wof:lastmodified":1553717366,
     "wof:name":"Mbacke",
     "wof:parent_id":85677001,
     "wof:placetype":"county",

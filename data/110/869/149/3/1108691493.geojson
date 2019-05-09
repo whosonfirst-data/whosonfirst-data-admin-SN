@@ -10,6 +10,12 @@
     "geom:latitude":14.768219,
     "geom:longitude":-16.217617,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Diourbel Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.836219,
     "lbl:longitude":-16.231679,
     "meso:adm1_name":"Diourbel",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691493,
-    "wof:lastmodified":1536615239,
+    "wof:lastmodified":1553718184,
     "wof:name":"Diourbel",
     "wof:parent_id":85677001,
     "wof:placetype":"county",

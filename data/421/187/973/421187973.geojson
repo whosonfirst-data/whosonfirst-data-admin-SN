@@ -10,6 +10,12 @@
     "geom:latitude":16.280167,
     "geom:longitude":-15.87763,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Dagana Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.270445,
     "lbl:longitude":-16.070061,
     "meso:adm1_name":"Saint-louis",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421187973,
-    "wof:lastmodified":1536616046,
+    "wof:lastmodified":1553717457,
     "wof:name":"Dagana",
     "wof:parent_id":85676993,
     "wof:placetype":"county",

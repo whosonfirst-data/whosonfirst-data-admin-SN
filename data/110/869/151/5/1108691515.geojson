@@ -10,6 +10,12 @@
     "geom:latitude":16.198044,
     "geom:longitude":-14.605628,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Podor Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.277042,
     "lbl:longitude":-14.592451,
     "meso:adm1_name":"Saint-louis",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691515,
-    "wof:lastmodified":1536615240,
+    "wof:lastmodified":1553718185,
     "wof:name":"Podor",
     "wof:parent_id":85676993,
     "wof:placetype":"county",

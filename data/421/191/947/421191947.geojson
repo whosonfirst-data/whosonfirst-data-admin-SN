@@ -10,6 +10,12 @@
     "geom:latitude":13.489376,
     "geom:longitude":-13.472529,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Tambacounda Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.196559,
     "lbl:longitude":-13.37528,
     "meso:adm1_name":"Tambacounda",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421191947,
-    "wof:lastmodified":1536616099,
+    "wof:lastmodified":1553717514,
     "wof:name":"Tambacounda",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

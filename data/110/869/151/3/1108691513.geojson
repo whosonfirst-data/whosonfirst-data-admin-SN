@@ -10,6 +10,12 @@
     "geom:latitude":15.741582,
     "geom:longitude":-16.001487,
     "iso:country":"SN",
+    "label:eng_x_preferred_longname":[
+        "Louga Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.733666,
     "lbl:longitude":-15.959308,
     "meso:adm1_name":"Louga",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691513,
-    "wof:lastmodified":1536615240,
+    "wof:lastmodified":1553718185,
     "wof:name":"Louga",
     "wof:parent_id":85677015,
     "wof:placetype":"county",
