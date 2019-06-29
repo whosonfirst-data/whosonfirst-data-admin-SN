@@ -15,22 +15,19 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9054\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dahra"
     ],
     "name:eng_x_preferred":[
         "Dahra"
     ],
-    "name:fre_x_preferred":[
-        "Dahra"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dahra"
     ],
     "name:ita_x_preferred":[
+        "Dahra"
+    ],
+    "name:nld_x_preferred":[
         "Dahra"
     ],
     "name:pol_x_preferred":[
@@ -47,6 +44,9 @@
     ],
     "name:vie_x_preferred":[
         "Dahra"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u62c9"
     ],
     "qs:name":"Dara",
     "qs:photos_9r":0,
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":890437061,
-    "wof:lastmodified":1527729753,
+    "wof:lastmodified":1561843862,
     "wof:name":"Dara",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

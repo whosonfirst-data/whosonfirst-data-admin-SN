@@ -19,14 +19,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u0982\u09b9\u09c7\u0989\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u6606\u683c\u52d2"
-    ],
     "name:dan_x_preferred":[
         "Koungheul"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Koungheul"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03bd\u03b3\u03ba\u03c7\u03b5\u03bf\u03c5\u03bb"
     ],
     "name:eng_x_preferred":[
         "Koungheul"
@@ -34,14 +34,8 @@
     "name:fin_x_preferred":[
         "Koungheul"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Koungheul"
-    ],
-    "name:ger_x_preferred":[
-        "Koungheul"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03cd\u03bd\u03b3\u03ba\u03c7\u03b5\u03bf\u03c5\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acc\u0a97\u0ab9\u0ac0\u0ab2"
@@ -73,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0902\u0918\u0947\u0909\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Koungheul"
+    ],
+    "name:nld_x_preferred":[
         "Koungheul"
     ],
     "name:nob_x_preferred":[
@@ -120,6 +117,9 @@
     ],
     "name:vie_x_preferred":[
         "Koungheul"
+    ],
+    "name:zho_x_preferred":[
+        "\u6606\u683c\u52d2"
     ],
     "qs:gn_country":"SN",
     "qs:gn_fcode":"PPL",
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":421167577,
-    "wof:lastmodified":1527716163,
+    "wof:lastmodified":1561843861,
     "wof:name":"Koungheul",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

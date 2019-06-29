@@ -16,17 +16,11 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0641\u064a\u0633\u0643"
     ],
-    "name:baq_x_preferred":[
-        "Rufisque"
-    ],
     "name:ben_x_preferred":[
         "\u09b0\u09cb\u09ab\u09bf\u09b8\u09cd\u0995"
     ],
     "name:cat_x_preferred":[
         "Rufisque"
-    ],
-    "name:chi_x_preferred":[
-        "\u5442\u83f2\u65af\u514b"
     ],
     "name:dan_x_preferred":[
         "Rufisque"
@@ -34,8 +28,8 @@
     "name:deu_x_preferred":[
         "Rufisque"
     ],
-    "name:dut_x_preferred":[
-        "Rufisque"
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03cd\u03c6\u03b9\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Rufisque"
@@ -43,26 +37,17 @@
     "name:epo_x_preferred":[
         "Rufisko"
     ],
+    "name:eus_x_preferred":[
+        "Rufisque"
+    ],
     "name:fin_x_preferred":[
         "Rufisque"
     ],
     "name:fra_x_preferred":[
         "Rufisque"
     ],
-    "name:fre_x_preferred":[
-        "Rufisque"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10e3\u10e4\u10d8\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rufisque"
-    ],
     "name:glg_x_preferred":[
         "Departamento de Rufisque"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03bf\u03cd\u03c6\u03b9\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac1\u0aab\u0abf\u0ab8\u0a95\u0acd\u0aaf\u0ac1"
@@ -85,6 +70,9 @@
     "name:kan_x_preferred":[
         "\u0cb0\u0cc1\u0cab\u0cbf\u0cb8\u0ccd\u0c95\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10e3\u10e4\u10d8\u10e1\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub93c\ud53c\uc2a4\ud06c"
     ],
@@ -94,13 +82,13 @@
     "name:lit_x_preferred":[
         "Riufiskas"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0438\u0444\u0438\u0441\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u0941\u092b\u093f\u0938\u0915\u094d\u092f\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0420\u0438\u0444\u0438\u0441\u043a"
+    ],
+    "name:msa_x_preferred":[
         "Rufisque"
     ],
     "name:nld_x_preferred":[
@@ -209,7 +197,7 @@
         }
     ],
     "wof:id":421201973,
-    "wof:lastmodified":1527716441,
+    "wof:lastmodified":1561843862,
     "wof:name":"Rufisque",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

@@ -29,20 +29,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0642\u0644\u064a\u0645 \u0643\u0641\u0631\u064a\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Kaffrine eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09ab\u09cd\u09b0\u09bf\u09a8"
-    ],
-    "name:chi_x_preferred":[
-        "\u5361\u592b\u6797\u5340"
     ],
     "name:dan_x_preferred":[
         "Kaffrine"
     ],
-    "name:dut_x_preferred":[
-        "Kaffrine"
+    "name:deu_x_preferred":[
+        "Region Kaffrine"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c6\u03c1\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kaffrine"
@@ -50,23 +47,17 @@
     "name:eng_x_variant":[
         "Kaffrine Region"
     ],
+    "name:eus_x_preferred":[
+        "Kaffrine eskualdea"
+    ],
     "name:fin_x_preferred":[
         "Kaffrine"
     ],
     "name:fra_x_preferred":[
         "Kaffrine"
     ],
-    "name:fre_x_preferred":[
-        "Kaffrine"
-    ],
-    "name:ger_x_preferred":[
-        "Region Kaffrine"
-    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Kaffrine"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c6\u03c1\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aab\u0acd\u0ab0\u0ac0\u0aa8"
@@ -98,7 +89,10 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u092b\u094d\u0930\u0940\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kaffrine"
+    ],
+    "name:nld_x_preferred":[
         "Kaffrine"
     ],
     "name:nob_x_preferred":[
@@ -110,7 +104,7 @@
     "name:por_x_preferred":[
         "Kaffrine"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Kaffrine"
     ],
     "name:rus_x_preferred":[
@@ -151,6 +145,9 @@
     ],
     "name:wol_x_preferred":[
         "Diiwaanu Kafrin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u592b\u6797\u5340"
     ],
     "qs:a0":"Senegal",
     "qs:a0_lc":"SN",
@@ -234,7 +231,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1553550488,
+    "wof:lastmodified":1561843844,
     "wof:name":"Kaffrine",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

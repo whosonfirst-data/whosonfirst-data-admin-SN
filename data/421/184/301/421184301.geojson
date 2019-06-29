@@ -19,14 +19,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u0997\u09a8\u09cb\u09a8\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u5c3c\u5967\u7d0d"
-    ],
     "name:dan_x_preferred":[
         "Bignona"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bignona"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03b3\u03ba\u03bd\u03cc\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bignona"
@@ -34,14 +34,8 @@
     "name:fin_x_preferred":[
         "Bignona"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bignona"
-    ],
-    "name:ger_x_preferred":[
-        "Bignona"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03b3\u03ba\u03bd\u03cc\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0a97\u0acd\u0aa8\u0acb\u0aa8\u0abe"
@@ -73,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u0917\u094b\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Bignona"
+    ],
+    "name:nld_x_preferred":[
         "Bignona"
     ],
     "name:nob_x_preferred":[
@@ -120,6 +117,9 @@
     ],
     "name:vie_x_preferred":[
         "Bignona"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5c3c\u5967\u7d0d"
     ],
     "qs:gn_country":"SN",
     "qs:gn_fcode":"PPL",
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":421184301,
-    "wof:lastmodified":1527716444,
+    "wof:lastmodified":1561843862,
     "wof:name":"Bignona",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

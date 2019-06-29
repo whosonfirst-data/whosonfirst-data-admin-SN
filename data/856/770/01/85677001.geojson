@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062f\u064a\u0648\u0631\u0628\u064a\u0644"
     ],
-    "name:baq_x_preferred":[
-        "Diourbel eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u09a1\u09bf\u0989\u09b0\u09c7\u09ac\u09c7\u09b2 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -41,17 +38,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Diourbel"
     ],
-    "name:chi_x_preferred":[
-        "\u4e45\u5c14\u8d1d\u52d2\u533a"
-    ],
     "name:dan_x_preferred":[
         "Diourbel Region"
     ],
     "name:deu_x_preferred":[
         "Region Diourbel"
     ],
-    "name:dut_x_preferred":[
-        "Diourbel"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03bf\u03c5\u03c1\u03bc\u03c0\u03ad\u03bb"
     ],
     "name:eng_x_preferred":[
         "Diourbel"
@@ -68,17 +62,11 @@
     "name:fra_x_preferred":[
         "Diourbel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "R\u00e9gion de Diourbel"
-    ],
-    "name:ger_x_preferred":[
-        "Region Diourbel"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Diourbel"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b9\u03bf\u03c5\u03c1\u03bc\u03c0\u03ad\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0ac0\u0a89\u0ab0\u0acd\u0aac\u0ac7\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -113,8 +101,11 @@
     "name:mar_x_preferred":[
         "\u0926\u093f\u0913\u0930\u094d\u092c\u0947\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Diourbel Region"
+    ],
+    "name:nld_x_preferred":[
+        "Diourbel"
     ],
     "name:nob_x_preferred":[
         "Diourbel"
@@ -126,9 +117,6 @@
         "Diourbel"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Diourbel"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Diourbel"
     ],
     "name:rus_x_preferred":[
@@ -298,7 +286,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1553550489,
+    "wof:lastmodified":1561843844,
     "wof:name":"Diourbel",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

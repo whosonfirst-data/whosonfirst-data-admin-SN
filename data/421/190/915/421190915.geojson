@@ -13,34 +13,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:baq_x_preferred":[
-        "S\u00e9dhiou"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u0434\u0437\u0456\u0443"
     ],
     "name:cat_x_preferred":[
         "S\u00e9dhiou"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u4e45"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "S\u00e9dhiou"
     ],
     "name:eng_x_preferred":[
         "S\u00e9dhiou"
     ],
+    "name:eus_x_preferred":[
+        "S\u00e9dhiou"
+    ],
     "name:fra_x_preferred":[
         "S\u00e9dhiou"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e9dhiou"
-    ],
     "name:frr_x_preferred":[
-        "S\u00e9dhiou"
-    ],
-    "name:ger_x_preferred":[
         "S\u00e9dhiou"
     ],
     "name:heb_x_preferred":[
@@ -65,9 +56,6 @@
         "S\u00e9dhiou"
     ],
     "name:ron_x_preferred":[
-        "S\u00e9dhiou"
-    ],
-    "name:rum_x_preferred":[
         "S\u00e9dhiou"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +123,7 @@
         }
     ],
     "wof:id":421190915,
-    "wof:lastmodified":1527716393,
+    "wof:lastmodified":1561843861,
     "wof:name":"S\u00e9dhiou",
     "wof:parent_id":1108691459,
     "wof:placetype":"locality",

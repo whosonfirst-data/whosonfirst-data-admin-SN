@@ -29,19 +29,13 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0644\u0648\u063a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Louga eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u0997\u09be"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0443\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u52a0\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Louga"
     ],
     "name:dan_x_preferred":[
@@ -50,8 +44,8 @@
     "name:deu_x_preferred":[
         "Region Louga"
     ],
-    "name:dut_x_preferred":[
-        "Louga"
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03b3\u03ba\u03ac"
     ],
     "name:eng_x_preferred":[
         "Louga"
@@ -68,17 +62,8 @@
     "name:fra_x_preferred":[
         "Louga"
     ],
-    "name:fre_x_preferred":[
-        "Louga"
-    ],
-    "name:ger_x_preferred":[
-        "Region Louga"
-    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Louga"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03b3\u03ba\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acc\u0a97\u0abe"
@@ -110,7 +95,10 @@
     "name:mar_x_preferred":[
         "\u0932\u0942\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Louga"
+    ],
+    "name:nld_x_preferred":[
         "Louga"
     ],
     "name:nob_x_preferred":[
@@ -125,9 +113,6 @@
     "name:ron_x_preferred":[
         "Regiunea Louga"
     ],
-    "name:rum_x_preferred":[
-        "Regiunea Louga"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u0433\u0430"
     ],
@@ -137,7 +122,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0ddc\u0d8b\u0d9c\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Louga"
     ],
     "name:spa_x_preferred":[
@@ -298,7 +283,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1553550490,
+    "wof:lastmodified":1561843844,
     "wof:name":"Louga",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

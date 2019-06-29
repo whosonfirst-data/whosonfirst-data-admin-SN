@@ -13,13 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:baq_x_preferred":[
-        "Mbour"
-    ],
-    "name:chi_x_preferred":[
-        "\u59c6\u5e03\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "M'bour"
     ],
     "name:eng_x_preferred":[
@@ -28,13 +22,13 @@
     "name:epo_x_preferred":[
         "Mbur"
     ],
+    "name:eus_x_preferred":[
+        "Mbour"
+    ],
     "name:fin_x_preferred":[
         "Mbour"
     ],
-    "name:fre_x_preferred":[
-        "M'bour"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "M'bour"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +42,9 @@
     ],
     "name:lit_x_preferred":[
         "Mburas"
+    ],
+    "name:nld_x_preferred":[
+        "M'bour"
     ],
     "name:pol_x_preferred":[
         "Mbour"
@@ -78,6 +75,9 @@
     ],
     "name:wol_x_preferred":[
         "Mbuur"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5e03\u723e"
     ],
     "qs:gn_country":"SN",
     "qs:gn_fcode":"PPL",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":421173173,
-    "wof:lastmodified":1527716256,
+    "wof:lastmodified":1561843861,
     "wof:name":"Mbour",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",
