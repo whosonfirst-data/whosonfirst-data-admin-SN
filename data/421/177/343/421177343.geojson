@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Podor"
     ],
-    "name:dut_x_preferred":[
-        "Podor"
-    ],
     "name:eng_x_preferred":[
         "Podor"
     ],
@@ -32,12 +29,6 @@
         "Podor"
     ],
     "name:fra_x_preferred":[
-        "Podor"
-    ],
-    "name:fre_x_preferred":[
-        "Podor"
-    ],
-    "name:ger_x_preferred":[
         "Podor"
     ],
     "name:ita_x_preferred":[
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":421177343,
-    "wof:lastmodified":1527716487,
+    "wof:lastmodified":1561843862,
     "wof:name":"Podor",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

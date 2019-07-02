@@ -17,22 +17,13 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u063a\u064a\u0646\u0634\u0648\u0631"
     ],
-    "name:baq_x_preferred":[
-        "Ziguinchor"
-    ],
     "name:cat_x_preferred":[
         "Ziguinchor"
-    ],
-    "name:chi_x_preferred":[
-        "\u6d4e\u91d1\u7ecd\u5c14"
     ],
     "name:dan_x_preferred":[
         "Ziguinchor"
     ],
     "name:deu_x_preferred":[
-        "Ziguinchor"
-    ],
-    "name:dut_x_preferred":[
         "Ziguinchor"
     ],
     "name:eng_x_preferred":[
@@ -50,13 +41,7 @@
     "name:fra_x_preferred":[
         "Ziguinchor"
     ],
-    "name:fre_x_preferred":[
-        "Ziguinchor"
-    ],
     "name:frr_x_preferred":[
-        "Ziguinchor"
-    ],
-    "name:ger_x_preferred":[
         "Ziguinchor"
     ],
     "name:glg_x_preferred":[
@@ -93,9 +78,6 @@
         "Ziguinchor"
     ],
     "name:ron_x_preferred":[
-        "Ziguinchor"
-    ],
-    "name:rum_x_preferred":[
         "Ziguinchor"
     ],
     "name:rus_x_preferred":[
@@ -271,7 +253,7 @@
         }
     ],
     "wof:id":421201979,
-    "wof:lastmodified":1527716435,
+    "wof:lastmodified":1561843862,
     "wof:name":"Ziguinchor",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

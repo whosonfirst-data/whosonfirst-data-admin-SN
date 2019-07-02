@@ -29,29 +29,29 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0633\u0627\u0646\u062a \u0644\u0648\u064a\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Saint-Louis eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09b2\u09c1\u0987\u09b8"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d-\u041b\u0443\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u8def\u6613\u5340"
-    ],
     "name:dan_x_preferred":[
         "Saint-Louis"
     ],
-    "name:dut_x_preferred":[
-        "Saint-Louis"
+    "name:deu_x_preferred":[
+        "Region Saint-Louis"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bd \u039b\u03bf\u03c5\u03af"
     ],
     "name:eng_x_preferred":[
         "Saint-Louis"
     ],
     "name:eng_x_variant":[
         "Saint-Louis Region"
+    ],
+    "name:eus_x_preferred":[
+        "Saint-Louis eskualdea"
     ],
     "name:fin_x_preferred":[
         "Saint-Louis"
@@ -64,17 +64,8 @@
         "St-Louis",
         "Stlouis"
     ],
-    "name:fre_x_preferred":[
-        "Saint-Louis"
-    ],
-    "name:ger_x_preferred":[
-        "Region Saint-Louis"
-    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Saint-Louis"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03bd \u039b\u03bf\u03c5\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0ac2\u0a87\u0ab8"
@@ -106,7 +97,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0932\u0941\u0908\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Saint-Louis"
+    ],
+    "name:nld_x_preferred":[
         "Saint-Louis"
     ],
     "name:nob_x_preferred":[
@@ -118,7 +112,7 @@
     "name:por_x_preferred":[
         "Saint-Louis"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Saint-Louis"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +153,9 @@
     ],
     "name:wol_x_preferred":[
         "Diiwaanu Ndar"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8def\u6613\u5340"
     ],
     "qs:a0":"Senegal",
     "qs:a0_lc":"SN",
@@ -224,7 +221,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1553550488,
+    "wof:lastmodified":1561843844,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

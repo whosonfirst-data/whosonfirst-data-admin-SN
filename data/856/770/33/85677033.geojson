@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0646\u063a\u0634\u0648\u0631"
     ],
-    "name:baq_x_preferred":[
-        "Ziguinchor eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u0997\u09c1\u0987\u09a8\u0995\u09be"
     ],
@@ -41,10 +38,7 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Ziguinchor"
     ],
-    "name:chi_x_preferred":[
-        "\u6d4e\u91d1\u7ecd\u5c14\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ziguinchor"
     ],
     "name:dan_x_preferred":[
@@ -53,8 +47,8 @@
     "name:deu_x_preferred":[
         "Region Ziguinchor"
     ],
-    "name:dut_x_preferred":[
-        "Ziguinchor"
+    "name:ell_x_preferred":[
+        "\u0396\u03b9\u03b3\u03ba\u03b9\u03bd\u03c3\u03cc\u03c1"
     ],
     "name:eng_x_preferred":[
         "Ziguinchor"
@@ -77,17 +71,8 @@
     "name:fra_x_variant":[
         "Basse Casamance"
     ],
-    "name:fre_x_preferred":[
-        "Ziguinchor"
-    ],
-    "name:ger_x_preferred":[
-        "Region Ziguinchor"
-    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Ziguinchor"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b9\u03b3\u03ba\u03b9\u03bd\u03c3\u03cc\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0a97\u0acd\u0ab5\u0abf\u0aa8\u0acd\u0a9a\u0acb\u0ab0"
@@ -119,7 +104,10 @@
     "name:mar_x_preferred":[
         "\u091d\u093f\u0917\u0941\u0907\u0928\u094d\u091a\u0949\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ziguinchor"
+    ],
+    "name:nld_x_preferred":[
         "Ziguinchor"
     ],
     "name:nob_x_preferred":[
@@ -298,7 +286,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1553550506,
+    "wof:lastmodified":1561843843,
     "wof:name":"Ziguinchor",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -14,40 +14,28 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:baq_x_preferred":[
-        "Louga"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0443\u0433\u0430"
     ],
     "name:cat_x_preferred":[
         "Louga"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u52a0"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Louga"
     ],
     "name:deu_x_preferred":[
         "Louga"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Louga"
     ],
-    "name:eng_x_preferred":[
+    "name:eus_x_preferred":[
         "Louga"
     ],
     "name:fra_x_preferred":[
         "Louga"
     ],
-    "name:fre_x_preferred":[
-        "Louga"
-    ],
     "name:frr_x_preferred":[
-        "Louga"
-    ],
-    "name:ger_x_preferred":[
         "Louga"
     ],
     "name:heb_x_preferred":[
@@ -75,9 +63,6 @@
         "Louga"
     ],
     "name:ron_x_preferred":[
-        "Louga"
-    ],
-    "name:rum_x_preferred":[
         "Louga"
     ],
     "name:rus_x_preferred":[
@@ -242,7 +227,7 @@
         }
     ],
     "wof:id":421168949,
-    "wof:lastmodified":1527716095,
+    "wof:lastmodified":1561843860,
     "wof:name":"Louga",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

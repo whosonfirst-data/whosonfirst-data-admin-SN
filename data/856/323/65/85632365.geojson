@@ -140,9 +140,6 @@
     "name:cym_x_variant":[
         "S\u00e9n\u00e9gal"
     ],
-    "name:cze_x_preferred":[
-        "Senegal"
-    ],
     "name:dan_x_preferred":[
         "Senegal"
     ],
@@ -545,9 +542,6 @@
     "name:ron_x_preferred":[
         "Senegal"
     ],
-    "name:rum_x_preferred":[
-        "Senegal"
-    ],
     "name:run_x_preferred":[
         "Senegali"
     ],
@@ -736,7 +730,6 @@
         "\u585e\u5185\u52a0\u5c14"
     ],
     "name:zho_x_variant":[
-        "\u585e\u5185\u52a0\u5c14",
         "\u585e\u5167\u52a0\u723e"
     ],
     "name:zho_yue_x_preferred":[
@@ -897,7 +890,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1544059113,
+    "wof:lastmodified":1561843842,
     "wof:name":"Senegal",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

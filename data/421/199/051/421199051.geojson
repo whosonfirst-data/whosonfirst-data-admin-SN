@@ -16,22 +16,16 @@
     "name:cat_x_preferred":[
         "Nioro del Rip"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u5967\u7f85"
-    ],
-    "name:dut_x_preferred":[
-        "Nioro du Rip"
-    ],
     "name:eng_x_preferred":[
         "Nioro du Rip"
     ],
     "name:fra_x_preferred":[
         "Nioro du Rip"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Nioro du Rip"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Nioro du Rip"
     ],
     "name:pol_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421199051,
-    "wof:lastmodified":1527716418,
+    "wof:lastmodified":1561843862,
     "wof:name":"Nioro du Rip",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

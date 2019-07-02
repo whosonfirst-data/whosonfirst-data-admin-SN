@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u062b\u064a\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Thi\u00e8s eskualdea"
-    ],
     "name:bel_x_preferred":[
         "\u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u0426\u0456\u0435\u0441"
     ],
@@ -41,17 +38,14 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u0435\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u6377\u65af\u5340"
-    ],
     "name:dan_x_preferred":[
         "Thi\u00e8s"
     ],
     "name:deu_x_preferred":[
         "Region Thi\u00e8s"
     ],
-    "name:dut_x_preferred":[
-        "Thi\u00e8s"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Thies"
@@ -73,17 +67,8 @@
     "name:fra_x_preferred":[
         "Thi\u00e8s"
     ],
-    "name:fre_x_preferred":[
-        "Thi\u00e8s"
-    ],
-    "name:ger_x_preferred":[
-        "Region Thi\u00e8s"
-    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Thi\u00e8s"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b9\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aa5\u0abf\u0a9d"
@@ -115,8 +100,11 @@
     "name:mar_x_preferred":[
         "\u0925\u0940\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Thies"
+    ],
+    "name:nld_x_preferred":[
+        "Thi\u00e8s"
     ],
     "name:nob_x_preferred":[
         "Thi\u00e8s"
@@ -127,7 +115,7 @@
     "name:por_x_preferred":[
         "Thi\u00e8s"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Thi\u00e8s"
     ],
     "name:rus_x_preferred":[
@@ -171,6 +159,9 @@
     ],
     "name:wol_x_preferred":[
         "Diiwaanu Cees"
+    ],
+    "name:zho_x_preferred":[
+        "\u6377\u65af\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SEN",
@@ -294,7 +285,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1553550491,
+    "wof:lastmodified":1561843844,
     "wof:name":"Thies",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -14,34 +14,22 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:baq_x_preferred":[
-        "Kolda"
-    ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5c14\u8fbe"
-    ],
     "name:dan_x_preferred":[
         "Kolda"
     ],
     "name:deu_x_preferred":[
         "Kolda"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Kolda"
     ],
-    "name:eng_x_preferred":[
+    "name:eus_x_preferred":[
         "Kolda"
     ],
     "name:fra_x_preferred":[
         "Kolda"
     ],
-    "name:fre_x_preferred":[
-        "Kolda"
-    ],
     "name:frr_x_preferred":[
-        "Kolda"
-    ],
-    "name:ger_x_preferred":[
         "Kolda"
     ],
     "name:ita_x_preferred":[
@@ -63,9 +51,6 @@
         "Kolda"
     ],
     "name:ron_x_preferred":[
-        "Kolda"
-    ],
-    "name:rum_x_preferred":[
         "Kolda"
     ],
     "name:rus_x_preferred":[
@@ -226,7 +211,7 @@
         }
     ],
     "wof:id":421168303,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561843861,
     "wof:name":"Kolda",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

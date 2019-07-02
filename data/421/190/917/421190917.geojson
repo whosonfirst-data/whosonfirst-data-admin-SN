@@ -16,17 +16,11 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u064a\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Pikine"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u0995\u09bf\u09a8"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u043a\u0438\u043d\u0435"
-    ],
-    "name:chi_x_preferred":[
-        "\u76ae\u91d1"
     ],
     "name:dan_x_preferred":[
         "Pikine"
@@ -34,8 +28,8 @@
     "name:deu_x_preferred":[
         "Pikine"
     ],
-    "name:dut_x_preferred":[
-        "Pikine"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03ba\u03af\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Pikine"
@@ -43,20 +37,14 @@
     "name:epo_x_preferred":[
         "Pikine"
     ],
+    "name:eus_x_preferred":[
+        "Pikine"
+    ],
     "name:fin_x_preferred":[
         "Pikine"
     ],
     "name:fra_x_preferred":[
         "Pikine"
-    ],
-    "name:fre_x_preferred":[
-        "Pikine"
-    ],
-    "name:ger_x_preferred":[
-        "Pikine"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b9\u03ba\u03af\u03bd\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abf\u0a95\u0abf\u0aa8"
@@ -88,7 +76,7 @@
     "name:mar_x_preferred":[
         "\u092a\u093f\u0915\u093f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pikine"
     ],
     "name:nld_x_preferred":[
@@ -192,7 +180,7 @@
         }
     ],
     "wof:id":421190917,
-    "wof:lastmodified":1527716398,
+    "wof:lastmodified":1561843861,
     "wof:name":"Pikine",
     "wof:parent_id":421193105,
     "wof:placetype":"locality",

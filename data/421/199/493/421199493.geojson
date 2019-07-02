@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0628\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Touba"
-    ],
     "name:bel_x_preferred":[
         "\u0422\u0443\u0431\u0430"
     ],
@@ -31,17 +28,14 @@
     "name:cat_x_preferred":[
         "Touba"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u5df4"
-    ],
     "name:dan_x_preferred":[
         "Touba"
     ],
     "name:deu_x_preferred":[
         "Touba"
     ],
-    "name:dut_x_preferred":[
-        "Touba"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Touba"
@@ -49,20 +43,14 @@
     "name:epo_x_preferred":[
         "Tuba"
     ],
+    "name:eus_x_preferred":[
+        "Touba"
+    ],
     "name:fin_x_preferred":[
         "Touba"
     ],
     "name:fra_x_preferred":[
         "Touba"
-    ],
-    "name:fre_x_preferred":[
-        "Touba"
-    ],
-    "name:ger_x_preferred":[
-        "Touba"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03cd\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0aac\u0abe"
@@ -94,9 +82,6 @@
     "name:mar_x_preferred":[
         "\u0924\u0941\u092c\u093e"
     ],
-    "name:may_x_preferred":[
-        "Touba"
-    ],
     "name:msa_x_preferred":[
         "Touba"
     ],
@@ -113,9 +98,6 @@
         "Touba"
     ],
     "name:ron_x_preferred":[
-        "Touba"
-    ],
-    "name:rum_x_preferred":[
         "Touba"
     ],
     "name:rus_x_preferred":[
@@ -213,7 +195,7 @@
         }
     ],
     "wof:id":421199493,
-    "wof:lastmodified":1553816386,
+    "wof:lastmodified":1561843862,
     "wof:name":"Touba",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",
