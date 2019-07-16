@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Kaffrine"
     ],
+    "name:frr_x_preferred":[
+        "Kaffrine"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Kaffrine"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ud504\ub9b0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ud504\ub9b0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Kafrines re\u0123ions"
@@ -231,7 +237,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1561843844,
+    "wof:lastmodified":1563271438,
     "wof:name":"Kaffrine",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

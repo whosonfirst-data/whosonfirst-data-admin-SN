@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u0982\u09b9\u09c7\u0989\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Koungheul"
+    ],
     "name:dan_x_preferred":[
         "Koungheul"
     ],
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421167577,
-    "wof:lastmodified":1561843861,
+    "wof:lastmodified":1563272227,
     "wof:name":"Koungheul",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

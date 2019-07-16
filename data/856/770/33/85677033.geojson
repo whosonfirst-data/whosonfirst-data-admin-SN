@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0646\u063a\u0634\u0648\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0632\u064a\u063a\u0646\u0634\u0648\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u0997\u09c1\u0987\u09a8\u0995\u09be"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Ziguinchor"
+    ],
+    "name:ceb_x_preferred":[
+        "Ziguinchor"
     ],
     "name:ces_x_preferred":[
         "Ziguinchor"
@@ -59,6 +65,9 @@
     "name:eus_x_preferred":[
         "Ziguinchor eskualdea"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0632\u06cc\u06af\u06cc\u0646\u0686\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Ziguinchor"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:fra_x_variant":[
         "Basse Casamance"
+    ],
+    "name:frr_x_preferred":[
+        "Ziguinchor Regiuun"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Ziguinchor"
@@ -86,6 +98,9 @@
     "name:ita_x_preferred":[
         "Regione di Ziguinchor"
     ],
+    "name:ita_x_variant":[
+        "Ziguinchor"
+    ],
     "name:jpn_x_preferred":[
         "\u30b8\u30ac\u30f3\u30b7\u30e7\u30fc\u30eb\u5dde"
     ],
@@ -94,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc9c0\uae34\uc1fc\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc9c0\uae34\uc1fc\ub974\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zigin\u0161ora"
@@ -130,6 +148,9 @@
     ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Ziguinchor"
+    ],
+    "name:spa_x_variant":[
+        "Ziguinchor"
     ],
     "name:swe_x_preferred":[
         "Ziguinchor"
@@ -286,7 +307,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1561843843,
+    "wof:lastmodified":1563271432,
     "wof:name":"Ziguinchor",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

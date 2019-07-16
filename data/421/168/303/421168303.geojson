@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kolda"
+    ],
     "name:dan_x_preferred":[
         "Kolda"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:eus_x_preferred":[
         "Kolda"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u062f\u0627"
     ],
     "name:fra_x_preferred":[
         "Kolda"
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":421168303,
-    "wof:lastmodified":1561843861,
+    "wof:lastmodified":1563272222,
     "wof:name":"Kolda",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

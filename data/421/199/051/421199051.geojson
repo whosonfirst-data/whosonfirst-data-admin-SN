@@ -16,6 +16,12 @@
     "name:cat_x_preferred":[
         "Nioro del Rip"
     ],
+    "name:ceb_x_preferred":[
+        "Nioro du Rip"
+    ],
+    "name:deu_x_preferred":[
+        "Nioro du Rip"
+    ],
     "name:eng_x_preferred":[
         "Nioro du Rip"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421199051,
-    "wof:lastmodified":1561843862,
+    "wof:lastmodified":1563272240,
     "wof:name":"Nioro du Rip",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

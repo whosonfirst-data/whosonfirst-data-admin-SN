@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3351138.350779,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-17.45343,14.714853,-17.45343,14.714853",
     "geom:latitude":14.714853,
     "geom:longitude":-17.45343,
@@ -23,11 +23,20 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Grand Dakar"
+    ],
+    "name:eng_x_preferred":[
+        "Grand Dakar"
+    ],
     "name:fra_x_preferred":[
         "Grand Dakar"
     ],
     "name:fra_x_variant":[
         "Grand Dakar Bope"
+    ],
+    "name:nld_x_preferred":[
+        "Grand Dakar"
     ],
     "name:unk_x_variant":[
         "Grand Dakar Bope",
@@ -64,10 +73,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":31,
     "wof:belongsto":[
+        85676997,
         102191573,
         85632365,
-        421187965,
-        85676997
+        421187965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +102,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862152,
+    "wof:lastmodified":1563271441,
     "wof:name":"Grand Dakar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Tambacounda"
     ],
+    "name:ceb_x_preferred":[
+        "Tambacounda"
+    ],
     "name:ces_x_preferred":[
         "Tambacounda"
     ],
@@ -65,6 +68,9 @@
     "name:fra_x_preferred":[
         "Tambacounda"
     ],
+    "name:frr_x_preferred":[
+        "Tambacounda"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Tambacounda"
     ],
@@ -88,6 +94,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0d0\ubc14\ucfe4\ub2e4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0d0\ubc14\ucfe4\ub2e4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Tambakundas re\u0123ions"
@@ -128,6 +137,9 @@
     "name:spa_x_preferred":[
         "Regi\u00f3n de Tambacounda"
     ],
+    "name:spa_x_variant":[
+        "Tambacounda"
+    ],
     "name:swe_x_preferred":[
         "Tambacounda"
     ],
@@ -139,6 +151,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e32\u0e21\u0e1a\u0e32\u0e01\u0e39\u0e19\u0e14\u0e32"
     ],
     "name:tur_x_preferred":[
         "Tambacounda B\u00f6lgesi"
@@ -224,7 +239,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1561843843,
+    "wof:lastmodified":1563271431,
     "wof:name":"Tambacounda",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

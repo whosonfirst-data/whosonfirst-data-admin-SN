@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u062f\u0648\u063a\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "K\u00e9dougou"
+    ],
     "name:dan_x_preferred":[
         "K\u00e9dougou"
     ],
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421178349,
-    "wof:lastmodified":1561843862,
+    "wof:lastmodified":1563272245,
     "wof:name":"K\u00e9dougou",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

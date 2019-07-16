@@ -31,11 +31,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Rufisque Department"
+    ],
+    "name:deu_x_preferred":[
+        "D\u00e9partement Rufisque"
+    ],
     "name:eng_x_preferred":[
         "Rufisque Department"
     ],
     "name:eng_x_variant":[
         "Rufisque"
+    ],
+    "name:fra_x_preferred":[
+        "Diemb\u00e9ring"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e5\u30d5\u30a3\u30b9\u30af\u770c"
+    ],
+    "name:nld_x_preferred":[
+        "Rufisque"
+    ],
+    "name:por_x_preferred":[
+        "Rufisque"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044e\u0444\u0438\u0441\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5442\u83f2\u65af\u514b\u7701"
     ],
     "qs:gn_country":"SN",
     "qs:gn_fcode":"ADM2",
@@ -98,7 +122,7 @@
         }
     ],
     "wof:id":421187963,
-    "wof:lastmodified":1553717458,
+    "wof:lastmodified":1563272230,
     "wof:name":"Rufisque",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

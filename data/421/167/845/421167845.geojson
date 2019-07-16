@@ -19,7 +19,13 @@
     "name:deu_x_preferred":[
         "Ngor"
     ],
+    "name:eng_x_preferred":[
+        "Ngor"
+    ],
     "name:fra_x_preferred":[
+        "Ngor"
+    ],
+    "name:nld_x_preferred":[
         "Ngor"
     ],
     "qs:gn_country":"SN",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":421167845,
-    "wof:lastmodified":1527716154,
+    "wof:lastmodified":1563272226,
     "wof:name":"Ngor",
     "wof:parent_id":421187965,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "V\u00e9lingara"
+    ],
     "name:deu_x_preferred":[
         "V\u00e9lingara"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421182771,
-    "wof:lastmodified":1561843862,
+    "wof:lastmodified":1563272246,
     "wof:name":"V\u00e9lingara",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

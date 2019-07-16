@@ -16,11 +16,17 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u064a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Pikine"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u0995\u09bf\u09a8"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u043a\u0438\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Pikine"
     ],
     "name:dan_x_preferred":[
         "Pikine"
@@ -93,6 +99,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u043a\u0438\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0438\u043a\u0438\u043d\u0435"
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0dd2\u0d9a\u0dd2\u0db1\u0dda"
@@ -180,7 +189,7 @@
         }
     ],
     "wof:id":421190917,
-    "wof:lastmodified":1561843861,
+    "wof:lastmodified":1563272236,
     "wof:name":"Pikine",
     "wof:parent_id":421193105,
     "wof:placetype":"locality",

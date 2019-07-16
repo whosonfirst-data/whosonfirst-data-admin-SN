@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Thi\u00e8s"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u06cc\u200c\u06cc\u0633"
+    ],
     "name:bel_x_preferred":[
         "\u0426\u0456\u0435\u0441"
     ],
@@ -53,6 +59,9 @@
     "name:eus_x_preferred":[
         "Thi\u00e8s"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u200c\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "Thi\u00e8s"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05d0\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05ea\u05d9\u05d0\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u091f\u0940\u0938"
@@ -313,7 +325,7 @@
         }
     ],
     "wof:id":421203859,
-    "wof:lastmodified":1561843861,
+    "wof:lastmodified":1563272228,
     "wof:name":"Thi\u00e8s",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",
