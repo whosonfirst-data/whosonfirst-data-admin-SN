@@ -16,6 +16,12 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u043d\u0434\u0438\u0430\u0439\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Gandiaye"
+    ],
+    "name:deu_x_preferred":[
+        "Gandiaye"
+    ],
     "name:eng_x_preferred":[
         "Gandiaye"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421182763,
-    "wof:lastmodified":1561843862,
+    "wof:lastmodified":1563272246,
     "wof:name":"Gandiaye",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

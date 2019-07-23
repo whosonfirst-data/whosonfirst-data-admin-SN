@@ -13,14 +13,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bargny"
+    ],
     "name:deu_x_preferred":[
         "Bargny"
     ],
     "name:eng_x_preferred":[
         "Bargny"
     ],
+    "name:epo_x_preferred":[
+        "Bargny"
+    ],
     "name:fra_x_preferred":[
         "Bargny"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30b0\u30cb\u30fc"
     ],
     "name:nld_x_preferred":[
         "Bargny"
@@ -30,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Bargny-Gouddau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u5c3c"
     ],
     "qs:gn_country":"SN",
     "qs:gn_fcode":"PPL",
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":421178143,
-    "wof:lastmodified":1561843862,
+    "wof:lastmodified":1563272245,
     "wof:name":"Bargny",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

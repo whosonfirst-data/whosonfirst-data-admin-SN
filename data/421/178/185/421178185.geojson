@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0648\u0633\u063a\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Ouro Sogui"
+    ],
     "name:deu_x_preferred":[
         "Ourossogui"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421178185,
-    "wof:lastmodified":1561843862,
+    "wof:lastmodified":1563272246,
     "wof:name":"Ouro Sogui",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

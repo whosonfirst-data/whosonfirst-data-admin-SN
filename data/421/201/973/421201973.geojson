@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0641\u064a\u0633\u0643"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u0641\u0633\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Rufisque"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09cb\u09ab\u09bf\u09b8\u09cd\u0995"
     ],
@@ -49,8 +55,14 @@
     "name:glg_x_preferred":[
         "Departamento de Rufisque"
     ],
+    "name:glg_x_variant":[
+        "Rufisque"
+    ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac1\u0aab\u0abf\u0ab8\u0a95\u0acd\u0aaf\u0ac1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05e4\u05d9\u05e1\u05e7\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0930\u0941\u092b\u0940\u0938\u094d\u0915"
@@ -197,7 +209,7 @@
         }
     ],
     "wof:id":421201973,
-    "wof:lastmodified":1561843862,
+    "wof:lastmodified":1563272242,
     "wof:name":"Rufisque",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d-\u041b\u0443\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Saint-Louis"
+    ],
     "name:dan_x_preferred":[
         "Saint-Louis"
     ],
@@ -50,6 +53,9 @@
     "name:eng_x_variant":[
         "Saint-Louis Region"
     ],
+    "name:epo_x_preferred":[
+        "Sankt-Luizo"
+    ],
     "name:eus_x_preferred":[
         "Saint-Louis eskualdea"
     ],
@@ -63,6 +69,9 @@
         "Saint-Louis",
         "St-Louis",
         "Stlouis"
+    ],
+    "name:frr_x_preferred":[
+        "Saint-Louis"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Saint-Louis"
@@ -87,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0dd\ub8e8\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0dd\ub8e8\uc774\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Senluisa"
@@ -144,6 +156,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0421\u0435\u043d\u0442-\u041b\u0443\u0457\u0441"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0435\u043d\u0442-\u041b\u0443\u0457\u0441"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u0644\u0648\u0626\u06cc\u0633 \u0631\u06cc\u062c\u0646"
@@ -221,7 +236,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1561843844,
+    "wof:lastmodified":1563271438,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

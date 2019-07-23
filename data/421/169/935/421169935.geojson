@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ndioum"
+    ],
+    "name:deu_x_preferred":[
+        "Ndioum"
+    ],
     "name:eng_x_preferred":[
         "Ndioum"
     ],
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421169935,
-    "wof:lastmodified":1561843861,
+    "wof:lastmodified":1563272227,
     "wof:name":"Ndioum",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

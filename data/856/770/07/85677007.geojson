@@ -35,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u0442\u0438\u043a"
     ],
+    "name:cym_x_preferred":[
+        "Fatick"
+    ],
     "name:dan_x_preferred":[
         "Fatick"
     ],
@@ -57,6 +60,9 @@
         "Fatick"
     ],
     "name:fra_x_preferred":[
+        "Fatick"
+    ],
+    "name:frr_x_preferred":[
         "Fatick"
     ],
     "name:glg_x_preferred":[
@@ -83,8 +89,14 @@
     "name:kor_x_preferred":[
         "\ud30c\ud2f0\ud06c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud30c\ud2f0\ud06c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Fatika"
+    ],
+    "name:lfn_x_preferred":[
+        "Fatick"
     ],
     "name:lit_x_preferred":[
         "Fatiko regionas"
@@ -279,7 +291,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1561843844,
+    "wof:lastmodified":1563271435,
     "wof:name":"Fatick",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -52,11 +52,14 @@
     ],
     "name:eng_x_variant":[
         "Thi\u00e8s",
-        "Thies",
-        "Thies Region"
+        "Thies Region",
+        "Thi\u00e8s Region"
     ],
     "name:eus_x_preferred":[
         "Thi\u00e8s eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062a\u06cc\u200c\u06cc\u0633"
     ],
     "name:fin_x_preferred":[
         "Thi\u00e8s"
@@ -65,6 +68,9 @@
         "Thies"
     ],
     "name:fra_x_preferred":[
+        "Thi\u00e8s"
+    ],
+    "name:frr_x_preferred":[
         "Thi\u00e8s"
     ],
     "name:glg_x_preferred":[
@@ -82,6 +88,9 @@
     "name:ita_x_preferred":[
         "Regione di Thi\u00e8s"
     ],
+    "name:ita_x_variant":[
+        "Thi\u00e8s"
+    ],
     "name:jpn_x_preferred":[
         "\u30c6\u30a3\u30a8\u30b9\u5dde"
     ],
@@ -90,6 +99,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud2f0\uc5d0\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud2f0\uc5d0\uc2a4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Tjesas re\u0123ions"
@@ -129,6 +141,9 @@
     ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Thi\u00e8s"
+    ],
+    "name:spa_x_variant":[
+        "Thi\u00e8s"
     ],
     "name:swe_x_preferred":[
         "Thi\u00e8s"
@@ -285,7 +300,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1561843844,
+    "wof:lastmodified":1563271437,
     "wof:name":"Thies",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

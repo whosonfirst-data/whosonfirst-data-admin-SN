@@ -15,6 +15,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Khombole"
+    ],
+    "name:deu_x_preferred":[
+        "Khombole"
+    ],
     "name:eng_x_preferred":[
         "Khombole"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890434605,
-    "wof:lastmodified":1561843862,
+    "wof:lastmodified":1563272251,
     "wof:name":"Khombole",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

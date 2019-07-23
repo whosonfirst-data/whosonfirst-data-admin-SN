@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0645 \u0628\u0648\u0631"
+    ],
     "name:deu_x_preferred":[
         "M'bour"
     ],
@@ -24,6 +30,9 @@
     ],
     "name:eus_x_preferred":[
         "Mbour"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0628\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Mbour"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":421173173,
-    "wof:lastmodified":1561843861,
+    "wof:lastmodified":1563272232,
     "wof:name":"Mbour",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

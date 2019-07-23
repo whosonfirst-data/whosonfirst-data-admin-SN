@@ -58,6 +58,9 @@
     "name:fra_x_preferred":[
         "K\u00e9dougou"
     ],
+    "name:frr_x_preferred":[
+        "K\u00e9dougou"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de K\u00e9dougou"
     ],
@@ -73,6 +76,9 @@
     "name:ita_x_preferred":[
         "Regione di K\u00e9dougou"
     ],
+    "name:ita_x_variant":[
+        "K\u00e9dougou"
+    ],
     "name:jpn_x_preferred":[
         "\u30b1\u30c9\u30a5\u30b0\u5dde"
     ],
@@ -81,6 +87,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf00\ub450\uad6c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucf00\ub450\uad6c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "K\u0113dugu"
@@ -120,6 +129,9 @@
     ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de K\u00e9dougou"
+    ],
+    "name:spa_x_variant":[
+        "K\u00e9dougou"
     ],
     "name:swe_x_preferred":[
         "K\u00e9dougou"
@@ -233,7 +245,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1561843844,
+    "wof:lastmodified":1563271441,
     "wof:name":"Kedougou",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -18,12 +18,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hann Yarah"
+    ],
+    "name:eng_x_preferred":[
+        "Hann"
+    ],
     "name:fra_x_preferred":[
         "Yararh"
+    ],
+    "name:spa_x_preferred":[
+        "Hann"
     ],
     "name:unk_x_variant":[
         "Yararh",
         "Hann"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f22\u6069"
     ],
     "qs_pg:aaroncc":"SN",
     "qs_pg:gn_country":"SN",
@@ -80,7 +92,7 @@
         }
     ],
     "wof:id":1126084623,
-    "wof:lastmodified":1534379462,
+    "wof:lastmodified":1563272253,
     "wof:name":"Yararh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Diourbel"
     ],
+    "name:ceb_x_preferred":[
+        "Diourbel"
+    ],
     "name:dan_x_preferred":[
         "Diourbel Region"
     ],
@@ -65,6 +68,9 @@
     "name:fra_x_variant":[
         "R\u00e9gion de Diourbel"
     ],
+    "name:frr_x_preferred":[
+        "Diourbel"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Diourbel"
     ],
@@ -91,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub514\uc6b0\ub974\ubca8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub514\uc6b0\ub974\ubca8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Di\u016brbelas re\u0123ions"
@@ -130,6 +139,9 @@
     ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Diourbel"
+    ],
+    "name:spa_x_variant":[
+        "Diourbel"
     ],
     "name:swe_x_preferred":[
         "Diourbel"
@@ -286,7 +298,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1561843844,
+    "wof:lastmodified":1563271435,
     "wof:name":"Diourbel",
     "wof:parent_id":85632365,
     "wof:placetype":"region",
