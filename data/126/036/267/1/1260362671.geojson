@@ -25,8 +25,14 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Galadi"
+    ],
     "name:und_x_variant":[
         "Gallad\u00e9",
+        "Galadi"
+    ],
+    "name:vie_x_preferred":[
         "Galadi"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1260362671,
-    "wof:lastmodified":1537701109,
+    "wof:lastmodified":1564124082,
     "wof:name":"Galadi",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

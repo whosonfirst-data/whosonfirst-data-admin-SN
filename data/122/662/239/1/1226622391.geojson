@@ -25,8 +25,26 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gangara"
+    ],
+    "name:nor_x_preferred":[
+        "Gangara"
+    ],
+    "name:spa_x_preferred":[
+        "Gangara"
+    ],
+    "name:swe_x_preferred":[
+        "Gangara"
+    ],
     "name:und_x_variant":[
         "Guinngara",
+        "Gangara"
+    ],
+    "name:vie_x_preferred":[
+        "Gangara"
+    ],
+    "name:war_x_preferred":[
         "Gangara"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1226622391,
-    "wof:lastmodified":1537701096,
+    "wof:lastmodified":1564124813,
     "wof:name":"Gangara",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

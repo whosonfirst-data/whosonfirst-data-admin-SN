@@ -26,8 +26,35 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Gade"
+    ],
+    "name:deu_x_preferred":[
+        "Gade"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b2\u30fc\u30bc"
+    ],
+    "name:nld_x_preferred":[
+        "Gade"
+    ],
+    "name:nor_x_preferred":[
+        "Gade"
+    ],
+    "name:por_x_preferred":[
+        "Gade"
+    ],
+    "name:spa_x_preferred":[
+        "Gade"
+    ],
+    "name:swe_x_preferred":[
+        "Gade"
+    ],
     "name:und_x_variant":[
         "Gad",
+        "Gade"
+    ],
+    "name:wln_x_preferred":[
         "Gade"
     ],
     "src:geom":"geonames",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1193148739,
-    "wof:lastmodified":1537701110,
+    "wof:lastmodified":1564124039,
     "wof:name":"Gade",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

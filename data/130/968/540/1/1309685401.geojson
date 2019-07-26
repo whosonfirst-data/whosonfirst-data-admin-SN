@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ogo"
+    ],
+    "name:deu_x_preferred":[
+        "Ogo"
+    ],
+    "name:swe_x_preferred":[
+        "Ogo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1309685401,
-    "wof:lastmodified":1536604814,
+    "wof:lastmodified":1564124342,
     "wof:name":"Ogo",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bakel"
+    ],
+    "name:deu_x_preferred":[
+        "Bakel"
+    ],
+    "name:fin_x_preferred":[
+        "Bakel"
+    ],
+    "name:fra_x_preferred":[
+        "Bakel"
+    ],
+    "name:ita_x_preferred":[
+        "Bakel"
+    ],
+    "name:pol_x_preferred":[
+        "Bakel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a\u0435\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Bakel"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u514b\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1259884759,
-    "wof:lastmodified":1537573724,
+    "wof:lastmodified":1564124648,
     "wof:name":"Bakel",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

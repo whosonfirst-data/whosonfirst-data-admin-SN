@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Simal"
+    ],
+    "name:swe_x_preferred":[
+        "Simal"
+    ],
     "name:und_x_variant":[
         "Simel",
         "Simal"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327423537,
-    "wof:lastmodified":1537700991,
+    "wof:lastmodified":1564123335,
     "wof:name":"Simal",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

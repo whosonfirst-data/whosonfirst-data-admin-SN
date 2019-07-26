@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kabiline"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276851115,
-    "wof:lastmodified":1537076569,
+    "wof:lastmodified":1564123792,
     "wof:name":"Kabiline",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

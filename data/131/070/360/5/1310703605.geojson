@@ -25,6 +25,21 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yamal"
+    ],
+    "name:fra_x_preferred":[
+        "Yamal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05de\u05d0\u05dc"
+    ],
+    "name:spa_x_preferred":[
+        "Yamal"
+    ],
+    "name:swe_x_preferred":[
+        "Yamal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310703605,
-    "wof:lastmodified":1536629386,
+    "wof:lastmodified":1564124143,
     "wof:name":"Yamal",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

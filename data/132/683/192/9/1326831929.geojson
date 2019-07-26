@@ -25,6 +25,30 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tip"
+    ],
+    "name:ceb_x_preferred":[
+        "Tip"
+    ],
+    "name:deu_x_preferred":[
+        "Tip"
+    ],
+    "name:kor_x_preferred":[
+        "\ud301"
+    ],
+    "name:nld_x_preferred":[
+        "Tip"
+    ],
+    "name:spa_x_preferred":[
+        "Tip"
+    ],
+    "name:swe_x_preferred":[
+        "Tip"
+    ],
+    "name:uzb_x_preferred":[
+        "Tip"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1326831929,
-    "wof:lastmodified":1537047214,
+    "wof:lastmodified":1564123299,
     "wof:name":"Tip",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

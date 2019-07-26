@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sankandi"
+    ],
+    "name:deu_x_preferred":[
+        "Sankandi"
+    ],
+    "name:swe_x_preferred":[
+        "Sankandi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276630997,
-    "wof:lastmodified":1536876370,
+    "wof:lastmodified":1564123829,
     "wof:name":"Sankandi",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

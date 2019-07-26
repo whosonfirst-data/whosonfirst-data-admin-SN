@@ -25,6 +25,21 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Diala"
+    ],
+    "name:swe_x_preferred":[
+        "Diala"
+    ],
+    "name:vie_x_preferred":[
+        "Diala"
+    ],
+    "name:war_x_preferred":[
+        "Diala"
+    ],
+    "name:zho_x_preferred":[
+        "\u5929\u87ba\u5c5e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276339813,
-    "wof:lastmodified":1536770242,
+    "wof:lastmodified":1564123755,
     "wof:name":"Diala",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

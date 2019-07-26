@@ -31,14 +31,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Oussouye"
+    ],
+    "name:deu_x_preferred":[
+        "Oussouye"
+    ],
     "name:eng_x_preferred":[
         "Oussouye"
     ],
     "name:eng_x_variant":[
         "Oussouye"
     ],
+    "name:fra_x_preferred":[
+        "Oussouye"
+    ],
+    "name:ita_x_preferred":[
+        "Oussouye"
+    ],
+    "name:pol_x_preferred":[
+        "Oussouye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0441\u0443\u0439\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Usui"
+    ],
+    "name:swe_x_preferred":[
+        "Oussouye"
+    ],
     "name:unk_x_variant":[
         "D\u00e9partement d\u2019Oussouye"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u8607\u8036"
     ],
     "qs:gn_country":"SN",
     "qs:gn_fcode":"ADM2",
@@ -99,7 +126,7 @@
         }
     ],
     "wof:id":421187971,
-    "wof:lastmodified":1553717456,
+    "wof:lastmodified":1564124368,
     "wof:name":"Oussouye",
     "wof:parent_id":85677033,
     "wof:placetype":"county",

@@ -25,6 +25,24 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nema"
+    ],
+    "name:epo_x_preferred":[
+        "Nema"
+    ],
+    "name:fra_x_preferred":[
+        "Nema"
+    ],
+    "name:ita_x_preferred":[
+        "Nema"
+    ],
+    "name:swe_x_preferred":[
+        "Nema"
+    ],
+    "name:tur_x_preferred":[
+        "Nema"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1209892431,
-    "wof:lastmodified":1536390128,
+    "wof:lastmodified":1564123991,
     "wof:name":"Nema",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

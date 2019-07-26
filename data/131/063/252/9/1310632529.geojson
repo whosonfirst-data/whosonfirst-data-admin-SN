@@ -25,9 +25,27 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goudiry"
+    ],
+    "name:deu_x_preferred":[
+        "Goudiry"
+    ],
+    "name:fin_x_preferred":[
+        "Goudiry"
+    ],
+    "name:fra_x_preferred":[
+        "Goudiry"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0434\u0438\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Goudiri",
         "Goudiry"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u8fea\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310632529,
-    "wof:lastmodified":1537701102,
+    "wof:lastmodified":1564124173,
     "wof:name":"Goudiry",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubbf8\ub0a8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293893107,
-    "wof:lastmodified":1536699693,
+    "wof:lastmodified":1564123673,
     "wof:name":"Minam",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

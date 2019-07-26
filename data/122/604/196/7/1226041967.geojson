@@ -25,6 +25,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kidira"
+    ],
+    "name:deu_x_preferred":[
+        "Kidira"
+    ],
+    "name:fin_x_preferred":[
+        "Kidira"
+    ],
+    "name:fra_x_preferred":[
+        "Kidira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226041967,
-    "wof:lastmodified":1537573715,
+    "wof:lastmodified":1564124726,
     "wof:name":"Kidira",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

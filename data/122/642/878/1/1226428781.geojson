@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Renda"
+    ],
+    "name:por_x_preferred":[
+        "Renda"
+    ],
     "name:und_x_variant":[
         "Rennda",
         "R\u00e8nda"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226428781,
-    "wof:lastmodified":1537701003,
+    "wof:lastmodified":1564124694,
     "wof:name":"Renda",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

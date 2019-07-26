@@ -26,6 +26,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Enampore"
+    ],
     "name:und_x_variant":[
         "Enampore",
         "Enanpor"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343937853,
-    "wof:lastmodified":1537701114,
+    "wof:lastmodified":1564123466,
     "wof:name":"Enanpor",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kour\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Kour\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Kour\u00e9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260051343,
-    "wof:lastmodified":1537033006,
+    "wof:lastmodified":1564124120,
     "wof:name":"Koure",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

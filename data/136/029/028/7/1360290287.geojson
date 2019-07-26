@@ -26,6 +26,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bambadinka"
+    ],
     "name:und_x_variant":[
         "Bambadinka",
         "Bannbadinnka"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1360290287,
-    "wof:lastmodified":1537701155,
+    "wof:lastmodified":1564124289,
     "wof:name":"Bannbadinnka",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

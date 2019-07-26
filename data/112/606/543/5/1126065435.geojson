@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Grand Dakar"
+    ],
+    "name:fra_x_preferred":[
+        "Grand Dakar"
+    ],
     "qs_pg:aaroncc":"SN",
     "qs_pg:gn_country":"SN",
     "qs_pg:gn_fcode":"PPL",
@@ -46,10 +52,10 @@
     "woe:name_adm1":"Dakar",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85676997,
         102191573,
         85632365,
-        421187965,
-        85676997
+        421187965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1126065435,
-    "wof:lastmodified":1509410398,
+    "wof:lastmodified":1564124374,
     "wof:name":"Grand Dakar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

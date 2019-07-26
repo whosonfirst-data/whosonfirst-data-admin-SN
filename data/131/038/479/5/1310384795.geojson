@@ -25,6 +25,21 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lote"
+    ],
+    "name:deu_x_preferred":[
+        "Lote"
+    ],
+    "name:fra_x_preferred":[
+        "Lote"
+    ],
+    "name:por_x_preferred":[
+        "Lote"
+    ],
+    "name:swe_x_preferred":[
+        "Lote"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310384795,
-    "wof:lastmodified":1537087953,
+    "wof:lastmodified":1564124159,
     "wof:name":"Lote",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

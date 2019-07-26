@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Demet"
+    ],
+    "name:deu_x_preferred":[
+        "Demet"
+    ],
+    "name:tur_x_preferred":[
+        "Demet"
+    ],
     "name:und_x_variant":[
         "Diem\u00e8t Ti\u00e9nel",
         "Diem\u00e8l Ti\u00e9nel",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343931581,
-    "wof:lastmodified":1537701125,
+    "wof:lastmodified":1564123464,
     "wof:name":"Demet",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

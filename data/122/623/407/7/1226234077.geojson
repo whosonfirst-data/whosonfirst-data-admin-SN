@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paki"
+    ],
+    "name:deu_x_preferred":[
+        "Paki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226234077,
-    "wof:lastmodified":1536950714,
+    "wof:lastmodified":1564124771,
     "wof:name":"Paki",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

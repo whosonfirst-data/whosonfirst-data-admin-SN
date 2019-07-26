@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Takon"
+    ],
+    "name:msa_x_preferred":[
+        "Takon"
+    ],
     "name:und_x_variant":[
         "Takon II",
         "Takon"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310676859,
-    "wof:lastmodified":1537700972,
+    "wof:lastmodified":1564124250,
     "wof:name":"Takon",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

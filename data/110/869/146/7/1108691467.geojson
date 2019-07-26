@@ -36,6 +36,15 @@
     "name:eng_x_variant":[
         "Saraya"
     ],
+    "name:ita_x_preferred":[
+        "Saraya"
+    ],
+    "name:por_x_preferred":[
+        "Saraya"
+    ],
+    "name:spa_x_preferred":[
+        "Saraya"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108691467,
-    "wof:lastmodified":1553718184,
+    "wof:lastmodified":1564124128,
     "wof:name":"Saraya",
     "wof:parent_id":85676983,
     "wof:placetype":"county",

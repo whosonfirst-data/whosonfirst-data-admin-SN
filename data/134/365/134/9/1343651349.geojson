@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pa xopat"
+    ],
+    "name:spa_x_preferred":[
+        "Sop"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343651349,
-    "wof:lastmodified":1536967904,
+    "wof:lastmodified":1564123349,
     "wof:name":"Sop",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

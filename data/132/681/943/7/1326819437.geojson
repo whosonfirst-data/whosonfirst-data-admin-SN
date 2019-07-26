@@ -25,6 +25,21 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Senegambia"
+    ],
+    "name:fin_x_preferred":[
+        "Senegambia"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e9n\u00e9gambie"
+    ],
+    "name:pol_x_preferred":[
+        "Senegambia"
+    ],
+    "name:vie_x_preferred":[
+        "Senegambia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326819437,
-    "wof:lastmodified":1537064403,
+    "wof:lastmodified":1564123211,
     "wof:name":"Senegambia",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

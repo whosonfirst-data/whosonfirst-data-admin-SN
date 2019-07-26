@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boulayot"
+    ],
+    "name:fra_x_preferred":[
+        "Boulayotte"
+    ],
     "name:und_x_variant":[
         "Boulouaye",
         "Boulayotte",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327121417,
-    "wof:lastmodified":1537701145,
+    "wof:lastmodified":1564123261,
     "wof:name":"Boulayot",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

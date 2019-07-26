@@ -26,6 +26,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paye"
+    ],
+    "name:deu_x_preferred":[
+        "Paye"
+    ],
+    "name:fra_x_preferred":[
+        "Paye"
+    ],
+    "name:swe_x_preferred":[
+        "Paye"
+    ],
     "name:und_x_variant":[
         "Mpay\u00e8",
         "Paye"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1243337237,
-    "wof:lastmodified":1537701039,
+    "wof:lastmodified":1564124486,
     "wof:name":"Paye",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

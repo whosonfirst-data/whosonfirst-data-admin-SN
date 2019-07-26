@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "S\u00e9l\u00e9ki"
+    ],
     "name:und_x_variant":[
         "S\u00e9l\u00e9ki"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259866653,
-    "wof:lastmodified":1537700994,
+    "wof:lastmodified":1564124655,
     "wof:name":"Seleki",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

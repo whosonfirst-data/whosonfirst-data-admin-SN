@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kawane"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242896507,
-    "wof:lastmodified":1536601141,
+    "wof:lastmodified":1564124408,
     "wof:name":"Kawane",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

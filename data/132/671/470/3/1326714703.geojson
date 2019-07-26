@@ -26,6 +26,24 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mande"
+    ],
+    "name:deu_x_preferred":[
+        "Mande"
+    ],
+    "name:hrv_x_preferred":[
+        "Mande"
+    ],
+    "name:nld_x_preferred":[
+        "Mande"
+    ],
+    "name:por_x_preferred":[
+        "Mande"
+    ],
+    "name:swe_x_preferred":[
+        "Mande"
+    ],
     "name:und_x_variant":[
         "Mannd",
         "Mande"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1326714703,
-    "wof:lastmodified":1537701054,
+    "wof:lastmodified":1564123289,
     "wof:name":"Mande",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

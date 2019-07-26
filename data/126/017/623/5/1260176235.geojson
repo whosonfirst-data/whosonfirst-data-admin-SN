@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sindia"
+    ],
+    "name:fra_x_preferred":[
+        "Sindia"
+    ],
+    "name:swe_x_preferred":[
+        "Sindia"
+    ],
     "name:und_x_variant":[
         "Sinndia",
         "Sindia"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1260176235,
-    "wof:lastmodified":1537700991,
+    "wof:lastmodified":1564124107,
     "wof:name":"Sindia",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

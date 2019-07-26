@@ -25,6 +25,27 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Seo"
+    ],
+    "name:eus_x_preferred":[
+        "Seo"
+    ],
+    "name:fra_x_preferred":[
+        "Seo"
+    ],
+    "name:glg_x_preferred":[
+        "Seo"
+    ],
+    "name:nld_x_preferred":[
+        "Seo"
+    ],
+    "name:tur_x_preferred":[
+        "Seo"
+    ],
+    "name:ukr_x_preferred":[
+        "SEO"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1225846923,
-    "wof:lastmodified":1537011254,
+    "wof:lastmodified":1564124834,
     "wof:name":"Seo",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

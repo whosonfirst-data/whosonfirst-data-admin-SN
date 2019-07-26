@@ -25,6 +25,78 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lo Raiet"
+    ],
+    "name:ceb_x_preferred":[
+        "Rayet"
+    ],
+    "name:deu_x_preferred":[
+        "Rayet"
+    ],
+    "name:eus_x_preferred":[
+        "Rayet"
+    ],
+    "name:fra_x_preferred":[
+        "Rayet"
+    ],
+    "name:hun_x_preferred":[
+        "Rayet"
+    ],
+    "name:ita_x_preferred":[
+        "Rayet"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0435"
+    ],
+    "name:lat_x_preferred":[
+        "Rayet"
+    ],
+    "name:msa_x_preferred":[
+        "Rayet"
+    ],
+    "name:nld_x_preferred":[
+        "Rayet"
+    ],
+    "name:oci_x_preferred":[
+        "Lo Raiet"
+    ],
+    "name:pms_x_preferred":[
+        "Rayet"
+    ],
+    "name:pol_x_preferred":[
+        "Rayet"
+    ],
+    "name:por_x_preferred":[
+        "Rayet"
+    ],
+    "name:ron_x_preferred":[
+        "Rayet"
+    ],
+    "name:slk_x_preferred":[
+        "Rayet"
+    ],
+    "name:spa_x_preferred":[
+        "Rayet"
+    ],
+    "name:swe_x_preferred":[
+        "Rayet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0454"
+    ],
+    "name:uzb_x_preferred":[
+        "Rayet"
+    ],
+    "name:vie_x_preferred":[
+        "Rayet"
+    ],
+    "name:vol_x_preferred":[
+        "Rayet"
+    ],
+    "name:war_x_preferred":[
+        "Rayet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +120,7 @@
         }
     ],
     "wof:id":1293668435,
-    "wof:lastmodified":1537022469,
+    "wof:lastmodified":1564123614,
     "wof:name":"Rayet",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

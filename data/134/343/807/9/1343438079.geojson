@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baraf"
+    ],
+    "name:fra_x_preferred":[
+        "Baraf"
+    ],
     "name:und_x_variant":[
         "Barafe",
         "Baraf"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343438079,
-    "wof:lastmodified":1537701154,
+    "wof:lastmodified":1564123532,
     "wof:name":"Baraf",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

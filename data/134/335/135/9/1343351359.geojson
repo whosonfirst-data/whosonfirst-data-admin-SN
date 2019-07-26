@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "A\u00efnoumane"
+    ],
     "name:und_x_variant":[
         "A\u00efnoumane"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343351359,
-    "wof:lastmodified":1537701167,
+    "wof:lastmodified":1564123455,
     "wof:name":"Ainoumane",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

@@ -25,8 +25,20 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0932\u0940\u092f"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f3lij\u00e1k"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb2\u0bbf\u0baf\u0bb0\u0bcd"
+    ],
     "name:und_x_variant":[
         "Kolia",
+        "Koliya"
+    ],
+    "name:vie_x_preferred":[
         "Koliya"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293593991,
-    "wof:lastmodified":1537701069,
+    "wof:lastmodified":1564123610,
     "wof:name":"Koliya",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

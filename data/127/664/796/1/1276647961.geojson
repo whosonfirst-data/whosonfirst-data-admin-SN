@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nianing"
+    ],
+    "name:fra_x_preferred":[
+        "Nianing"
+    ],
     "name:und_x_variant":[
         "Nianine",
         "Nianing"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276647961,
-    "wof:lastmodified":1537701014,
+    "wof:lastmodified":1564123822,
     "wof:name":"Nianing",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

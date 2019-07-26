@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Goude"
+    ],
+    "name:ita_x_preferred":[
+        "Goude"
+    ],
     "name:und_x_variant":[
         "Coud\u00e9",
         "Goud\u00e9"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326637325,
-    "wof:lastmodified":1537701102,
+    "wof:lastmodified":1564123311,
     "wof:name":"Goude",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

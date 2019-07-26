@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gu\u00e9oul"
+    ],
+    "name:fra_x_preferred":[
+        "Gu\u00e9oul"
+    ],
     "name:und_x_variant":[
         "Gueul",
         "Goumbo",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1309792217,
-    "wof:lastmodified":1537701097,
+    "wof:lastmodified":1564124323,
     "wof:name":"Gueoul",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

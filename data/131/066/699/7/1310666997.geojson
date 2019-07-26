@@ -25,6 +25,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bakadagy"
+    ],
+    "name:deu_x_preferred":[
+        "Bakadaji"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03ba\u03b1\u03bd\u03c4\u03b1\u03c4\u03b6\u03af"
+    ],
+    "name:swe_x_preferred":[
+        "Bakadagy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310666997,
-    "wof:lastmodified":1536683951,
+    "wof:lastmodified":1564124225,
     "wof:name":"Bakadaji",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

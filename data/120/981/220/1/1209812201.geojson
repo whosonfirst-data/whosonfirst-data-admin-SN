@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dingler"
+    ],
+    "name:fra_x_preferred":[
+        "Dingler"
+    ],
     "name:und_x_variant":[
         "Dingu\u00e9l\u00e8re",
         "Dingler"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209812201,
-    "wof:lastmodified":1537701123,
+    "wof:lastmodified":1564124011,
     "wof:name":"Dingler",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

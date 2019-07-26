@@ -26,9 +26,42 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dagana"
+    ],
+    "name:ceb_x_preferred":[
+        "Dagana"
+    ],
+    "name:deu_x_preferred":[
+        "Dagana"
+    ],
+    "name:fin_x_preferred":[
+        "Dagana"
+    ],
+    "name:fra_x_preferred":[
+        "Dagana"
+    ],
+    "name:ita_x_preferred":[
+        "Dagana"
+    ],
+    "name:pol_x_preferred":[
+        "Dagana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0433\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Dagana"
+    ],
+    "name:swe_x_preferred":[
+        "Dagana"
+    ],
     "name:und_x_variant":[
         "Tagana",
         "Dagana"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u52a0\u7d0d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1226832667,
-    "wof:lastmodified":1537701140,
+    "wof:lastmodified":1564124789,
     "wof:name":"Dagana",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

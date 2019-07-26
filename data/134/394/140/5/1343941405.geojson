@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fass"
+    ],
+    "name:deu_x_preferred":[
+        "Fass"
+    ],
+    "name:pol_x_preferred":[
+        "Fass"
+    ],
     "name:und_x_variant":[
         "Fas Ngom",
         "Fass"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343941405,
-    "wof:lastmodified":1537701112,
+    "wof:lastmodified":1564123475,
     "wof:name":"Fass",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

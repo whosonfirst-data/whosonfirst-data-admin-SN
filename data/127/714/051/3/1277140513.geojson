@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nepen-Diakha-Berge"
+    ],
+    "name:pol_x_preferred":[
+        "Nepen Diakha"
+    ],
     "name:und_x_variant":[
         "N\u00e9pin Diaka",
         "N\u00e9pen Diakha"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1277140513,
-    "wof:lastmodified":1537701024,
+    "wof:lastmodified":1564123772,
     "wof:name":"Nepen Diakha",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

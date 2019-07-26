@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bandial"
+    ],
+    "name:fra_x_preferred":[
+        "Bandial"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1225924159,
-    "wof:lastmodified":1537573724,
+    "wof:lastmodified":1564124663,
     "wof:name":"Bandial",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

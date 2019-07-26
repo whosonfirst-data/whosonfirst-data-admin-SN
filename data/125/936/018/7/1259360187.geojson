@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cap Skirring"
+    ],
     "name:eng_x_preferred":[
         "Cap Skirring"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:fra_x_preferred":[
         "Cap Skirring"
+    ],
+    "name:pol_x_preferred":[
+        "Cap Skirring"
+    ],
+    "name:spa_x_preferred":[
+        "Cabo Skirring"
     ],
     "name:und_x_variant":[
         "Cap Skiring"
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1259360187,
-    "wof:lastmodified":1537701171,
+    "wof:lastmodified":1564124550,
     "wof:name":"Cap Skirring",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

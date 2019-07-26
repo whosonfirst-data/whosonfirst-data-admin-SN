@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paoskoto"
+    ],
+    "name:fra_x_preferred":[
+        "Paoskoto"
+    ],
     "name:und_x_variant":[
         "Povoskoto",
         "Paoskoto"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326719437,
-    "wof:lastmodified":1537701006,
+    "wof:lastmodified":1564123292,
     "wof:name":"Paoskoto",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

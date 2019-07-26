@@ -26,6 +26,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Batini\u00e8re"
+    ],
     "name:und_x_variant":[
         "Batini\u00e8re",
         "Batini\u00e8r"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309699469,
-    "wof:lastmodified":1537701152,
+    "wof:lastmodified":1564124346,
     "wof:name":"Batinier",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0646\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Abene"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Ab\u00e9n\u00e9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226129601,
-    "wof:lastmodified":1537573726,
+    "wof:lastmodified":1564124779,
     "wof:name":"Abene",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

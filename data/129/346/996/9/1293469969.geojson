@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ad\u00e9ane"
+    ],
+    "name:deu_x_preferred":[
+        "Ad\u00e9ane"
+    ],
+    "name:fra_x_preferred":[
+        "Ad\u00e9ane"
+    ],
     "name:und_x_variant":[
         "Ad\u00e9ane"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293469969,
-    "wof:lastmodified":1537701166,
+    "wof:lastmodified":1564123572,
     "wof:name":"Adeane",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

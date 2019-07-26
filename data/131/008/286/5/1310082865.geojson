@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Batinding Di\u00e9m\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Batinding Di\u00e9m\u00e9"
+    ],
     "name:und_x_variant":[
         "Batinding Di\u00e9m\u00e9"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310082865,
-    "wof:lastmodified":1537701152,
+    "wof:lastmodified":1564124176,
     "wof:name":"Batinding Dieme",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

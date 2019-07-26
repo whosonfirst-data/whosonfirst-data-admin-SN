@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gobe"
+    ],
+    "name:swe_x_preferred":[
+        "Gobe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343572901,
-    "wof:lastmodified":1537078349,
+    "wof:lastmodified":1564123455,
     "wof:name":"Gobe",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

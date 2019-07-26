@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cherif"
+    ],
+    "name:fra_x_preferred":[
+        "Cherif"
+    ],
     "name:und_x_variant":[
         "Serif",
         "Ch\u00e9rif"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327106003,
-    "wof:lastmodified":1537701142,
+    "wof:lastmodified":1564123334,
     "wof:name":"Cherif",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

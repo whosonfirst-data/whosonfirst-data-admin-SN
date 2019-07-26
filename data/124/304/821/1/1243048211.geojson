@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Samatit"
+    ],
+    "name:fra_x_preferred":[
+        "Samatite"
+    ],
     "name:und_x_variant":[
         "Samatite",
         "Samatit"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243048211,
-    "wof:lastmodified":1537700999,
+    "wof:lastmodified":1564124469,
     "wof:name":"Samatit",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

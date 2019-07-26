@@ -13,6 +13,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Marsassoum"
+    ],
+    "name:deu_x_preferred":[
+        "Marsassoum"
+    ],
+    "name:fra_x_preferred":[
+        "Marsassoum"
+    ],
+    "name:pol_x_preferred":[
+        "Marsassoum"
+    ],
+    "name:swe_x_preferred":[
+        "Marsassoum"
+    ],
     "name:unk_x_variant":[
         "Marssassoum"
     ],
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":421197457,
-    "wof:lastmodified":1505340751,
+    "wof:lastmodified":1564124369,
     "wof:name":"Marsassoum",
     "wof:parent_id":1108691459,
     "wof:placetype":"locality",

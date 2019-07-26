@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ido_x_preferred":[
+        "Kastono"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30bc\u30eb"
+    ],
     "name:und_x_variant":[
         "Ka\u00ebl B\u00e9zel",
         "B\u00e9zel"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326818353,
-    "wof:lastmodified":1537701149,
+    "wof:lastmodified":1564123207,
     "wof:name":"Bezel",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

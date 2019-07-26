@@ -25,6 +25,21 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u062d\u0644"
+    ],
+    "name:ces_x_preferred":[
+        "Kachal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05d7\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Kahal"
+    ],
+    "name:pol_x_preferred":[
+        "Kachal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1327008165,
-    "wof:lastmodified":1536795750,
+    "wof:lastmodified":1564123200,
     "wof:name":"Kahal",
     "wof:parent_id":1108758243,
     "wof:placetype":"locality",

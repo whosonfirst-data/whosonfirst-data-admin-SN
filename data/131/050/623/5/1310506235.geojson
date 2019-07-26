@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bele"
+    ],
+    "name:swe_x_preferred":[
+        "Bele"
+    ],
     "name:und_x_variant":[
         "B\u00e9l\u00e9 II",
         "B\u00e9l\u00e9"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310506235,
-    "wof:lastmodified":1537701152,
+    "wof:lastmodified":1564124230,
     "wof:name":"Bele",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

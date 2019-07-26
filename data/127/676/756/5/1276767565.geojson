@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u0639\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0646\u0639\u0644"
+    ],
+    "name:msa_x_preferred":[
+        "Panal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276767565,
-    "wof:lastmodified":1536694185,
+    "wof:lastmodified":1564123789,
     "wof:name":"Panal",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

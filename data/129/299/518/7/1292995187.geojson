@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Djilas"
+    ],
+    "name:fra_x_preferred":[
+        "Djilasse"
+    ],
     "name:und_x_variant":[
         "Guilas",
         "Djilas"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1292995187,
-    "wof:lastmodified":1537701117,
+    "wof:lastmodified":1564123657,
     "wof:name":"Djilas",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

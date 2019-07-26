@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Malem Niani"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0435\u043c-\u041d\u0438\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Mal\u00e8me Nyani",
         "Mal\u00e9me-Niani",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259482263,
-    "wof:lastmodified":1537701055,
+    "wof:lastmodified":1564124575,
     "wof:name":"Malem Niani",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

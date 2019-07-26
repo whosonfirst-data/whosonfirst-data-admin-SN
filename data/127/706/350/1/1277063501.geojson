@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lati"
+    ],
+    "name:sco_x_preferred":[
+        "Lati"
+    ],
+    "name:swe_x_preferred":[
+        "Lati"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1277063501,
-    "wof:lastmodified":1536795111,
+    "wof:lastmodified":1564123712,
     "wof:name":"Lati",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

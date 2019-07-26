@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kande"
+    ],
+    "name:swe_x_preferred":[
+        "Kande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1292977995,
-    "wof:lastmodified":1537023517,
+    "wof:lastmodified":1564123653,
     "wof:name":"Kande",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

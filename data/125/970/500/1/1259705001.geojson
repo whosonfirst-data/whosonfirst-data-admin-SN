@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Ai"
+    ],
+    "name:eus_x_preferred":[
+        "Ai"
+    ],
+    "name:swe_x_preferred":[
+        "Ai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259705001,
-    "wof:lastmodified":1537034628,
+    "wof:lastmodified":1564124583,
     "wof:name":"Ai",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

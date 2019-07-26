@@ -25,6 +25,45 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0633 \u0627\u0644\u0623\u0642\u0635\u0649"
+    ],
+    "name:cat_x_preferred":[
+        "Sus al-Aksa"
+    ],
+    "name:deu_x_preferred":[
+        "Souss-Ebene"
+    ],
+    "name:fra_x_preferred":[
+        "Souss"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Sous"
+    ],
+    "name:kab_x_preferred":[
+        "Sus"
+    ],
+    "name:nor_x_preferred":[
+        "Sous"
+    ],
+    "name:pol_x_preferred":[
+        "Sus"
+    ],
+    "name:por_x_preferred":[
+        "Suz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Sous"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +73,7 @@
         "gn:id":2245125
     },
     "wof:country":"SN",
-    "wof:geomhash":"ba1e8eedbd392c8e2165feab3855a1ee",
+    "wof:geomhash":"95d1b517fc51ed4226cce6d7e6bc28e4",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +81,7 @@
         }
     ],
     "wof:id":1209517085,
-    "wof:lastmodified":1536284698,
+    "wof:lastmodified":1564123967,
     "wof:name":"Sous",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -53,9 +92,9 @@
 },
   "bbox": [
     -16.26667,
-    14.683329999999998,
+    14.68333,
     -16.26667,
-    14.683329999999998
+    14.68333
 ],
   "geometry": {"coordinates":[-16.26667,14.68333],"type":"Point"}
 }

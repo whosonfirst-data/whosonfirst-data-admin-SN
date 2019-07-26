@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ndam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276220811,
-    "wof:lastmodified":1536930446,
+    "wof:lastmodified":1564123787,
     "wof:name":"Ndam",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

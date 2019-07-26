@@ -25,6 +25,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaleo"
+    ],
+    "name:epo_x_preferred":[
+        "Kaleo"
+    ],
+    "name:nld_x_preferred":[
+        "Kaleo"
+    ],
+    "name:swe_x_preferred":[
+        "Kaleo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226429555,
-    "wof:lastmodified":1536668831,
+    "wof:lastmodified":1564124690,
     "wof:name":"Kaleo",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

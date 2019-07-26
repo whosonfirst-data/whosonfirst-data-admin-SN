@@ -25,6 +25,33 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Figo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u06af\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Figo"
+    ],
+    "name:glg_x_preferred":[
+        "Figo"
+    ],
+    "name:ita_x_preferred":[
+        "Figo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30fc\u30b4"
+    ],
+    "name:kor_x_preferred":[
+        "\ud53c\uad6c"
+    ],
+    "name:nld_x_preferred":[
+        "Figo"
+    ],
+    "name:pol_x_preferred":[
+        "Figo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1309784783,
-    "wof:lastmodified":1536961314,
+    "wof:lastmodified":1564124328,
     "wof:name":"Figo",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boulandor"
+    ],
+    "name:fra_x_preferred":[
+        "Boulandor"
+    ],
     "name:und_x_variant":[
         "Balandor",
         "Boulandor"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343541517,
-    "wof:lastmodified":1537701145,
+    "wof:lastmodified":1564123354,
     "wof:name":"Boulandor",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",
