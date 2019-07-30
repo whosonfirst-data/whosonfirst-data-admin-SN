@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kenia"
+    ],
+    "name:pol_x_preferred":[
+        "Kenia"
+    ],
+    "name:swe_x_preferred":[
+        "Kenia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209696073,
-    "wof:lastmodified":1536279070,
+    "wof:lastmodified":1564123965,
     "wof:name":"Kenia",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

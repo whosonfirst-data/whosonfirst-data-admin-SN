@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gambissara"
+    ],
+    "name:tur_x_preferred":[
+        "Gambissara"
+    ],
     "name:und_x_variant":[
         "Cambissar",
         "Gambissar I",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243244649,
-    "wof:lastmodified":1537701108,
+    "wof:lastmodified":1564124449,
     "wof:name":"Gambissara",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

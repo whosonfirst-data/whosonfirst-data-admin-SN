@@ -25,6 +25,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0999\u09cd\u0997\u09cb\u09b0-\u098f-\u09ac\u09be\u09ae-\u099b\u09cb\u09b8-\u09b2\u09cd\u09a6\u09be\u09a8 \u09ac\u09cc\u09a6\u09cd\u09a7\u09ac\u09bf\u09b9\u09be\u09b0"
+    ],
+    "name:hun_x_preferred":[
+        "Ngor kolostor"
+    ],
+    "name:nld_x_preferred":[
+        "Ngor"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fc4\u5c14\u5bfa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276895469,
-    "wof:lastmodified":1537019476,
+    "wof:lastmodified":1564123740,
     "wof:name":"Ngor",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

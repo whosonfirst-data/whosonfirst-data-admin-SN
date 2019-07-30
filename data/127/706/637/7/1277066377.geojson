@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gaina"
+    ],
+    "name:swe_x_preferred":[
+        "Gaina"
+    ],
     "name:und_x_variant":[
         "Gua\u00efna",
         "Ga\u00efna"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1277066377,
-    "wof:lastmodified":1537701109,
+    "wof:lastmodified":1564123713,
     "wof:name":"Gaina",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

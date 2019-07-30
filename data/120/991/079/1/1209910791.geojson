@@ -25,6 +25,21 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koki"
+    ],
+    "name:deu_x_preferred":[
+        "Koki"
+    ],
+    "name:ita_x_preferred":[
+        "Koki"
+    ],
+    "name:jpn_x_preferred":[
+        "Koki"
+    ],
+    "name:swe_x_preferred":[
+        "Koki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209910791,
-    "wof:lastmodified":1536379012,
+    "wof:lastmodified":1564123876,
     "wof:name":"Koki",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

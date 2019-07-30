@@ -26,9 +26,102 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0644\u0627\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u043b\u0430\u043d\u044b"
+    ],
+    "name:cat_x_preferred":[
+        "Sil\u00e0"
+    ],
+    "name:ces_x_preferred":[
+        "Silan"
+    ],
+    "name:dan_x_preferred":[
+        "Silan"
+    ],
+    "name:deu_x_preferred":[
+        "Monosilan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bb\u03ac\u03bd\u03b9\u03bf"
+    ],
+    "name:eus_x_preferred":[
+        "Silano"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0644\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Silaani"
+    ],
+    "name:fra_x_preferred":[
+        "Silane"
+    ],
+    "name:glg_x_preferred":[
+        "Silano"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05dc\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Szil\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Silano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e9\u30f3"
+    ],
+    "name:lav_x_preferred":[
+        "Sil\u0101ni"
+    ],
+    "name:nds_x_preferred":[
+        "Monosilan"
+    ],
+    "name:nld_x_preferred":[
+        "Silaan"
+    ],
+    "name:nor_x_preferred":[
+        "Silan"
+    ],
+    "name:pol_x_preferred":[
+        "Krzemowodory"
+    ],
+    "name:por_x_preferred":[
+        "Silano"
+    ],
+    "name:ron_x_preferred":[
+        "Silan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u043e\u0441\u0438\u043b\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Silano"
+    ],
+    "name:srp_x_preferred":[
+        "Silan"
+    ],
+    "name:swe_x_preferred":[
+        "Silan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u043e\u0441\u0438\u043b\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Silam",
         "Silane"
+    ],
+    "name:vie_x_preferred":[
+        "Silane"
+    ],
+    "name:zho_x_preferred":[
+        "\u7532\u7845\u70f7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +146,7 @@
         }
     ],
     "wof:id":1343269535,
-    "wof:lastmodified":1537700991,
+    "wof:lastmodified":1564123514,
     "wof:name":"Silane",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

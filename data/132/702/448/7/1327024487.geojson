@@ -26,6 +26,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bae"
+    ],
+    "name:swe_x_preferred":[
+        "Bae"
+    ],
+    "name:tur_x_preferred":[
+        "BAE"
+    ],
     "name:und_x_variant":[
         "Bay\u00e9",
         "Bae"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327024487,
-    "wof:lastmodified":1537701162,
+    "wof:lastmodified":1564123271,
     "wof:name":"Bae",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

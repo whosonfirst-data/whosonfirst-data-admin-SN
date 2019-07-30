@@ -25,10 +25,88 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Brikama"
+    ],
+    "name:ceb_x_preferred":[
+        "Brikama"
+    ],
+    "name:dan_x_preferred":[
+        "Brikama"
+    ],
+    "name:deu_x_preferred":[
+        "Brikama"
+    ],
+    "name:epo_x_preferred":[
+        "Brikama"
+    ],
+    "name:est_x_preferred":[
+        "Brikama"
+    ],
+    "name:fra_x_preferred":[
+        "Brikama"
+    ],
+    "name:glg_x_preferred":[
+        "Brikama"
+    ],
+    "name:hun_x_preferred":[
+        "Brikama"
+    ],
+    "name:ita_x_preferred":[
+        "Brikama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30ab\u30de"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10d9\u10d0\u10db\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub9ac\uce74\ub9c8"
+    ],
+    "name:lit_x_preferred":[
+        "Brikama"
+    ],
+    "name:nld_x_preferred":[
+        "Brikama"
+    ],
+    "name:nor_x_preferred":[
+        "Brikama"
+    ],
+    "name:pol_x_preferred":[
+        "Brikama"
+    ],
+    "name:por_x_preferred":[
+        "Brikama"
+    ],
+    "name:ron_x_preferred":[
+        "Brikama"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0438\u043a\u0430\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Brikama"
+    ],
+    "name:swe_x_preferred":[
+        "Brikama"
+    ],
+    "name:tur_x_preferred":[
+        "Brikama"
+    ],
     "name:und_x_variant":[
         "Birkama",
         "Birkama Bram",
         "Brikama"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u06cc\u06a9\u0627\u0645\u0627"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10d9\u10d0\u10db\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u91cc\u5361\u99ac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +131,7 @@
         }
     ],
     "wof:id":1343921249,
-    "wof:lastmodified":1537701142,
+    "wof:lastmodified":1564123451,
     "wof:name":"Brikama",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

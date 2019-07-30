@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koudi"
+    ],
+    "name:slk_x_preferred":[
+        "Koudi"
+    ],
     "name:und_x_variant":[
         "Koudy",
         "Kondy",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226142093,
-    "wof:lastmodified":1537701067,
+    "wof:lastmodified":1564124750,
     "wof:name":"Koudi",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

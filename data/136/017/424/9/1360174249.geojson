@@ -26,10 +26,28 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Diago"
+    ],
+    "name:fra_x_preferred":[
+        "Diago"
+    ],
+    "name:ita_x_preferred":[
+        "Diago"
+    ],
+    "name:nld_x_preferred":[
+        "Diago"
+    ],
+    "name:spa_x_preferred":[
+        "Diago"
+    ],
     "name:und_x_variant":[
         "Ndiago",
         "Diag\u00e9",
         "Diago"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u4e9e\u6208"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1360174249,
-    "wof:lastmodified":1537701133,
+    "wof:lastmodified":1564124290,
     "wof:name":"Diago",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

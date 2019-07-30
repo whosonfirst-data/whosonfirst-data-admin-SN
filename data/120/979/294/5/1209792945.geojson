@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bissine"
+    ],
+    "name:fra_x_preferred":[
+        "Bissine"
+    ],
     "name:und_x_variant":[
         "Bissine\u00ef",
         "Bissine"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209792945,
-    "wof:lastmodified":1537701148,
+    "wof:lastmodified":1564123912,
     "wof:name":"Bissine",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

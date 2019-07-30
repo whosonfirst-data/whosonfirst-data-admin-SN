@@ -25,6 +25,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Paipais"
+    ],
+    "name:hrv_x_preferred":[
+        "Akwa\u2019ala Indijanci"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0439\u043f\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Paipai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243465901,
-    "wof:lastmodified":1536777968,
+    "wof:lastmodified":1564124444,
     "wof:name":"Paipai",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

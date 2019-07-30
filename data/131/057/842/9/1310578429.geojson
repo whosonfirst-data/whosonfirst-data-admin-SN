@@ -26,6 +26,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mlomp"
+    ],
     "name:und_x_variant":[
         "Mlonp",
         "Mlomp"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310578429,
-    "wof:lastmodified":1537701041,
+    "wof:lastmodified":1564124232,
     "wof:name":"Mlomp",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

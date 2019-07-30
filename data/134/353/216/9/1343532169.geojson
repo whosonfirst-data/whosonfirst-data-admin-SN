@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Doun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343532169,
-    "wof:lastmodified":1536642041,
+    "wof:lastmodified":1564123359,
     "wof:name":"Doun",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koli"
+    ],
+    "name:deu_x_preferred":[
+        "Koli"
+    ],
+    "name:fin_x_preferred":[
+        "Koli"
+    ],
+    "name:isl_x_preferred":[
+        "Koli"
+    ],
+    "name:swe_x_preferred":[
+        "Koli"
+    ],
+    "name:tgl_x_preferred":[
+        "Koli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343232355,
-    "wof:lastmodified":1537072556,
+    "wof:lastmodified":1564123429,
     "wof:name":"Koli",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

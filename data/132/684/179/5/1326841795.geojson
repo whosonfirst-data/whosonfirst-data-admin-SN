@@ -25,6 +25,30 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Met"
+    ],
+    "name:ceb_x_preferred":[
+        "Met"
+    ],
+    "name:dan_x_preferred":[
+        "Met"
+    ],
+    "name:deu_x_preferred":[
+        "Met"
+    ],
+    "name:hun_x_preferred":[
+        "MET"
+    ],
+    "name:nld_x_preferred":[
+        "Met"
+    ],
+    "name:spa_x_preferred":[
+        "Met"
+    ],
+    "name:swe_x_preferred":[
+        "The Met"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1326841795,
-    "wof:lastmodified":1537033496,
+    "wof:lastmodified":1564123299,
     "wof:name":"Met",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

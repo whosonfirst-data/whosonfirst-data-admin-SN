@@ -26,6 +26,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Balian"
+    ],
     "name:und_x_variant":[
         "Baliar",
         "Balian"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1309885951,
-    "wof:lastmodified":1537701158,
+    "wof:lastmodified":1564124358,
     "wof:name":"Balian",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

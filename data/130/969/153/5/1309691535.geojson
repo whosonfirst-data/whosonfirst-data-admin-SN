@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gam"
+    ],
+    "name:spa_x_preferred":[
+        "Gam"
+    ],
     "name:und_x_variant":[
         "Gang",
         "Game",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1309691535,
-    "wof:lastmodified":1537701108,
+    "wof:lastmodified":1564124347,
     "wof:name":"Gam",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

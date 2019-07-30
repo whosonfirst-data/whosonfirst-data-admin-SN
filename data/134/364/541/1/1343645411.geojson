@@ -25,6 +25,21 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pakha"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u093e\u0916\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Pakha"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u093e\u0916\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Pakhu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343645411,
-    "wof:lastmodified":1536976243,
+    "wof:lastmodified":1564123377,
     "wof:name":"Pakha",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

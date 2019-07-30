@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb5\u0bbe\u0bb2\u0bcd \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bae\u0bcd"
+    ],
     "name:und_x_variant":[
         "Kaoual",
         "Kawal"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1277160115,
-    "wof:lastmodified":1537701086,
+    "wof:lastmodified":1564123863,
     "wof:name":"Kawal",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

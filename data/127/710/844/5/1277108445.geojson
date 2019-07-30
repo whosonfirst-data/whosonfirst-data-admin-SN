@@ -25,6 +25,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Silame"
+    ],
+    "name:hau_x_preferred":[
+        "Silame"
+    ],
+    "name:ita_x_preferred":[
+        "Silame"
+    ],
+    "name:spa_x_preferred":[
+        "Silame"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1277108445,
-    "wof:lastmodified":1536730968,
+    "wof:lastmodified":1564123861,
     "wof:name":"Silame",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

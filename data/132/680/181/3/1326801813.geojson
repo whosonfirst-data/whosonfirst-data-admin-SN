@@ -25,10 +25,40 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Lingu\u00e8re"
+    ],
+    "name:deu_x_preferred":[
+        "Lingu\u00e8re"
+    ],
+    "name:fra_x_preferred":[
+        "Lingu\u00e8re"
+    ],
+    "name:ita_x_preferred":[
+        "Lingu\u00e8re"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30b2\u30fc\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Lingu\u00e8re"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u0433\u0435\u0440\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Lingu\u00e8re"
+    ],
+    "name:swe_x_preferred":[
+        "Lingu\u00e8re"
+    ],
     "name:und_x_variant":[
         "Lyngu\u00e8re",
         "Lingn\u00e9r\u00e9",
         "Lingu\u00e8re"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u84cb\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1326801813,
-    "wof:lastmodified":1537701061,
+    "wof:lastmodified":1564123216,
     "wof:name":"Linguere",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

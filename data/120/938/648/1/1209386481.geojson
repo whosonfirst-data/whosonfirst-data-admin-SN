@@ -25,6 +25,81 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Matour"
+    ],
+    "name:ceb_x_preferred":[
+        "Matour"
+    ],
+    "name:deu_x_preferred":[
+        "Matour"
+    ],
+    "name:eus_x_preferred":[
+        "Matour"
+    ],
+    "name:fra_x_preferred":[
+        "Matour"
+    ],
+    "name:hun_x_preferred":[
+        "Matour"
+    ],
+    "name:ita_x_preferred":[
+        "Matour"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0442\u0443\u0440"
+    ],
+    "name:lat_x_preferred":[
+        "Matour"
+    ],
+    "name:mlg_x_preferred":[
+        "Matour"
+    ],
+    "name:msa_x_preferred":[
+        "Matour"
+    ],
+    "name:nld_x_preferred":[
+        "Matour"
+    ],
+    "name:oci_x_preferred":[
+        "Matour"
+    ],
+    "name:pms_x_preferred":[
+        "Matour"
+    ],
+    "name:pol_x_preferred":[
+        "Matour"
+    ],
+    "name:por_x_preferred":[
+        "Matour"
+    ],
+    "name:ron_x_preferred":[
+        "Matour"
+    ],
+    "name:slk_x_preferred":[
+        "Matour"
+    ],
+    "name:spa_x_preferred":[
+        "Matour"
+    ],
+    "name:swe_x_preferred":[
+        "Matour"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u0443\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Matour"
+    ],
+    "name:vie_x_preferred":[
+        "Matour"
+    ],
+    "name:vol_x_preferred":[
+        "Matour"
+    ],
+    "name:war_x_preferred":[
+        "Matour"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +109,7 @@
         "gn:id":2248749
     },
     "wof:country":"SN",
-    "wof:geomhash":"7aa47ab8245eba86b5721a0e1870b3c2",
+    "wof:geomhash":"14faef22be563f4e00264f7d89fef557",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +117,7 @@
         }
     ],
     "wof:id":1209386481,
-    "wof:lastmodified":1536288607,
+    "wof:lastmodified":1564123870,
     "wof:name":"Matour",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -52,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.566670000000002,
-    14.833329999999998,
-    -15.566670000000002,
-    14.833329999999998
+    -15.56667,
+    14.83333,
+    -15.56667,
+    14.83333
 ],
   "geometry": {"coordinates":[-15.56667,14.83333],"type":"Point"}
 }

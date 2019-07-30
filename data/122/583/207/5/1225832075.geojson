@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baraka Bounao"
+    ],
+    "name:fra_x_preferred":[
+        "Baraka Bounao"
+    ],
     "name:und_x_variant":[
         "Bounao",
         "Baraka Bounao"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1225832075,
-    "wof:lastmodified":1537701154,
+    "wof:lastmodified":1564124838,
     "wof:name":"Baraka Bounao",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "A\u00efnoumal"
+    ],
     "name:und_x_variant":[
         "A\u00efnoumal"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293073507,
-    "wof:lastmodified":1537701165,
+    "wof:lastmodified":1564123537,
     "wof:name":"Ainoumal",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

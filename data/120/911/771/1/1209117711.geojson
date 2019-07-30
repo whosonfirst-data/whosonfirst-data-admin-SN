@@ -26,6 +26,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ndindi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0434\u0438\u043d\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Ndindi"
+    ],
     "name:und_x_variant":[
         "Ndinedi",
         "N\u2019Dindy",
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209117711,
-    "wof:lastmodified":1537701028,
+    "wof:lastmodified":1564123970,
     "wof:name":"Ndindi",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

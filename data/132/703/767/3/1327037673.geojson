@@ -26,6 +26,27 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bambey"
+    ],
+    "name:deu_x_preferred":[
+        "Bambey"
+    ],
+    "name:fra_x_preferred":[
+        "Bambey"
+    ],
+    "name:ita_x_preferred":[
+        "Bambey"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30d9\u30a4"
+    ],
+    "name:pol_x_preferred":[
+        "Bambey"
+    ],
+    "name:swe_x_preferred":[
+        "Bambey"
+    ],
     "name:und_x_variant":[
         "Mbambey",
         "Bambey"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1327037673,
-    "wof:lastmodified":1537701157,
+    "wof:lastmodified":1564123282,
     "wof:name":"Bambey",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kanka"
+    ],
+    "name:ces_x_preferred":[
+        "Ka\u0148ka"
+    ],
+    "name:deu_x_preferred":[
+        "Kanka"
+    ],
+    "name:fra_x_preferred":[
+        "Kanka"
+    ],
+    "name:swe_x_preferred":[
+        "Kanka"
+    ],
     "name:und_x_variant":[
         "Kankan",
         "Kanka"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326641755,
-    "wof:lastmodified":1537701088,
+    "wof:lastmodified":1564123305,
     "wof:name":"Kanka",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

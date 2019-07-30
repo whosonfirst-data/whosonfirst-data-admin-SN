@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kagnout"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293760795,
-    "wof:lastmodified":1537573717,
+    "wof:lastmodified":1564123592,
     "wof:name":"Kagnout",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

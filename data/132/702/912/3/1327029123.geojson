@@ -26,6 +26,27 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092a\u0915\u0932\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Pakali"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u0915\u0932\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Pakali"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0915\u0932\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u0915\u0932\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Pakali"
+    ],
     "name:und_x_variant":[
         "Pakabi",
         "Pahabi",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1327029123,
-    "wof:lastmodified":1537701008,
+    "wof:lastmodified":1564123271,
     "wof:name":"Pakali",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

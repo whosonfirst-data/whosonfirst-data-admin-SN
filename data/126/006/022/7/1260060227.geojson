@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bass\u00e8r\u00e9"
+    ],
     "name:und_x_variant":[
         "Bass\u00e9r\u00e9"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260060227,
-    "wof:lastmodified":1537701153,
+    "wof:lastmodified":1564124093,
     "wof:name":"Bassere",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

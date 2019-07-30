@@ -25,6 +25,24 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nioro"
+    ],
+    "name:deu_x_preferred":[
+        "Nioro"
+    ],
+    "name:fra_x_preferred":[
+        "Nioro"
+    ],
+    "name:ita_x_preferred":[
+        "Nioro"
+    ],
+    "name:pol_x_preferred":[
+        "Nioro"
+    ],
+    "name:swe_x_preferred":[
+        "Nioro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243344611,
-    "wof:lastmodified":1536952562,
+    "wof:lastmodified":1564124484,
     "wof:name":"Nioro",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

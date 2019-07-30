@@ -26,6 +26,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dalar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u056c\u0561\u0580"
+    ],
+    "name:swe_x_preferred":[
+        "Dalar"
+    ],
     "name:und_x_variant":[
         "Dalakh",
         "Dalar"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276634777,
-    "wof:lastmodified":1537701139,
+    "wof:lastmodified":1564123829,
     "wof:name":"Dalar",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

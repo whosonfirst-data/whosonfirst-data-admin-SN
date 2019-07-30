@@ -25,6 +25,78 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u0987\u09ad"
+    ],
+    "name:cat_x_preferred":[
+        "Live"
+    ],
+    "name:ces_x_preferred":[
+        "Live"
+    ],
+    "name:dan_x_preferred":[
+        "Live"
+    ],
+    "name:deu_x_preferred":[
+        "Live"
+    ],
+    "name:fin_x_preferred":[
+        "Live"
+    ],
+    "name:fra_x_preferred":[
+        "Live"
+    ],
+    "name:heb_x_preferred":[
+        "Live"
+    ],
+    "name:hun_x_preferred":[
+        "Live"
+    ],
+    "name:ita_x_preferred":[
+        "Live"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a4\u30d6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc774\ube0c"
+    ],
+    "name:nld_x_preferred":[
+        "Live"
+    ],
+    "name:nor_x_preferred":[
+        "Live"
+    ],
+    "name:pol_x_preferred":[
+        "Live"
+    ],
+    "name:por_x_preferred":[
+        "Live"
+    ],
+    "name:ron_x_preferred":[
+        "Live"
+    ],
+    "name:rus_x_preferred":[
+        "Live"
+    ],
+    "name:slk_x_preferred":[
+        "Live"
+    ],
+    "name:spa_x_preferred":[
+        "Live"
+    ],
+    "name:swe_x_preferred":[
+        "Live"
+    ],
+    "name:ukr_x_preferred":[
+        "Live"
+    ],
+    "name:wln_x_preferred":[
+        "Live"
+    ],
+    "name:zho_x_preferred":[
+        "Live"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +106,7 @@
         "gn:id":2249260
     },
     "wof:country":"SN",
-    "wof:geomhash":"74da2dd161ffa7a09fa88318fc8d030b",
+    "wof:geomhash":"9be71cc3de4429105d0e2c57e12f5f56",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +114,7 @@
         }
     ],
     "wof:id":1209088577,
-    "wof:lastmodified":1536298107,
+    "wof:lastmodified":1564123891,
     "wof:name":"Live",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -52,9 +124,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.683329999999998,
+    -15.68333,
     14.2,
-    -15.683329999999998,
+    -15.68333,
     14.2
 ],
   "geometry": {"coordinates":[-15.68333,14.2],"type":"Point"}

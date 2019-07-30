@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bembou"
+    ],
     "name:und_x_variant":[
         "Binbou",
         "Bembo",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310368991,
-    "wof:lastmodified":1537701151,
+    "wof:lastmodified":1564124170,
     "wof:name":"Bembou",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

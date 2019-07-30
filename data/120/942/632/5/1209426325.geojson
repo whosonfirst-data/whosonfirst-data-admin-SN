@@ -26,6 +26,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngoko"
+    ],
+    "name:jav_x_preferred":[
+        "Ngoko"
+    ],
+    "name:swe_x_preferred":[
+        "Ngoko"
+    ],
     "name:und_x_variant":[
         "Ngokol",
         "Ngoko"
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1209426325,
-    "wof:lastmodified":1537701020,
+    "wof:lastmodified":1564123996,
     "wof:name":"Ngoko",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

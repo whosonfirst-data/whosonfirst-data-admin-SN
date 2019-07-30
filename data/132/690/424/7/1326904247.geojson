@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mpal"
+    ],
+    "name:fra_x_preferred":[
+        "Mpal"
+    ],
     "name:und_x_variant":[
         "Mpal",
         "Pal"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326904247,
-    "wof:lastmodified":1537701007,
+    "wof:lastmodified":1564123306,
     "wof:name":"Pal",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

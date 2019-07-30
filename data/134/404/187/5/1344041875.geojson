@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mbissel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1344041875,
-    "wof:lastmodified":1537573712,
+    "wof:lastmodified":1564123496,
     "wof:name":"Mbissel",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

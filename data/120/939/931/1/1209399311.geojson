@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kayane"
+    ],
+    "name:ind_x_preferred":[
+        "Kayane"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +40,7 @@
         "gn:id":2250680
     },
     "wof:country":"SN",
-    "wof:geomhash":"2d1bdc86bb4314444bae1b3e2f748653",
+    "wof:geomhash":"3e05091b59791e5a3d63bd4ed7a0addf",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209399311,
-    "wof:lastmodified":1536288198,
+    "wof:lastmodified":1564123881,
     "wof:name":"Kayane",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -53,9 +59,9 @@
 },
   "bbox": [
     -15.78333,
-    14.666670000000002,
+    14.66667,
     -15.78333,
-    14.666670000000002
+    14.66667
 ],
   "geometry": {"coordinates":[-15.78333,14.66667],"type":"Point"}
 }

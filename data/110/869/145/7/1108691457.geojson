@@ -30,11 +30,29 @@
     "mps:longitude":-15.413098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Goudomp"
+    ],
     "name:eng_x_preferred":[
         "Goudomp"
     ],
     "name:eng_x_variant":[
         "Goudomp"
+    ],
+    "name:fra_x_preferred":[
+        "Goudomp"
+    ],
+    "name:ita_x_preferred":[
+        "Goudomp"
+    ],
+    "name:pol_x_preferred":[
+        "Goudomp"
+    ],
+    "name:swe_x_preferred":[
+        "Goudomp"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u6771\u666e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":1108691457,
-    "wof:lastmodified":1553718183,
+    "wof:lastmodified":1564124126,
     "wof:name":"Goudomp",
     "wof:parent_id":85676979,
     "wof:placetype":"county",

@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Malem Hodar"
+    ],
+    "name:fra_x_preferred":[
+        "Malem-Hodar"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u840a\u59c6\u5967\u9054\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1226231239,
-    "wof:lastmodified":1537573726,
+    "wof:lastmodified":1564124773,
     "wof:name":"Malem Hodar",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

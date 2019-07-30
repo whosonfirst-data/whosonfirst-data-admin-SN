@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Merinaghen"
+    ],
     "name:und_x_variant":[
         "M\u00e9rinaghen",
         "M\u00e9rinaghem",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226221755,
-    "wof:lastmodified":1537701042,
+    "wof:lastmodified":1564124761,
     "wof:name":"Merinaguene",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

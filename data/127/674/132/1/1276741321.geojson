@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hin_x_preferred":[
+        "\u0905\u0915\u093e\u0932\u0940"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0915\u093e\u0932\u0940"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a15\u0a3e\u0a32\u0a40"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276741321,
-    "wof:lastmodified":1536729618,
+    "wof:lastmodified":1564123740,
     "wof:name":"Akal",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

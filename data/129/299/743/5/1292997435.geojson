@@ -25,6 +25,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sere"
+    ],
+    "name:spa_x_preferred":[
+        "Sere"
+    ],
+    "name:swe_x_preferred":[
+        "Sere"
+    ],
+    "name:wln_x_preferred":[
+        "Sere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1292997435,
-    "wof:lastmodified":1536995767,
+    "wof:lastmodified":1564123658,
     "wof:name":"Sere",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

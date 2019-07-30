@@ -26,6 +26,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lamane"
+    ],
     "name:und_x_variant":[
         "Ndisem Lamane",
         "Lamane"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209404469,
-    "wof:lastmodified":1537701063,
+    "wof:lastmodified":1564123919,
     "wof:name":"Lamane",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

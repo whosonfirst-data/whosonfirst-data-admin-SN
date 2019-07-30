@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0641\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0641\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Dafar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1225834025,
-    "wof:lastmodified":1537029311,
+    "wof:lastmodified":1564124838,
     "wof:name":"Dafar",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

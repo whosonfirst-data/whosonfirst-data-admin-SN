@@ -25,6 +25,24 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rao"
+    ],
+    "name:deu_x_preferred":[
+        "Rao"
+    ],
+    "name:fra_x_preferred":[
+        "Rao"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Rao"
+    ],
+    "name:swe_x_preferred":[
+        "Rao"
+    ],
     "name:und_x_variant":[
         "Rao Pundium",
         "Rao-Poundioun",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1309683253,
-    "wof:lastmodified":1537701003,
+    "wof:lastmodified":1564124339,
     "wof:name":"Rao",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

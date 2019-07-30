@@ -25,6 +25,21 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Missira"
+    ],
+    "name:deu_x_preferred":[
+        "Missira"
+    ],
+    "name:ita_x_preferred":[
+        "Missira"
+    ],
+    "name:spa_x_preferred":[
+        "Missira"
+    ],
+    "name:swe_x_preferred":[
+        "Missira"
+    ],
     "name:und_x_variant":[
         "Messira",
         "Missira"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1344024247,
-    "wof:lastmodified":1537701041,
+    "wof:lastmodified":1564123489,
     "wof:name":"Missira",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

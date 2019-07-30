@@ -25,6 +25,27 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043b\u0438\u0443"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b7\u03bb\u03b9\u03bf\u03cd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0644\u06cc\u0648"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u056c\u056b\u0578\u0582"
+    ],
+    "name:pol_x_preferred":[
+        "Miliu"
+    ],
+    "name:spa_x_preferred":[
+        "Mili\u00fa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0644\u06cc\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1344033921,
-    "wof:lastmodified":1536914458,
+    "wof:lastmodified":1564123493,
     "wof:name":"Miliou",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

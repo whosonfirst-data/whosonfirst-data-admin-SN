@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Garas"
+    ],
     "name:und_x_variant":[
         "Garas Daligu\u00e9"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327254931,
-    "wof:lastmodified":1537701168,
+    "wof:lastmodified":1564123247,
     "wof:name":"Garas",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

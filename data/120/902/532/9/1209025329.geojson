@@ -25,6 +25,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Datel"
+    ],
+    "name:fin_x_preferred":[
+        "Datel"
+    ],
+    "name:fra_x_preferred":[
+        "Datel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a4\u30c6\u30eb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +46,7 @@
         "gn:id":2253092
     },
     "wof:country":"SN",
-    "wof:geomhash":"b55e9fa308cb3758ca7df01d90e20103",
+    "wof:geomhash":"5abaa02343e420c3906bebe13beec4c1",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209025329,
-    "wof:lastmodified":1536300017,
+    "wof:lastmodified":1564123968,
     "wof:name":"Datel",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -53,9 +65,9 @@
 },
   "bbox": [
     -16.46667,
-    14.583329999999998,
+    14.58333,
     -16.46667,
-    14.583329999999998
+    14.58333
 ],
   "geometry": {"coordinates":[-16.46667,14.58333],"type":"Point"}
 }

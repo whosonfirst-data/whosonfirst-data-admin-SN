@@ -25,6 +25,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a40\u0a32\u0a3e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326813115,
-    "wof:lastmodified":1537073269,
+    "wof:lastmodified":1564123210,
     "wof:name":"Beela",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

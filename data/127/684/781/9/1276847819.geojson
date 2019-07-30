@@ -26,6 +26,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Diemb\u00e9ring"
+    ],
+    "name:spa_x_preferred":[
+        "Diemb\u00e9ring"
+    ],
     "name:und_x_variant":[
         "Guimbering",
         "Djiwat",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1276847819,
-    "wof:lastmodified":1537701125,
+    "wof:lastmodified":1564123810,
     "wof:name":"Diembereng",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

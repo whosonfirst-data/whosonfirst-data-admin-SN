@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "D'ias"
+    ],
+    "name:fra_x_preferred":[
+        "Diass"
+    ],
     "name:und_x_variant":[
         "Ndiass",
         "Diass",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1309900403,
-    "wof:lastmodified":1537701127,
+    "wof:lastmodified":1564124313,
     "wof:name":"D'ias",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

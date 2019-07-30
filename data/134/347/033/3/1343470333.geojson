@@ -25,6 +25,18 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Amama"
+    ],
+    "name:deu_x_preferred":[
+        "Amama"
+    ],
+    "name:eus_x_preferred":[
+        "Amama"
+    ],
+    "name:swe_x_preferred":[
+        "Amama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343470333,
-    "wof:lastmodified":1536732084,
+    "wof:lastmodified":1564123439,
     "wof:name":"Amama",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

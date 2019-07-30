@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ouakam"
+    ],
+    "name:deu_x_preferred":[
+        "Ouakam"
+    ],
+    "name:fra_x_preferred":[
+        "Ouakam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276882879,
-    "wof:lastmodified":1537573726,
+    "wof:lastmodified":1564123728,
     "wof:name":"Ouakam",
     "wof:parent_id":421187965,
     "wof:placetype":"locality",

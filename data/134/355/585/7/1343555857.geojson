@@ -25,6 +25,12 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:glg_x_preferred":[
+        "Niet"
+    ],
+    "name:slv_x_preferred":[
+        "Niet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343555857,
-    "wof:lastmodified":1536605624,
+    "wof:lastmodified":1564123367,
     "wof:name":"Niet",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

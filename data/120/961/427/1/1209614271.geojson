@@ -25,6 +25,126 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u0628\u0627 \u0628\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0645\u0628\u0627 \u0628\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043c\u0431\u0430 \u0411\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:ces_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:dan_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:deu_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:est_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0645\u0628\u0627 \u0628\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:fra_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05de\u05d1\u05d4 \u05d1\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:hun_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0574\u0562\u0561 \u0532\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:ita_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30f3\u30d0\u30fb\u30d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u043c\u0431\u0430 \u0411\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ub380\ubc14 \ubc14"
+    ],
+    "name:lit_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0435\u043c\u0431\u0430 \u0411\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:mon_x_preferred":[
+        "\u0414\u0435\u043c\u0431\u0430 \u0411\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:nld_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:nor_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:pol_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:por_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:ron_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430"
+    ],
+    "name:som_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:spa_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u043c\u0431\u0430 \u0411\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e14\u0e21\u0e1a\u0e32 \u0e1a\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043c\u0431\u0430 \u0411\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Demba Ba"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u5df4\u00b7\u5df4\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +154,7 @@
         "gn:id":2253046
     },
     "wof:country":"SN",
-    "wof:geomhash":"6c6948e9318af2f3ff46f75afef8273b",
+    "wof:geomhash":"a86c7aa399155d50735fc99e6371d866",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +162,7 @@
         }
     ],
     "wof:id":1209614271,
-    "wof:lastmodified":1536281743,
+    "wof:lastmodified":1564123944,
     "wof:name":"Demba Ba",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -53,9 +173,9 @@
 },
   "bbox": [
     -13.53333,
-    14.083329999999998,
+    14.08333,
     -13.53333,
-    14.083329999999998
+    14.08333
 ],
   "geometry": {"coordinates":[-13.53333,14.08333],"type":"Point"}
 }

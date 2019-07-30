@@ -25,6 +25,15 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Darsalam"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0633\u0627\u0644\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Darsalam"
+    ],
     "name:und_x_variant":[
         "Darsalem",
         "Darsalam"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276954743,
-    "wof:lastmodified":1537701137,
+    "wof:lastmodified":1564123767,
     "wof:name":"Darsalam",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

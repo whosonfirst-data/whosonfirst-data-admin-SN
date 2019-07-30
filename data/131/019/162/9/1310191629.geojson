@@ -26,6 +26,9 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0434\u0438\u0430\u0439\u0435"
+    ],
     "name:und_x_variant":[
         "Ndi\u00e9ye",
         "Ndiey",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310191629,
-    "wof:lastmodified":1537701032,
+    "wof:lastmodified":1564124219,
     "wof:name":"Ndiaye",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

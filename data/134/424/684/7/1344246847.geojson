@@ -25,6 +25,24 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kahone"
+    ],
+    "name:deu_x_preferred":[
+        "Kahone"
+    ],
+    "name:fin_x_preferred":[
+        "Kahone"
+    ],
+    "name:fra_x_preferred":[
+        "Kahone"
+    ],
+    "name:pol_x_preferred":[
+        "Kahone"
+    ],
+    "name:swe_x_preferred":[
+        "Kahone"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1344246847,
-    "wof:lastmodified":1537573717,
+    "wof:lastmodified":1564123402,
     "wof:name":"Kahone",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",
