@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KF"
+    ],
     "lbl:latitude":14.206202,
     "lbl:longitude":-15.181715,
     "meso:name_local":"Kaffrine",
@@ -237,7 +240,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271438,
+    "wof:lastmodified":1565736648,
     "wof:name":"Kaffrine",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

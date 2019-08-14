@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":12.886539,
     "lbl:longitude":-15.578212,
     "meso:name_local":"S\u00e9dhiou",
@@ -235,7 +238,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271440,
+    "wof:lastmodified":1565736649,
     "wof:name":"Sedhiou",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

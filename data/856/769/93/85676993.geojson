@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":16.323418,
     "lbl:longitude":-14.934749,
     "meso:name_local":"Saint-Louis",
@@ -236,7 +239,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271438,
+    "wof:lastmodified":1565736648,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

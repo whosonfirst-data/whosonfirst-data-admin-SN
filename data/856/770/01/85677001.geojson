@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DB"
+    ],
     "lbl:latitude":14.752279,
     "lbl:longitude":-16.101771,
     "meso:name_local":"Diourbel",
@@ -298,7 +301,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271435,
+    "wof:lastmodified":1565736648,
     "wof:name":"Diourbel",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

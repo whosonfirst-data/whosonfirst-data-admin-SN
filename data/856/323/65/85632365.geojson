@@ -15,6 +15,9 @@
     "itu:country_code":[
         "221"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SN"
+    ],
     "lbl:latitude":15.13855,
     "lbl:longitude":-14.768082,
     "mps:latitude":15.13855,
@@ -954,9 +957,6 @@
         }
     ],
     "wof:id":85632365,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "wol",
         "fra"
@@ -965,7 +965,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271429,
+    "wof:lastmodified":1565736646,
     "wof:name":"Senegal",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FK"
+    ],
     "lbl:latitude":14.083265,
     "lbl:longitude":-16.559464,
     "meso:name_local":"Fatick",
@@ -291,7 +294,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271435,
+    "wof:lastmodified":1565736648,
     "wof:name":"Fatick",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

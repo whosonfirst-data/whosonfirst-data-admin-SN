@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KC"
+    ],
     "lbl:latitude":13.901696,
     "lbl:longitude":-15.975345,
     "meso:name_local":"Kaolack",
@@ -232,7 +235,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271433,
+    "wof:lastmodified":1565736648,
     "wof:name":"Kaolack",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

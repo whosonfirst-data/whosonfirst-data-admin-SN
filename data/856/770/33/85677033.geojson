@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZG"
+    ],
     "lbl:latitude":12.792279,
     "lbl:longitude":-16.383088,
     "meso:name_local":"Ziguinchor",
@@ -307,7 +310,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271432,
+    "wof:lastmodified":1565736647,
     "wof:name":"Ziguinchor",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

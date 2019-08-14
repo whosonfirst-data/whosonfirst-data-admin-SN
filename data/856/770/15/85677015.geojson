@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LG"
+    ],
     "lbl:latitude":15.414602,
     "lbl:longitude":-15.527628,
     "meso:name_local":"Louga",
@@ -301,7 +304,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271436,
+    "wof:lastmodified":1565736648,
     "wof:name":"Louga",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

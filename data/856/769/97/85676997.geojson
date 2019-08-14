@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DK"
+    ],
     "lbl:latitude":14.772684,
     "lbl:longitude":-17.220068,
     "meso:name_local":"Dakar",
@@ -305,7 +308,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271439,
+    "wof:lastmodified":1565736648,
     "wof:name":"Dakar",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

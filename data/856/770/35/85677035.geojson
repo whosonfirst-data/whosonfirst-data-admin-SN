@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TB"
+    ],
     "lbl:latitude":13.81173,
     "lbl:longitude":-13.076607,
     "meso:name_local":"Tambacounda",
@@ -239,7 +242,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271431,
+    "wof:lastmodified":1565736647,
     "wof:name":"Tambacounda",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

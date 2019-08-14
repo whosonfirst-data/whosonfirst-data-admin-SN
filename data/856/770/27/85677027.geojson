@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KO"
+    ],
     "lbl:latitude":13.010946,
     "lbl:longitude":-14.62857,
     "meso:name_local":"Kolda",
@@ -247,7 +250,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271432,
+    "wof:lastmodified":1565736647,
     "wof:name":"Kolda",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

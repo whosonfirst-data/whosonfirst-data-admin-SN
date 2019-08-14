@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KG"
+    ],
     "lbl:latitude":12.828053,
     "lbl:longitude":-12.272903,
     "meso:name_local":"K\u00e9dougou",
@@ -245,7 +248,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271441,
+    "wof:lastmodified":1565736649,
     "wof:name":"Kedougou",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

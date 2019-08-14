@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MT"
+    ],
     "lbl:latitude":15.1425,
     "lbl:longitude":-13.711533,
     "meso:name_local":"Matam",
@@ -235,7 +238,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1563271434,
+    "wof:lastmodified":1565736648,
     "wof:name":"Matam",
     "wof:parent_id":85632365,
     "wof:placetype":"region",
