@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.40887,14.75534,-17.36887,14.79534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344271193,
-    "wof:lastmodified":1537065673,
+    "wof:lastmodified":1566648148,
     "wof:name":"Sam notaire",
     "wof:parent_id":890440853,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.3565,15.1873,-15.3165,15.2273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Birama K\u00e9l\u00e9",
         "Birama Kelle"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209794979,
-    "wof:lastmodified":1537701149,
+    "wof:lastmodified":1566648470,
     "wof:name":"Birama Kelle",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":12.88333,
     "geom:longitude":-14.95,
     "iso:country":"SN",
+    "lbl:bbox":"-14.97,12.86333,-14.93,12.90333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -200,7 +203,7 @@
     "wof:concordances":{
         "gn:id":2249782,
         "gp:id":1414647,
-        "qs:id":1089754,
+        "qs_pg:id":1089754,
         "wd:id":"Q1011890",
         "wk:page":"Kolda"
     },
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":421168303,
-    "wof:lastmodified":1563272222,
+    "wof:lastmodified":1566648819,
     "wof:name":"Kolda",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

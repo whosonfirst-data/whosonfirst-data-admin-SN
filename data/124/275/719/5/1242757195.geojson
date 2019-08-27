@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.6643,15.3336,-15.6243,15.3736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099f\u09aa\u09cd\u09aa\u09be \u0997\u09be\u09a8"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1242757195,
-    "wof:lastmodified":1564124414,
+    "wof:lastmodified":1566648865,
     "wof:name":"Tappa",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

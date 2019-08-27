@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.772684,
     "lbl:longitude":-17.220068,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Dakar",
     "mps:latitude":14.785239,
     "mps:longitude":-17.244943,
@@ -168,9 +169,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043a\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Dakar Region"
-    ],
     "name:urd_x_preferred":[
         "\u0688\u0627\u06a9\u0627\u0631 \u0639\u0644\u0627\u0642\u06c1"
     ],
@@ -258,9 +256,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-11-19",
+    "src:population_date":"2013-11-19",
     "statoids:area_km":"550",
     "statoids:area_mi":"212",
     "statoids:as_of_date":"2013-11-19",
@@ -285,7 +283,7 @@
         "gp:id":2346988,
         "hasc:id":"SN.DK",
         "iso:id":"SN-DK",
-        "qs:id":191398,
+        "qs_pg:id":191398,
         "unlc:id":"SN-DK",
         "wd:id":"Q856268",
         "wk:page":"Dakar Region"
@@ -308,7 +306,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1565736648,
+    "wof:lastmodified":1566648187,
     "wof:name":"Dakar",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

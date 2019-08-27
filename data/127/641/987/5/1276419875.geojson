@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.01577,15.22152,-14.97577,15.26152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276419875,
-    "wof:lastmodified":1536662745,
+    "wof:lastmodified":1566648388,
     "wof:name":"Boubak",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

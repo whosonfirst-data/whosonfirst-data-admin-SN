@@ -10,8 +10,12 @@
     "geom:latitude":12.81028,
     "geom:longitude":-16.22639,
     "iso:country":"SN",
+    "lbl:bbox":"-16.24639,12.79028,-16.20639,12.83028",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u063a\u0646\u0648\u0646\u0627"
@@ -121,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0433\u043d\u043e\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pagnona"
     ],
     "name:urd_x_preferred":[
@@ -166,7 +170,7 @@
     "wof:concordances":{
         "gn:id":2253901,
         "gp:id":1411608,
-        "qs:id":994129,
+        "qs_pg:id":994129,
         "wd:id":"Q286563",
         "wk:page":"Bignona"
     },
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":421184301,
-    "wof:lastmodified":1563272242,
+    "wof:lastmodified":1566648829,
     "wof:name":"Bignona",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

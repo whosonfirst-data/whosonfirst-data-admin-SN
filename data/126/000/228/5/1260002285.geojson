@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.98464,14.21805,-12.94464,14.25805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "V\u00e9ligara",
         "V\u00e9lingara"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260002285,
-    "wof:lastmodified":1537700956,
+    "wof:lastmodified":1566648600,
     "wof:name":"Veligara",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

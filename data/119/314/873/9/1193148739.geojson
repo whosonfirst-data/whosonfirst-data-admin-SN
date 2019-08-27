@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.37,14.88,-16.33,14.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Gade"
     ],
@@ -51,8 +55,7 @@
         "Gade"
     ],
     "name:und_x_variant":[
-        "Gad",
-        "Gade"
+        "Gad"
     ],
     "name:wln_x_preferred":[
         "Gade"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1193148739,
-    "wof:lastmodified":1564124039,
+    "wof:lastmodified":1566648567,
     "wof:name":"Gade",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

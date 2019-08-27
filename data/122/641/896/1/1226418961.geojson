@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.20333,15.59667,-16.16333,15.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Laye"
     ],
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1226418961,
-    "wof:lastmodified":1564124787,
+    "wof:lastmodified":1566649161,
     "wof:name":"Laye",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

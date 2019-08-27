@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.19387,14.77552,-17.15387,14.81552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gorum III",
         "Gorom Trois",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292917637,
-    "wof:lastmodified":1537701102,
+    "wof:lastmodified":1566648271,
     "wof:name":"Gorom Trois",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

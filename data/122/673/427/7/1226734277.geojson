@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.68667,14.28,-16.64667,14.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0627\u0631"
     ],
@@ -159,8 +163,7 @@
         "\u0411\u043e\u044f\u0440\u0438"
     ],
     "name:und_x_variant":[
-        "Mbayar",
-        "Boyar"
+        "Mbayar"
     ],
     "name:uzb_x_preferred":[
         "Boyarlar"
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":1226734277,
-    "wof:lastmodified":1564124701,
+    "wof:lastmodified":1566649091,
     "wof:name":"Boyar",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

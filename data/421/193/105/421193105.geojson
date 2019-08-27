@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.765571,
     "lbl:longitude":-17.332846,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Dakar",
     "meso:gadm_admin":"Pikine",
     "meso:gadm_hasc2":"SN.DK.PK",
@@ -30,6 +32,7 @@
     "mps:longitude":-17.332846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pikine Department"
@@ -78,9 +81,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         "gn:id":7732979,
         "gp:id":56055825,
         "hasc:id":"SN.DK.PK",
-        "qs:id":433339,
+        "qs_pg:id":433339,
         "wd:id":"Q255486",
         "wk:page":"Pikine Department"
     },
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421193105,
-    "wof:lastmodified":1563272225,
+    "wof:lastmodified":1566648821,
     "wof:name":"Pikine",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.07,12.84667,-16.03,12.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bouto"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343937991,
-    "wof:lastmodified":1564123463,
+    "wof:lastmodified":1566648132,
     "wof:name":"Bouto",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

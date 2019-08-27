@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.41867,14.64757,-17.37867,14.68757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u063a\u0648\u0631\u064a\u0647"
     ],
@@ -151,9 +155,6 @@
     "name:ukr_x_preferred":[
         "\u0490\u043e\u0440\u0435"
     ],
-    "name:und_x_variant":[
-        "Gor\u00e9e"
-    ],
     "name:vie_x_preferred":[
         "Gor\u00e9e"
     ],
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":1326834157,
-    "wof:lastmodified":1564123300,
+    "wof:lastmodified":1566648010,
     "wof:name":"Goree",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

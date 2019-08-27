@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.03667,14.18,-15.99667,14.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u043a"
     ],
@@ -72,8 +76,7 @@
         "\u0411\u0430\u043a"
     ],
     "name:und_x_variant":[
-        "Back",
-        "Bak"
+        "Back"
     ],
     "name:zha_x_preferred":[
         "Bak"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1193002787,
-    "wof:lastmodified":1564124025,
+    "wof:lastmodified":1566648556,
     "wof:name":"Bak",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-13.88394,16.07016,-13.84394,16.11016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toufand\u00e9 Gand\u00e9",
         "Tould\u00e9 Ganda",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276733407,
-    "wof:lastmodified":1537700958,
+    "wof:lastmodified":1566648338,
     "wof:name":"Toufnde Gande",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

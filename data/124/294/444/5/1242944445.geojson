@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.45333,15.61333,-16.41333,15.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Menna Dakar",
         "M\u00e9rina Dakar"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242944445,
-    "wof:lastmodified":1537701042,
+    "wof:lastmodified":1566648878,
     "wof:name":"Merina Dakar",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

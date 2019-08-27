@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.55333,13.03,-14.51333,13.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sinntian Goundo",
         "Sinti\u00e2n Goundo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343442143,
-    "wof:lastmodified":1537700989,
+    "wof:lastmodified":1566648178,
     "wof:name":"Sintian Goundo",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

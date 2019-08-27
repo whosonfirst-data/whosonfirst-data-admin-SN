@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.0338,15.5036,-15.9938,15.5436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dialakar",
         "Ndiakhar"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243054327,
-    "wof:lastmodified":1537701035,
+    "wof:lastmodified":1566648923,
     "wof:name":"Ndiakhar",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

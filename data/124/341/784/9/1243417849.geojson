@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-11.98761,13.00794,-11.94761,13.04794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243417849,
-    "wof:lastmodified":1536845731,
+    "wof:lastmodified":1566648886,
     "wof:name":"Mandankholi",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

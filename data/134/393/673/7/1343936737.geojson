@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.52917,15.82611,-16.48917,15.86611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343936737,
-    "wof:lastmodified":1537052080,
+    "wof:lastmodified":1566648133,
     "wof:name":"Guengue",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

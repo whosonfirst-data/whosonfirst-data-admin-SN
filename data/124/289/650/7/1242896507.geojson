@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-13.40333,13.36333,-13.36333,13.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kawane"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242896507,
-    "wof:lastmodified":1564124408,
+    "wof:lastmodified":1566648860,
     "wof:name":"Kawane",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

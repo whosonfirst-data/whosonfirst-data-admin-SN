@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-13.40082,16.02747,-13.36082,16.06747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dioval Ouorgo",
         "Diovol Ouorgo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343334887,
-    "wof:lastmodified":1537701119,
+    "wof:lastmodified":1566648144,
     "wof:name":"Djowel Ouorgo",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.6464,15.0439,-16.6064,15.0839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293875269,
-    "wof:lastmodified":1536725601,
+    "wof:lastmodified":1566648289,
     "wof:name":"Koul",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

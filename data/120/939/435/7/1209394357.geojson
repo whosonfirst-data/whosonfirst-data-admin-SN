@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.15333,15.26333,-16.11333,15.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2253177
     },
     "wof:country":"SN",
-    "wof:geomhash":"8d3e3b575e146fa45d78a26932ae4814",
+    "wof:geomhash":"f5bbf836d021111b805eab84d303fcd0",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209394357,
-    "wof:lastmodified":1536288353,
+    "wof:lastmodified":1566648449,
     "wof:name":"Darou Mbaye",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.133329999999994,
+    -16.13332999999999,
     15.28333,
-    -16.133329999999994,
+    -16.13332999999999,
     15.28333
 ],
   "geometry": {"coordinates":[-16.13332999999999,15.28333],"type":"Point"}

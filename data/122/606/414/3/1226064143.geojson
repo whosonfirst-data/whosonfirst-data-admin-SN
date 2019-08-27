@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.62,14.71333,-15.58,14.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Graaf"
     ],
@@ -149,10 +153,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0444"
     ],
-    "name:und_x_variant":[
-        "Graaf",
-        "Graf"
-    ],
     "name:vie_x_preferred":[
         "Graf"
     ],
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":1226064143,
-    "wof:lastmodified":1564124804,
+    "wof:lastmodified":1566649174,
     "wof:name":"Graf",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

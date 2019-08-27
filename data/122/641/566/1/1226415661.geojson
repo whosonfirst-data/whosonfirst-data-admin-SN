@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-13.2025,15.4265,-13.1625,15.4665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226415661,
-    "wof:lastmodified":1536689040,
+    "wof:lastmodified":1566649158,
     "wof:name":"Diamweli",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

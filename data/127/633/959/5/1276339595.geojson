@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.66832,14.12901,-12.62832,14.16901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sinntiou Alassan\u00e9",
         "Sinthiou Alassan\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276339595,
-    "wof:lastmodified":1537700987,
+    "wof:lastmodified":1566648346,
     "wof:name":"Sintiou Alassane",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

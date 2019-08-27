@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.47819,
     "lbl:longitude":-16.61947,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ziguinchor",
     "meso:gadm_admin":"Oussouye",
     "meso:gadm_hasc2":"SN.ZG.OU",
@@ -30,6 +32,7 @@
     "mps:longitude":-16.61947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Oussouye"
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Oussouye"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement d\u2019Oussouye"
     ],
     "name:zho_x_preferred":[
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
         "gn:id":2246902,
         "gp:id":56055817,
         "hasc:id":"SN.ZG.OU",
-        "qs:id":1086871
+        "qs_pg:id":1086871
     },
     "wof:country":"SN",
     "wof:created":1459009529,
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421187971,
-    "wof:lastmodified":1564124368,
+    "wof:lastmodified":1566648824,
     "wof:name":"Oussouye",
     "wof:parent_id":85677033,
     "wof:placetype":"county",

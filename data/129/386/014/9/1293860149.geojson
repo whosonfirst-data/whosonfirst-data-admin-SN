@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.8515,15.5066,-15.8115,15.5466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Manafar",
         "Mahafar"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293860149,
-    "wof:lastmodified":1537701057,
+    "wof:lastmodified":1566648307,
     "wof:name":"Mahafar",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

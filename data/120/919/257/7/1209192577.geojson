@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.20333,12.69667,-14.16333,12.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2246056
     },
     "wof:country":"SN",
-    "wof:geomhash":"68f31a0ea888d85a566d095afe3055c5",
+    "wof:geomhash":"9bf66fc840a1b3adae76e995491023bc",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209192577,
-    "wof:lastmodified":1536294883,
+    "wof:lastmodified":1566648534,
     "wof:name":"Sare Dioulaye",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.183329999999998,
+    -14.18333,
     12.71667,
-    -14.183329999999998,
+    -14.18333,
     12.71667
 ],
   "geometry": {"coordinates":[-14.18333,12.71667],"type":"Point"}

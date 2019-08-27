@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.22094,14.82066,-17.18094,14.86066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209328715,
-    "wof:lastmodified":1536290443,
+    "wof:lastmodified":1566648500,
     "wof:name":"Deni Guedj",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

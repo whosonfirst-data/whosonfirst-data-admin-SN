@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.72333,12.96139,-16.68333,13.00139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00e9r\u00e9ouane",
         "K\u00e9rouane"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309993057,
-    "wof:lastmodified":1537701084,
+    "wof:lastmodified":1566648785,
     "wof:name":"Kerouane",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

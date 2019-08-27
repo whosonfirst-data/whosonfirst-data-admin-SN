@@ -11,11 +11,15 @@
     "geom:longitude":-16.719,
     "gn:country":"SN",
     "gn:fcode":"PPL",
-    "gn:pop":900,
+    "gn:population":900,
     "iso:country":"SN",
+    "lbl:bbox":"-16.739,14.08877,-16.699,14.12877",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Baboucar Toumbou"
     ],
     "qs:name":"Keur Babakar Toumbou",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2250501,
         "gp:id":1415827,
-        "qs:id":573459
+        "qs_pg:id":573459
     },
     "wof:country":"SN",
     "wof:created":1469050989,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413139,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566648832,
     "wof:name":"Keur Babakar Toumbou",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

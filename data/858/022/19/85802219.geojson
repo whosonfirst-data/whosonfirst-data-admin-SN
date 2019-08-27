@@ -5,16 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7284720.062348,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-17.427063,14.713791,-17.427063,14.713791",
     "geom:latitude":14.713791,
     "geom:longitude":-17.427063,
-    "gn:gn_country":"SN",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"SN",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"SN",
+    "lbl:bbox":"-17.432063,14.708791,-17.422063,14.718791",
     "lbl:latitude":14.713791,
     "lbl:longitude":-17.427063,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.70687,
     "mps:longitude":-17.42633,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Bel-Air"
-    ],
-    "name:unk_x_variant":[
         "Bel-Air"
     ],
     "qs:gn_adm0_cc":"SN",
@@ -80,13 +79,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2254055,
         "gp:id":1411510,
-        "qs:id":496844,
         "qs_pg:id":496844
     },
     "wof:country":"SN",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379462,
+    "wof:lastmodified":1566648189,
     "wof:name":"Bel-Air",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

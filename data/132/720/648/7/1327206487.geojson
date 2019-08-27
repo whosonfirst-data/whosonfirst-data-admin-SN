@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.95333,14.56333,-14.91333,14.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ker-Demm\u00e9",
         "Keur Demm\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327206487,
-    "wof:lastmodified":1537701076,
+    "wof:lastmodified":1566648048,
     "wof:name":"Keur Ndame",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

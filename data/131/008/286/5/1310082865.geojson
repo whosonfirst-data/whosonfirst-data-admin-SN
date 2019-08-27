@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.25333,13.01333,-16.21333,13.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Batinding Di\u00e9m\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Batinding Di\u00e9m\u00e9"
-    ],
-    "name:und_x_variant":[
         "Batinding Di\u00e9m\u00e9"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1310082865,
-    "wof:lastmodified":1564124176,
+    "wof:lastmodified":1566648674,
     "wof:name":"Batinding Dieme",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

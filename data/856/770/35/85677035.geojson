@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.81173,
     "lbl:longitude":-13.076607,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Tambacounda",
     "mps:latitude":13.935005,
     "mps:longitude":-13.079828,
@@ -164,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0422\u0430\u043c\u0431\u0430\u043a\u0443\u043d\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eastern Senegal Region"
     ],
     "name:urd_x_preferred":[
@@ -193,9 +194,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-11-19",
+    "src:population_date":"2013-11-19",
     "statoids:area_km":"42,706",
     "statoids:area_mi":"16,489",
     "statoids:as_of_date":"2013-11-19",
@@ -220,7 +221,7 @@
         "gp:id":2346991,
         "hasc:id":"SN.TB",
         "iso:id":"SN-TC",
-        "qs:id":235638,
+        "qs_pg:id":235638,
         "wd:id":"Q848554",
         "wk:page":"Tambacounda Region"
     },
@@ -242,7 +243,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1565736647,
+    "wof:lastmodified":1566648184,
     "wof:name":"Tambacounda",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

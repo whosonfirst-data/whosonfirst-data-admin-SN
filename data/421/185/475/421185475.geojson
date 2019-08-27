@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.399015,
     "lbl:longitude":-16.826108,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Thies",
     "meso:gadm_admin":"Mbour",
     "meso:gadm_hasc2":"SN.TH.MR",
@@ -30,6 +32,7 @@
     "mps:longitude":-16.826108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Mbour"
@@ -37,7 +40,7 @@
     "name:eng_x_variant":[
         "Mbour"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement de Mbour"
     ],
     "qs:gn_country":"SN",
@@ -62,9 +65,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -85,7 +88,7 @@
         "gn:id":2248478,
         "gp:id":56055805,
         "hasc:id":"SN.TH.MR",
-        "qs:id":896713
+        "qs_pg:id":896713
     },
     "wof:country":"SN",
     "wof:created":1459009444,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421185475,
-    "wof:lastmodified":1553717438,
+    "wof:lastmodified":1566648832,
     "wof:name":"Mbour",
     "wof:parent_id":85677025,
     "wof:placetype":"county",

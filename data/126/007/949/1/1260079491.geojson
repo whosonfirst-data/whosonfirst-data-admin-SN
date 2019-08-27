@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.49052,13.64812,-12.45052,13.68812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Same"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1260079491,
-    "wof:lastmodified":1564124077,
+    "wof:lastmodified":1566648599,
     "wof:name":"Same",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

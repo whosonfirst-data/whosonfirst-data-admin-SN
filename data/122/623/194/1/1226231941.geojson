@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.68667,14.79667,-15.64667,14.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Vouga"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226231941,
-    "wof:lastmodified":1564124769,
+    "wof:lastmodified":1566649146,
     "wof:name":"Vouga",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

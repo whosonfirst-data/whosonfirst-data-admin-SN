@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.40944,12.77444,-16.36944,12.81444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293272229,
-    "wof:lastmodified":1537094176,
+    "wof:lastmodified":1566648284,
     "wof:name":"Pakao",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

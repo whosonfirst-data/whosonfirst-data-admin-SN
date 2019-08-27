@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.217116,
     "lbl:longitude":-14.287175,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Tambacounda",
     "meso:gadm_admin":"Koupentoum",
     "meso:gadm_hasc2":"SN.TB.KP",
@@ -30,6 +32,7 @@
     "mps:longitude":-14.287175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Koumpentoum"
     ],
@@ -49,9 +52,9 @@
         "\u6606\u5f6d\u5716\u59c6"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108691483,
-    "wof:lastmodified":1564124128,
+    "wof:lastmodified":1566648639,
     "wof:name":"Koumpentoum",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

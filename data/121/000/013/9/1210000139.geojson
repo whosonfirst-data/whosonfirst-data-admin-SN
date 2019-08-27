@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.32167,16.13667,-16.28167,16.17667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210000139,
-    "wof:lastmodified":1536379597,
+    "wof:lastmodified":1566648546,
     "wof:name":"Nbela",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":15.60588,
     "geom:longitude":-13.3223,
     "iso:country":"SN",
+    "lbl:bbox":"-13.3423,15.58588,-13.3023,15.62588",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0648\u0633\u063a\u064a"
@@ -46,9 +50,6 @@
     "name:swe_x_preferred":[
         "Ourossogui"
     ],
-    "name:unk_x_variant":[
-        "Ourossogui"
-    ],
     "qs:gn_country":"SN",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2246922,
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2246922,
         "gp:id":1416675,
-        "qs:id":278312,
+        "qs_pg:id":278312,
         "wd:id":"Q2472697",
         "wk:page":"Ouro Sogui"
     },
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":421178185,
-    "wof:lastmodified":1563272246,
+    "wof:lastmodified":1566648831,
     "wof:name":"Ouro Sogui",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

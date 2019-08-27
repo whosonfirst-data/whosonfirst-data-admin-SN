@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.24516,14.18597,-12.20516,14.22597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hamdallaye"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344161897,
-    "wof:lastmodified":1564123486,
+    "wof:lastmodified":1566648148,
     "wof:name":"Hamdallaye",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

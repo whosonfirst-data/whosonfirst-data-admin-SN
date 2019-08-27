@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.25333,13.76333,-16.21333,13.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259366583,
-    "wof:lastmodified":1537025463,
+    "wof:lastmodified":1566648967,
     "wof:name":"Kere",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

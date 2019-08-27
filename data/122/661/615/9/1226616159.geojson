@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-13.72,15.16333,-13.68,15.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "F\u00e9t\u00e9 Niaval",
         "F\u00e9t\u00e9 Gnarval",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226616159,
-    "wof:lastmodified":1537701111,
+    "wof:lastmodified":1566649121,
     "wof:name":"Fete Niarval",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-13.93667,13.13,-13.89667,13.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00e9n\u00e9ba",
         "K\u00e9n\u00e9ba Mballo Kounda"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344238147,
-    "wof:lastmodified":1537701085,
+    "wof:lastmodified":1566648092,
     "wof:name":"Keneba Mballo Kounda",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.11719,14.7395,-17.07719,14.7795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kayel",
         "Kayol"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327428601,
-    "wof:lastmodified":1537701086,
+    "wof:lastmodified":1566648039,
     "wof:name":"Kayol",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

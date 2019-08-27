@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":14.778031,
     "lbl:longitude":-17.39532,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Dakar",
     "meso:gadm_admin":"Gu\u00e9diawaye",
     "meso:gadm_hasc2":"SN.DK.GD",
@@ -32,6 +34,7 @@
     "mps:longitude":-17.39532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u062f\u064a\u0627\u0648\u0627\u064a\u0649"
     ],
@@ -167,9 +170,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -190,7 +193,7 @@
     "wof:concordances":{
         "gp:id":56055826,
         "hasc:id":"SN.DK.GD",
-        "qs:id":483152,
+        "qs_pg:id":483152,
         "wd:id":"Q1557691",
         "wk:page":"Gu\u00e9diawaye"
     },
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":890440853,
-    "wof:lastmodified":1563272248,
+    "wof:lastmodified":1566648832,
     "wof:name":"Guediewaye",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

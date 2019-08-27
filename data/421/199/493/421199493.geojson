@@ -10,8 +10,12 @@
     "geom:latitude":14.85,
     "geom:longitude":-15.88333,
     "iso:country":"SN",
+    "lbl:bbox":"-15.90333,14.83,-15.86333,14.87",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Touba"
@@ -190,7 +194,7 @@
     "wof:concordances":{
         "gn:id":2244322,
         "gp:id":1418587,
-        "qs:id":479007,
+        "qs_pg:id":479007,
         "wd:id":"Q657072",
         "wk:page":"Touba, Senegal"
     },
@@ -207,7 +211,7 @@
         }
     ],
     "wof:id":421199493,
-    "wof:lastmodified":1563272239,
+    "wof:lastmodified":1566648828,
     "wof:name":"Touba",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

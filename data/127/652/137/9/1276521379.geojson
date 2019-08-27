@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-13.74659,16.12582,-13.70659,16.16582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sinthiou Amadou Melram",
         "Sintiou Amadi M\u00e9riam",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276521379,
-    "wof:lastmodified":1537700986,
+    "wof:lastmodified":1566648398,
     "wof:name":"Sintiou Amadou Mariama",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

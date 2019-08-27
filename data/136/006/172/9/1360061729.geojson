@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.0664,15.0186,-16.0264,15.0586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dar Mousti",
         "Darou-Mousty",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360061729,
-    "wof:lastmodified":1537701137,
+    "wof:lastmodified":1566648750,
     "wof:name":"Darou Mousti",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

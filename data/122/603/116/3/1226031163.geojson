@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.7855,15.3188,-15.7455,15.3588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ko\u00e9l\u00e8 P\u00e8gna",
         "Koyli Pegna"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226031163,
-    "wof:lastmodified":1537701070,
+    "wof:lastmodified":1566649113,
     "wof:name":"Koyli Pegna",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

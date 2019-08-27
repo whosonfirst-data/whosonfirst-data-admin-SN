@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.10429,14.62141,-17.06429,14.66141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "D'ias"
     ],
@@ -33,7 +37,6 @@
     ],
     "name:und_x_variant":[
         "Ndiass",
-        "Diass",
         "D\u2019ias"
     ],
     "src:geom":"geonames",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1309900403,
-    "wof:lastmodified":1564124313,
+    "wof:lastmodified":1566648782,
     "wof:name":"D'ias",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

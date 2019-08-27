@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.083265,
     "lbl:longitude":-16.559464,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Fatick",
     "mps:latitude":14.418221,
     "mps:longitude":-16.406139,
@@ -155,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0424\u0430\u0442\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion de Fatick"
     ],
     "name:urd_x_preferred":[
@@ -242,9 +243,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-11-19",
+    "src:population_date":"2013-11-19",
     "statoids:area_km":"7,935",
     "statoids:area_mi":"3,064",
     "statoids:as_of_date":"2013-11-19",
@@ -271,7 +272,7 @@
         "gp:id":2346994,
         "hasc:id":"SN.FK",
         "iso:id":"SN-FK",
-        "qs:id":219614,
+        "qs_pg:id":219614,
         "unlc:id":"SN-FK",
         "wd:id":"Q856282",
         "wk:page":"Fatick Region"
@@ -294,7 +295,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1565736648,
+    "wof:lastmodified":1566648186,
     "wof:name":"Fatick",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.40385,14.74277,-17.36385,14.78277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243077287,
-    "wof:lastmodified":1536839549,
+    "wof:lastmodified":1566648837,
     "wof:name":"Djidah thiaroye kao",
     "wof:parent_id":421193105,
     "wof:placetype":"locality",

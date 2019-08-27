@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.82,13.74667,-15.78,13.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Diamangu\u00e9ne",
         "Diamagu\u00e8ne"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209403839,
-    "wof:lastmodified":1537701131,
+    "wof:lastmodified":1566648478,
     "wof:name":"Diamaguene",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

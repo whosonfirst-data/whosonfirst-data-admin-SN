@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.003676,
     "lbl:longitude":-12.929198,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Tambacounda",
     "meso:gadm_admin":"Goudiry",
     "meso:gadm_hasc2":"SN.TB.GY",
@@ -30,6 +32,7 @@
     "mps:longitude":-12.929198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Goudiry"
     ],
@@ -55,9 +58,9 @@
         "\u53e4\u8fea\u91cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108691485,
-    "wof:lastmodified":1564124128,
+    "wof:lastmodified":1566648639,
     "wof:name":"Goudiry",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

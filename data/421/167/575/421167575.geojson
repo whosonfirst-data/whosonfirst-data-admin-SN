@@ -10,8 +10,12 @@
     "geom:latitude":14.79032,
     "geom:longitude":-15.90803,
     "iso:country":"SN",
+    "lbl:bbox":"-15.92803,14.77032,-15.88803,14.81032",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mbak\u00e9"
@@ -41,9 +45,6 @@
         "\u041c\u0431\u0430\u043a\u0435"
     ],
     "name:swe_x_preferred":[
-        "Mback\u00e9"
-    ],
-    "name:unk_x_variant":[
         "Mback\u00e9"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +83,7 @@
     "wof:concordances":{
         "gn:id":2248698,
         "gp:id":1415370,
-        "qs:id":139177,
+        "qs_pg:id":139177,
         "wd:id":"Q965360",
         "wk:page":"Mback\u00e9"
     },
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":421167575,
-    "wof:lastmodified":1563272226,
+    "wof:lastmodified":1566648821,
     "wof:name":"Mbak\u00e9",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

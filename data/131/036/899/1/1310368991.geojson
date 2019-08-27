@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-11.8965,12.80384,-11.8565,12.84384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bembou"
     ],
     "name:und_x_variant":[
         "Binbou",
-        "Bembo",
-        "Bembou"
+        "Bembo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1310368991,
-    "wof:lastmodified":1564124170,
+    "wof:lastmodified":1566648670,
     "wof:name":"Bembou",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

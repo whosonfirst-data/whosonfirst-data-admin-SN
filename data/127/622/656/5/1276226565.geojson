@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.4814,14.8091,-12.4414,14.8491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "B\u00eama"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1276226565,
-    "wof:lastmodified":1564123786,
+    "wof:lastmodified":1566648373,
     "wof:name":"Bema",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

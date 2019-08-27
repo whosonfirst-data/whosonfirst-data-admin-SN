@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.04444,
     "lbl:longitude":-14.11989,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Matam",
     "meso:gadm_admin":"Ran\u00e9rou Ferlo",
     "meso:gadm_hasc2":"SN.MT.RN",
@@ -30,6 +32,7 @@
     "mps:longitude":-14.11989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ran\u00e9rou Ferlo"
     ],
@@ -38,9 +41,9 @@
         "Ran\u00e9rou Ferlo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108691507,
-    "wof:lastmodified":1553718185,
+    "wof:lastmodified":1566648636,
     "wof:name":"Ranerou",
     "wof:parent_id":85677019,
     "wof:placetype":"county",

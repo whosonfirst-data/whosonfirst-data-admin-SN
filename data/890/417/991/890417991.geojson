@@ -11,11 +11,15 @@
     "geom:longitude":-12.86821,
     "gn:country":"SN",
     "gn:fcode":"PPL",
-    "gn:pop":9085,
+    "gn:population":9085,
     "iso:country":"SN",
+    "lbl:bbox":"-12.88821,15.24367,-12.84821,15.28367",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ouaound\u00e9"
     ],
     "qs:name":"Waound\u00e9",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2247044,
         "gp:id":1416591,
-        "qs:id":278313
+        "qs_pg:id":278313
     },
     "wof:country":"SN",
     "wof:created":1469051229,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890417991,
-    "wof:lastmodified":1505343442,
+    "wof:lastmodified":1566648833,
     "wof:name":"Waound\u00e9",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

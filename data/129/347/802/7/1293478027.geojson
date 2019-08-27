@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.99528,12.91889,-15.95528,12.95889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yako Peul",
         "Iako Peul"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293478027,
-    "wof:lastmodified":1537701094,
+    "wof:lastmodified":1566648235,
     "wof:name":"Iako Peul",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

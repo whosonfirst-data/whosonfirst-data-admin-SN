@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.35333,15.34667,-16.31333,15.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ti\u00e9no Diao",
         "Ti\u00e9no Ndiaou"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225831485,
-    "wof:lastmodified":1537700963,
+    "wof:lastmodified":1566649201,
     "wof:name":"Tieno Ndiaou",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

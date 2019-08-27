@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.746812,
     "lbl:longitude":-16.397459,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Fatick",
     "meso:gadm_admin":"Foundiougne",
     "meso:gadm_hasc2":"SN.FK.FD",
@@ -30,6 +32,7 @@
     "mps:longitude":-16.397459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Foundiougne"
@@ -37,7 +40,7 @@
     "name:eng_x_variant":[
         "Foundiougne"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement de Foundiougne"
     ],
     "qs:gn_country":"SN",
@@ -62,9 +65,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -85,7 +88,7 @@
         "gn:id":2251792,
         "gp:id":56055811,
         "hasc:id":"SN.FK.FD",
-        "qs:id":1086870
+        "qs_pg:id":1086870
     },
     "wof:country":"SN",
     "wof:created":1459009529,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421187969,
-    "wof:lastmodified":1553717457,
+    "wof:lastmodified":1566648825,
     "wof:name":"Foundiougne",
     "wof:parent_id":85677007,
     "wof:placetype":"county",

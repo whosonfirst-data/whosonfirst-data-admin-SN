@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.1001,14.85482,-17.0601,14.89482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Diander Guedj",
         "Diender Guedj",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293610541,
-    "wof:lastmodified":1537701124,
+    "wof:lastmodified":1566648242,
     "wof:name":"Diender Guedj",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

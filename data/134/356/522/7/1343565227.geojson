@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.1756,14.67348,-17.1356,14.71348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343565227,
-    "wof:lastmodified":1537089333,
+    "wof:lastmodified":1566648131,
     "wof:name":"Dougar Kadaga",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

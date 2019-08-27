@@ -10,8 +10,12 @@
     "geom:latitude":12.50583,
     "geom:longitude":-16.66611,
     "iso:country":"SN",
+    "lbl:bbox":"-16.68611,12.48583,-16.64611,12.52583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Elinkine"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Elinqu\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elinkin"
     ],
     "qs:gn_country":"SN",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2252052,
         "gp:id":1412921,
-        "qs:id":1175226,
+        "qs_pg:id":1175226,
         "wd:id":"Q3051019"
     },
     "wof:country":"SN",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421192779,
-    "wof:lastmodified":1561843861,
+    "wof:lastmodified":1566648820,
     "wof:name":"Elinkine",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

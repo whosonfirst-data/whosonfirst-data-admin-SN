@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.93667,13.94667,-15.89667,13.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2245674
     },
     "wof:country":"SN",
-    "wof:geomhash":"26262d41669ac4abcdb4761115f747c4",
+    "wof:geomhash":"1db68cdc2bdaf88be0732d2c63da2c42",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209599135,
-    "wof:lastmodified":1536282226,
+    "wof:lastmodified":1566648497,
     "wof:name":"Selik",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.916670000000002,
+    -15.91667,
     13.96667,
-    -15.916670000000002,
+    -15.91667,
     13.96667
 ],
   "geometry": {"coordinates":[-15.91667,13.96667],"type":"Point"}

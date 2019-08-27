@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.23667,14.86333,-16.19667,14.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ndindi"
     ],
@@ -37,8 +41,7 @@
     ],
     "name:und_x_variant":[
         "Ndinedi",
-        "N\u2019Dindy",
-        "Ndindi"
+        "N\u2019Dindy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1209117711,
-    "wof:lastmodified":1564123970,
+    "wof:lastmodified":1566648514,
     "wof:name":"Ndindi",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

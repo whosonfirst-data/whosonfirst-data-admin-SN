@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.857159,
     "lbl:longitude":-14.487225,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kolda",
     "meso:gadm_admin":"Kolda",
     "meso:gadm_hasc2":"SN.KO.KD",
@@ -30,6 +32,7 @@
     "mps:longitude":-14.487225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kolda"
     ],
@@ -88,9 +91,9 @@
         "\u79d1\u5c14\u8fbe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108691461,
-    "wof:lastmodified":1564124129,
+    "wof:lastmodified":1566648640,
     "wof:name":"Kolda",
     "wof:parent_id":85677027,
     "wof:placetype":"county",

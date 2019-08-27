@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.95333,12.93,-14.91333,12.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310193353,
-    "wof:lastmodified":1536868667,
+    "wof:lastmodified":1566648708,
     "wof:name":"Sare Bebou",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

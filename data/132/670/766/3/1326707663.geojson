@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.75889,12.90528,-16.71889,12.94528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cafountine",
         "Kafoutin",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326707663,
-    "wof:lastmodified":1537701092,
+    "wof:lastmodified":1566648008,
     "wof:name":"Kafountine",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

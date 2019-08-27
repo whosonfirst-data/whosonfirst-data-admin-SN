@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.076944,
     "lbl:longitude":-15.687423,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kaffrine",
     "meso:gadm_admin":"Birkilane",
     "meso:gadm_hasc2":"SN.KF.BR",
@@ -30,6 +32,7 @@
     "mps:longitude":-15.687423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Birkilane"
     ],
@@ -37,9 +40,9 @@
         "Birkilane"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108691477,
-    "wof:lastmodified":1553718184,
+    "wof:lastmodified":1566648641,
     "wof:name":"Birkelane",
     "wof:parent_id":85676989,
     "wof:placetype":"county",

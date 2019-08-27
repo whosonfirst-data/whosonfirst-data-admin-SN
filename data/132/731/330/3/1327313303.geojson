@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.18667,15.33,-16.14667,15.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nieri",
         "Ni\u00e8r Ouolof"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327313303,
-    "wof:lastmodified":1537701013,
+    "wof:lastmodified":1566647926,
     "wof:name":"Nier Ouolof",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":16.02306,
     "geom:longitude":-16.51083,
     "iso:country":"SN",
+    "lbl:bbox":"-16.53083,16.00306,-16.49083,16.04306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guet N\u2019Dar"
     ],
     "qs:gn_country":"SN",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2251278,
         "gp:id":1413464,
-        "qs:id":1352852
+        "qs_pg:id":1352852
     },
     "wof:country":"SN",
     "wof:created":1459009158,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421177721,
-    "wof:lastmodified":1501262037,
+    "wof:lastmodified":1566648830,
     "wof:name":"Guet Dar",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

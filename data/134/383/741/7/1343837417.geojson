@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.53667,14.84667,-14.49667,14.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kaner"
     ],
     "name:und_x_variant":[
-        "Kann\u00e9re",
-        "Kaner"
+        "Kann\u00e9re"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1343837417,
-    "wof:lastmodified":1564123416,
+    "wof:lastmodified":1566648099,
     "wof:name":"Kaner",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

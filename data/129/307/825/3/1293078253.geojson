@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.38,12.44194,-16.34,12.48194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293078253,
-    "wof:lastmodified":1536879366,
+    "wof:lastmodified":1566648192,
     "wof:name":"Ediouma",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

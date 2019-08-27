@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.02269,14.95461,-16.98269,14.99461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mb\u00e2y\u00e8ne"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327325335,
-    "wof:lastmodified":1537701170,
+    "wof:lastmodified":1566647993,
     "wof:name":"Mbayene",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",
