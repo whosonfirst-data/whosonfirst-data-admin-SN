@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.33222,12.43417,-16.29222,12.47417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Badem"
     ],
@@ -87,8 +91,7 @@
         "\u0411\u0430\u0434\u0435\u043c"
     ],
     "name:und_x_variant":[
-        "Bad\u00e8ne",
-        "Badem"
+        "Bad\u00e8ne"
     ],
     "name:uzb_x_preferred":[
         "Badem"
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1193265415,
-    "wof:lastmodified":1564124067,
+    "wof:lastmodified":1566648589,
     "wof:name":"Badem",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

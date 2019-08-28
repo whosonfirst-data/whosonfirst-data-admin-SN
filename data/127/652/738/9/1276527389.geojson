@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.10333,15.28,-16.06333,15.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Loro",
         "Di\u00e9bel Loro"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276527389,
-    "wof:lastmodified":1537701125,
+    "wof:lastmodified":1566648395,
     "wof:name":"Diebel Loro",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.723546,
     "lbl:longitude":-16.865664,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Thies",
     "meso:gadm_admin":"Thi\u00e8s",
     "meso:gadm_hasc2":"SN.TH.TH",
@@ -30,6 +32,7 @@
     "mps:longitude":-16.865664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Thi\u00e8s"
@@ -68,9 +71,6 @@
     "name:spa_x_preferred":[
         "Thi\u00e8s"
     ],
-    "name:unk_x_variant":[
-        "Thi\u00e8s"
-    ],
     "qs:gn_country":"SN",
     "qs:gn_fcode":"ADM2",
     "qs:gn_id":2244804,
@@ -93,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -116,7 +116,7 @@
         "gn:id":2244804,
         "gp:id":56055806,
         "hasc:id":"SN.TH.TH",
-        "qs:id":231635
+        "qs_pg:id":231635
     },
     "wof:country":"SN",
     "wof:created":1459010152,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":421203459,
-    "wof:lastmodified":1553717571,
+    "wof:lastmodified":1566648823,
     "wof:name":"Thies",
     "wof:parent_id":85677025,
     "wof:placetype":"county",

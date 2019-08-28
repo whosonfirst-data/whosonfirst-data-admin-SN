@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.186,15.2746,-15.146,15.3146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khogu\u00e9 Top\u00e8ne",
         "Khogu\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209895637,
-    "wof:lastmodified":1537701072,
+    "wof:lastmodified":1566648532,
     "wof:name":"Khogue Tobene",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

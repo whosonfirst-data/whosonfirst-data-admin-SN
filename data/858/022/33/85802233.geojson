@@ -10,8 +10,10 @@
     "geom:latitude":14.714853,
     "geom:longitude":-17.45343,
     "iso:country":"SN",
+    "lbl:bbox":"-17.45843,14.709853,-17.44843,14.719853",
     "lbl:latitude":14.714853,
     "lbl:longitude":-17.45343,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.718639,
     "mps:longitude":-17.448844,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
         "Grand Dakar Bope"
     ],
     "name:nld_x_preferred":[
-        "Grand Dakar"
-    ],
-    "name:unk_x_variant":[
-        "Grand Dakar Bope",
         "Grand Dakar"
     ],
     "qs:gn_adm0_cc":"SN",
@@ -70,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":31,
     "wof:belongsto":[
         85676997,
@@ -82,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2251339,
         "gp:id":1413411,
-        "qs:id":1034547,
+        "qs_pg:id":1034547,
         "wd:id":"Q3113582",
         "wk:page":"Grand Dakar"
     },
@@ -102,7 +100,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563271441,
+    "wof:lastmodified":1566648188,
     "wof:name":"Grand Dakar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

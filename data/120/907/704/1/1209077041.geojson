@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.79536,16.59049,-14.75536,16.63049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lougu\u00e9r\u00e9 Bara",
         "Lougu\u00e9r\u00e9 Baba"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209077041,
-    "wof:lastmodified":1537701060,
+    "wof:lastmodified":1566648438,
     "wof:name":"Louguere Baba",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

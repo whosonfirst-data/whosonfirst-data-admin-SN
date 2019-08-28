@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.94783,13.37218,-12.90783,13.41218",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343457767,
-    "wof:lastmodified":1536749959,
+    "wof:lastmodified":1566648161,
     "wof:name":"Difourou",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

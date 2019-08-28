@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.90696,13.87208,-12.86696,13.91208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dakhdoungal",
         "Dakadougal"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276584215,
-    "wof:lastmodified":1537701140,
+    "wof:lastmodified":1566648350,
     "wof:name":"Dakadougal",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.43667,12.49667,-16.39667,12.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dil\u00e9k\u00e9noum",
         "Di\u00e9l\u00e9k\u00e9noum"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326907667,
-    "wof:lastmodified":1537701125,
+    "wof:lastmodified":1566648017,
     "wof:name":"Dielekenoum",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

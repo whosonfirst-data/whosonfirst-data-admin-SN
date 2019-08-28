@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.34722,15.79361,-16.30722,15.83361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mboyo Gom\u00e8ne",
         "Ngom\u00e8ne"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193249899,
-    "wof:lastmodified":1537701019,
+    "wof:lastmodified":1566648560,
     "wof:name":"Ngomene",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.37,12.74667,-16.33,12.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Et\u00e9kom",
         "Et\u00e9kome"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242960365,
-    "wof:lastmodified":1537701113,
+    "wof:lastmodified":1566648936,
     "wof:name":"Etekome",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

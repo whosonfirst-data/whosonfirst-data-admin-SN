@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.43667,13.14667,-15.39667,13.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sar\u00e9 Birame",
         "Sar\u00e9 Birane"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327400191,
-    "wof:lastmodified":1537700996,
+    "wof:lastmodified":1566647976,
     "wof:name":"Sare Birane",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

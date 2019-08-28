@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.08667,14.79667,-16.04667,14.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Niarhine",
         "Niarh\u00e8ne"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309917237,
-    "wof:lastmodified":1537701014,
+    "wof:lastmodified":1566648779,
     "wof:name":"Niarhene",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.08667,14.51333,-16.04667,14.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2247646
     },
     "wof:country":"SN",
-    "wof:geomhash":"aab6a016f9cf99e2c23366c373b7b982",
+    "wof:geomhash":"a86032a41cb7581f687b8c3e33bac669",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209411131,
-    "wof:lastmodified":1536287834,
+    "wof:lastmodified":1566648474,
     "wof:name":"Ndogka",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.066670000000002,
+    -16.06667,
     14.53333,
-    -16.066670000000002,
+    -16.06667,
     14.53333
 ],
   "geometry": {"coordinates":[-16.06667,14.53333],"type":"Point"}

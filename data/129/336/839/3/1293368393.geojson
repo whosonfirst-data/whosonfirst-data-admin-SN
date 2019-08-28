@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.77,12.76333,-14.73,12.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lingu\u00e9to",
         "L\u00e9ngu\u00e9to"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293368393,
-    "wof:lastmodified":1537701062,
+    "wof:lastmodified":1566648198,
     "wof:name":"Lengueto",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

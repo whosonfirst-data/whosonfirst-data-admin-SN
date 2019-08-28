@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.13667,14.31333,-15.09667,14.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ker-Ndiob\u00e9ne",
         "Keur Ndiob\u00e8ne",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225916661,
-    "wof:lastmodified":1537701065,
+    "wof:lastmodified":1566649129,
     "wof:name":"Kourou Diobene",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

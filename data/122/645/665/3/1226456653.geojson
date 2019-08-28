@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.41599,14.7343,-17.37599,14.7743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dagoudane Pikine"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226456653,
-    "wof:lastmodified":1537701140,
+    "wof:lastmodified":1566649084,
     "wof:name":"Dagoudane",
     "wof:parent_id":421193105,
     "wof:placetype":"locality",

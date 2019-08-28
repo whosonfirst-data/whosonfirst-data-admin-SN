@@ -10,8 +10,12 @@
     "geom:latitude":14.42196,
     "geom:longitude":-16.96375,
     "iso:country":"SN",
+    "lbl:bbox":"-16.98375,14.40196,-16.94375,14.44196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0645\u0628\u0648\u0631"
@@ -73,9 +77,6 @@
     "name:tur_x_preferred":[
         "M'Bour"
     ],
-    "name:unk_x_variant":[
-        "Mbur"
-    ],
     "name:vep_x_preferred":[
         "Mbur"
     ],
@@ -120,7 +121,7 @@
     "wof:concordances":{
         "gn:id":2248477,
         "gp:id":1415539,
-        "qs:id":492862,
+        "qs_pg:id":492862,
         "wd:id":"Q1019431"
     },
     "wof:country":"SN",
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421173173,
-    "wof:lastmodified":1563272232,
+    "wof:lastmodified":1566648825,
     "wof:name":"Mbour",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

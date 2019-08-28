@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.18143,14.67463,-17.14143,14.71463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276766859,
-    "wof:lastmodified":1536695130,
+    "wof:lastmodified":1566648375,
     "wof:name":"Mbounka Bambara",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

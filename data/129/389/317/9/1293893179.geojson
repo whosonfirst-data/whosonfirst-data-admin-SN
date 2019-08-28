@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.24657,14.74791,-17.20657,14.78791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Diarherate",
         "Diakhirate",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293893179,
-    "wof:lastmodified":1537701132,
+    "wof:lastmodified":1566648287,
     "wof:name":"Ndiekhirat Digue",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

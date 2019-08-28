@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.818139,
     "lbl:longitude":-15.923151,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Diourbel",
     "meso:gadm_admin":"Mback\u00e9",
     "meso:gadm_hasc2":"SN.DB.MK",
@@ -30,6 +32,7 @@
     "mps:longitude":-15.923151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Mback\u00e9"
@@ -38,7 +41,7 @@
         "Mbacke",
         "Mback\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u2019Back\u00e9"
     ],
     "qs:gn_country":"SN",
@@ -63,9 +66,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -86,7 +89,7 @@
         "gn:id":2248699,
         "gp:id":56055807,
         "hasc:id":"SN.DB.MK",
-        "qs:id":1063170
+        "qs_pg:id":1063170
     },
     "wof:country":"SN",
     "wof:created":1459009115,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421176669,
-    "wof:lastmodified":1553717366,
+    "wof:lastmodified":1566648831,
     "wof:name":"Mbacke",
     "wof:parent_id":85677001,
     "wof:placetype":"county",

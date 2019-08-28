@@ -12,6 +12,7 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Cap Skirring Airport"
     ],
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":102534475,
-    "wof:lastmodified":1563271263,
+    "wof:lastmodified":1566648048,
     "wof:name":"Cap Skiring Airport",
     "wof:parent_id":85677033,
     "wof:placetype":"campus",

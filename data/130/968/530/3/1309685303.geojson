@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-13.04208,15.41085,-13.00208,15.45085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bloug Pour\u00e9",
         "Bloug"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309685303,
-    "wof:lastmodified":1537701148,
+    "wof:lastmodified":1566648800,
     "wof:name":"Bloug",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

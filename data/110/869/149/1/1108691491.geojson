@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.463559,
     "lbl:longitude":-15.864117,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Fatick",
     "meso:gadm_admin":"Gossas",
     "meso:gadm_hasc2":"SN.FK.GS",
@@ -30,6 +32,7 @@
     "mps:longitude":-15.864117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gossas"
     ],
@@ -61,9 +64,9 @@
         "\u6208\u85a9\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108691491,
-    "wof:lastmodified":1564124132,
+    "wof:lastmodified":1566648643,
     "wof:name":"Gossas",
     "wof:parent_id":85677007,
     "wof:placetype":"county",

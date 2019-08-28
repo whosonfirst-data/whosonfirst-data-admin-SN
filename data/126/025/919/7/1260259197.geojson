@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.7159,15.3687,-15.6759,15.4087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bouli\u00e9rrob\u00e9",
         "Bouti\u00e9rob\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260259197,
-    "wof:lastmodified":1537701144,
+    "wof:lastmodified":1566648597,
     "wof:name":"Boulierobe",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

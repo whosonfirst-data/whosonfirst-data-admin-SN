@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.73667,14.41333,-15.69667,14.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2246920
     },
     "wof:country":"SN",
-    "wof:geomhash":"acc7af36a9d6343203e9bf5e2565cc57",
+    "wof:geomhash":"9b9793e60b78943c2bba4d7baa1b21f7",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209685381,
-    "wof:lastmodified":1536279429,
+    "wof:lastmodified":1566648494,
     "wof:name":"Ouro Sori",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -15.71667,
-    14.433329999999998,
+    14.43333,
     -15.71667,
-    14.433329999999998
+    14.43333
 ],
   "geometry": {"coordinates":[-15.71667,14.43333],"type":"Point"}
 }

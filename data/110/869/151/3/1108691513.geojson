@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.733666,
     "lbl:longitude":-15.959308,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Louga",
     "meso:gadm_admin":"Louga",
     "meso:gadm_hasc2":"SN.LG.LG",
@@ -30,6 +32,7 @@
     "mps:longitude":-15.959308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041b\u0443\u0433\u0430"
     ],
@@ -97,9 +100,9 @@
         "\u76e7\u52a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1108691513,
-    "wof:lastmodified":1564124126,
+    "wof:lastmodified":1566648637,
     "wof:name":"Louga",
     "wof:parent_id":85677015,
     "wof:placetype":"county",

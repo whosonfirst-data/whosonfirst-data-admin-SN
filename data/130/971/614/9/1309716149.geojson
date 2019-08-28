@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.17933,14.69104,-17.13933,14.73104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309716149,
-    "wof:lastmodified":1537057788,
+    "wof:lastmodified":1566648797,
     "wof:name":"Aitia",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

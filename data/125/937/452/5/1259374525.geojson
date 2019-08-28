@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.0985,14.87523,-17.0585,14.91523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u2019Bidjein",
         "Mbidjem",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259374525,
-    "wof:lastmodified":1537701047,
+    "wof:lastmodified":1566648980,
     "wof:name":"Mbidiam Wolof",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.58667,13.04667,-16.54667,13.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2249851
     },
     "wof:country":"SN",
-    "wof:geomhash":"24b801e3ac0a4b57147cf0babb6c4320",
+    "wof:geomhash":"e2e637d49d364d2a474b7a0bc6997dd7",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209401989,
-    "wof:lastmodified":1536288115,
+    "wof:lastmodified":1566648478,
     "wof:name":"Koba Katiou",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.566670000000002,
+    -16.56667,
     13.06667,
-    -16.566670000000002,
+    -16.56667,
     13.06667
 ],
   "geometry": {"coordinates":[-16.56667,13.06667],"type":"Point"}

@@ -11,7 +11,7 @@
     "geom:longitude":-13.633046,
     "gn:country":"SN",
     "gn:fcode":"ADM2",
-    "gn:pop":233179,
+    "gn:population":233179,
     "iso:country":"SN",
     "label:eng_x_preferred_longname":[
         "Matam Department"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":15.750102,
     "lbl:longitude":-13.624842,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Matam",
     "meso:gadm_admin":"Matam",
     "meso:gadm_hasc2":"SN.MT.MT",
@@ -33,6 +35,7 @@
     "mps:longitude":-13.624842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Matam Department"
     ],
@@ -71,9 +74,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":7670870,
         "hasc:id":"SN.MT.MT",
-        "qs:id":696883,
+        "qs_pg:id":696883,
         "wd:id":"Q2085162",
         "wk:page":"Matam Department"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890424907,
-    "wof:lastmodified":1563272249,
+    "wof:lastmodified":1566648832,
     "wof:name":"Matam",
     "wof:parent_id":85677019,
     "wof:placetype":"county",

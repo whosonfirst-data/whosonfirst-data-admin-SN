@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.3339,15.0901,-16.2939,15.1301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sankiou Guemb\u00e9",
         "Nguemmb\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260173255,
-    "wof:lastmodified":1537701018,
+    "wof:lastmodified":1566648623,
     "wof:name":"Ngembe",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

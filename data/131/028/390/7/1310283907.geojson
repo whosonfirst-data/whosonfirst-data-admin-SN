@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.6375,16.17028,-15.5975,16.21028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310283907,
-    "wof:lastmodified":1536738988,
+    "wof:lastmodified":1566648699,
     "wof:name":"Medina Yelour",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

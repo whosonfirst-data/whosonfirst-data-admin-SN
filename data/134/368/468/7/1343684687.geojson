@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.46289,13.35471,-12.42289,13.39471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Galo"
     ],
@@ -47,8 +51,7 @@
         "Galo"
     ],
     "name:und_x_variant":[
-        "Gallo",
-        "Galo"
+        "Gallo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1343684687,
-    "wof:lastmodified":1564123454,
+    "wof:lastmodified":1566648126,
     "wof:name":"Galo",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

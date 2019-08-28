@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.414602,
     "lbl:longitude":-15.527628,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Louga",
     "mps:latitude":15.40358,
     "mps:longitude":-15.442467,
@@ -167,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041b\u0443\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion de Louga"
     ],
     "name:urd_x_preferred":[
@@ -254,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-11-19",
+    "src:population_date":"2013-11-19",
     "statoids:area_km":"29,188",
     "statoids:area_mi":"11,270",
     "statoids:as_of_date":"2013-11-19",
@@ -281,7 +282,7 @@
         "gp:id":2346993,
         "hasc:id":"SN.LG",
         "iso:id":"SN-LG",
-        "qs:id":424016,
+        "qs_pg:id":424016,
         "unlc:id":"SN-LG",
         "wd:id":"Q738061",
         "wk:page":"Louga Region"
@@ -304,7 +305,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1565736648,
+    "wof:lastmodified":1566648186,
     "wof:name":"Louga",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

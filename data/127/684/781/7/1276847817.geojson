@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.19167,12.47306,-16.15167,12.51306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Guidel"
     ],
@@ -101,8 +105,7 @@
     "name:und_x_variant":[
         "Guid\u00e9",
         "Guib\u00e8le",
-        "Guid\u00e8le",
-        "Guidel"
+        "Guid\u00e8le"
     ],
     "name:uzb_x_preferred":[
         "Guidel"
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1276847817,
-    "wof:lastmodified":1564123810,
+    "wof:lastmodified":1566648391,
     "wof:name":"Guidel",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

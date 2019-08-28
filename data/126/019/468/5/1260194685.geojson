@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.50333,14.73,-16.46333,14.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u064a"
     ],
@@ -189,8 +193,7 @@
         "\u0421\u0430\u0440\u0456"
     ],
     "name:und_x_variant":[
-        "Bari",
-        "Sari"
+        "Bari"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0691\u06cc"
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":1260194685,
-    "wof:lastmodified":1564124115,
+    "wof:lastmodified":1566648629,
     "wof:name":"Sari",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

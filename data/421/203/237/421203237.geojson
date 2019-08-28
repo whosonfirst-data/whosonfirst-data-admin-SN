@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.509526,
     "lbl:longitude":-16.282093,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ziguinchor",
     "meso:gadm_admin":"Ziguinchor",
     "meso:gadm_hasc2":"SN.ZG.ZG",
@@ -30,6 +32,7 @@
     "mps:longitude":-16.282093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ziguinchor"
@@ -58,7 +61,7 @@
     "name:spa_x_preferred":[
         "Ziguinchor"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement de Ziguinchor"
     ],
     "name:zho_x_preferred":[
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
         "gn:id":2243943,
         "gp:id":56055816,
         "hasc:id":"SN.ZG.ZG",
-        "qs:id":230302,
+        "qs_pg:id":230302,
         "wd:id":"Q2087556",
         "wk:page":"Ziguinchor Department"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421203237,
-    "wof:lastmodified":1563272229,
+    "wof:lastmodified":1566648823,
     "wof:name":"Ziguinchor",
     "wof:parent_id":85677033,
     "wof:placetype":"county",

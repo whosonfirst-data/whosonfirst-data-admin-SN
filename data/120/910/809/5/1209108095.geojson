@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.50333,14.64667,-16.46333,14.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2246536
     },
     "wof:country":"SN",
-    "wof:geomhash":"168dd9e2658a518696db7272f40fd02c",
+    "wof:geomhash":"acd9524a754fd21e31652116396e7344",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209108095,
-    "wof:lastmodified":1536297499,
+    "wof:lastmodified":1566648542,
     "wof:name":"Rimbarh",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -16.48333,
-    14.666670000000002,
+    14.66667,
     -16.48333,
-    14.666670000000002
+    14.66667
 ],
   "geometry": {"coordinates":[-16.48333,14.66667],"type":"Point"}
 }

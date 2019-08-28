@@ -10,8 +10,12 @@
     "geom:latitude":14.77446,
     "geom:longitude":-17.40212,
     "iso:country":"SN",
+    "lbl:bbox":"-17.42212,14.75446,-17.38212,14.79446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u063a\u064a\u062f\u064a\u0627\u0648\u0627\u064a\u0649"
@@ -169,7 +173,7 @@
     "wof:concordances":{
         "gn:id":2595778,
         "gp:id":29389685,
-        "qs:id":484169,
+        "qs_pg:id":484169,
         "wd:id":"Q1557691",
         "wk:page":"Gu\u00e9diawaye"
     },
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":421181273,
-    "wof:lastmodified":1563272233,
+    "wof:lastmodified":1566648826,
     "wof:name":"Guediawaye",
     "wof:parent_id":890440853,
     "wof:placetype":"locality",

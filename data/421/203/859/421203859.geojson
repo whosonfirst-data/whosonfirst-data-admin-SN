@@ -10,6 +10,9 @@
     "geom:latitude":14.83417,
     "geom:longitude":-17.10611,
     "iso:country":"SN",
+    "lbl:bbox":"-17.12611,14.81417,-17.08611,14.85417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -309,7 +312,7 @@
     "wof:concordances":{
         "gn:id":2244802,
         "gp:id":1418246,
-        "qs:id":235449,
+        "qs_pg:id":235449,
         "wd:id":"Q600693"
     },
     "wof:country":"SN",
@@ -325,7 +328,7 @@
         }
     ],
     "wof:id":421203859,
-    "wof:lastmodified":1563272228,
+    "wof:lastmodified":1566648822,
     "wof:name":"Thi\u00e8s",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

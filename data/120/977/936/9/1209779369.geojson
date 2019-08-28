@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.4226,12.5305,-12.3826,12.5705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Land\u00e9",
         "Land\u00e9 Baytil"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209779369,
-    "wof:lastmodified":1537701063,
+    "wof:lastmodified":1566648466,
     "wof:name":"Lande Baytil",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

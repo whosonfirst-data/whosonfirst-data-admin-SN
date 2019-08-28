@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.39562,14.65216,-12.35562,14.69216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sarre"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1310110671,
-    "wof:lastmodified":1564124199,
+    "wof:lastmodified":1566648693,
     "wof:name":"Sarre",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

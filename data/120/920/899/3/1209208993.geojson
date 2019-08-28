@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.68667,13.61333,-15.64667,13.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2243960
     },
     "wof:country":"SN",
-    "wof:geomhash":"ee815bab60d1091c133a50e76b902dac",
+    "wof:geomhash":"a290d66938ff7b09cb4840053b9a3173",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209208993,
-    "wof:lastmodified":1536294353,
+    "wof:lastmodified":1566648522,
     "wof:name":"Yongo",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.666670000000002,
+    -15.66667,
     13.63333,
-    -15.666670000000002,
+    -15.66667,
     13.63333
 ],
   "geometry": {"coordinates":[-15.66667,13.63333],"type":"Point"}

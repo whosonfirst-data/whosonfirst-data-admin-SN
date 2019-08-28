@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.8497,15.5184,-15.8097,15.5584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Bouli"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1310577663,
-    "wof:lastmodified":1564124235,
+    "wof:lastmodified":1566648721,
     "wof:name":"Bouli",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.4471,15.1312,-15.4071,15.1712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343540737,
-    "wof:lastmodified":1536628720,
+    "wof:lastmodified":1566648055,
     "wof:name":"Kadiel",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

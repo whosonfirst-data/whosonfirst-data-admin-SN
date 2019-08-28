@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.886539,
     "lbl:longitude":-15.578212,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"S\u00e9dhiou",
     "mps:latitude":13.009217,
     "mps:longitude":-15.644098,
@@ -188,9 +189,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-11-19",
+    "src:population_date":"2013-11-19",
     "statoids:area_km":"7,293",
     "statoids:area_mi":"2,816",
     "statoids:as_of_date":"2013-11-19",
@@ -215,7 +216,7 @@
         "gp:id":2346996,
         "hasc:id":"SN.SD",
         "iso:id":"SN-SE",
-        "qs:id":894990,
+        "qs_pg:id":894990,
         "unlc:id":"SN-SE",
         "wd:id":"Q738081",
         "wk:page":"S\u00e9dhiou Region"
@@ -238,7 +239,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1565736649,
+    "wof:lastmodified":1566648188,
     "wof:name":"Sedhiou",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.380246,
     "lbl:longitude":-15.550721,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kaffrine",
     "meso:gadm_admin":"Kaffrine",
     "meso:gadm_hasc2":"SN.KF.KF",
@@ -30,6 +32,7 @@
     "mps:longitude":-15.550721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kaffrine"
     ],
@@ -82,9 +85,9 @@
         "\u5361\u592b\u6797"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108691481,
-    "wof:lastmodified":1564124127,
+    "wof:lastmodified":1566648638,
     "wof:name":"Kaffrine",
     "wof:parent_id":85676989,
     "wof:placetype":"county",

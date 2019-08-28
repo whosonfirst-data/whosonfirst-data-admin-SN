@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.15907,14.83863,-17.11907,14.87863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Berr Tialane",
         "Berr Kalane",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310102409,
-    "wof:lastmodified":1537701150,
+    "wof:lastmodified":1566648704,
     "wof:name":"Ber Tialane",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

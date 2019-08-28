@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.4847,12.7286,-12.4447,12.7686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310381683,
-    "wof:lastmodified":1537092391,
+    "wof:lastmodified":1566648660,
     "wof:name":"Soukouta",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

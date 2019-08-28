@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.63667,14.53,-16.59667,14.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mbalkam",
         "Balkam"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226137265,
-    "wof:lastmodified":1537701157,
+    "wof:lastmodified":1566649136,
     "wof:name":"Balkam",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

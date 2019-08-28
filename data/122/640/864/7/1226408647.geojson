@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.60361,12.64694,-15.56361,12.68694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226408647,
-    "wof:lastmodified":1536699347,
+    "wof:lastmodified":1566649146,
     "wof:name":"Bounkili Diola",
     "wof:parent_id":1108691459,
     "wof:placetype":"locality",

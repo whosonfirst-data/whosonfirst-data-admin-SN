@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.02167,16.02722,-15.98167,16.06722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ndimbou",
         "Ndinbou"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243533433,
-    "wof:lastmodified":1537701028,
+    "wof:lastmodified":1566648848,
     "wof:name":"Ndinbou",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

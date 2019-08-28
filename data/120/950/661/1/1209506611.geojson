@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.83667,14.38,-16.79667,14.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2245122
     },
     "wof:country":"SN",
-    "wof:geomhash":"bdbea83b6659bb71e19e7d98357fd19d",
+    "wof:geomhash":"c8f0185a3920bf6573684167262f9990",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209506611,
-    "wof:lastmodified":1536285015,
+    "wof:lastmodified":1566648492,
     "wof:name":"Soussane",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.816670000000002,
+    -16.81667,
     14.4,
-    -16.816670000000002,
+    -16.81667,
     14.4
 ],
   "geometry": {"coordinates":[-16.81667,14.4],"type":"Point"}

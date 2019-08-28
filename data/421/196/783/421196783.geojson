@@ -10,8 +10,12 @@
     "geom:latitude":15.3,
     "geom:longitude":-13.96667,
     "iso:country":"SN",
+    "lbl:bbox":"-13.98667,15.28,-13.94667,15.32",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ran\u00e9rou"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":2246585,
         "gp:id":1416913,
-        "qs:id":1298255,
+        "qs_pg:id":1298255,
         "wd:id":"Q3419053"
     },
     "wof:country":"SN",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421196783,
-    "wof:lastmodified":1563272235,
+    "wof:lastmodified":1566648826,
     "wof:name":"Ran\u00e9rou",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

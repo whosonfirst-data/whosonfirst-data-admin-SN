@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.42528,12.62444,-16.38528,12.66444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boutem",
         "Bout\u00e8me"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209401993,
-    "wof:lastmodified":1537701142,
+    "wof:lastmodified":1566648479,
     "wof:name":"Bouteme",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

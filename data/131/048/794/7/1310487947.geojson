@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.08,15.4419,-15.04,15.4819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kadji Tiongo",
         "Tiongo Kadia"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310487947,
-    "wof:lastmodified":1537701092,
+    "wof:lastmodified":1566648648,
     "wof:name":"Tiongo Kadia",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

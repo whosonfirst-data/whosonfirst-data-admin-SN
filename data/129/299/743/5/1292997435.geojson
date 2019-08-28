@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.08468,14.51817,-17.04468,14.55817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sere"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1292997435,
-    "wof:lastmodified":1564123658,
+    "wof:lastmodified":1566648276,
     "wof:name":"Sere",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.68667,13.78,-14.64667,13.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2245781
     },
     "wof:country":"SN",
-    "wof:geomhash":"72f84fc2752ce92c4e26e1a85f0ddc6e",
+    "wof:geomhash":"8dd90684ab328ed985d8b2f980f94cb2",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209105281,
-    "wof:lastmodified":1536297594,
+    "wof:lastmodified":1566648541,
     "wof:name":"Sare Tiernon",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.666670000000002,
+    -14.66667,
     13.8,
-    -14.666670000000002,
+    -14.66667,
     13.8
 ],
   "geometry": {"coordinates":[-14.66667,13.8],"type":"Point"}

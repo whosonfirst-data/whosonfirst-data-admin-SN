@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.67,14.68,-16.63,14.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ndiay\u00e8ne Sirakhe",
         "Diey\u00e8ne"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344253873,
-    "wof:lastmodified":1537701124,
+    "wof:lastmodified":1566648076,
     "wof:name":"Dieyene",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.16336,16.43136,-14.12336,16.47136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sioure"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209489145,
-    "wof:lastmodified":1564123905,
+    "wof:lastmodified":1566648465,
     "wof:name":"Sioure",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

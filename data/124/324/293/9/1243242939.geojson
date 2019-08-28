@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.2837,15.4833,-15.2437,15.5233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ngouloum T\u00e9gu\u00e9",
         "Ngouloum Teugue"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243242939,
-    "wof:lastmodified":1537701019,
+    "wof:lastmodified":1566648889,
     "wof:name":"Ngouloum Teugue",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

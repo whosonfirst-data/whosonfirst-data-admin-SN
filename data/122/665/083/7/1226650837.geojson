@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.22,13.56333,-14.18,13.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226650837,
-    "wof:lastmodified":1536850955,
+    "wof:lastmodified":1566649183,
     "wof:name":"Sarabakounda",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

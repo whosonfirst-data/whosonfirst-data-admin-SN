@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.37,12.31333,-12.33,12.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Toile-de-Jouy"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209185679,
-    "wof:lastmodified":1564123982,
+    "wof:lastmodified":1566648523,
     "wof:name":"Toile",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.96478,14.01293,-12.92478,14.05293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bode"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1243072435,
-    "wof:lastmodified":1564124376,
+    "wof:lastmodified":1566648836,
     "wof:name":"Bode",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

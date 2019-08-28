@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.196559,
     "lbl:longitude":-13.37528,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Tambacounda",
     "meso:gadm_admin":"Tambacounda",
     "meso:gadm_hasc2":"SN.TB.TC",
@@ -30,6 +32,7 @@
     "mps:longitude":-13.37528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tambacounda Department"
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-12-09",
+    "src:population_date":"2013-12-09",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-12-09",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
         "gn:id":2244993,
         "gp:id":56055827,
         "hasc:id":"SN.TB.TC",
-        "qs:id":1164340,
+        "qs_pg:id":1164340,
         "wd:id":"Q2086236",
         "wk:page":"Tambacounda Department"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421191947,
-    "wof:lastmodified":1563272235,
+    "wof:lastmodified":1566648827,
     "wof:name":"Tambacounda",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

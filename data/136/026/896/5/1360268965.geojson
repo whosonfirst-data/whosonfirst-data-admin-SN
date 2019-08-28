@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.35278,15.91306,-16.31278,15.95306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Amadou Ndiaye",
         "Keur Amadou Diaye",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360268965,
-    "wof:lastmodified":1537701083,
+    "wof:lastmodified":1566648771,
     "wof:name":"Keur Amadou Ndiaye",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

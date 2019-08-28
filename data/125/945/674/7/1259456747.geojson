@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.12587,16.50805,-16.08587,16.54805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khenne",
         "Rhan",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259456747,
-    "wof:lastmodified":1537701002,
+    "wof:lastmodified":1566649052,
     "wof:name":"Gheune",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

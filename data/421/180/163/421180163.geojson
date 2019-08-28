@@ -10,8 +10,12 @@
     "geom:latitude":12.514335,
     "geom:longitude":-16.779144,
     "iso:country":"SN",
+    "lbl:bbox":"-16.799144,12.494335,-16.759144,12.534335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Diemb\u00e9ring"
@@ -54,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1412527,
-        "qs:id":1116472,
+        "qs_pg:id":1116472,
         "wd:id":"Q3027485"
     },
     "wof:country":"SN",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421180163,
-    "wof:lastmodified":1561843861,
+    "wof:lastmodified":1566648824,
     "wof:name":"Diemb\u00e9ring",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

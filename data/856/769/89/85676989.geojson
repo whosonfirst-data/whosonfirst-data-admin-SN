@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.206202,
     "lbl:longitude":-15.181715,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Kaffrine",
     "mps:latitude":14.199635,
     "mps:longitude":-15.198703,
@@ -190,9 +191,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-11-19",
+    "src:population_date":"2013-11-19",
     "statoids:area_km":"11,853",
     "statoids:area_mi":"4,576",
     "statoids:as_of_date":"2013-11-19",
@@ -217,7 +218,7 @@
         "gp:id":56055612,
         "hasc:id":"SN.KF",
         "iso:id":"SN-KA",
-        "qs:id":230300,
+        "qs_pg:id":230300,
         "unlc:id":"SN-KA",
         "wd:id":"Q1059694",
         "wk:page":"Kaffrine Region"
@@ -240,7 +241,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1565736648,
+    "wof:lastmodified":1566648187,
     "wof:name":"Kaffrine",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-17.17037,14.74696,-17.13037,14.78696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ker Ahdou N\u2019Doye",
         "Ndoy\u00e8ne I",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293797697,
-    "wof:lastmodified":1537701024,
+    "wof:lastmodified":1566648221,
     "wof:name":"Ndoyene Un",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

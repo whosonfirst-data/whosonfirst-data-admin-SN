@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-12.95185,15.22386,-12.91185,15.26386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309776391,
-    "wof:lastmodified":1536973168,
+    "wof:lastmodified":1566648787,
     "wof:name":"Gassamberi",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

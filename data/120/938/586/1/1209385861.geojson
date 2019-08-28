@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.29861,16.17972,-16.25861,16.21972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2245723
     },
     "wof:country":"SN",
-    "wof:geomhash":"eade14919e735ba70f2799d778cef4ae",
+    "wof:geomhash":"1e108a5274d831573943eff31118d260",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209385861,
-    "wof:lastmodified":1536288627,
+    "wof:lastmodified":1566648436,
     "wof:name":"Savoigne",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -16.27861,
-    16.199720000000006,
+    16.19972000000001,
     -16.27861,
-    16.199720000000006
+    16.19972000000001
 ],
   "geometry": {"coordinates":[-16.27861,16.19972000000001],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-13.53623,16.09099,-13.49623,16.13099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260252731,
-    "wof:lastmodified":1536753634,
+    "wof:lastmodified":1566648595,
     "wof:name":"Dial Foulbe",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

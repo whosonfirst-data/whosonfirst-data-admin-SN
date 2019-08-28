@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-14.77,13.31333,-14.73,13.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632365
@@ -34,7 +38,7 @@
         "gn:id":2246325
     },
     "wof:country":"SN",
-    "wof:geomhash":"99bb432615a76ff72a9bba50639a7512",
+    "wof:geomhash":"245cef7af555868c2d1441004ce3471e",
     "wof:hierarchy":[
         {
             "country_id":85632365,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209693981,
-    "wof:lastmodified":1536279140,
+    "wof:lastmodified":1566648508,
     "wof:name":"Sam Gueyene",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -14.75,
-    13.333329999999998,
+    13.33333,
     -14.75,
-    13.333329999999998
+    13.33333
 ],
   "geometry": {"coordinates":[-14.75,13.33333],"type":"Point"}
 }

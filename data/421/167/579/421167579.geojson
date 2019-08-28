@@ -10,8 +10,12 @@
     "geom:latitude":15.4916,
     "geom:longitude":-13.17627,
     "iso:country":"SN",
+    "lbl:bbox":"-13.19627,15.4716,-13.15627,15.5116",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Kanel"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Kanel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karel"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2250849,
         "gp:id":1413763,
-        "qs:id":139190,
+        "qs_pg:id":139190,
         "wd:id":"Q3192625"
     },
     "wof:country":"SN",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421167579,
-    "wof:lastmodified":1563272227,
+    "wof:lastmodified":1566648822,
     "wof:name":"Kanel",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

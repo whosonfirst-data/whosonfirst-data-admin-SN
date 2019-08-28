@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.17,13.98,-15.13,14.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00e9yane",
         "S\u00e9vane"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260252021,
-    "wof:lastmodified":1537700992,
+    "wof:lastmodified":1566648595,
     "wof:name":"Sevane",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

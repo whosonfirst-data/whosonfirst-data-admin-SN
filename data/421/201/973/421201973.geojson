@@ -10,8 +10,12 @@
     "geom:latitude":14.72503,
     "geom:longitude":-17.27088,
     "iso:country":"SN",
+    "lbl:bbox":"-17.29088,14.70503,-17.25088,14.74503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0631\u0648\u0641\u064a\u0633\u0643"
@@ -192,7 +196,7 @@
     "wof:concordances":{
         "gn:id":2246512,
         "gp:id":1416964,
-        "qs:id":1352854,
+        "qs_pg:id":1352854,
         "wd:id":"Q1019424",
         "wk:page":"Rufisque"
     },
@@ -209,7 +213,7 @@
         }
     ],
     "wof:id":421201973,
-    "wof:lastmodified":1563272242,
+    "wof:lastmodified":1566648829,
     "wof:name":"Rufisque",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.5805,15.1601,-15.5405,15.2001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ndia\u00e8ne Doulel",
         "Ndiay\u00e8ne Doulel"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343640869,
-    "wof:lastmodified":1537701036,
+    "wof:lastmodified":1566648071,
     "wof:name":"Ndiayene Doulel",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

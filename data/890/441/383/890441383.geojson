@@ -11,11 +11,15 @@
     "geom:longitude":-16.41667,
     "gn:country":"SN",
     "gn:fcode":"PPL",
-    "gn:pop":24146,
+    "gn:population":24146,
     "iso:country":"SN",
+    "lbl:bbox":"-16.43667,14.33,-16.39667,14.37",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Poukham"
     ],
     "qs:name":"Pourham",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2246608,
         "gp:id":1413007,
-        "qs:id":278310
+        "qs_pg:id":278310
     },
     "wof:country":"SN",
     "wof:created":1469052321,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441383,
-    "wof:lastmodified":1505343582,
+    "wof:lastmodified":1566648832,
     "wof:name":"Pourham",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

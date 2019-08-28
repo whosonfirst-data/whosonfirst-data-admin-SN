@@ -11,11 +11,15 @@
     "geom:longitude":-14.10165,
     "gn:country":"SN",
     "gn:fcode":"PPL",
-    "gn:pop":5461,
+    "gn:population":5461,
     "iso:country":"SN",
+    "lbl:bbox":"-14.12165,16.23574,-14.08165,16.27574",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Goll\u00e9r\u00e9"
     ],
     "qs:name":"Gol\u00e9r\u00e9",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2251544,
         "gp:id":1413264,
-        "qs:id":1034548
+        "qs_pg:id":1034548
     },
     "wof:country":"SN",
     "wof:created":1469052136,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437057,
-    "wof:lastmodified":1505343557,
+    "wof:lastmodified":1566648833,
     "wof:name":"Gol\u00e9r\u00e9",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

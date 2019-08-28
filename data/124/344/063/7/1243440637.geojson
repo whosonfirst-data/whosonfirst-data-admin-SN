@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.6194,15.685,-15.5794,15.725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Diah\u00e9n-Dakar",
         "N\u2019Dia\u00efen-Dakar",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243440637,
-    "wof:lastmodified":1537701031,
+    "wof:lastmodified":1566648959,
     "wof:name":"Ndiayene",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

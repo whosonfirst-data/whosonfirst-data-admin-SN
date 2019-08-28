@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-15.949,15.5752,-15.909,15.6152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343338073,
-    "wof:lastmodified":1536923676,
+    "wof:lastmodified":1566648144,
     "wof:name":"Tonguel Peul",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

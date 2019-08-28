@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dakar",
     "iso:country":"SN",
+    "lbl:bbox":"-16.40333,15.11333,-16.36333,15.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0644\u064a"
     ],
@@ -36,8 +40,7 @@
         "Killi"
     ],
     "name:und_x_variant":[
-        "Killi Sat\u00e9",
-        "Killi"
+        "Killi Sat\u00e9"
     ],
     "name:vie_x_preferred":[
         "Killi"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1243475467,
-    "wof:lastmodified":1564124461,
+    "wof:lastmodified":1566648897,
     "wof:name":"Killi",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",
