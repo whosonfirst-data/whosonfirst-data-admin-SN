@@ -224,6 +224,9 @@
         "wk:page":"Kaffrine Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0edda9279e41330d572692d2297ea946",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648187,
+    "wof:lastmodified":1582317835,
     "wof:name":"Kaffrine",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -92,6 +92,9 @@
     },
     "wof:country":"SN",
     "wof:created":1459009529,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ee86f393bd381813322c339ce7414e24",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421187969,
-    "wof:lastmodified":1566648825,
+    "wof:lastmodified":1582317845,
     "wof:name":"Foundiougne",
     "wof:parent_id":85677007,
     "wof:placetype":"county",

@@ -85,6 +85,9 @@
         "wk:page":"Grand Dakar"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8218fe93ee9507d0de3e39217f902e0d",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566648188,
+    "wof:lastmodified":1582317836,
     "wof:name":"Grand Dakar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

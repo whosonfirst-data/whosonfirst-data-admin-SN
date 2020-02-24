@@ -93,6 +93,9 @@
     },
     "wof:country":"SN",
     "wof:created":1459009115,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17a88dde29be4f84520aaa413cd4bd7b",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421176669,
-    "wof:lastmodified":1566648831,
+    "wof:lastmodified":1582317845,
     "wof:name":"Mbacke",
     "wof:parent_id":85677001,
     "wof:placetype":"county",

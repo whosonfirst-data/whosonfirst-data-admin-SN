@@ -222,6 +222,9 @@
         "wk:page":"S\u00e9dhiou Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"73cd0484c3b337160785cf4a8573f429",
     "wof:hierarchy":[
         {
@@ -239,7 +242,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648188,
+    "wof:lastmodified":1582317836,
     "wof:name":"Sedhiou",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

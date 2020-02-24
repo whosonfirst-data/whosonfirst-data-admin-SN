@@ -119,6 +119,9 @@
     },
     "wof:country":"SN",
     "wof:created":1459010144,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35ca5de8a807060174d3299e19d24a36",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421203235,
-    "wof:lastmodified":1566648822,
+    "wof:lastmodified":1582317844,
     "wof:name":"Bignona",
     "wof:parent_id":85677033,
     "wof:placetype":"county",

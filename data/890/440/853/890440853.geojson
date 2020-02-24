@@ -199,6 +199,9 @@
     },
     "wof:country":"SN",
     "wof:created":1469052299,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8885d49c96ed69d03b584c53dc96c8de",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":890440853,
-    "wof:lastmodified":1566648832,
+    "wof:lastmodified":1582317845,
     "wof:name":"Guediewaye",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

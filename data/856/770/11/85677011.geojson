@@ -219,6 +219,9 @@
         "wk:page":"Kaolack Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69fafa1105395266a72ac773e7c920ec",
     "wof:hierarchy":[
         {
@@ -236,7 +239,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648185,
+    "wof:lastmodified":1582317835,
     "wof:name":"Kaolack",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

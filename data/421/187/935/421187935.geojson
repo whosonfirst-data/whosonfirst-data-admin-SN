@@ -215,6 +215,9 @@
     },
     "wof:country":"SN",
     "wof:created":1459009528,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0afbc6be3d7660f88b46496fb2f9d6d8",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421187935,
-    "wof:lastmodified":1566648825,
+    "wof:lastmodified":1582317844,
     "wof:name":"Fatick",
     "wof:parent_id":85677007,
     "wof:placetype":"county",

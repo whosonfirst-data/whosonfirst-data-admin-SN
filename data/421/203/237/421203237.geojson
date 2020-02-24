@@ -121,6 +121,9 @@
     },
     "wof:country":"SN",
     "wof:created":1459010144,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f4ff9d8c79d0b48d3a9797c8626f3c2",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421203237,
-    "wof:lastmodified":1566648823,
+    "wof:lastmodified":1582317844,
     "wof:name":"Ziguinchor",
     "wof:parent_id":85677033,
     "wof:placetype":"county",
