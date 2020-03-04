@@ -948,6 +948,11 @@
     },
     "wof:country":"SN",
     "wof:country_alpha3":"SEN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"84a385691ebed314661e526b5b99890f",
     "wof:hierarchy":[
         {
@@ -964,7 +969,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648182,
+    "wof:lastmodified":1582317833,
     "wof:name":"Senegal",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

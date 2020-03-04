@@ -232,6 +232,9 @@
         "wk:page":"K\u00e9dougou Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"60d16b32b6aab9a4beec7adf444eaf9f",
     "wof:hierarchy":[
         {
@@ -249,7 +252,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648188,
+    "wof:lastmodified":1582317836,
     "wof:name":"Kedougou",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

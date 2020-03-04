@@ -234,6 +234,9 @@
         "wk:page":"Kolda Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e8aa426a872243779149ad1a12adefe",
     "wof:hierarchy":[
         {
@@ -251,7 +254,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648185,
+    "wof:lastmodified":1582317835,
     "wof:name":"Kolda",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

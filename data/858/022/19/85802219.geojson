@@ -88,6 +88,9 @@
         "qs_pg:id":496844
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"de06faa7457e051d5536a15241aecdc8",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566648189,
+    "wof:lastmodified":1582317836,
     "wof:name":"Bel-Air",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -115,6 +115,9 @@
     },
     "wof:country":"SN",
     "wof:created":1459009715,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f93c283eee3524ac4458b81fa15a283",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421191947,
-    "wof:lastmodified":1566648827,
+    "wof:lastmodified":1582317845,
     "wof:name":"Tambacounda",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

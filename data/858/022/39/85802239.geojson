@@ -76,6 +76,9 @@
         "qs:id":1175249
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb972f790c9ff25fb1f28e168c3e2b50",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379462,
+    "wof:lastmodified":1582317836,
     "wof:name":"Point E",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -294,6 +294,9 @@
         "wk:page":"Ziguinchor Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"791a74d3f66e640684f1f6a07b007397",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648184,
+    "wof:lastmodified":1582317834,
     "wof:name":"Ziguinchor",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -278,6 +278,9 @@
         "wk:page":"Fatick Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"71a93284d27330b56dcb0d5862bf232e",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648186,
+    "wof:lastmodified":1582317835,
     "wof:name":"Fatick",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

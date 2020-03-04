@@ -113,6 +113,9 @@
         "wk:page":"M\u00e9dina, Dakar"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1759407a83e980fbff5d5312a5f678b7",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566648188,
+    "wof:lastmodified":1582317836,
     "wof:name":"M\u00e9dina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

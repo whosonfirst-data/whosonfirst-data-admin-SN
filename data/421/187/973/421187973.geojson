@@ -112,6 +112,9 @@
     },
     "wof:country":"SN",
     "wof:created":1459009529,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e4feb3bc2b96763ee9af620b5db988fe",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421187973,
-    "wof:lastmodified":1566648825,
+    "wof:lastmodified":1582317845,
     "wof:name":"Dagana",
     "wof:parent_id":85676993,
     "wof:placetype":"county",

@@ -282,6 +282,9 @@
         "wk:page":"Diourbel Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"95c8e5d0c7ed2d41e729c66f12ea92cc",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648186,
+    "wof:lastmodified":1582317835,
     "wof:name":"Diourbel",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

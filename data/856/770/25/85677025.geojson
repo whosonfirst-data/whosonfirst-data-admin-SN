@@ -284,6 +284,9 @@
         "wk:page":"Thi\u00e8s Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9f1aaaf4e5763f072f0e9a6b567469b8",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648187,
+    "wof:lastmodified":1582317835,
     "wof:name":"Thies",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

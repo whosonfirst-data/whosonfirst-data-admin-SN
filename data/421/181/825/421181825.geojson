@@ -185,6 +185,9 @@
     },
     "wof:country":"SN",
     "wof:created":1459009308,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66ab4dd92d57f52cba120b220b3cf555",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421181825,
-    "wof:lastmodified":1566648826,
+    "wof:lastmodified":1582317845,
     "wof:name":"Kaolack",
     "wof:parent_id":85677011,
     "wof:placetype":"county",

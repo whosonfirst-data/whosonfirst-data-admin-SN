@@ -103,6 +103,9 @@
     },
     "wof:country":"SN",
     "wof:created":1469051568,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86b528b4bec9c903591bd7c31efe6c50",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890424907,
-    "wof:lastmodified":1566648832,
+    "wof:lastmodified":1582317845,
     "wof:name":"Matam",
     "wof:parent_id":85677019,
     "wof:placetype":"county",

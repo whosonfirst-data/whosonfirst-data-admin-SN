@@ -75,6 +75,9 @@
         "qs_pg:id":1116541
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"24d4f47bf271434cdd7501c9dada3f95",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566648189,
+    "wof:lastmodified":1582317836,
     "wof:name":"Soumb\u00e9dioune",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

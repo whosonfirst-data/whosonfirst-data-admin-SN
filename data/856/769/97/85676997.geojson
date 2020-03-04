@@ -289,6 +289,9 @@
         "wk:page":"Dakar Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3881955685ba81c19c92b25a47ac1a90",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648187,
+    "wof:lastmodified":1582317835,
     "wof:name":"Dakar",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

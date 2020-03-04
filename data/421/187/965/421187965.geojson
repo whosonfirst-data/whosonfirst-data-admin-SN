@@ -82,6 +82,9 @@
     },
     "wof:country":"SN",
     "wof:created":1459009529,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a34e15241f07d9c380e6c133d45b815",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421187965,
-    "wof:lastmodified":1537303681,
+    "wof:lastmodified":1582317844,
     "wof:name":"Dakar",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

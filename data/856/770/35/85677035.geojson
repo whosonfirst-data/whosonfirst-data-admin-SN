@@ -226,6 +226,9 @@
         "wk:page":"Tambacounda Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b4fcf8f9bce768be7e8eac6855885b1",
     "wof:hierarchy":[
         {
@@ -243,7 +246,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648184,
+    "wof:lastmodified":1582317834,
     "wof:name":"Tambacounda",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

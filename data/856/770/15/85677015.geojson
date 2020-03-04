@@ -288,6 +288,9 @@
         "wk:page":"Louga Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f80a223342436d6d400fa9da4d963b0",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648186,
+    "wof:lastmodified":1582317835,
     "wof:name":"Louga",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

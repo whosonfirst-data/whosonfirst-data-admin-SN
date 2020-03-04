@@ -119,6 +119,9 @@
     },
     "wof:country":"SN",
     "wof:created":1459009529,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2d66c30e14e75372e4a7a3884862488",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421187971,
-    "wof:lastmodified":1566648824,
+    "wof:lastmodified":1582317844,
     "wof:name":"Oussouye",
     "wof:parent_id":85677033,
     "wof:placetype":"county",

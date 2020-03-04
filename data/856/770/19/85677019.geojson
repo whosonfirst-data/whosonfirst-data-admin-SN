@@ -222,6 +222,9 @@
         "wk:page":"Matam Region"
     },
     "wof:country":"SN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fda323280b2f7206b748acd98c63cd63",
     "wof:hierarchy":[
         {
@@ -239,7 +242,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1566648186,
+    "wof:lastmodified":1582317835,
     "wof:name":"Matam",
     "wof:parent_id":85632365,
     "wof:placetype":"region",
