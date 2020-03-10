@@ -924,9 +924,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Senegal",
-        "digitalenvoy:country_code":[
-            686
-        ],
+        "digitalenvoy:country_code":686,
         "fb:id":"en.senegal",
         "fifa:id":"SEN",
         "fips:code":"SG",
@@ -972,7 +970,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1583529220,
+    "wof:lastmodified":1583797429,
     "wof:name":"Senegal",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
