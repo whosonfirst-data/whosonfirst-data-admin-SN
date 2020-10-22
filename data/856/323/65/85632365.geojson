@@ -9,7 +9,6 @@
     "geom:bbox":"-17.546278,12.307289,-11.348607,16.693054",
     "geom:latitude":14.36242,
     "geom:longitude":-14.467137,
-    "gn:id":"",
     "gn:population":12323252,
     "iso:country":"SN",
     "itu:country_code":[
@@ -1027,7 +1026,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1587427905,
+    "wof:lastmodified":1603245499,
     "wof:name":"Senegal",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

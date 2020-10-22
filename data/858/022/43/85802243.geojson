@@ -9,7 +9,6 @@
     "geom:bbox":"-17.472581,14.656659,-17.472581,14.656659",
     "geom:latitude":14.656659,
     "geom:longitude":-17.472581,
-    "gn:id":"",
     "iso:country":"SN",
     "lbl:bbox":"-17.477581,14.651659,-17.467581,14.661659",
     "lbl:latitude":14.656659,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85802243,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582317836,
+    "wof:lastmodified":1603245500,
     "wof:name":"Soumb\u00e9dioune",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
