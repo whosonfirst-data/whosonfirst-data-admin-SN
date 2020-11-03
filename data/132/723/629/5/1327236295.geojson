@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327236295,
-    "wof:lastmodified":1566647983,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766170,
     "wof:name":"Dar Salam",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

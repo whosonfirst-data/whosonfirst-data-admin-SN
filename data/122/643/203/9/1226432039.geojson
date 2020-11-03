@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1226432039,
-    "wof:lastmodified":1566649077,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766460,
     "wof:name":"Kaili",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1193255509,
-    "wof:lastmodified":1566648569,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766327,
     "wof:name":"Sindialong",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1210002901,
-    "wof:lastmodified":1566648547,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766320,
     "wof:name":"Thiarene",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

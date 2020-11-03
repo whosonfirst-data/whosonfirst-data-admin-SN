@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1209809129,
-    "wof:lastmodified":1566648528,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766317,
     "wof:name":"Soukoto",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

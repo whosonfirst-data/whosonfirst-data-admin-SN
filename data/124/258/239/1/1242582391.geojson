@@ -88,7 +88,15 @@
         }
     ],
     "wof:id":1242582391,
-    "wof:lastmodified":1566648883,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766414,
     "wof:name":"Kayan",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

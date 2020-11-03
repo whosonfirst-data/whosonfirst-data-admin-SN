@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1310107795,
-    "wof:lastmodified":1566648704,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766367,
     "wof:name":"Keur Samba Gaye",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

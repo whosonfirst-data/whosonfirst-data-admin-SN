@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327001605,
-    "wof:lastmodified":1566647932,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766155,
     "wof:name":"Kobokoto",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

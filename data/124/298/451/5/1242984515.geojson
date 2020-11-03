@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1242984515,
-    "wof:lastmodified":1566648935,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766427,
     "wof:name":"Gorom Un",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

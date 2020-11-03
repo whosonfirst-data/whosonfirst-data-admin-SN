@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1276520721,
-    "wof:lastmodified":1566648398,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766297,
     "wof:name":"Wassa Code Mbaila",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

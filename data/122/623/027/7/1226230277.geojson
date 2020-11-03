@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226230277,
-    "wof:lastmodified":1566649149,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766477,
     "wof:name":"Sare Yoro Balde",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

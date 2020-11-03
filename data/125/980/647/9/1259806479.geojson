@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259806479,
-    "wof:lastmodified":1566649051,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766454,
     "wof:name":"Binguil",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

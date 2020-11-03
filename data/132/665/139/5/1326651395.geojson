@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326651395,
-    "wof:lastmodified":1566648026,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766184,
     "wof:name":"Gouli",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

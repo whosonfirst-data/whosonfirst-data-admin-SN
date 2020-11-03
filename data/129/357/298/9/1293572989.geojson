@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293572989,
-    "wof:lastmodified":1566648253,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766252,
     "wof:name":"Kaossa",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

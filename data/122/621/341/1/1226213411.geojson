@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226213411,
-    "wof:lastmodified":1566649081,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766461,
     "wof:name":"Ndiao",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

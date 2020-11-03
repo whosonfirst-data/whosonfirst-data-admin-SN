@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260274891,
-    "wof:lastmodified":1566648616,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766341,
     "wof:name":"Darou Sow",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226608259,
-    "wof:lastmodified":1566649110,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766468,
     "wof:name":"Valikounda",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

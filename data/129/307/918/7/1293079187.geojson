@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293079187,
-    "wof:lastmodified":1566648192,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766233,
     "wof:name":"Sare Demba So",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

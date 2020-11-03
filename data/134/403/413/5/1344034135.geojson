@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344034135,
-    "wof:lastmodified":1566648151,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766222,
     "wof:name":"Niou Sogui",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

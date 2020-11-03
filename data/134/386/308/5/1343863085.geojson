@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343863085,
-    "wof:lastmodified":1566648173,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766229,
     "wof:name":"Boinguel",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

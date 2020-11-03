@@ -178,7 +178,15 @@
         }
     ],
     "wof:id":421167577,
-    "wof:lastmodified":1566648822,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766398,
     "wof:name":"Koungheul",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

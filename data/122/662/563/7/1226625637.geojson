@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226625637,
-    "wof:lastmodified":1566649180,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766485,
     "wof:name":"Diakhate",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

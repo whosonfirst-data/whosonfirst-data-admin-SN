@@ -89,7 +89,15 @@
         }
     ],
     "wof:id":85802243,
-    "wof:lastmodified":1603245500,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766232,
     "wof:name":"Soumb\u00e9dioune",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

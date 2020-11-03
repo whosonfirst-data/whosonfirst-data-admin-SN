@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259670869,
-    "wof:lastmodified":1566649039,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766451,
     "wof:name":"Kailen",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

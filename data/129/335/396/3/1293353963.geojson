@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293353963,
-    "wof:lastmodified":1566648254,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766252,
     "wof:name":"Kelimbou",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

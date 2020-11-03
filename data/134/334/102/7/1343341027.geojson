@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343341027,
-    "wof:lastmodified":1566648140,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766219,
     "wof:name":"Ndiayene",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

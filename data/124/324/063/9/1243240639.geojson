@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243240639,
-    "wof:lastmodified":1566648889,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766416,
     "wof:name":"Banbadinnka",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

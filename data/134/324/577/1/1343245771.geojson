@@ -107,7 +107,15 @@
         }
     ],
     "wof:id":1343245771,
-    "wof:lastmodified":1566648108,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766208,
     "wof:name":"Dia",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

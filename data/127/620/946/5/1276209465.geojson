@@ -301,7 +301,15 @@
         }
     ],
     "wof:id":1276209465,
-    "wof:lastmodified":1566648342,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766281,
     "wof:name":"Navel",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

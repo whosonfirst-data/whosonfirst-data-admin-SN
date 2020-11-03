@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1293271613,
-    "wof:lastmodified":1566648282,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766262,
     "wof:name":"Mbayene Ndjoudam",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

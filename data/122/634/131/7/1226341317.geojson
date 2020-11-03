@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226341317,
-    "wof:lastmodified":1566649099,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766466,
     "wof:name":"Kanhanbe",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344037085,
-    "wof:lastmodified":1566648151,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766222,
     "wof:name":"Samba-Sembe",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

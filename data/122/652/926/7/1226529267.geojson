@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226529267,
-    "wof:lastmodified":1566649168,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766482,
     "wof:name":"Ekonete",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

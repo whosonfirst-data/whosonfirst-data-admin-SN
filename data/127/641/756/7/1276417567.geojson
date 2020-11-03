@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1276417567,
-    "wof:lastmodified":1566648387,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766294,
     "wof:name":"Pointe-Saint-Georges",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

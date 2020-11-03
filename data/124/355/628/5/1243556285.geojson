@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243556285,
-    "wof:lastmodified":1566648854,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766407,
     "wof:name":"Darou Diop",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243031235,
-    "wof:lastmodified":1566648903,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766419,
     "wof:name":"Mandine Fode Kaba",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

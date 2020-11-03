@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226629039,
-    "wof:lastmodified":1566649180,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766484,
     "wof:name":"Kellol",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

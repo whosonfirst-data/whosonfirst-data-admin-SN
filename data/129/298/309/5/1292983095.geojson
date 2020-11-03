@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1292983095,
-    "wof:lastmodified":1566648266,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766256,
     "wof:name":"Koutia",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

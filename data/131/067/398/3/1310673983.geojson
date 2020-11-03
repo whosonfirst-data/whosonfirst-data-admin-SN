@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1310673983,
-    "wof:lastmodified":1566648731,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766373,
     "wof:name":"Ndendoury",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

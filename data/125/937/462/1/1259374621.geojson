@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259374621,
-    "wof:lastmodified":1566648981,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766438,
     "wof:name":"Ndadafar",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

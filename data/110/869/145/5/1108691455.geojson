@@ -75,7 +75,15 @@
         }
     ],
     "wof:id":1108691455,
-    "wof:lastmodified":1566648638,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766348,
     "wof:name":"Salemata",
     "wof:parent_id":85676983,
     "wof:placetype":"county",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343568563,
-    "wof:lastmodified":1566648129,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766215,
     "wof:name":"Diam Sine",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

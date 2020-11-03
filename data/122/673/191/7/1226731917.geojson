@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226731917,
-    "wof:lastmodified":1566649091,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766463,
     "wof:name":"Lour-Escale",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

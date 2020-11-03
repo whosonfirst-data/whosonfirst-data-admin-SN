@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276764353,
-    "wof:lastmodified":1566648375,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766291,
     "wof:name":"Keur Morlissa",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326793849,
-    "wof:lastmodified":1566648006,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766178,
     "wof:name":"Seno Bobore",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

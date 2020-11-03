@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343733123,
-    "wof:lastmodified":1566648162,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766225,
     "wof:name":"Sounnatou",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

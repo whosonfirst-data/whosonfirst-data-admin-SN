@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1326502573,
-    "wof:lastmodified":1566647964,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766165,
     "wof:name":"Goulo Koum",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

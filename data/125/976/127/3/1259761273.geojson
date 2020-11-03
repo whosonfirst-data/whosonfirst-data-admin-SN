@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259761273,
-    "wof:lastmodified":1566649020,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766446,
     "wof:name":"Sintian Madou",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

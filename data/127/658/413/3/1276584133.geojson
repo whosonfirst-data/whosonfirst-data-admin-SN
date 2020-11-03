@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276584133,
-    "wof:lastmodified":1566648349,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766283,
     "wof:name":"Goudiri Foulbe",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

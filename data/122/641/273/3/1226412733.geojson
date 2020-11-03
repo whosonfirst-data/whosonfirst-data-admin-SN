@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226412733,
-    "wof:lastmodified":1566649158,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766479,
     "wof:name":"Ouro Amat",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

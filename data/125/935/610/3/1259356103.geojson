@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259356103,
-    "wof:lastmodified":1566649035,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766450,
     "wof:name":"Tiankone Boguel",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

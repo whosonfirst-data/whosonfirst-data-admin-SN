@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293672839,
-    "wof:lastmodified":1566648264,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766256,
     "wof:name":"Tiombi",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

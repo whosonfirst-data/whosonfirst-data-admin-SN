@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276536797,
-    "wof:lastmodified":1566648421,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766304,
     "wof:name":"Kassepol",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

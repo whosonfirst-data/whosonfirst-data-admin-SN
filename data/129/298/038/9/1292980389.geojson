@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1292980389,
-    "wof:lastmodified":1566648267,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766257,
     "wof:name":"Tiarene Sar",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

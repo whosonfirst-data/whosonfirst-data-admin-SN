@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226205605,
-    "wof:lastmodified":1566649092,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766464,
     "wof:name":"Hamdalaye II",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

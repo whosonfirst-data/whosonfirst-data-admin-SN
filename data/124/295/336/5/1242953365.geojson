@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1242953365,
-    "wof:lastmodified":1566648873,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766411,
     "wof:name":"Randone",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

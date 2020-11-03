@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343337883,
-    "wof:lastmodified":1566648145,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766220,
     "wof:name":"Margou",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259571337,
-    "wof:lastmodified":1566649024,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766447,
     "wof:name":"Koudoureyel",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

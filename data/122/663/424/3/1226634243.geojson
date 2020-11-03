@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226634243,
-    "wof:lastmodified":1566649171,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766483,
     "wof:name":"Sayindi Daouda",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

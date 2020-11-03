@@ -97,7 +97,15 @@
         }
     ],
     "wof:id":1309827367,
-    "wof:lastmodified":1566648797,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766391,
     "wof:name":"Gap",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

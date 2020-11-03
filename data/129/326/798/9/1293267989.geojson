@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293267989,
-    "wof:lastmodified":1566648301,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766268,
     "wof:name":"Adiana",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

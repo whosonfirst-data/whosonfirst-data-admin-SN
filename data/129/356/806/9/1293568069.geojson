@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293568069,
-    "wof:lastmodified":1566648259,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766254,
     "wof:name":"Lour Ouolof",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

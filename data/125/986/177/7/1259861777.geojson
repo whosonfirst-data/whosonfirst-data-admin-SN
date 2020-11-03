@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1259861777,
-    "wof:lastmodified":1566649060,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766456,
     "wof:name":"Diote Kelbiram",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

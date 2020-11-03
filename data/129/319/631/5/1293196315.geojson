@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293196315,
-    "wof:lastmodified":1566648300,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766268,
     "wof:name":"Tiarene Matar Pane",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

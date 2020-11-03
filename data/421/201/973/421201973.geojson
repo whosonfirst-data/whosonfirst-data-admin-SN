@@ -213,7 +213,15 @@
         }
     ],
     "wof:id":421201973,
-    "wof:lastmodified":1566648829,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766400,
     "wof:name":"Rufisque",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

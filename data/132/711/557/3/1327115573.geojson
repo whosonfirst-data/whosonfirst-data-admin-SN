@@ -73,7 +73,15 @@
         }
     ],
     "wof:id":1327115573,
-    "wof:lastmodified":1566648043,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766189,
     "wof:name":"Nane",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

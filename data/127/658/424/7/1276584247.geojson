@@ -79,7 +79,15 @@
         }
     ],
     "wof:id":1276584247,
-    "wof:lastmodified":1566648350,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766283,
     "wof:name":"Tame",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

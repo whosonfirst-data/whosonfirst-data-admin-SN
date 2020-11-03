@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1327041641,
-    "wof:lastmodified":1566647998,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766175,
     "wof:name":"Diamane",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326710445,
-    "wof:lastmodified":1566648003,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766177,
     "wof:name":"Singalene",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1225831485,
-    "wof:lastmodified":1566649201,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766490,
     "wof:name":"Tieno Ndiaou",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

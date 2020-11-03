@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1309808303,
-    "wof:lastmodified":1566648810,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766395,
     "wof:name":"Sare Dioulde",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

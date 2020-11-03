@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1360176389,
-    "wof:lastmodified":1566648764,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766383,
     "wof:name":"Keur Lat Diop Fal",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

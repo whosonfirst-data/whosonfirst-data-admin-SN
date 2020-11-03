@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243067037,
-    "wof:lastmodified":1566648852,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766406,
     "wof:name":"Kahene",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

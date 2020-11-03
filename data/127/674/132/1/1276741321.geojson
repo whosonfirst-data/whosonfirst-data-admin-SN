@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1276741321,
-    "wof:lastmodified":1566648335,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766279,
     "wof:name":"Akal",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

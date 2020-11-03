@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1344158743,
-    "wof:lastmodified":1566648083,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766200,
     "wof:name":"Gawane",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

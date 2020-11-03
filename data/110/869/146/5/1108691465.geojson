@@ -83,7 +83,15 @@
         }
     ],
     "wof:id":1108691465,
-    "wof:lastmodified":1566648640,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766349,
     "wof:name":"Bounkiling",
     "wof:parent_id":85676979,
     "wof:placetype":"county",

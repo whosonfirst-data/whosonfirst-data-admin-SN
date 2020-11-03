@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259469223,
-    "wof:lastmodified":1566649006,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766443,
     "wof:name":"Ndianaour",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

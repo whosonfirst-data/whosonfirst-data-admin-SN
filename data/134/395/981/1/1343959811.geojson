@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1343959811,
-    "wof:lastmodified":1566648122,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766213,
     "wof:name":"Nebe",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327416645,
-    "wof:lastmodified":1566647987,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766171,
     "wof:name":"Boki Diave",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

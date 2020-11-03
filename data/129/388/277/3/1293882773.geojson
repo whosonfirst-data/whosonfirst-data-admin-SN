@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293882773,
-    "wof:lastmodified":1566648313,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766272,
     "wof:name":"Seoudji",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

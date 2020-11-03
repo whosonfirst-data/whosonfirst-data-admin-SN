@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1327126105,
-    "wof:lastmodified":1566647978,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766169,
     "wof:name":"Babou",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

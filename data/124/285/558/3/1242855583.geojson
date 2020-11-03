@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242855583,
-    "wof:lastmodified":1566648932,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766427,
     "wof:name":"Lamoye Ali Diogoma",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

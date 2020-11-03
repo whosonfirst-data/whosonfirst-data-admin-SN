@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1360084187,
-    "wof:lastmodified":1566648747,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766378,
     "wof:name":"Dielani",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226418925,
-    "wof:lastmodified":1566649159,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766479,
     "wof:name":"Modou Tal",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

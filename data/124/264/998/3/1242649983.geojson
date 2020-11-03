@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242649983,
-    "wof:lastmodified":1566648940,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766429,
     "wof:name":"Doubel",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

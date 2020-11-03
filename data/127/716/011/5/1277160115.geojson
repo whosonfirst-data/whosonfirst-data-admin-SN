@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1277160115,
-    "wof:lastmodified":1566648430,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766307,
     "wof:name":"Kawal",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

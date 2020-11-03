@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243234643,
-    "wof:lastmodified":1566648891,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766416,
     "wof:name":"Diamenar",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

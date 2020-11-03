@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259675581,
-    "wof:lastmodified":1566649037,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766450,
     "wof:name":"Ngassiak",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

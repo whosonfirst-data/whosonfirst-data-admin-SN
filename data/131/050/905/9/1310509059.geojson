@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310509059,
-    "wof:lastmodified":1566648715,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766370,
     "wof:name":"Ouada",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

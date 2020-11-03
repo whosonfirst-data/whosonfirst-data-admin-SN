@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310283373,
-    "wof:lastmodified":1566648699,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766365,
     "wof:name":"Hamdalaye Alfa",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293205443,
-    "wof:lastmodified":1566648278,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766260,
     "wof:name":"Ouri Moudiri",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

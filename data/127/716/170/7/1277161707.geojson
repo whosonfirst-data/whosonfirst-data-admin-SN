@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1277161707,
-    "wof:lastmodified":1566648430,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766307,
     "wof:name":"Kalom",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

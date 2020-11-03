@@ -132,7 +132,15 @@
         }
     ],
     "wof:id":1259762557,
-    "wof:lastmodified":1566649023,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766447,
     "wof:name":"Badem",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

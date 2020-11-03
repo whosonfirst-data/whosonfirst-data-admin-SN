@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242948925,
-    "wof:lastmodified":1566648877,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766413,
     "wof:name":"Banoungoune",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

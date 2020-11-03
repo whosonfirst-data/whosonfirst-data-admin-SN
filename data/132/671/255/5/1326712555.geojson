@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1326712555,
-    "wof:lastmodified":1566648004,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766177,
     "wof:name":"Ngouye Dieri",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

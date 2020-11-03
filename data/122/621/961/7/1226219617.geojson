@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226219617,
-    "wof:lastmodified":1566649082,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766461,
     "wof:name":"Ehidj",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

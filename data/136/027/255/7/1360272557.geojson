@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360272557,
-    "wof:lastmodified":1566648755,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766380,
     "wof:name":"Boulana",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

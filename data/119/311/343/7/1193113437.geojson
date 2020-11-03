@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1193113437,
-    "wof:lastmodified":1566648585,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766332,
     "wof:name":"Makana",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344246841,
-    "wof:lastmodified":1566648088,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766202,
     "wof:name":"Keur Mandiaye",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

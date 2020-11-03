@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226413489,
-    "wof:lastmodified":1566649160,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766480,
     "wof:name":"Serpoli",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

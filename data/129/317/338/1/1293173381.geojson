@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293173381,
-    "wof:lastmodified":1566648293,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766266,
     "wof:name":"Seli",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

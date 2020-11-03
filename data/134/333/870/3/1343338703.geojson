@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1343338703,
-    "wof:lastmodified":1566648144,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766220,
     "wof:name":"Elol",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226128855,
-    "wof:lastmodified":1566649155,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766479,
     "wof:name":"Ndakhar Lamane",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

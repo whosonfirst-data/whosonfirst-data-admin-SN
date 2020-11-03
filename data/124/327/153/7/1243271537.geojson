@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243271537,
-    "wof:lastmodified":1566648946,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766430,
     "wof:name":"Dangalma",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1310268079,
-    "wof:lastmodified":1566648705,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766367,
     "wof:name":"Dar Silame",
     "wof:parent_id":1108691459,
     "wof:placetype":"locality",

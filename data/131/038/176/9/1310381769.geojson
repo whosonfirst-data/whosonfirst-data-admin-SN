@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1310381769,
-    "wof:lastmodified":1566648665,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766356,
     "wof:name":"Sintiou Diokou",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

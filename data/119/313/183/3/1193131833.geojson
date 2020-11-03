@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1193131833,
-    "wof:lastmodified":1566648566,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766326,
     "wof:name":"Diguel",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

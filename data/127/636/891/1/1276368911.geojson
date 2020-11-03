@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276368911,
-    "wof:lastmodified":1566648429,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766306,
     "wof:name":"Missira Damantan",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

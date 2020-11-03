@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1344248821,
-    "wof:lastmodified":1566648087,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766202,
     "wof:name":"Sintiep Sine",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

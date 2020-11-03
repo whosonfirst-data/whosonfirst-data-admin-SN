@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1344061733,
-    "wof:lastmodified":1566648093,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766204,
     "wof:name":"Sintiou Ere Sire",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

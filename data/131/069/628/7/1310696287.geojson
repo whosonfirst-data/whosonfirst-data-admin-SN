@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310696287,
-    "wof:lastmodified":1566648729,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766373,
     "wof:name":"Yervago",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1276333543,
-    "wof:lastmodified":1566648345,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766282,
     "wof:name":"Sintiou Tierno",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

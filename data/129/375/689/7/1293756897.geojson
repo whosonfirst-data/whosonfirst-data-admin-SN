@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1293756897,
-    "wof:lastmodified":1566648305,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766269,
     "wof:name":"Roumde Boyenadji",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

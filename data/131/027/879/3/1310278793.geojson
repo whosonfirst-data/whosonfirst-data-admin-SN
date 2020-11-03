@@ -76,7 +76,15 @@
         }
     ],
     "wof:id":1310278793,
-    "wof:lastmodified":1566648688,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766363,
     "wof:name":"Maka",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

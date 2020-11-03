@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226736105,
-    "wof:lastmodified":1566649090,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766463,
     "wof:name":"Mbeyelogne",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

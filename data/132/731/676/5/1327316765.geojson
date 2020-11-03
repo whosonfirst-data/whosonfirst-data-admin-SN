@@ -70,7 +70,15 @@
         }
     ],
     "wof:id":1327316765,
-    "wof:lastmodified":1566647929,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766154,
     "wof:name":"Ouro Ali",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

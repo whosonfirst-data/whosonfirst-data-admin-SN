@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1293560585,
-    "wof:lastmodified":1566648260,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766254,
     "wof:name":"Segueko",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

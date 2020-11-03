@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1210018511,
-    "wof:lastmodified":1566648549,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766321,
     "wof:name":"Sassar",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

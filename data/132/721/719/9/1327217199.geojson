@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327217199,
-    "wof:lastmodified":1566648034,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766186,
     "wof:name":"Lerabe",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

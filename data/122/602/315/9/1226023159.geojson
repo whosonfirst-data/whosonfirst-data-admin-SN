@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226023159,
-    "wof:lastmodified":1566649102,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766466,
     "wof:name":"Tiafena",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

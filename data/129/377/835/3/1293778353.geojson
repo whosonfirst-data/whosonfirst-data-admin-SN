@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293778353,
-    "wof:lastmodified":1566648224,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766243,
     "wof:name":"Ndoye Dione",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

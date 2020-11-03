@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226519445,
-    "wof:lastmodified":1566649109,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766468,
     "wof:name":"Samik Mandjak",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

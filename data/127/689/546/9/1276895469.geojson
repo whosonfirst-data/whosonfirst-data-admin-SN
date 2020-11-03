@@ -64,7 +64,15 @@
         }
     ],
     "wof:id":1276895469,
-    "wof:lastmodified":1566648335,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766279,
     "wof:name":"Ngor",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

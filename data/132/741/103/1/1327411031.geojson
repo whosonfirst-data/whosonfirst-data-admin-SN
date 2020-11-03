@@ -62,7 +62,15 @@
         }
     ],
     "wof:id":1327411031,
-    "wof:lastmodified":1566647985,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766170,
     "wof:name":"Bandjikaki",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

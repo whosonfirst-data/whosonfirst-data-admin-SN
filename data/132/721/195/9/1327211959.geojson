@@ -65,7 +65,15 @@
         }
     ],
     "wof:id":1327211959,
-    "wof:lastmodified":1566648031,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766185,
     "wof:name":"Gambissara",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

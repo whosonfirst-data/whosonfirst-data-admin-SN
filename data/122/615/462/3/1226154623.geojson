@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226154623,
-    "wof:lastmodified":1566649157,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766479,
     "wof:name":"Guessel",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

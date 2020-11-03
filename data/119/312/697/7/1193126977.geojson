@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1193126977,
-    "wof:lastmodified":1566648564,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766325,
     "wof:name":"Soudiane Loul",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

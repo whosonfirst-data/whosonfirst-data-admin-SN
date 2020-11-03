@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310706641,
-    "wof:lastmodified":1566648653,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766353,
     "wof:name":"Loridji",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

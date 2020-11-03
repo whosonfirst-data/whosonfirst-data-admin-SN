@@ -49,7 +49,15 @@
         }
     ],
     "wof:id":890437291,
-    "wof:lastmodified":1566648833,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766401,
     "wof:name":"Samba Diallo",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343531587,
-    "wof:lastmodified":1566648058,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766193,
     "wof:name":"Loumbol Amar",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

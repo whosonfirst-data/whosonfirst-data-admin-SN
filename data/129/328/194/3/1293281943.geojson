@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293281943,
-    "wof:lastmodified":1566648291,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766265,
     "wof:name":"Ndiagamba",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

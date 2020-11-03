@@ -70,7 +70,15 @@
         }
     ],
     "wof:id":1310683399,
-    "wof:lastmodified":1566648723,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766371,
     "wof:name":"Taba",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

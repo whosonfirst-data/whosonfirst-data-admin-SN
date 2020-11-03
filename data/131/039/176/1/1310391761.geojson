@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310391761,
-    "wof:lastmodified":1566648684,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766361,
     "wof:name":"Haire Gaoudi",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

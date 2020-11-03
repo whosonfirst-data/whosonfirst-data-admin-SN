@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226028511,
-    "wof:lastmodified":1566649102,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766466,
     "wof:name":"Ndiam",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

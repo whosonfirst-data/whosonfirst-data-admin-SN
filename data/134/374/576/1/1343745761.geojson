@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343745761,
-    "wof:lastmodified":1566648167,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766227,
     "wof:name":"Naolerou",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

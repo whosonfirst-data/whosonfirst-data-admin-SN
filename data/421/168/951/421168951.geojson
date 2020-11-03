@@ -316,7 +316,15 @@
         }
     ],
     "wof:id":421168951,
-    "wof:lastmodified":1566648820,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766398,
     "wof:name":"Kaolack",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226444303,
-    "wof:lastmodified":1566649079,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766460,
     "wof:name":"Keur Sao",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

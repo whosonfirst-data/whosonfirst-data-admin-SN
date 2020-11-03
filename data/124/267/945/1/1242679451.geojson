@@ -121,7 +121,15 @@
         }
     ],
     "wof:id":1242679451,
-    "wof:lastmodified":1566648882,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766414,
     "wof:name":"Pol",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260074683,
-    "wof:lastmodified":1566648599,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766336,
     "wof:name":"Demba Ngom Faye",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

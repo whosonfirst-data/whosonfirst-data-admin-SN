@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276749937,
-    "wof:lastmodified":1566648337,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766279,
     "wof:name":"Tilel",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327317531,
-    "wof:lastmodified":1566647926,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766153,
     "wof:name":"Tioupane",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

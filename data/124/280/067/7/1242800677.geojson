@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242800677,
-    "wof:lastmodified":1566648856,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766407,
     "wof:name":"Ngayene Hamdalaye",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

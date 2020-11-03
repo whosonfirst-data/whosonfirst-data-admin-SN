@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1276569183,
-    "wof:lastmodified":1566648348,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766283,
     "wof:name":"Keur Bakari Toure",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

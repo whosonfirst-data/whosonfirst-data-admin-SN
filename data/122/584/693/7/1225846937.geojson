@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1225846937,
-    "wof:lastmodified":1566649197,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766489,
     "wof:name":"Tiatiao",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

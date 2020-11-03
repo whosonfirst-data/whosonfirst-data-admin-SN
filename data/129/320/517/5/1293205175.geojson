@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293205175,
-    "wof:lastmodified":1566648277,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766260,
     "wof:name":"Sare Diamere",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

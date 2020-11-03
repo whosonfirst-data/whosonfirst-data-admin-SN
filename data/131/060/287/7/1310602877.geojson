@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310602877,
-    "wof:lastmodified":1566648738,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766375,
     "wof:name":"Mbousso",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

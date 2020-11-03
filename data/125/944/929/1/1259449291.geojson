@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259449291,
-    "wof:lastmodified":1566649054,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766454,
     "wof:name":"Dongoro",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

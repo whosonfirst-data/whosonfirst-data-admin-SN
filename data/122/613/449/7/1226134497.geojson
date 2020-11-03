@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226134497,
-    "wof:lastmodified":1566649132,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766473,
     "wof:name":"Touba Toul",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

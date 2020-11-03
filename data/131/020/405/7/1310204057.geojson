@@ -118,7 +118,15 @@
         }
     ],
     "wof:id":1310204057,
-    "wof:lastmodified":1566648687,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766362,
     "wof:name":"Bala",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

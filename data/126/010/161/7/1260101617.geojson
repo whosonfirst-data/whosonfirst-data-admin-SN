@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260101617,
-    "wof:lastmodified":1566648625,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766344,
     "wof:name":"Diamm Bougoum",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343929233,
-    "wof:lastmodified":1566648123,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766213,
     "wof:name":"Pakhaso",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

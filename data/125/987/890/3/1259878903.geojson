@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259878903,
-    "wof:lastmodified":1566649049,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766453,
     "wof:name":"Kaipongal",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

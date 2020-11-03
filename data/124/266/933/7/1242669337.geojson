@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242669337,
-    "wof:lastmodified":1566648871,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766411,
     "wof:name":"Gad Bitiou",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

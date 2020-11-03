@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259759015,
-    "wof:lastmodified":1566649056,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766455,
     "wof:name":"Mankono Ba",
     "wof:parent_id":1108691459,
     "wof:placetype":"locality",

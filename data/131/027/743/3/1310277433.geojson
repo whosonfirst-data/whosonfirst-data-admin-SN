@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1310277433,
-    "wof:lastmodified":1566648689,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766363,
     "wof:name":"Goui Leum",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

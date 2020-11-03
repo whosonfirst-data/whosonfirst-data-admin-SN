@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276226663,
-    "wof:lastmodified":1566648373,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766290,
     "wof:name":"Sintiou Baba",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

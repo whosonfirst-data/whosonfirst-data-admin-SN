@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276662241,
-    "wof:lastmodified":1566648354,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766285,
     "wof:name":"Ouro Seano",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

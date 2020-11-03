@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226247559,
-    "wof:lastmodified":1566649150,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766477,
     "wof:name":"Ouro Sori Dala",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

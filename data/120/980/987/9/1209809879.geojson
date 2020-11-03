@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1209809879,
-    "wof:lastmodified":1566648528,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766318,
     "wof:name":"Guira",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

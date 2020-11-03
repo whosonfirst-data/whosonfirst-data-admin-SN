@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226007985,
-    "wof:lastmodified":1566649187,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766486,
     "wof:name":"Tankanto",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

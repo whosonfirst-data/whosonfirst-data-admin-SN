@@ -67,7 +67,15 @@
         }
     ],
     "wof:id":1293223341,
-    "wof:lastmodified":1566648240,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766248,
     "wof:name":"Mori",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

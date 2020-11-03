@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310703667,
-    "wof:lastmodified":1566648652,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766353,
     "wof:name":"Daganabe",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

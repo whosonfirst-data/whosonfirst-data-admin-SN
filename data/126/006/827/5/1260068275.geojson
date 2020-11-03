@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260068275,
-    "wof:lastmodified":1566648612,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766340,
     "wof:name":"Banankourou",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

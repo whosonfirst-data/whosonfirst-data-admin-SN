@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1327126019,
-    "wof:lastmodified":1566647981,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766170,
     "wof:name":"Yeba",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

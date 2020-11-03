@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276751837,
-    "wof:lastmodified":1566648324,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766276,
     "wof:name":"Sare Sadio",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

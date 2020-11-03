@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226247463,
-    "wof:lastmodified":1566649151,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766478,
     "wof:name":"Demou",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

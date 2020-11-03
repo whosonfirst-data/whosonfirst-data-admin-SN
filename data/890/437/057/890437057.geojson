@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":890437057,
-    "wof:lastmodified":1566648833,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766401,
     "wof:name":"Gol\u00e9r\u00e9",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

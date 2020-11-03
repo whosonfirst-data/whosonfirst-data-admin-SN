@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226827321,
-    "wof:lastmodified":1566649142,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766476,
     "wof:name":"Sinntia Demba",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

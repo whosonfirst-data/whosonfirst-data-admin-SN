@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259960887,
-    "wof:lastmodified":1566648978,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766438,
     "wof:name":"Madina Boido Kamara",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

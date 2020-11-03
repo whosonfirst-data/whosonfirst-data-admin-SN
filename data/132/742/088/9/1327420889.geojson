@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327420889,
-    "wof:lastmodified":1566648040,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766188,
     "wof:name":"Nialon",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

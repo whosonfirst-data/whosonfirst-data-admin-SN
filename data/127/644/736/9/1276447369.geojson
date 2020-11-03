@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276447369,
-    "wof:lastmodified":1566648326,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766276,
     "wof:name":"Sintiou Bacary",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343253695,
-    "wof:lastmodified":1566648119,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766211,
     "wof:name":"Niamina",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

@@ -68,7 +68,15 @@
         }
     ],
     "wof:id":1310423249,
-    "wof:lastmodified":1566648685,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766361,
     "wof:name":"Diamniadio",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

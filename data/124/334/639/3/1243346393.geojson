@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243346393,
-    "wof:lastmodified":1566648916,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766422,
     "wof:name":"Silorou",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

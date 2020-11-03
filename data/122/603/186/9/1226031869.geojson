@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226031869,
-    "wof:lastmodified":1566649113,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766469,
     "wof:name":"Dianag",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

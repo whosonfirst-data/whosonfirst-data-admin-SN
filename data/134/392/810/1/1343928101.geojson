@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1343928101,
-    "wof:lastmodified":1566648123,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766213,
     "wof:name":"Tiankone Hiraye",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

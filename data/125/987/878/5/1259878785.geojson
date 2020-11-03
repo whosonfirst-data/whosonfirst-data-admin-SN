@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259878785,
-    "wof:lastmodified":1566649049,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766453,
     "wof:name":"Niakabana",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

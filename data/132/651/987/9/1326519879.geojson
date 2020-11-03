@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326519879,
-    "wof:lastmodified":1566647951,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766160,
     "wof:name":"Bangadj",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

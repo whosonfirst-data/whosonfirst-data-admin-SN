@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1243246447,
-    "wof:lastmodified":1566648887,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766415,
     "wof:name":"Gande",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

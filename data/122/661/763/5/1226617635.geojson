@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226617635,
-    "wof:lastmodified":1566649120,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766470,
     "wof:name":"Bakaouka",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

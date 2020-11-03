@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1327325335,
-    "wof:lastmodified":1566647993,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766173,
     "wof:name":"Mbayene",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

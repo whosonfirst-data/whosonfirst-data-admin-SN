@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226238277,
-    "wof:lastmodified":1566649147,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766477,
     "wof:name":"Rayane Mourit",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1327029055,
-    "wof:lastmodified":1566647990,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766172,
     "wof:name":"Sintiou Bokar Ali",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

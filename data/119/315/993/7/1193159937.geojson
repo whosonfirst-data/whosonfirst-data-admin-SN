@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1193159937,
-    "wof:lastmodified":1566648561,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766324,
     "wof:name":"Sintiou Dialo",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

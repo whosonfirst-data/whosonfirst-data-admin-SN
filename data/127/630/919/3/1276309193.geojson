@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276309193,
-    "wof:lastmodified":1566648411,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766301,
     "wof:name":"Keur Mbogue",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

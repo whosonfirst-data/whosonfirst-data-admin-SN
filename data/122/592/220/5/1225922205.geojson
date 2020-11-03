@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1225922205,
-    "wof:lastmodified":1566649065,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766457,
     "wof:name":"Medina Pakane",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

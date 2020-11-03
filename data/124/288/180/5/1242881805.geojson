@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1242881805,
-    "wof:lastmodified":1566648861,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766408,
     "wof:name":"Guieki Pinkiou",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

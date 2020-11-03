@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1293368383,
-    "wof:lastmodified":1566648198,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766235,
     "wof:name":"Sare Yoba Diega",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226720965,
-    "wof:lastmodified":1566649071,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766459,
     "wof:name":"Diorbivol",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259874061,
-    "wof:lastmodified":1566649047,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766453,
     "wof:name":"Sine Kane",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

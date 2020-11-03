@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276833185,
-    "wof:lastmodified":1566648392,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766296,
     "wof:name":"Satong Ania",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

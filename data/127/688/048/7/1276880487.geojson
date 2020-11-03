@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276880487,
-    "wof:lastmodified":1566648325,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766276,
     "wof:name":"Naide Boussa",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

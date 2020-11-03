@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226522485,
-    "wof:lastmodified":1566649167,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766481,
     "wof:name":"Niadiou",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

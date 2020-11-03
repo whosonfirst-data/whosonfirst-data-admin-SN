@@ -94,7 +94,15 @@
         }
     ],
     "wof:id":1310706697,
-    "wof:lastmodified":1566648652,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766352,
     "wof:name":"Sira",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

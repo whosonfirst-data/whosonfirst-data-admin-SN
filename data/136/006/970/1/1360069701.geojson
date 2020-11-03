@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360069701,
-    "wof:lastmodified":1566648749,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766379,
     "wof:name":"Nobandam",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276330857,
-    "wof:lastmodified":1566648346,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766282,
     "wof:name":"Ngore Yop",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

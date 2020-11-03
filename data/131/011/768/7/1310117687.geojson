@@ -74,7 +74,15 @@
         }
     ],
     "wof:id":1310117687,
-    "wof:lastmodified":1566648693,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766364,
     "wof:name":"Bambey",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

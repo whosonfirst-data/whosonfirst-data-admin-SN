@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327116673,
-    "wof:lastmodified":1566648044,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766189,
     "wof:name":"Dougoubene",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

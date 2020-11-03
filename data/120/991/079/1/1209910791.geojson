@@ -67,7 +67,15 @@
         }
     ],
     "wof:id":1209910791,
-    "wof:lastmodified":1566648441,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766308,
     "wof:name":"Koki",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

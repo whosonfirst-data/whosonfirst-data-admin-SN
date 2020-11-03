@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243530903,
-    "wof:lastmodified":1566648845,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766405,
     "wof:name":"Ndiok Gadou Pane",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

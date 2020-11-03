@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259649853,
-    "wof:lastmodified":1566648990,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766440,
     "wof:name":"Manbigne",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

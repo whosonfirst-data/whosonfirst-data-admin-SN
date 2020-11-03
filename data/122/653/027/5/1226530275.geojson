@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226530275,
-    "wof:lastmodified":1566649185,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766486,
     "wof:name":"Kossanki",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1310589391,
-    "wof:lastmodified":1566648734,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766374,
     "wof:name":"Kouroubambe",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

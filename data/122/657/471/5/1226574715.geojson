@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1226574715,
-    "wof:lastmodified":1566649122,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766471,
     "wof:name":"Diaweli",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

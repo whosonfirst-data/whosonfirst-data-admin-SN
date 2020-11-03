@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310013311,
-    "wof:lastmodified":1566648680,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766360,
     "wof:name":"Refane Souf",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

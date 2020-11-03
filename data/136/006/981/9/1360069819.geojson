@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360069819,
-    "wof:lastmodified":1566648752,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766379,
     "wof:name":"Lerane Sambou",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

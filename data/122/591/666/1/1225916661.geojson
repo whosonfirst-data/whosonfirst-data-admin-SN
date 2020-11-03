@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1225916661,
-    "wof:lastmodified":1566649129,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766472,
     "wof:name":"Kourou Diobene",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

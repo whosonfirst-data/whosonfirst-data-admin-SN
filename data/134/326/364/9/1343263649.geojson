@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1343263649,
-    "wof:lastmodified":1566648169,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766227,
     "wof:name":"Keur Galgou",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

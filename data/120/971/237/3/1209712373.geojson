@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1209712373,
-    "wof:lastmodified":1566648485,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766315,
     "wof:name":"Ndiorokh Mbot",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

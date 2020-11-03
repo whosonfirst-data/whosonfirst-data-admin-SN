@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293478869,
-    "wof:lastmodified":1566648234,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766246,
     "wof:name":"Medina Babou",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

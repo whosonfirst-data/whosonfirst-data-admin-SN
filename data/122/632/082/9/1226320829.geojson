@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1226320829,
-    "wof:lastmodified":1566649116,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766469,
     "wof:name":"Sintian Koba",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242682337,
-    "wof:lastmodified":1566648869,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766410,
     "wof:name":"Gourel Bouna",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

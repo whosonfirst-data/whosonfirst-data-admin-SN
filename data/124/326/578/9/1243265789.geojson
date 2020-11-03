@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243265789,
-    "wof:lastmodified":1566648958,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766433,
     "wof:name":"Darou Kadene",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

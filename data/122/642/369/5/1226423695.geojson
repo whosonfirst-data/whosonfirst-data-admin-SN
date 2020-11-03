@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226423695,
-    "wof:lastmodified":1566649086,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766462,
     "wof:name":"Sare Demba Sy",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

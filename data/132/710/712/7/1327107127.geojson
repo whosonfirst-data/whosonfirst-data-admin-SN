@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327107127,
-    "wof:lastmodified":1566648035,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766187,
     "wof:name":"Kalial",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

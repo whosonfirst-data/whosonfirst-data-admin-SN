@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327414939,
-    "wof:lastmodified":1566647987,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766171,
     "wof:name":"Linngueoual",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

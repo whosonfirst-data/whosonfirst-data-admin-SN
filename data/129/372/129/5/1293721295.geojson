@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293721295,
-    "wof:lastmodified":1566648310,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766271,
     "wof:name":"Gambi",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

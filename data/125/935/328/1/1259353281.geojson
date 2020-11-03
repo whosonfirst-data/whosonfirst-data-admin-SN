@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259353281,
-    "wof:lastmodified":1566649037,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766450,
     "wof:name":"Ndiafaf Beltyinde",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

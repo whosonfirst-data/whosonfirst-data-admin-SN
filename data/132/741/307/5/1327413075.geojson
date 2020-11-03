@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1327413075,
-    "wof:lastmodified":1566647984,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766170,
     "wof:name":"Dadi Daoude",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

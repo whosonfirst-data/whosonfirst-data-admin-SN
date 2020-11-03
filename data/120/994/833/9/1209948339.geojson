@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1209948339,
-    "wof:lastmodified":1566648507,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766316,
     "wof:name":"Oura Soule",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

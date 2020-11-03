@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343238333,
-    "wof:lastmodified":1566648109,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766208,
     "wof:name":"Tiokoye",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

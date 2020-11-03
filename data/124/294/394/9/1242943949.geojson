@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242943949,
-    "wof:lastmodified":1566648878,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766413,
     "wof:name":"Dara Halaibe",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

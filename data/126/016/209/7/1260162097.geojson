@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260162097,
-    "wof:lastmodified":1566648621,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766343,
     "wof:name":"Sare Goli",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

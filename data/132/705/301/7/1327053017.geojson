@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327053017,
-    "wof:lastmodified":1566647989,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766172,
     "wof:name":"Sare Bamoul",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1326501137,
-    "wof:lastmodified":1566647966,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766165,
     "wof:name":"Mbagam",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

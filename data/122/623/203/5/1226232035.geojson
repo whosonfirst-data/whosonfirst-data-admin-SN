@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226232035,
-    "wof:lastmodified":1566649148,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766477,
     "wof:name":"Darou Sager",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

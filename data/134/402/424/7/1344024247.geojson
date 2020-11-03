@@ -70,7 +70,15 @@
         }
     ],
     "wof:id":1344024247,
-    "wof:lastmodified":1566648150,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766222,
     "wof:name":"Missira",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1243568459,
-    "wof:lastmodified":1566648911,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766421,
     "wof:name":"Potou",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

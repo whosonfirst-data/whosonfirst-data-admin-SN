@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259366333,
-    "wof:lastmodified":1566648966,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766435,
     "wof:name":"Tanpidara",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276534621,
-    "wof:lastmodified":1566648419,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766304,
     "wof:name":"Kebe",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

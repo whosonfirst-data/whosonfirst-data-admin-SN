@@ -85,7 +85,15 @@
         }
     ],
     "wof:id":1226222299,
-    "wof:lastmodified":1566649137,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766475,
     "wof:name":"Katipo",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

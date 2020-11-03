@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1242777067,
-    "wof:lastmodified":1566648925,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766425,
     "wof:name":"Sintian Labe",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

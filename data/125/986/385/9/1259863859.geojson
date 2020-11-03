@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259863859,
-    "wof:lastmodified":1566649059,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766456,
     "wof:name":"Tiamene",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

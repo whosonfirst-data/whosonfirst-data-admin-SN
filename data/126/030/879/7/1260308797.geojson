@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1260308797,
-    "wof:lastmodified":1566648606,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766338,
     "wof:name":"Wansangara",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

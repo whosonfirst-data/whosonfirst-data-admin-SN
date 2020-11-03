@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226429637,
-    "wof:lastmodified":1566649084,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766462,
     "wof:name":"Koumperto",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

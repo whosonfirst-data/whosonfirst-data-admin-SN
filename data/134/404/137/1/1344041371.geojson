@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344041371,
-    "wof:lastmodified":1566648157,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766224,
     "wof:name":"Keur Mamour Lo",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

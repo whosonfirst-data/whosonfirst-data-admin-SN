@@ -103,7 +103,15 @@
         }
     ],
     "wof:id":1360273379,
-    "wof:lastmodified":1566648754,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766380,
     "wof:name":"Gori",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243043717,
-    "wof:lastmodified":1566648905,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766420,
     "wof:name":"Santadian",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

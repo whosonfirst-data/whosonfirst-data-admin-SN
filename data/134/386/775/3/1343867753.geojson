@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343867753,
-    "wof:lastmodified":1566648174,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766229,
     "wof:name":"Ngalap",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

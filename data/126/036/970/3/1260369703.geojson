@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260369703,
-    "wof:lastmodified":1566648603,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766337,
     "wof:name":"Gonake",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226034019,
-    "wof:lastmodified":1566649113,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766469,
     "wof:name":"Keur Galo Kante",
     "wof:parent_id":1108691477,
     "wof:placetype":"locality",

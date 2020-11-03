@@ -67,7 +67,15 @@
         }
     ],
     "wof:id":1327254953,
-    "wof:lastmodified":1566647970,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766166,
     "wof:name":"Badam",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

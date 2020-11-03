@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310488619,
-    "wof:lastmodified":1566648647,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766351,
     "wof:name":"Boulingue",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310677187,
-    "wof:lastmodified":1566648734,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766374,
     "wof:name":"Baitilaye",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343947791,
-    "wof:lastmodified":1566648138,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766218,
     "wof:name":"Beteou",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

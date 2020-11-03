@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310684845,
-    "wof:lastmodified":1566648724,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766371,
     "wof:name":"Keur Bidji Ouri",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226124601,
-    "wof:lastmodified":1566649156,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766479,
     "wof:name":"Diote Sayane",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

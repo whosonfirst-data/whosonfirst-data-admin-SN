@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1276968485,
-    "wof:lastmodified":1566648414,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766302,
     "wof:name":"Sene",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

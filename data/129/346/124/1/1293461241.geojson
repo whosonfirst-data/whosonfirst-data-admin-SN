@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1293461241,
-    "wof:lastmodified":1566648221,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766242,
     "wof:name":"Koumafele",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

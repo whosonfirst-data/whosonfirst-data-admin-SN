@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226421897,
-    "wof:lastmodified":1566649086,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766462,
     "wof:name":"Binndiou",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

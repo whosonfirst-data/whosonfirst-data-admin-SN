@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1293568063,
-    "wof:lastmodified":1566648260,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766254,
     "wof:name":"Mbilor",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243535645,
-    "wof:lastmodified":1566648846,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766405,
     "wof:name":"Tankanto Escale",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

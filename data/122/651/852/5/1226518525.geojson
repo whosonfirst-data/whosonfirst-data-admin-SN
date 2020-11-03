@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226518525,
-    "wof:lastmodified":1566649108,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766468,
     "wof:name":"Oundoufere",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

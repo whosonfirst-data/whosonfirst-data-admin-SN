@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226021275,
-    "wof:lastmodified":1566649102,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766466,
     "wof:name":"Belel Boulbi",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

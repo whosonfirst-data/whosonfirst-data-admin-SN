@@ -181,7 +181,15 @@
         }
     ],
     "wof:id":1309692435,
-    "wof:lastmodified":1566648804,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766393,
     "wof:name":"Kale",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

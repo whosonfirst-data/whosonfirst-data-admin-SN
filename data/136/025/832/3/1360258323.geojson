@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360258323,
-    "wof:lastmodified":1566648740,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766376,
     "wof:name":"Sarekoura",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

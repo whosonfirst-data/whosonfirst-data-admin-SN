@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259976487,
-    "wof:lastmodified":1566648986,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766439,
     "wof:name":"D'angd'ang",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

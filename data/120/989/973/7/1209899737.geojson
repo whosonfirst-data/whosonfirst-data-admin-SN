@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1209899737,
-    "wof:lastmodified":1566648533,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766319,
     "wof:name":"Mberaye",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

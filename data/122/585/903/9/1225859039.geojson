@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1225859039,
-    "wof:lastmodified":1566649196,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766488,
     "wof:name":"Sebikhotane",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242955199,
-    "wof:lastmodified":1566648874,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766412,
     "wof:name":"Ndoun",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

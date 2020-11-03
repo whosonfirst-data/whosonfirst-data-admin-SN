@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226220411,
-    "wof:lastmodified":1566649138,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766475,
     "wof:name":"Sare Sambadete",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

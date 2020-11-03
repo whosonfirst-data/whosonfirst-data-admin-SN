@@ -125,7 +125,15 @@
         }
     ],
     "wof:id":421187973,
-    "wof:lastmodified":1582317845,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766399,
     "wof:name":"Dagana",
     "wof:parent_id":85676993,
     "wof:placetype":"county",

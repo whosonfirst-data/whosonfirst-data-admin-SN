@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326501059,
-    "wof:lastmodified":1566647963,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766164,
     "wof:name":"Sintiou Dangde",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

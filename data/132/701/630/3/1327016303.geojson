@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327016303,
-    "wof:lastmodified":1566647922,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766152,
     "wof:name":"Maraye",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326929701,
-    "wof:lastmodified":1566647958,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766163,
     "wof:name":"Sare Bondie",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

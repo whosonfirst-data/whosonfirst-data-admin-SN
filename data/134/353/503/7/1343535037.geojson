@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343535037,
-    "wof:lastmodified":1566648058,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766193,
     "wof:name":"Tongon",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226076897,
-    "wof:lastmodified":1566649188,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766486,
     "wof:name":"Ndoga",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

@@ -79,7 +79,15 @@
         }
     ],
     "wof:id":1259788377,
-    "wof:lastmodified":1566649011,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766444,
     "wof:name":"Dalaba",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

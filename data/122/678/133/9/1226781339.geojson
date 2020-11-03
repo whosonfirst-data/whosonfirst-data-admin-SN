@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226781339,
-    "wof:lastmodified":1566649144,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766476,
     "wof:name":"Sare Tounke",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

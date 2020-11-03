@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226131617,
-    "wof:lastmodified":1566649132,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766473,
     "wof:name":"Keur Demba Diabi",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

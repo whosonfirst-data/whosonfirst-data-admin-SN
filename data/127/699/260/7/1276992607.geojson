@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276992607,
-    "wof:lastmodified":1566648395,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766297,
     "wof:name":"Kare Sisse",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

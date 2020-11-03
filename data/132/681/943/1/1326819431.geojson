@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326819431,
-    "wof:lastmodified":1566647942,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766158,
     "wof:name":"Darou Koudous",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

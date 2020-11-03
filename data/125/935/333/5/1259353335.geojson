@@ -70,7 +70,15 @@
         }
     ],
     "wof:id":1259353335,
-    "wof:lastmodified":1566649036,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766450,
     "wof:name":"Dabia",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

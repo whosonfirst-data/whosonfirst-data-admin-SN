@@ -106,7 +106,15 @@
         }
     ],
     "wof:id":1309789217,
-    "wof:lastmodified":1566648795,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766391,
     "wof:name":"Koga",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

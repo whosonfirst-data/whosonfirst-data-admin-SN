@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226113733,
-    "wof:lastmodified":1566649096,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766465,
     "wof:name":"Dalafing",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

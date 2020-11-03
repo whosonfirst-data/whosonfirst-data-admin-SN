@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1225819227,
-    "wof:lastmodified":1566649125,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766472,
     "wof:name":"Taba Treich",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

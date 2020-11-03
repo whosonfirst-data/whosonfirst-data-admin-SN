@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1243193497,
-    "wof:lastmodified":1566648956,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766433,
     "wof:name":"Nguik Fal",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

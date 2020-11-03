@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1293084937,
-    "wof:lastmodified":1566648209,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766238,
     "wof:name":"Sakale",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

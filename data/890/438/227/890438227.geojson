@@ -49,7 +49,15 @@
         }
     ],
     "wof:id":890438227,
-    "wof:lastmodified":1566648833,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766401,
     "wof:name":"Warang",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

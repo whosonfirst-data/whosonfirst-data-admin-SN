@@ -98,7 +98,15 @@
         }
     ],
     "wof:id":1108691491,
-    "wof:lastmodified":1566648643,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766350,
     "wof:name":"Gossas",
     "wof:parent_id":85677007,
     "wof:placetype":"county",

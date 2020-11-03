@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242782671,
-    "wof:lastmodified":1566648928,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766425,
     "wof:name":"Gourel Maka",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

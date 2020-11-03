@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1309787857,
-    "wof:lastmodified":1566648794,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766390,
     "wof:name":"Messere Guibel",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

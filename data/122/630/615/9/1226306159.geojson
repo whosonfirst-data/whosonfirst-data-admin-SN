@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226306159,
-    "wof:lastmodified":1566649173,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766483,
     "wof:name":"Bissassou Douma",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

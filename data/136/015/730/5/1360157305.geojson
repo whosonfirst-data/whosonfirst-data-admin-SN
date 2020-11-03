@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360157305,
-    "wof:lastmodified":1566648740,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766376,
     "wof:name":"Keur Goumbo Gueye",
     "wof:parent_id":1108691477,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327118925,
-    "wof:lastmodified":1566648044,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766189,
     "wof:name":"Sakagne",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

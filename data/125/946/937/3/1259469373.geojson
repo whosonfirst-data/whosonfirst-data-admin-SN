@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259469373,
-    "wof:lastmodified":1566649005,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766442,
     "wof:name":"Sam Gueye",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

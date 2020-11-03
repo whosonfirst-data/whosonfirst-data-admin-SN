@@ -118,7 +118,15 @@
         }
     ],
     "wof:id":1276975261,
-    "wof:lastmodified":1566648403,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766299,
     "wof:name":"Koel",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

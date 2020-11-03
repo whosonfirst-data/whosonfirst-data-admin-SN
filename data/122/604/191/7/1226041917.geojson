@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226041917,
-    "wof:lastmodified":1566649111,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766468,
     "wof:name":"Golmi",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

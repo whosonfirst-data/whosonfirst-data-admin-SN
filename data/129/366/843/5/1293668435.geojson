@@ -124,7 +124,15 @@
         }
     ],
     "wof:id":1293668435,
-    "wof:lastmodified":1566648245,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766250,
     "wof:name":"Rayet",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

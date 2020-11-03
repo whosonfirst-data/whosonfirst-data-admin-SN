@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276750891,
-    "wof:lastmodified":1566648324,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766275,
     "wof:name":"Diabrikindiong",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

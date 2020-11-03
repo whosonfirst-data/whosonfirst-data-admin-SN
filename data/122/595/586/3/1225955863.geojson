@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1225955863,
-    "wof:lastmodified":1566649069,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766458,
     "wof:name":"Mba Aissa",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

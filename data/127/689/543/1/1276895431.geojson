@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276895431,
-    "wof:lastmodified":1566648334,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766279,
     "wof:name":"Diouko Essel",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

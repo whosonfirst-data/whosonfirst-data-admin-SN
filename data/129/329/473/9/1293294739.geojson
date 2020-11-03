@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1293294739,
-    "wof:lastmodified":1566648286,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766263,
     "wof:name":"Bobi",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

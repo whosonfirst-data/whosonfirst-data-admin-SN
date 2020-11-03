@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1327006343,
-    "wof:lastmodified":1566647933,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766155,
     "wof:name":"Deye Koit",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

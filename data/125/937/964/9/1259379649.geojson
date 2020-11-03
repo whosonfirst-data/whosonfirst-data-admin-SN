@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259379649,
-    "wof:lastmodified":1566648979,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766438,
     "wof:name":"Gap Ndioufene",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

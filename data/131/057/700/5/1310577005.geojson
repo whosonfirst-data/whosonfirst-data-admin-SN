@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1310577005,
-    "wof:lastmodified":1566648717,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766370,
     "wof:name":"Diandieme",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

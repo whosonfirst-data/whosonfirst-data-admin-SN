@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1193020667,
-    "wof:lastmodified":1566648574,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766329,
     "wof:name":"Sare Ngueye",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

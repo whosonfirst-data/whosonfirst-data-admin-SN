@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1343242473,
-    "wof:lastmodified":1566648106,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766207,
     "wof:name":"Diouloulou",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310688421,
-    "wof:lastmodified":1566648724,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766371,
     "wof:name":"Tilaye",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

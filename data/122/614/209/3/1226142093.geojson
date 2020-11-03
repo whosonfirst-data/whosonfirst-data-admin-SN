@@ -62,7 +62,15 @@
         }
     ],
     "wof:id":1226142093,
-    "wof:lastmodified":1566649132,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766473,
     "wof:name":"Koudi",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

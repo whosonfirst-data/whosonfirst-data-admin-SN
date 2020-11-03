@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327325385,
-    "wof:lastmodified":1566647995,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766174,
     "wof:name":"Keur Madiop Toure",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

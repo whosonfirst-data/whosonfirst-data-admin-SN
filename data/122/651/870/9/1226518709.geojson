@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226518709,
-    "wof:lastmodified":1566649108,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766467,
     "wof:name":"Biram Aouagali",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

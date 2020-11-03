@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276634379,
-    "wof:lastmodified":1566648405,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766300,
     "wof:name":"Bouteyni",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

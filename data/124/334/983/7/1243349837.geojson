@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243349837,
-    "wof:lastmodified":1566648915,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766422,
     "wof:name":"Kelel Peul",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

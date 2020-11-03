@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243536761,
-    "wof:lastmodified":1566648847,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766405,
     "wof:name":"Keur Bodie",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

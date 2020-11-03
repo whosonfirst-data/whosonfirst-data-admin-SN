@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276854961,
-    "wof:lastmodified":1566648377,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766292,
     "wof:name":"Layene Koredia",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

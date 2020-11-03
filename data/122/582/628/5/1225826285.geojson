@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1225826285,
-    "wof:lastmodified":1566649192,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766488,
     "wof:name":"Bantigniel",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

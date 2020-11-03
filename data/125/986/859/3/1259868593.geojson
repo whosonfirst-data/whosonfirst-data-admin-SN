@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259868593,
-    "wof:lastmodified":1566649058,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766455,
     "wof:name":"Naoudourou",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

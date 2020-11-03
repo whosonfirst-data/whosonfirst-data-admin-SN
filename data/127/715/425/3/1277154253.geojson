@@ -73,7 +73,15 @@
         }
     ],
     "wof:id":1277154253,
-    "wof:lastmodified":1566648362,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766287,
     "wof:name":"Boko",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

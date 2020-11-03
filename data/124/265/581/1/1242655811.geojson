@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242655811,
-    "wof:lastmodified":1566648938,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766428,
     "wof:name":"Galle Mamadou",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

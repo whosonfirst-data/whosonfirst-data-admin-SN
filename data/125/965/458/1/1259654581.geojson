@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259654581,
-    "wof:lastmodified":1566648974,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766437,
     "wof:name":"Donaye",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259387527,
-    "wof:lastmodified":1566648969,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766436,
     "wof:name":"Diouguel",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276843947,
-    "wof:lastmodified":1566648390,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766295,
     "wof:name":"Diougop Peul",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1276851019,
-    "wof:lastmodified":1566648378,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766292,
     "wof:name":"Ouonk",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

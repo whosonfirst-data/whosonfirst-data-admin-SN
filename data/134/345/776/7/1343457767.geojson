@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343457767,
-    "wof:lastmodified":1566648161,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766225,
     "wof:name":"Difourou",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

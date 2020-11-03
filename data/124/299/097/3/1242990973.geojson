@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1242990973,
-    "wof:lastmodified":1566648944,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766430,
     "wof:name":"Diama Tievi",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

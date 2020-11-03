@@ -99,7 +99,15 @@
         }
     ],
     "wof:id":1108691475,
-    "wof:lastmodified":1566648642,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766350,
     "wof:name":"Nioro du Rip",
     "wof:parent_id":85677011,
     "wof:placetype":"county",

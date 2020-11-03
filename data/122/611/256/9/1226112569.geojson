@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226112569,
-    "wof:lastmodified":1566649095,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766464,
     "wof:name":"Guiraye Ouorgo",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

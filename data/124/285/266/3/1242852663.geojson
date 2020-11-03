@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242852663,
-    "wof:lastmodified":1566648933,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766427,
     "wof:name":"Damade",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

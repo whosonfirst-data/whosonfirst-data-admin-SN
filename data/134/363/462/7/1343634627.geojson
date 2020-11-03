@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343634627,
-    "wof:lastmodified":1566648066,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766195,
     "wof:name":"Lewe Nguenar",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

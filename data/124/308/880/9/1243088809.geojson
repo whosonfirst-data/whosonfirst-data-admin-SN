@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1243088809,
-    "wof:lastmodified":1566648850,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766405,
     "wof:name":"Kemaye",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

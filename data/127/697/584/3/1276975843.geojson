@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276975843,
-    "wof:lastmodified":1566648405,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766299,
     "wof:name":"Keur Yabi",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

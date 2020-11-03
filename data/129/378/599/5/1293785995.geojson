@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293785995,
-    "wof:lastmodified":1566648238,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766247,
     "wof:name":"Darou Ndiaye",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

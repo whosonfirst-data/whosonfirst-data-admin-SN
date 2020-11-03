@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327155447,
-    "wof:lastmodified":1566647977,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766168,
     "wof:name":"Gad Dior",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

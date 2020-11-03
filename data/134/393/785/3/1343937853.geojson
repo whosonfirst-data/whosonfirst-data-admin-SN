@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":1343937853,
-    "wof:lastmodified":1566648133,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766217,
     "wof:name":"Enanpor",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

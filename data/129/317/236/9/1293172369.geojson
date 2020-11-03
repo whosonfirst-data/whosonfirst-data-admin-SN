@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293172369,
-    "wof:lastmodified":1566648295,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766266,
     "wof:name":"Niedine",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343924077,
-    "wof:lastmodified":1566648123,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766213,
     "wof:name":"Kandion Mangana",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1360258909,
-    "wof:lastmodified":1566648741,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766376,
     "wof:name":"Ndonbo",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

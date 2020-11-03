@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343356053,
-    "wof:lastmodified":1566648127,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766214,
     "wof:name":"Keur Matialene",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

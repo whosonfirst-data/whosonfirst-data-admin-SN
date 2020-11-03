@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1226456653,
-    "wof:lastmodified":1566649084,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766462,
     "wof:name":"Dagoudane",
     "wof:parent_id":421193105,
     "wof:placetype":"locality",

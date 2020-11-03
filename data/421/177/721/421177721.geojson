@@ -64,7 +64,15 @@
         }
     ],
     "wof:id":421177721,
-    "wof:lastmodified":1566648830,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766400,
     "wof:name":"Guet Dar",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

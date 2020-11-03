@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226016233,
-    "wof:lastmodified":1566649176,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766484,
     "wof:name":"Yoro Peul",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

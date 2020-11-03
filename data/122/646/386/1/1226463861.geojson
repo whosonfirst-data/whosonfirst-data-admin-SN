@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226463861,
-    "wof:lastmodified":1566649163,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766480,
     "wof:name":"Sintiou Pir",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

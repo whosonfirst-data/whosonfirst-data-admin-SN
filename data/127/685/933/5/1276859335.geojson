@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276859335,
-    "wof:lastmodified":1566648378,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766292,
     "wof:name":"Sare Boto",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1310199557,
-    "wof:lastmodified":1566648706,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766368,
     "wof:name":"Gouye Ndioro",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

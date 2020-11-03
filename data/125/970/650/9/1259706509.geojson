@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259706509,
-    "wof:lastmodified":1566649003,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766442,
     "wof:name":"Tourime",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

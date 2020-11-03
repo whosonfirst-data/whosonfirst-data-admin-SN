@@ -64,7 +64,15 @@
         }
     ],
     "wof:id":1292997435,
-    "wof:lastmodified":1566648276,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766260,
     "wof:name":"Sere",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

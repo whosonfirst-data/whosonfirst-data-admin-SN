@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1276767429,
-    "wof:lastmodified":1566648375,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766291,
     "wof:name":"Belel",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

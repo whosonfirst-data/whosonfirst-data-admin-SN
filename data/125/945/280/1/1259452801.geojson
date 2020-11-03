@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1259452801,
-    "wof:lastmodified":1566649052,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766454,
     "wof:name":"Diatmel Dam",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

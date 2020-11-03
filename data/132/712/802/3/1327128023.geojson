@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1327128023,
-    "wof:lastmodified":1566647980,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766169,
     "wof:name":"Keur Ayip",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

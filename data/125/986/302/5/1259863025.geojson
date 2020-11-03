@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259863025,
-    "wof:lastmodified":1566649059,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766456,
     "wof:name":"Yade Ouolof",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

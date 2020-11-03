@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226076929,
-    "wof:lastmodified":1566649188,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766486,
     "wof:name":"Sintiou Amat Modi",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

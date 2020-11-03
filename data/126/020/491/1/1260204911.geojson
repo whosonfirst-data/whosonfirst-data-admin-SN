@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260204911,
-    "wof:lastmodified":1566648615,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766340,
     "wof:name":"Khaye Ouolof",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

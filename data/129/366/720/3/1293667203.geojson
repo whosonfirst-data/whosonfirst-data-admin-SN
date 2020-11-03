@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293667203,
-    "wof:lastmodified":1566648247,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766250,
     "wof:name":"Sare Kerno Kemadi",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

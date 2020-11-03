@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343829365,
-    "wof:lastmodified":1566648113,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766210,
     "wof:name":"Tiekha Gaye",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

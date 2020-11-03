@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310680441,
-    "wof:lastmodified":1566648727,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766372,
     "wof:name":"Mbake Bari",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

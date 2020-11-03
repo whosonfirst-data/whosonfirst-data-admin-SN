@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276461393,
-    "wof:lastmodified":1566648388,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766295,
     "wof:name":"Guentaba",
     "wof:parent_id":890440853,
     "wof:placetype":"locality",

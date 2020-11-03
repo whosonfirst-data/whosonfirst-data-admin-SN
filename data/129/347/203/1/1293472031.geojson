@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293472031,
-    "wof:lastmodified":1566648235,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766246,
     "wof:name":"Touba Ngouye",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

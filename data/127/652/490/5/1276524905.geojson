@@ -85,7 +85,15 @@
         }
     ],
     "wof:id":1276524905,
-    "wof:lastmodified":1566648396,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766297,
     "wof:name":"Bernal",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

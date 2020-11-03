@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259956967,
-    "wof:lastmodified":1566649030,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766448,
     "wof:name":"Kariaye",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

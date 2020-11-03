@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259459279,
-    "wof:lastmodified":1566649054,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766454,
     "wof:name":"Dabenel",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

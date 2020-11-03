@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1193015211,
-    "wof:lastmodified":1566648557,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766323,
     "wof:name":"Sinntiou Saga",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276855001,
-    "wof:lastmodified":1566648378,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766292,
     "wof:name":"Pakatiar Ndavene",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

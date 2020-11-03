@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1243135691,
-    "wof:lastmodified":1566648898,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766418,
     "wof:name":"Sobo",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

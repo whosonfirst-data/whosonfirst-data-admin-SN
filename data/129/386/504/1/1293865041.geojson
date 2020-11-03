@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1293865041,
-    "wof:lastmodified":1566648307,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766270,
     "wof:name":"Lela",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1193019969,
-    "wof:lastmodified":1566648557,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766323,
     "wof:name":"Deni Niaye",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

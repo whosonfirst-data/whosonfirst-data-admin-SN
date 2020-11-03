@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344235055,
-    "wof:lastmodified":1566648090,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766203,
     "wof:name":"Amanatoulaye",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293353557,
-    "wof:lastmodified":1566648254,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766252,
     "wof:name":"Boukarkounda",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

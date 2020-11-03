@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259869441,
-    "wof:lastmodified":1566649060,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766456,
     "wof:name":"Ndangane Touti",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

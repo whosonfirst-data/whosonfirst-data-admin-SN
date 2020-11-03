@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259469317,
-    "wof:lastmodified":1566649005,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766442,
     "wof:name":"Korkol",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

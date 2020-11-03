@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243004917,
-    "wof:lastmodified":1566648839,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766403,
     "wof:name":"Gourel Slimane Dia",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

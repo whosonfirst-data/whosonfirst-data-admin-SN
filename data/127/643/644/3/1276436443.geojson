@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276436443,
-    "wof:lastmodified":1566648324,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766276,
     "wof:name":"Keur Ali Gueye",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

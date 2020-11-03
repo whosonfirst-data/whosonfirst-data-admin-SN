@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1276321791,
-    "wof:lastmodified":1566648352,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766284,
     "wof:name":"Medina-Yorofoula",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

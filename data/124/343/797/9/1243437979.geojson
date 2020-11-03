@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243437979,
-    "wof:lastmodified":1566648961,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766434,
     "wof:name":"Mankakounda",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

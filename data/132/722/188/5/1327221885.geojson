@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327221885,
-    "wof:lastmodified":1566647967,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766165,
     "wof:name":"Kodiolo",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

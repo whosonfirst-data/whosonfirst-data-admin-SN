@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360262317,
-    "wof:lastmodified":1566648770,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766384,
     "wof:name":"Binnkine",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

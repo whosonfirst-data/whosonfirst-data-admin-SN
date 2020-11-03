@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":421203855,
-    "wof:lastmodified":1566648823,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766399,
     "wof:name":"Niaga",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

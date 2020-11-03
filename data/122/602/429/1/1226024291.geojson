@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1226024291,
-    "wof:lastmodified":1566649104,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766466,
     "wof:name":"Ndiakhoumbo",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

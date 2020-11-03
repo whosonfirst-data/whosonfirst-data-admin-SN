@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243227247,
-    "wof:lastmodified":1566648900,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766419,
     "wof:name":"Diaro",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

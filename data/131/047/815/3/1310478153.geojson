@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310478153,
-    "wof:lastmodified":1566648659,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766355,
     "wof:name":"Kebe Sam",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

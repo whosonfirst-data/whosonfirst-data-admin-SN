@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1193009927,
-    "wof:lastmodified":1566648555,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766323,
     "wof:name":"Darou Fal",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

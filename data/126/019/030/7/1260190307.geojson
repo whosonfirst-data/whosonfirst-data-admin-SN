@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260190307,
-    "wof:lastmodified":1566648628,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766345,
     "wof:name":"Yaye",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

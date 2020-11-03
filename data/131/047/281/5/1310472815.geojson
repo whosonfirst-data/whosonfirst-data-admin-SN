@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310472815,
-    "wof:lastmodified":1566648658,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766355,
     "wof:name":"Rendo",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

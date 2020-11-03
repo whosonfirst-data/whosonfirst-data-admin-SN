@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260046165,
-    "wof:lastmodified":1566648629,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766345,
     "wof:name":"Tiare",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

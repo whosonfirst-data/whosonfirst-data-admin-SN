@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327465759,
-    "wof:lastmodified":1566647984,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766170,
     "wof:name":"Tabayel Diaoure",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

@@ -590,8 +590,8 @@
     "wof:belongsto":[
         102191573,
         85632365,
-        421187965,
-        85676997
+        85676997,
+        421187965
     ],
     "wof:breaches":[],
     "wof:capital_of":85632365,
@@ -619,7 +619,15 @@
         }
     ],
     "wof:id":421199619,
-    "wof:lastmodified":1587427906,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766400,
     "wof:name":"Dakar",
     "wof:parent_id":421187965,
     "wof:placetype":"locality",

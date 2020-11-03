@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310268039,
-    "wof:lastmodified":1566648705,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766367,
     "wof:name":"Madina",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

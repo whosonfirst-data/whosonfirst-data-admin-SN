@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1193125459,
-    "wof:lastmodified":1566648563,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766325,
     "wof:name":"Sare Boti Ngalo",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

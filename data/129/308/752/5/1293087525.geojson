@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293087525,
-    "wof:lastmodified":1566648207,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766237,
     "wof:name":"Ndiagne",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

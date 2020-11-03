@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1193133287,
-    "wof:lastmodified":1566648566,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766326,
     "wof:name":"Kadiel",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

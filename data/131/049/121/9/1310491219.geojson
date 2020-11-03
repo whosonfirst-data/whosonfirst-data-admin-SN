@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310491219,
-    "wof:lastmodified":1566648655,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766353,
     "wof:name":"Katim Gueye",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

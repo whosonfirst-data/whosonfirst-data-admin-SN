@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1210002949,
-    "wof:lastmodified":1566648546,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766320,
     "wof:name":"Odiole",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

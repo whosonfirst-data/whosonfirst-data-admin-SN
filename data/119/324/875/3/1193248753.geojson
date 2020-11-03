@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1193248753,
-    "wof:lastmodified":1566648559,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766324,
     "wof:name":"Foume Hara Demboube",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

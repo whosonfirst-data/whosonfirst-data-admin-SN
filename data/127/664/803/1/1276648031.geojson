@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1276648031,
-    "wof:lastmodified":1566648401,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766298,
     "wof:name":"Ngakham II",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

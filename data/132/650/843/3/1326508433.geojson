@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326508433,
-    "wof:lastmodified":1566647964,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766165,
     "wof:name":"Guiro Samba Koudel",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

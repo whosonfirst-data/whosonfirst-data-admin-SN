@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1293394809,
-    "wof:lastmodified":1566648211,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766239,
     "wof:name":"Sinntiou Toura",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

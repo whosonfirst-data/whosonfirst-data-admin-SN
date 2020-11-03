@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343741559,
-    "wof:lastmodified":1566648166,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766227,
     "wof:name":"Keur Yerim Ndiaye",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

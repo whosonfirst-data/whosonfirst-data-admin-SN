@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1243540925,
-    "wof:lastmodified":1566648843,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766404,
     "wof:name":"Ngoumba Ngueoul",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

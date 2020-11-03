@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243333263,
-    "wof:lastmodified":1566648919,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766423,
     "wof:name":"Batiare Ouro Gueladjo",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

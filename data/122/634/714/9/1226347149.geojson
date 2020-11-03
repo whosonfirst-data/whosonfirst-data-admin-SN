@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226347149,
-    "wof:lastmodified":1566649099,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766465,
     "wof:name":"Koussalan",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

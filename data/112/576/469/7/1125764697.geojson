@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":1125764697,
-    "wof:lastmodified":1566648835,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766402,
     "wof:name":"Tionk Essil",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

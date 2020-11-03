@@ -92,7 +92,15 @@
         }
     ],
     "wof:id":1108691485,
-    "wof:lastmodified":1566648639,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766348,
     "wof:name":"Goudiry",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259667437,
-    "wof:lastmodified":1566649034,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766450,
     "wof:name":"Malene",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

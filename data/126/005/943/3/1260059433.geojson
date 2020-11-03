@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260059433,
-    "wof:lastmodified":1566648636,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766347,
     "wof:name":"Yadou Laye",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1326608119,
-    "wof:lastmodified":1566647952,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766161,
     "wof:name":"Balo Kounda",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

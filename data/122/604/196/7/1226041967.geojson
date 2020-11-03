@@ -65,7 +65,15 @@
         }
     ],
     "wof:id":1226041967,
-    "wof:lastmodified":1566649111,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766468,
     "wof:name":"Kidira",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

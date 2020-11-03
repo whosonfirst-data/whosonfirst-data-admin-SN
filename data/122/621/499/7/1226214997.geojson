@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226214997,
-    "wof:lastmodified":1566649081,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766461,
     "wof:name":"Ida Mouride",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

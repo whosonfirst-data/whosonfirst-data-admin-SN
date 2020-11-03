@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1210015709,
-    "wof:lastmodified":1566648550,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766321,
     "wof:name":"Ouro Demba Binnta",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

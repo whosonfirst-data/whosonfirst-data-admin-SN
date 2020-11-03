@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226114797,
-    "wof:lastmodified":1566649094,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766464,
     "wof:name":"Tiarene",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

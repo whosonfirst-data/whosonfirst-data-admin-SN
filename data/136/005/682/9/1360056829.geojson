@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1360056829,
-    "wof:lastmodified":1566648773,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766385,
     "wof:name":"Gouye Poulo",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

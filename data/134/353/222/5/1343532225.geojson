@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343532225,
-    "wof:lastmodified":1566648060,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766193,
     "wof:name":"Keur Birane Ndiaye",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

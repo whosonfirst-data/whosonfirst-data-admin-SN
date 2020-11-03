@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1343642703,
-    "wof:lastmodified":1566648071,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766197,
     "wof:name":"Demousso Kounda",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

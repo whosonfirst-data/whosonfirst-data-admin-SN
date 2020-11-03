@@ -256,7 +256,15 @@
         }
     ],
     "wof:id":1344239107,
-    "wof:lastmodified":1566648092,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766203,
     "wof:name":"Samba",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

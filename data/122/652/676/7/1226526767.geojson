@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226526767,
-    "wof:lastmodified":1566649167,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766482,
     "wof:name":"Narga",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

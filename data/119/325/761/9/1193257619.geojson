@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1193257619,
-    "wof:lastmodified":1566648570,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766327,
     "wof:name":"Kelel",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310695693,
-    "wof:lastmodified":1566648729,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766373,
     "wof:name":"Bitaene Keur Abdou Diakate",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

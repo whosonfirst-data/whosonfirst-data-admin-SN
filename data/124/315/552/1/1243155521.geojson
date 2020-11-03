@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243155521,
-    "wof:lastmodified":1566648895,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766417,
     "wof:name":"Mouit",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226833643,
-    "wof:lastmodified":1566649163,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766480,
     "wof:name":"Passi Ndinderlin",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1209787229,
-    "wof:lastmodified":1566648482,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766314,
     "wof:name":"Diabarki",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

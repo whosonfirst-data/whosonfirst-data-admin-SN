@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1326513787,
-    "wof:lastmodified":1566647949,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766160,
     "wof:name":"Linndiane",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

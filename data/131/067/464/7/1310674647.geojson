@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310674647,
-    "wof:lastmodified":1566648732,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766373,
     "wof:name":"Ndoye Peul",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

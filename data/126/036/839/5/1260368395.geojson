@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260368395,
-    "wof:lastmodified":1566648605,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766337,
     "wof:name":"Daba Mamadou",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

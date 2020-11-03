@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343743427,
-    "wof:lastmodified":1566648168,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766227,
     "wof:name":"Iako Ouolof",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

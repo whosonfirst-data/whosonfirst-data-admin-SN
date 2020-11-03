@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1310081795,
-    "wof:lastmodified":1566648677,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766360,
     "wof:name":"Diabi",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

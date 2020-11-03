@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276764301,
-    "wof:lastmodified":1566648374,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766291,
     "wof:name":"Gati Sir Ndiaye",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

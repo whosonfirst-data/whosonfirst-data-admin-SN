@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260254999,
-    "wof:lastmodified":1566648595,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766334,
     "wof:name":"Touba Mbayene",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

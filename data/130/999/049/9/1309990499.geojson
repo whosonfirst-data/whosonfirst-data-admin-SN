@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1309990499,
-    "wof:lastmodified":1566648784,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766388,
     "wof:name":"Keur Mandao",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

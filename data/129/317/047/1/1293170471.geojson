@@ -67,7 +67,15 @@
         }
     ],
     "wof:id":1293170471,
-    "wof:lastmodified":1566648294,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766266,
     "wof:name":"Kanka",
     "wof:parent_id":1108691477,
     "wof:placetype":"locality",

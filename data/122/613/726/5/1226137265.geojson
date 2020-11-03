@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226137265,
-    "wof:lastmodified":1566649136,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766474,
     "wof:name":"Balkam",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

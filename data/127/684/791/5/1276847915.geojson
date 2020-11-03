@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276847915,
-    "wof:lastmodified":1566648389,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766295,
     "wof:name":"Guinongue",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

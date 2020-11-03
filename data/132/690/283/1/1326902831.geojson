@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1326902831,
-    "wof:lastmodified":1566648017,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766181,
     "wof:name":"Sintiou Vanar",
     "wof:parent_id":1108691477,
     "wof:placetype":"locality",

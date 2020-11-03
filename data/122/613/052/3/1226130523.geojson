@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226130523,
-    "wof:lastmodified":1566649133,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766473,
     "wof:name":"Soudueli",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

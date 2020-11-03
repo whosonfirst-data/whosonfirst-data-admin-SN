@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226465283,
-    "wof:lastmodified":1566649162,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766480,
     "wof:name":"Allague",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

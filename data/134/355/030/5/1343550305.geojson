@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343550305,
-    "wof:lastmodified":1566648064,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766195,
     "wof:name":"Mbadio",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

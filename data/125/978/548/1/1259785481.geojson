@@ -71,7 +71,15 @@
         }
     ],
     "wof:id":1259785481,
-    "wof:lastmodified":1566649011,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766444,
     "wof:name":"Langar",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

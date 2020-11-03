@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1225940185,
-    "wof:lastmodified":1566649061,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766456,
     "wof:name":"Keur Nala",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

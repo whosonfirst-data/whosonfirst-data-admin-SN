@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":1259585195,
-    "wof:lastmodified":1566649041,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766451,
     "wof:name":"Tiele",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

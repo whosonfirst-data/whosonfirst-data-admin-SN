@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327243125,
-    "wof:lastmodified":1566647982,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766170,
     "wof:name":"Ouarti",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1293371187,
-    "wof:lastmodified":1566648205,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766237,
     "wof:name":"Sare Demabo",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

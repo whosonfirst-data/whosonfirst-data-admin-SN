@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1327409833,
-    "wof:lastmodified":1566647974,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766167,
     "wof:name":"Singuere",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

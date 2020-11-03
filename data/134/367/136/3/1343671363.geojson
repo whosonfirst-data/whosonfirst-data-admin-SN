@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343671363,
-    "wof:lastmodified":1566648132,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766216,
     "wof:name":"Keur Ndiaye Lo",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

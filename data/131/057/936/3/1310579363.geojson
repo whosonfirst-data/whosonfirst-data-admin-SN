@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310579363,
-    "wof:lastmodified":1566648716,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766370,
     "wof:name":"Sare Badio",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

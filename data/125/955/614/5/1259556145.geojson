@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259556145,
-    "wof:lastmodified":1566648993,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766440,
     "wof:name":"Ibra Fal",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

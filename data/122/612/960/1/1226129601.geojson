@@ -65,7 +65,15 @@
         }
     ],
     "wof:id":1226129601,
-    "wof:lastmodified":1566649154,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766478,
     "wof:name":"Abene",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

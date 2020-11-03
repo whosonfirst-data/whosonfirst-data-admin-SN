@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343269349,
-    "wof:lastmodified":1566648170,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766228,
     "wof:name":"Dialo",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

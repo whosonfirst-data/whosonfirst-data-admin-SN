@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226405629,
-    "wof:lastmodified":1566649146,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766476,
     "wof:name":"Touba Morikounda",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

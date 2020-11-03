@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243075049,
-    "wof:lastmodified":1566648836,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766402,
     "wof:name":"Lagane",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

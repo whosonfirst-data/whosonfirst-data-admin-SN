@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1243268599,
-    "wof:lastmodified":1566648956,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766433,
     "wof:name":"Bakadadji",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

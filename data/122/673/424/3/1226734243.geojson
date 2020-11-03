@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226734243,
-    "wof:lastmodified":1566649090,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766463,
     "wof:name":"Kobongoye Boundao",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

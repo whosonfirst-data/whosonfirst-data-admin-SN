@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1259951503,
-    "wof:lastmodified":1566649027,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766448,
     "wof:name":"Outioumbel",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

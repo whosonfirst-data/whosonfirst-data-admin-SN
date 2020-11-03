@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226120767,
-    "wof:lastmodified":1566649153,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766478,
     "wof:name":"Nameko",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

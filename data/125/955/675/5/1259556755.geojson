@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1259556755,
-    "wof:lastmodified":1566648992,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766440,
     "wof:name":"Gourel Gueda",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

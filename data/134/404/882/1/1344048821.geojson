@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344048821,
-    "wof:lastmodified":1566648158,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766224,
     "wof:name":"Sorokh Khassab",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

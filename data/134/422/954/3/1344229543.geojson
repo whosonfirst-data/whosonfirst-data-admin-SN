@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344229543,
-    "wof:lastmodified":1566648072,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766197,
     "wof:name":"Keur Yoro Barou",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226728061,
-    "wof:lastmodified":1566649073,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766459,
     "wof:name":"Selikenie",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259456231,
-    "wof:lastmodified":1566649053,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766454,
     "wof:name":"Douloubal",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

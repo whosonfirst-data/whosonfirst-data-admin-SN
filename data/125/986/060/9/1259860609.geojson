@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259860609,
-    "wof:lastmodified":1566649059,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766456,
     "wof:name":"Kadiamari",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1309905095,
-    "wof:lastmodified":1566648782,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766387,
     "wof:name":"Tamba I",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

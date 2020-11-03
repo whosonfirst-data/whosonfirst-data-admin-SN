@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1225932321,
-    "wof:lastmodified":1566649062,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766457,
     "wof:name":"Doulayel",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

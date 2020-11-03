@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343630969,
-    "wof:lastmodified":1566648066,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766195,
     "wof:name":"Kebe Gouye",
     "wof:parent_id":1108691477,
     "wof:placetype":"locality",

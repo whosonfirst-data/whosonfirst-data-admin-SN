@@ -73,7 +73,15 @@
         }
     ],
     "wof:id":1344040337,
-    "wof:lastmodified":1566648158,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766224,
     "wof:name":"Godo",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

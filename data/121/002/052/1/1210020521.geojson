@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1210020521,
-    "wof:lastmodified":1566648552,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766322,
     "wof:name":"Yeumbeul",
     "wof:parent_id":421193105,
     "wof:placetype":"locality",

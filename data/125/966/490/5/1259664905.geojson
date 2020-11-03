@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259664905,
-    "wof:lastmodified":1566649032,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766449,
     "wof:name":"Djida",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

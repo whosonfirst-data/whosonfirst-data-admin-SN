@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1276521333,
-    "wof:lastmodified":1566648395,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766297,
     "wof:name":"Gonio",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

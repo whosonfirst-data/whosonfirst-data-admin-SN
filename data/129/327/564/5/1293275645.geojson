@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1293275645,
-    "wof:lastmodified":1566648283,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766262,
     "wof:name":"Keur Dimba Diallo",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

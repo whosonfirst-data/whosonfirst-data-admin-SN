@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344241411,
-    "wof:lastmodified":1566648089,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766202,
     "wof:name":"Dioufene",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

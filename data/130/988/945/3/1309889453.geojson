@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1309889453,
-    "wof:lastmodified":1566648818,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766397,
     "wof:name":"Kabakoto",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

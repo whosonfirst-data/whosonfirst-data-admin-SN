@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1259653985,
-    "wof:lastmodified":1566648972,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766437,
     "wof:name":"Salndou",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

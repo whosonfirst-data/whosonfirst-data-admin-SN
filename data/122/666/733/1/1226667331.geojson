@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226667331,
-    "wof:lastmodified":1566649120,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766470,
     "wof:name":"Diassap",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

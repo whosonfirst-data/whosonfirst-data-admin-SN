@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243559463,
-    "wof:lastmodified":1566648854,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766407,
     "wof:name":"Sare Kidi",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

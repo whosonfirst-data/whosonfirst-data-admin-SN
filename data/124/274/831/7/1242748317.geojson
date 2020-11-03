@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242748317,
-    "wof:lastmodified":1566648858,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766408,
     "wof:name":"Pambi",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

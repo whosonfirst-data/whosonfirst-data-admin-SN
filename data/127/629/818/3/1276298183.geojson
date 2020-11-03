@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276298183,
-    "wof:lastmodified":1566648344,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766281,
     "wof:name":"Koutounta Ali Koli",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

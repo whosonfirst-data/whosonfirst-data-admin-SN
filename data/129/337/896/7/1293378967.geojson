@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293378967,
-    "wof:lastmodified":1566648206,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766237,
     "wof:name":"Keur Amat Rasta",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

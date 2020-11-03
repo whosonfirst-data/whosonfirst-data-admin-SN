@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1293378167,
-    "wof:lastmodified":1566648203,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766236,
     "wof:name":"Tamba Kounda",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

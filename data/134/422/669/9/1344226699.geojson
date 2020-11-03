@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344226699,
-    "wof:lastmodified":1566648073,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766197,
     "wof:name":"Ngouke Kouke",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

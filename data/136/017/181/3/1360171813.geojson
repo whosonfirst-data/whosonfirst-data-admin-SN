@@ -63,7 +63,15 @@
         }
     ],
     "wof:id":1360171813,
-    "wof:lastmodified":1566648763,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766382,
     "wof:name":"Balingor",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1327034811,
-    "wof:lastmodified":1566647997,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766175,
     "wof:name":"Dalafi",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

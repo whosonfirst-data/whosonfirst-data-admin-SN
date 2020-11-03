@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259663969,
-    "wof:lastmodified":1566649031,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766449,
     "wof:name":"Tangori",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

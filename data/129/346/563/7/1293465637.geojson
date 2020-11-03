@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293465637,
-    "wof:lastmodified":1566648219,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766241,
     "wof:name":"Koubone",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

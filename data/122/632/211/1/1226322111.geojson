@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226322111,
-    "wof:lastmodified":1566649115,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766469,
     "wof:name":"Massara",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

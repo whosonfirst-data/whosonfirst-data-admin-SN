@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327436337,
-    "wof:lastmodified":1566648028,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766184,
     "wof:name":"Bankouba",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

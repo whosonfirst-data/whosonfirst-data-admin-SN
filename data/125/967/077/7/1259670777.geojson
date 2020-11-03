@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259670777,
-    "wof:lastmodified":1566649037,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766450,
     "wof:name":"Kelema Kiri",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

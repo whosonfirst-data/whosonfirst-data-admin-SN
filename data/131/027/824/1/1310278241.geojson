@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1310278241,
-    "wof:lastmodified":1566648688,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766363,
     "wof:name":"Odobere",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":421177199,
-    "wof:lastmodified":1566648829,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766400,
     "wof:name":"Dagoudane Pikine",
     "wof:parent_id":421193105,
     "wof:placetype":"locality",

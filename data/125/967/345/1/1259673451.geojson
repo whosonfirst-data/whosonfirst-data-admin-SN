@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259673451,
-    "wof:lastmodified":1566649040,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766451,
     "wof:name":"Ganiek",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

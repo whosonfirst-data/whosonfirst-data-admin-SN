@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226515539,
-    "wof:lastmodified":1566649108,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766467,
     "wof:name":"Mbakna",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

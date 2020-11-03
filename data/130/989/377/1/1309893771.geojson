@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1309893771,
-    "wof:lastmodified":1566648812,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766396,
     "wof:name":"Medina el Hadji",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

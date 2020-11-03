@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310200295,
-    "wof:lastmodified":1566648686,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766362,
     "wof:name":"Dioukoul Sob",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

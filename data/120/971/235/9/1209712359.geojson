@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1209712359,
-    "wof:lastmodified":1566648484,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766314,
     "wof:name":"Soun Wolof",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

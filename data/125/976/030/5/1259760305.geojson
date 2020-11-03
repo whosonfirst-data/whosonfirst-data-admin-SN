@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259760305,
-    "wof:lastmodified":1566649020,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766446,
     "wof:name":"Guikes Kankamba",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

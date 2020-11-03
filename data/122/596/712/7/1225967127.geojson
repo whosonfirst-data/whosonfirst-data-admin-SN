@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1225967127,
-    "wof:lastmodified":1566649127,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766472,
     "wof:name":"Missira Diaka",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

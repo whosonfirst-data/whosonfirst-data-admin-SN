@@ -67,7 +67,15 @@
         }
     ],
     "wof:id":1310703605,
-    "wof:lastmodified":1566648653,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766353,
     "wof:name":"Yamal",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

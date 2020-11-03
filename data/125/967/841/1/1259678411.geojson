@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259678411,
-    "wof:lastmodified":1566649039,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766450,
     "wof:name":"Rhaye Bayar",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

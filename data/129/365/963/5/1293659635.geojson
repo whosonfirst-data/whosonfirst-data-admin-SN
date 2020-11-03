@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1293659635,
-    "wof:lastmodified":1566648201,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766236,
     "wof:name":"Dantiady",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

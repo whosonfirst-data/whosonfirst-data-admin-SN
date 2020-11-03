@@ -71,7 +71,15 @@
         }
     ],
     "wof:id":1310283275,
-    "wof:lastmodified":1566648702,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766366,
     "wof:name":"Kossi",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

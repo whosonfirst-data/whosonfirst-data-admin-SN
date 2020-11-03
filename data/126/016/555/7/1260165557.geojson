@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260165557,
-    "wof:lastmodified":1566648620,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766342,
     "wof:name":"Dara Tiele",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1277097855,
-    "wof:lastmodified":1566648316,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766273,
     "wof:name":"Gaskor",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

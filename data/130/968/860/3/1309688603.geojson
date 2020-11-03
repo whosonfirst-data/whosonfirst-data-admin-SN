@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1309688603,
-    "wof:lastmodified":1566648800,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766392,
     "wof:name":"Ndemebelegne",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1326835091,
-    "wof:lastmodified":1566648010,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766179,
     "wof:name":"Gourel Sambara Maka",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293759997,
-    "wof:lastmodified":1566648304,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766269,
     "wof:name":"Ndiayene Guirene",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

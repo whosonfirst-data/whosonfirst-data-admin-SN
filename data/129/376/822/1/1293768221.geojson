@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293768221,
-    "wof:lastmodified":1566648231,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766245,
     "wof:name":"Medina Bobo",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

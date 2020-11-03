@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326606427,
-    "wof:lastmodified":1566647952,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766161,
     "wof:name":"Ndieye Sefour",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

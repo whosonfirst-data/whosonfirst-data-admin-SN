@@ -79,7 +79,15 @@
         }
     ],
     "wof:id":1193114323,
-    "wof:lastmodified":1566648584,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766332,
     "wof:name":"Kona",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

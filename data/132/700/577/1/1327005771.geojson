@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327005771,
-    "wof:lastmodified":1566647935,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766156,
     "wof:name":"Sare Aba",
     "wof:parent_id":1108691459,
     "wof:placetype":"locality",

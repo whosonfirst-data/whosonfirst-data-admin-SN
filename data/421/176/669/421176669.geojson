@@ -106,7 +106,15 @@
         }
     ],
     "wof:id":421176669,
-    "wof:lastmodified":1582317845,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766401,
     "wof:name":"Mbacke",
     "wof:parent_id":85677001,
     "wof:placetype":"county",

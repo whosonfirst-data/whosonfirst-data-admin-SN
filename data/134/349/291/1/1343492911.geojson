@@ -85,7 +85,15 @@
         }
     ],
     "wof:id":1343492911,
-    "wof:lastmodified":1566648114,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766210,
     "wof:name":"Lalli",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

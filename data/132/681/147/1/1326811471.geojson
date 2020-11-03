@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1326811471,
-    "wof:lastmodified":1566647941,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766158,
     "wof:name":"Wassadou",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

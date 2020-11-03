@@ -85,7 +85,15 @@
         }
     ],
     "wof:id":421166465,
-    "wof:lastmodified":1566648820,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766398,
     "wof:name":"Palmarin",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

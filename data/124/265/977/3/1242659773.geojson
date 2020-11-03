@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1242659773,
-    "wof:lastmodified":1566648938,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766428,
     "wof:name":"Pafa",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

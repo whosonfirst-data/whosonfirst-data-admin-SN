@@ -89,7 +89,15 @@
         }
     ],
     "wof:id":1226337493,
-    "wof:lastmodified":1566649097,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766465,
     "wof:name":"Bamba",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

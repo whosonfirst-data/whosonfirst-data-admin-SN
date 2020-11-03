@@ -198,7 +198,15 @@
         }
     ],
     "wof:id":421181825,
-    "wof:lastmodified":1582317845,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766399,
     "wof:name":"Kaolack",
     "wof:parent_id":85677011,
     "wof:placetype":"county",

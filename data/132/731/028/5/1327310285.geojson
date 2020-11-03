@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327310285,
-    "wof:lastmodified":1566647930,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766154,
     "wof:name":"Negue",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

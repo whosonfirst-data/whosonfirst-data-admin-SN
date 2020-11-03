@@ -73,7 +73,15 @@
         }
     ],
     "wof:id":421205411,
-    "wof:lastmodified":1566648824,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766399,
     "wof:name":"Kayar",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

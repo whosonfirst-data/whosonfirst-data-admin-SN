@@ -62,7 +62,15 @@
         }
     ],
     "wof:id":1226231239,
-    "wof:lastmodified":1566649150,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766477,
     "wof:name":"Malem Hodar",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

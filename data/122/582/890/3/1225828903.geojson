@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1225828903,
-    "wof:lastmodified":1566649194,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766488,
     "wof:name":"Keur Sering Taiba",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

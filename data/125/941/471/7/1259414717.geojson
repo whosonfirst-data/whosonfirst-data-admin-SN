@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259414717,
-    "wof:lastmodified":1566649009,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766443,
     "wof:name":"Rehahi",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1193255529,
-    "wof:lastmodified":1566648570,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766327,
     "wof:name":"Nyikine",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259849221,
-    "wof:lastmodified":1566649002,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766442,
     "wof:name":"Medina Ndiayene",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

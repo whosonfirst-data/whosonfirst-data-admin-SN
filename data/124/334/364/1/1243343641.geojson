@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1243343641,
-    "wof:lastmodified":1566648914,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766422,
     "wof:name":"Dimbaya",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

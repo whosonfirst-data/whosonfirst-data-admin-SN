@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343251681,
-    "wof:lastmodified":1566648117,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766211,
     "wof:name":"Gouye Sambabane",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

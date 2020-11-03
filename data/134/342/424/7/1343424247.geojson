@@ -205,7 +205,15 @@
         }
     ],
     "wof:id":1343424247,
-    "wof:lastmodified":1566648159,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766224,
     "wof:name":"Sita",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276857481,
-    "wof:lastmodified":1566648377,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766292,
     "wof:name":"Loumbel Bissinabe",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

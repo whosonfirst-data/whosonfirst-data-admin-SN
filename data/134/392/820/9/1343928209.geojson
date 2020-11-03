@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343928209,
-    "wof:lastmodified":1566648122,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766213,
     "wof:name":"Diegue",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

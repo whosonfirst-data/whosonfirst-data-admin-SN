@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226138997,
-    "wof:lastmodified":1566649135,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766474,
     "wof:name":"Badiane Nem",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226781583,
-    "wof:lastmodified":1566649144,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766476,
     "wof:name":"Bokidou lki",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

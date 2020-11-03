@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1193004465,
-    "wof:lastmodified":1566648554,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766322,
     "wof:name":"Khambala",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

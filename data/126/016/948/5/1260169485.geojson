@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260169485,
-    "wof:lastmodified":1566648620,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766342,
     "wof:name":"Kokoum Samba",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1225834025,
-    "wof:lastmodified":1566649201,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766490,
     "wof:name":"Dafar",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

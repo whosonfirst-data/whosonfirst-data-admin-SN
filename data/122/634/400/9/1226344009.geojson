@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226344009,
-    "wof:lastmodified":1566649099,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766465,
     "wof:name":"Darou Rahmane",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

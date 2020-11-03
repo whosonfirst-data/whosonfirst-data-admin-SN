@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276140057,
-    "wof:lastmodified":1566648371,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766289,
     "wof:name":"Ndama",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

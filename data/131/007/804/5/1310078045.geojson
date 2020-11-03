@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310078045,
-    "wof:lastmodified":1566648665,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766356,
     "wof:name":"Keur Sandao",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276974231,
-    "wof:lastmodified":1566648403,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766299,
     "wof:name":"Tieneba",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

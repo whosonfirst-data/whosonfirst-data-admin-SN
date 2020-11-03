@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293573097,
-    "wof:lastmodified":1566648251,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766251,
     "wof:name":"Mborhodofe",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

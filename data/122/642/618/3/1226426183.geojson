@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226426183,
-    "wof:lastmodified":1566649085,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766462,
     "wof:name":"Belongui",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

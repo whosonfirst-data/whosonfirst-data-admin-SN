@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343757983,
-    "wof:lastmodified":1566648171,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766228,
     "wof:name":"Keur Gaye",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

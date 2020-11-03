@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1292937509,
-    "wof:lastmodified":1566648216,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766241,
     "wof:name":"Dialassabakounda",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

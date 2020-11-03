@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1293271557,
-    "wof:lastmodified":1566648283,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766262,
     "wof:name":"Biba",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

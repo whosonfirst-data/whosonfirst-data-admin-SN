@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1209792857,
-    "wof:lastmodified":1566648472,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766313,
     "wof:name":"Tangout",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

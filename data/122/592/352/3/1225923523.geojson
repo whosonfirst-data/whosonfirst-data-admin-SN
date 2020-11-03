@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1225923523,
-    "wof:lastmodified":1566649064,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766457,
     "wof:name":"Ndiakhaye",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

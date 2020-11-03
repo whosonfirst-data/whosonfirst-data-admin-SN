@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259566259,
-    "wof:lastmodified":1566649045,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766452,
     "wof:name":"Galayabe Foulbe",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

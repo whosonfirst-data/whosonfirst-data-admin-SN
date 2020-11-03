@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343241655,
-    "wof:lastmodified":1566648105,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766207,
     "wof:name":"Keur Balla",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

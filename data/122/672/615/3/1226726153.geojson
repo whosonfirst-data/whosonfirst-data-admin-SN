@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226726153,
-    "wof:lastmodified":1566649072,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766459,
     "wof:name":"Bondala",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

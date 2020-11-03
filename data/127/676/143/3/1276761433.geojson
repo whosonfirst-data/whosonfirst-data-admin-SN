@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1276761433,
-    "wof:lastmodified":1566648375,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766291,
     "wof:name":"Baili-Ouamedaka",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

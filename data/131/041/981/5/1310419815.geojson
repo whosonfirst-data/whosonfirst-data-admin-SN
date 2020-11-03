@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1310419815,
-    "wof:lastmodified":1566648646,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766351,
     "wof:name":"Niaye Khaye",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

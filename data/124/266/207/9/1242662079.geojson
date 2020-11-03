@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242662079,
-    "wof:lastmodified":1566648872,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766411,
     "wof:name":"Petegne",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

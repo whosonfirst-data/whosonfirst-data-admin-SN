@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1225849863,
-    "wof:lastmodified":1566649199,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766489,
     "wof:name":"Pakirane",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

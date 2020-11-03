@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1193159747,
-    "wof:lastmodified":1566648561,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766325,
     "wof:name":"Sintiou Bay Ladji",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327318163,
-    "wof:lastmodified":1566647927,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766154,
     "wof:name":"Darou",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

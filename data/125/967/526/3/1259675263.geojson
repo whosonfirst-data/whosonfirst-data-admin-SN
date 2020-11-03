@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259675263,
-    "wof:lastmodified":1566649038,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766450,
     "wof:name":"Ndiarhate Ndiassane",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

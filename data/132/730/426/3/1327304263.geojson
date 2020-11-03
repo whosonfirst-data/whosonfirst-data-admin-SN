@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1327304263,
-    "wof:lastmodified":1566647925,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766153,
     "wof:name":"Diammel",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

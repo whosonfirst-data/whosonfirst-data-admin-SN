@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1259464261,
-    "wof:lastmodified":1566649007,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766443,
     "wof:name":"Payoungou",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

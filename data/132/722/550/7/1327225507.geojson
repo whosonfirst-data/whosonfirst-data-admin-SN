@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327225507,
-    "wof:lastmodified":1566647966,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766165,
     "wof:name":"Keur Rhare Dieye",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

@@ -67,7 +67,15 @@
         }
     ],
     "wof:id":1327128785,
-    "wof:lastmodified":1566647980,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766169,
     "wof:name":"Daga",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

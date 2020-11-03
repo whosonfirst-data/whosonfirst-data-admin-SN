@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360261419,
-    "wof:lastmodified":1566648771,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766385,
     "wof:name":"Yar Dakar",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

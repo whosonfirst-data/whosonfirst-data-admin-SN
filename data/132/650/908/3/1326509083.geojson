@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326509083,
-    "wof:lastmodified":1566647964,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766164,
     "wof:name":"Saninte",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

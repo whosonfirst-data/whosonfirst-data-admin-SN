@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226414035,
-    "wof:lastmodified":1566649161,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766480,
     "wof:name":"Kinemmba",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

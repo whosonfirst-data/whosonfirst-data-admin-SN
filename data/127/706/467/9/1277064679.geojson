@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1277064679,
-    "wof:lastmodified":1566648315,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766273,
     "wof:name":"Bouboukounda",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

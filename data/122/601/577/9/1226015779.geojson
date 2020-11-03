@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1226015779,
-    "wof:lastmodified":1566649177,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766484,
     "wof:name":"Ndeuguet",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

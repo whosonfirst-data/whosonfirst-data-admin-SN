@@ -63,7 +63,15 @@
         }
     ],
     "wof:id":1310282167,
-    "wof:lastmodified":1566648699,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766366,
     "wof:name":"Boukot Ouolof",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

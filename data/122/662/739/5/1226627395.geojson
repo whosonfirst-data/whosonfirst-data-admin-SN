@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226627395,
-    "wof:lastmodified":1566649178,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766484,
     "wof:name":"Diaba-Senegal",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

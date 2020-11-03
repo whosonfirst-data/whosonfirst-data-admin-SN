@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1310028551,
-    "wof:lastmodified":1566648728,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766373,
     "wof:name":"Sintiou Ganiado",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

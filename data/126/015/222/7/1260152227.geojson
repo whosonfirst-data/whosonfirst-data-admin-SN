@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260152227,
-    "wof:lastmodified":1566648592,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766334,
     "wof:name":"Pelel Kindessa",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

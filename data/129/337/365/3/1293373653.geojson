@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293373653,
-    "wof:lastmodified":1566648203,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766236,
     "wof:name":"Petegne Kahone",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

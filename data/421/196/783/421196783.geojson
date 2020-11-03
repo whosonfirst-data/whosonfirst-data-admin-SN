@@ -105,7 +105,15 @@
         }
     ],
     "wof:id":421196783,
-    "wof:lastmodified":1566648826,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766399,
     "wof:name":"Ran\u00e9rou",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

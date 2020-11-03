@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":1260282965,
-    "wof:lastmodified":1566648625,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766344,
     "wof:name":"Sintiou Tapsirou",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

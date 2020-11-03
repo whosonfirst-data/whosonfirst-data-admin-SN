@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327410309,
-    "wof:lastmodified":1566647985,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766171,
     "wof:name":"Tchabougueul",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

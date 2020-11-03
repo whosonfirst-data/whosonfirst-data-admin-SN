@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1259374729,
-    "wof:lastmodified":1566648982,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766439,
     "wof:name":"Tok Lou Serer",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

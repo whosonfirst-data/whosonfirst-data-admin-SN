@@ -85,7 +85,15 @@
         }
     ],
     "wof:id":1309882229,
-    "wof:lastmodified":1566648817,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766397,
     "wof:name":"Par",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

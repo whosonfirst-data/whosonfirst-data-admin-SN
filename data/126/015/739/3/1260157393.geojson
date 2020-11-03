@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1260157393,
-    "wof:lastmodified":1566648590,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766333,
     "wof:name":"Demba Tilal",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

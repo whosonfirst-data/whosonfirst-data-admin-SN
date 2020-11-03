@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1225927397,
-    "wof:lastmodified":1566649064,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766457,
     "wof:name":"Dieri Douga",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

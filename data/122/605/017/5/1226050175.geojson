@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226050175,
-    "wof:lastmodified":1566649106,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766467,
     "wof:name":"Diarno",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

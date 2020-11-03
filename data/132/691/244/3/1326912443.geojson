@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326912443,
-    "wof:lastmodified":1566648022,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766183,
     "wof:name":"Tiobe",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

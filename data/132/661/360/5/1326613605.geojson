@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326613605,
-    "wof:lastmodified":1566647960,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766163,
     "wof:name":"Yade Keur Abou Ba",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

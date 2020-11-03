@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343837509,
-    "wof:lastmodified":1566648099,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766205,
     "wof:name":"Koeli",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

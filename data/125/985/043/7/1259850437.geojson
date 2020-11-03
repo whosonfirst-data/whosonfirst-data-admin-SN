@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1259850437,
-    "wof:lastmodified":1566649016,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766445,
     "wof:name":"Mbaye Mbaye",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

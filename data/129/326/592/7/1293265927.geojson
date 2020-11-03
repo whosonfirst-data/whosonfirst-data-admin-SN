@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293265927,
-    "wof:lastmodified":1566648301,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766268,
     "wof:name":"Diama Toube",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

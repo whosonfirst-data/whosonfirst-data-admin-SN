@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1209786763,
-    "wof:lastmodified":1566648483,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766314,
     "wof:name":"Ngaina",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

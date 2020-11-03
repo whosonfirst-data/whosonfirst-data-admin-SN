@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327455223,
-    "wof:lastmodified":1566648041,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766188,
     "wof:name":"Keur Mbaye Mati",
     "wof:parent_id":1108691499,
     "wof:placetype":"locality",

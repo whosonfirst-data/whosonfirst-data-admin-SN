@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1259861735,
-    "wof:lastmodified":1566649058,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766456,
     "wof:name":"Koumbidia",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

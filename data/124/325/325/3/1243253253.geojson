@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243253253,
-    "wof:lastmodified":1566648901,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766419,
     "wof:name":"Sanghor",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

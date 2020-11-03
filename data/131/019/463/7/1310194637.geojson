@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1310194637,
-    "wof:lastmodified":1566648706,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766368,
     "wof:name":"Dank",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

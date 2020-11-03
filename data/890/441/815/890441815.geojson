@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":890441815,
-    "wof:lastmodified":1566648832,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766401,
     "wof:name":"S\u00e9m\u00e9",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

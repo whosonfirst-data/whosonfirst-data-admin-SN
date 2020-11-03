@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1260359179,
-    "wof:lastmodified":1566648631,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766346,
     "wof:name":"Kinndiane",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

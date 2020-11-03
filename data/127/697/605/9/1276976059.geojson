@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1276976059,
-    "wof:lastmodified":1566648403,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766299,
     "wof:name":"Daga Guirene",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

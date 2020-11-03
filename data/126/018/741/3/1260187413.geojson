@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1260187413,
-    "wof:lastmodified":1566648618,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766341,
     "wof:name":"Kountouata",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

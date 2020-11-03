@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276411139,
-    "wof:lastmodified":1566648388,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766295,
     "wof:name":"Keur G. Diagne",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276620305,
-    "wof:lastmodified":1566648412,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766301,
     "wof:name":"Badoumba Kereouane",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

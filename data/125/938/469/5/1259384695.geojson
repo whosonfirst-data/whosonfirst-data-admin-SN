@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259384695,
-    "wof:lastmodified":1566648970,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766436,
     "wof:name":"Keur Makouba Kebe",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

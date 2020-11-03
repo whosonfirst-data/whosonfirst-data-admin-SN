@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327330489,
-    "wof:lastmodified":1566647991,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766173,
     "wof:name":"B'oungap",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

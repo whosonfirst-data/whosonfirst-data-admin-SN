@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1209789547,
-    "wof:lastmodified":1566648481,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766313,
     "wof:name":"Iba Balla",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

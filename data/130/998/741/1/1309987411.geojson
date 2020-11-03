@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1309987411,
-    "wof:lastmodified":1566648776,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766386,
     "wof:name":"Bounkili",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

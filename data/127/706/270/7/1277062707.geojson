@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1277062707,
-    "wof:lastmodified":1566648314,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766272,
     "wof:name":"Keur Massamba",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

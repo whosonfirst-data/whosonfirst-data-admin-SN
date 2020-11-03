@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1209807303,
-    "wof:lastmodified":1566648527,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766317,
     "wof:name":"Keur Moussa",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

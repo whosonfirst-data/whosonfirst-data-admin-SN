@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310377899,
-    "wof:lastmodified":1566648679,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766360,
     "wof:name":"Darou Moussa",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

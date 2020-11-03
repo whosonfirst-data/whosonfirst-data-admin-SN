@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327356313,
-    "wof:lastmodified":1566647996,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766174,
     "wof:name":"Dialassaba",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1309878241,
-    "wof:lastmodified":1566648807,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766394,
     "wof:name":"Loumbol",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":1259764277,
-    "wof:lastmodified":1566649022,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766446,
     "wof:name":"Kandiator",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

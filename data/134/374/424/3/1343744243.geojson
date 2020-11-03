@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343744243,
-    "wof:lastmodified":1566648165,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766226,
     "wof:name":"Godiba",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

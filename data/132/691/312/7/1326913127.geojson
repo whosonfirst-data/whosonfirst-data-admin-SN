@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326913127,
-    "wof:lastmodified":1566648024,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766183,
     "wof:name":"Dounde Koussem",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

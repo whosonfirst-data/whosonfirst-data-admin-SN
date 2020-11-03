@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1209788273,
-    "wof:lastmodified":1566648481,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766313,
     "wof:name":"Guerane",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

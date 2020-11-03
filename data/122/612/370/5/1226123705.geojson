@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226123705,
-    "wof:lastmodified":1566649153,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766478,
     "wof:name":"Sare Samba Cisse",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242871113,
-    "wof:lastmodified":1566648858,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766408,
     "wof:name":"Keur Dali",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

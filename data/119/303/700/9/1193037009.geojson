@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1193037009,
-    "wof:lastmodified":1566648572,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766328,
     "wof:name":"Darou Salam",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

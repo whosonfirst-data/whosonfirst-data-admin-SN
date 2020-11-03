@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226320933,
-    "wof:lastmodified":1566649118,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766470,
     "wof:name":"Tankanton Peul",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

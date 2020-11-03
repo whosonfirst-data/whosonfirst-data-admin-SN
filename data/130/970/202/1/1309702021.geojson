@@ -67,7 +67,15 @@
         }
     ],
     "wof:id":1309702021,
-    "wof:lastmodified":1566648788,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766389,
     "wof:name":"Diane",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

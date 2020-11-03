@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1225915601,
-    "wof:lastmodified":1566649128,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766472,
     "wof:name":"Mbam",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

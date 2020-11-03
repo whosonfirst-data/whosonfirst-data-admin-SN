@@ -88,7 +88,15 @@
         }
     ],
     "wof:id":1310110761,
-    "wof:lastmodified":1566648693,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766364,
     "wof:name":"Pir",
     "wof:parent_id":1108691483,
     "wof:placetype":"locality",

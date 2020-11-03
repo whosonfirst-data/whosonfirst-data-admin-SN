@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1277150619,
-    "wof:lastmodified":1566648363,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766287,
     "wof:name":"Ndiebene Toube",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

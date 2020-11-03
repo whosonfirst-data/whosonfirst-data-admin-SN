@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327309633,
-    "wof:lastmodified":1566647924,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766153,
     "wof:name":"Kenewa",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

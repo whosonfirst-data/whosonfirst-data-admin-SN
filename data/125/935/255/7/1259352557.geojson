@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259352557,
-    "wof:lastmodified":1566649036,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766450,
     "wof:name":"Medina Koli",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

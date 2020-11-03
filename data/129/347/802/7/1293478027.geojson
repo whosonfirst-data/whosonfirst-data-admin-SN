@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1293478027,
-    "wof:lastmodified":1566648235,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766246,
     "wof:name":"Iako Peul",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

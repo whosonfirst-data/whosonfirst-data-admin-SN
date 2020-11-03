@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226438513,
-    "wof:lastmodified":1566649077,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766460,
     "wof:name":"Soror",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

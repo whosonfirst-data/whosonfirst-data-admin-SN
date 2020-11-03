@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226752649,
-    "wof:lastmodified":1566649075,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766459,
     "wof:name":"Doulouyabe",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

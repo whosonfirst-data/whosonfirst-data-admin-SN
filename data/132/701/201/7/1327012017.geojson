@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1327012017,
-    "wof:lastmodified":1566647922,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766152,
     "wof:name":"Hokar",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

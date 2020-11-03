@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260082115,
-    "wof:lastmodified":1566648607,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766338,
     "wof:name":"Ndiane",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

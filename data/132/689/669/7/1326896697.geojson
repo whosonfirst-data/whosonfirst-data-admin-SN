@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1326896697,
-    "wof:lastmodified":1566647942,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766158,
     "wof:name":"Sefa",
     "wof:parent_id":1108691459,
     "wof:placetype":"locality",

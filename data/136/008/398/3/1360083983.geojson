@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360083983,
-    "wof:lastmodified":1566648746,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766378,
     "wof:name":"Sanbangaye",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

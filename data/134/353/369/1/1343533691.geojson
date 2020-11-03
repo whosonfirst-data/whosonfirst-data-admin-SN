@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343533691,
-    "wof:lastmodified":1566648059,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766193,
     "wof:name":"Kadaodao",
     "wof:parent_id":1108691477,
     "wof:placetype":"locality",

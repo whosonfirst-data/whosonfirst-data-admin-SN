@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327312061,
-    "wof:lastmodified":1566647930,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766155,
     "wof:name":"Natchilati",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

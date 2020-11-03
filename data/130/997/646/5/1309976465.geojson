@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1309976465,
-    "wof:lastmodified":1566648780,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766387,
     "wof:name":"Sintiou Diamdioro",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

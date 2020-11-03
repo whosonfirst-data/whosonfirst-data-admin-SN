@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343637201,
-    "wof:lastmodified":1566648068,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766196,
     "wof:name":"Kangodi",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

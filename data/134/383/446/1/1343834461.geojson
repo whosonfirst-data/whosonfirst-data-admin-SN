@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343834461,
-    "wof:lastmodified":1566648097,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766205,
     "wof:name":"Keur Markari",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

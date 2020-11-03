@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259363135,
-    "wof:lastmodified":1566648967,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766435,
     "wof:name":"Bakounou",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

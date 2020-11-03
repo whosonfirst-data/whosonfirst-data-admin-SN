@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226826183,
-    "wof:lastmodified":1566649141,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766475,
     "wof:name":"Samouna",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

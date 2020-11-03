@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226544807,
-    "wof:lastmodified":1566649187,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766486,
     "wof:name":"Kotie Nord",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

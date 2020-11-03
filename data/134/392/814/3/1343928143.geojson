@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343928143,
-    "wof:lastmodified":1566648124,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766213,
     "wof:name":"Liou",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

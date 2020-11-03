@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1193027423,
-    "wof:lastmodified":1566648574,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766329,
     "wof:name":"Mbobene",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

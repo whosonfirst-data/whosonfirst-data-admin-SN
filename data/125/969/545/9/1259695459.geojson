@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259695459,
-    "wof:lastmodified":1566649046,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766452,
     "wof:name":"Darou Mbeye",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

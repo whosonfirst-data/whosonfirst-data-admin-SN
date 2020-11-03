@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1259480209,
-    "wof:lastmodified":1566648996,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766441,
     "wof:name":"Keur Demba Anta",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259963453,
-    "wof:lastmodified":1566648978,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766438,
     "wof:name":"Latmingue",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

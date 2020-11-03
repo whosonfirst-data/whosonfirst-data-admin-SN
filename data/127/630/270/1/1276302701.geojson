@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276302701,
-    "wof:lastmodified":1566648410,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766301,
     "wof:name":"Mbanane",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

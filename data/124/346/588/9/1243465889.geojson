@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1243465889,
-    "wof:lastmodified":1566648885,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766415,
     "wof:name":"Layabe",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

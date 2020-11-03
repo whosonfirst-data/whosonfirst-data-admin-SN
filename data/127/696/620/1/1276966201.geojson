@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276966201,
-    "wof:lastmodified":1566648413,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766302,
     "wof:name":"Foulakounda",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

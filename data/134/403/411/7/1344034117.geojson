@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344034117,
-    "wof:lastmodified":1566648153,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766223,
     "wof:name":"Koe",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242755139,
-    "wof:lastmodified":1566648865,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766410,
     "wof:name":"Essofol",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

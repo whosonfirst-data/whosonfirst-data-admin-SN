@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276954235,
-    "wof:lastmodified":1566648355,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766285,
     "wof:name":"Koussi",
     "wof:parent_id":1108691459,
     "wof:placetype":"locality",

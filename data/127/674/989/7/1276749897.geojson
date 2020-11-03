@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1276749897,
-    "wof:lastmodified":1566648338,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766280,
     "wof:name":"Merina Dia",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

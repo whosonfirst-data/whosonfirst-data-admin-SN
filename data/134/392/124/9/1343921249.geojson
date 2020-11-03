@@ -134,7 +134,15 @@
         }
     ],
     "wof:id":1343921249,
-    "wof:lastmodified":1566648124,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766213,
     "wof:name":"Brikama",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

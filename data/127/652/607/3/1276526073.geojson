@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276526073,
-    "wof:lastmodified":1566648399,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766298,
     "wof:name":"Sare Kande",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

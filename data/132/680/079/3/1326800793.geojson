@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326800793,
-    "wof:lastmodified":1566647944,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766158,
     "wof:name":"Sintian",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

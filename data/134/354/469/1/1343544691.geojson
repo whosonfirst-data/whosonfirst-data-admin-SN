@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343544691,
-    "wof:lastmodified":1566648056,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766192,
     "wof:name":"Gueye Kadar",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

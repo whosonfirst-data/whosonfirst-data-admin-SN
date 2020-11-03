@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1259943557,
-    "wof:lastmodified":1566649043,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766451,
     "wof:name":"Missira Sirimana",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

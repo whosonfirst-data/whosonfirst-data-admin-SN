@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310276273,
-    "wof:lastmodified":1566648687,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766362,
     "wof:name":"Dioulou Kogne",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

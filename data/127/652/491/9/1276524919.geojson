@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1276524919,
-    "wof:lastmodified":1566648397,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766297,
     "wof:name":"Kanibo",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

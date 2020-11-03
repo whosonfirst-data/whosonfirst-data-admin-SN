@@ -76,7 +76,15 @@
         }
     ],
     "wof:id":421199483,
-    "wof:lastmodified":1566648828,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766400,
     "wof:name":"Tiaroye",
     "wof:parent_id":421193105,
     "wof:placetype":"locality",

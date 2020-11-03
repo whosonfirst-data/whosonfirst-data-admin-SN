@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259366583,
-    "wof:lastmodified":1566648967,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766435,
     "wof:name":"Kere",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

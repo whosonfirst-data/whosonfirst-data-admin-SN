@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1210010993,
-    "wof:lastmodified":1566648549,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766321,
     "wof:name":"Salenia",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

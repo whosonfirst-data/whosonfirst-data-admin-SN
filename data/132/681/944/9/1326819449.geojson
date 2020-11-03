@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326819449,
-    "wof:lastmodified":1566647941,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766158,
     "wof:name":"Diemballa",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

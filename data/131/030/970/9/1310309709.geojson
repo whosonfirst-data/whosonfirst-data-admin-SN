@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310309709,
-    "wof:lastmodified":1566648673,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766359,
     "wof:name":"Debou Diaoube",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

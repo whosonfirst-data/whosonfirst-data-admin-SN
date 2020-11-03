@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1327251835,
-    "wof:lastmodified":1566647970,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766166,
     "wof:name":"Keur Amat Seydou",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

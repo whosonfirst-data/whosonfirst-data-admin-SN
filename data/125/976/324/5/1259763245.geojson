@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259763245,
-    "wof:lastmodified":1566649020,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766446,
     "wof:name":"Kassili",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

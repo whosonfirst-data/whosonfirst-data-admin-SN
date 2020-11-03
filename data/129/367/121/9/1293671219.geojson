@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293671219,
-    "wof:lastmodified":1566648263,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766255,
     "wof:name":"Medina Diognik",
     "wof:parent_id":1108691477,
     "wof:placetype":"locality",

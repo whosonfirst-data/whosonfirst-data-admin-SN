@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1293569315,
-    "wof:lastmodified":1566648254,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766253,
     "wof:name":"Badionkoton",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

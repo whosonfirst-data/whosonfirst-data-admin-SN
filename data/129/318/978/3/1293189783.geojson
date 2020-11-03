@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293189783,
-    "wof:lastmodified":1566648280,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766261,
     "wof:name":"Keur Set",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

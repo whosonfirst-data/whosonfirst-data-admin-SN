@@ -79,7 +79,15 @@
         }
     ],
     "wof:id":1277153457,
-    "wof:lastmodified":1566648364,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766287,
     "wof:name":"Loro",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

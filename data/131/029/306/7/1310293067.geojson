@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310293067,
-    "wof:lastmodified":1566648694,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766364,
     "wof:name":"Madina Samba",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

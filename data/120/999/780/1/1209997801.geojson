@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1209997801,
-    "wof:lastmodified":1566648464,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766311,
     "wof:name":"Banta Koutoum Pakane",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

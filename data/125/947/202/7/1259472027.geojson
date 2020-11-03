@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259472027,
-    "wof:lastmodified":1566649012,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766444,
     "wof:name":"Ndieba",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343333183,
-    "wof:lastmodified":1566648145,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766220,
     "wof:name":"Marougoundi",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327416749,
-    "wof:lastmodified":1566647985,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766171,
     "wof:name":"Fete Bowal",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

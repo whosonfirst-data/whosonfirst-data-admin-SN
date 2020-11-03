@@ -64,7 +64,15 @@
         }
     ],
     "wof:id":1360062489,
-    "wof:lastmodified":1566648750,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766379,
     "wof:name":"Balandine",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

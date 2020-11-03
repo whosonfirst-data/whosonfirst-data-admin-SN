@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242751579,
-    "wof:lastmodified":1566648863,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766409,
     "wof:name":"Ndiaguenbal",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

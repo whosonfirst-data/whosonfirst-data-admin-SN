@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1243517615,
-    "wof:lastmodified":1566648913,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766422,
     "wof:name":"Kasi",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

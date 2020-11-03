@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326496387,
-    "wof:lastmodified":1566648000,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766176,
     "wof:name":"Bissarou",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

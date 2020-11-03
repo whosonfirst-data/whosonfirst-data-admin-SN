@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1293753277,
-    "wof:lastmodified":1566648306,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766270,
     "wof:name":"Sintiou Bamba",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

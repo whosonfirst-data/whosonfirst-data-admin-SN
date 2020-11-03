@@ -107,7 +107,15 @@
         }
     ],
     "wof:id":1259352647,
-    "wof:lastmodified":1566649036,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766450,
     "wof:name":"Kai",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226819405,
-    "wof:lastmodified":1566649076,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766460,
     "wof:name":"Dial Soubalbe",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

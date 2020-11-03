@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360207383,
-    "wof:lastmodified":1566648753,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766380,
     "wof:name":"Dianke Makam",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327016149,
-    "wof:lastmodified":1566647921,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766152,
     "wof:name":"Koussous",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326918379,
-    "wof:lastmodified":1566648025,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766183,
     "wof:name":"Sare Sambe",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

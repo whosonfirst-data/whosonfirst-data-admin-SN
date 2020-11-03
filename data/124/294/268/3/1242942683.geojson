@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242942683,
-    "wof:lastmodified":1566648877,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766412,
     "wof:name":"Baiti",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

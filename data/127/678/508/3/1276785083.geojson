@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276785083,
-    "wof:lastmodified":1566648381,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766293,
     "wof:name":"Ourour",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

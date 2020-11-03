@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1225931017,
-    "wof:lastmodified":1566649063,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766457,
     "wof:name":"Dikes",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

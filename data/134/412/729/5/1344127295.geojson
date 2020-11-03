@@ -95,7 +95,15 @@
         }
     ],
     "wof:id":1344127295,
-    "wof:lastmodified":1566648086,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766202,
     "wof:name":"Yerma",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

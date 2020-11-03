@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1310291409,
-    "wof:lastmodified":1566648698,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766365,
     "wof:name":"Gor Tiongo",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

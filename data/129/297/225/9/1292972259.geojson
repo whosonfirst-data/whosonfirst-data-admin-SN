@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1292972259,
-    "wof:lastmodified":1566648275,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766259,
     "wof:name":"Darou Khara",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

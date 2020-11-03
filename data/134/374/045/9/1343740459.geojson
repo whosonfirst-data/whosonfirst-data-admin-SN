@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343740459,
-    "wof:lastmodified":1566648167,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766227,
     "wof:name":"Sare Sirilo",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

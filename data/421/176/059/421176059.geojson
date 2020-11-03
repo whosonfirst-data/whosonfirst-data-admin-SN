@@ -64,7 +64,15 @@
         }
     ],
     "wof:id":421176059,
-    "wof:lastmodified":1566648831,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766401,
     "wof:name":"Ndi\u00e9b\u00e8ne",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

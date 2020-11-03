@@ -104,7 +104,15 @@
         }
     ],
     "wof:id":1193002787,
-    "wof:lastmodified":1566648556,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766323,
     "wof:name":"Bak",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1193109637,
-    "wof:lastmodified":1566648585,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766332,
     "wof:name":"Daro Marnane",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

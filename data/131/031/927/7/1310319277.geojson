@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310319277,
-    "wof:lastmodified":1566648671,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766358,
     "wof:name":"Les Almadies",
     "wof:parent_id":421187965,
     "wof:placetype":"locality",

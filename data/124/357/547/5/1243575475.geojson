@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243575475,
-    "wof:lastmodified":1566648902,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766419,
     "wof:name":"Mbouror",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

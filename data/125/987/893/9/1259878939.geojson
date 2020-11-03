@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259878939,
-    "wof:lastmodified":1566649048,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766453,
     "wof:name":"Sintiou Sanbassira",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259371119,
-    "wof:lastmodified":1566648981,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766438,
     "wof:name":"Galandou",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

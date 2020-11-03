@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343872609,
-    "wof:lastmodified":1566648163,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766226,
     "wof:name":"Dougar Peul",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

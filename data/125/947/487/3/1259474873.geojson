@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259474873,
-    "wof:lastmodified":1566649013,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766444,
     "wof:name":"Mbirdiam",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

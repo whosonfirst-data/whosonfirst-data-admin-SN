@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1192990873,
-    "wof:lastmodified":1566648578,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766330,
     "wof:name":"Ndieri",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

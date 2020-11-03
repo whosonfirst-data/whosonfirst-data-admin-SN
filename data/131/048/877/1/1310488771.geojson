@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310488771,
-    "wof:lastmodified":1566648649,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766352,
     "wof:name":"Kassou",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

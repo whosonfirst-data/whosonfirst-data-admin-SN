@@ -73,7 +73,15 @@
         }
     ],
     "wof:id":1343340559,
-    "wof:lastmodified":1566648141,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766219,
     "wof:name":"Pete",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

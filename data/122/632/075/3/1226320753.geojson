@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226320753,
-    "wof:lastmodified":1566649117,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766470,
     "wof:name":"Maribe Patimkibo",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

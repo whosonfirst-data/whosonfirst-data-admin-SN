@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226331257,
-    "wof:lastmodified":1566649098,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766465,
     "wof:name":"Diahene Siente",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

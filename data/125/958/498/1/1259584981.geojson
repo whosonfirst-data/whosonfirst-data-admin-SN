@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259584981,
-    "wof:lastmodified":1566649041,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766451,
     "wof:name":"Bakoure",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

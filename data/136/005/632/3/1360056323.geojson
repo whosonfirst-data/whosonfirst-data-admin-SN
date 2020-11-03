@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1360056323,
-    "wof:lastmodified":1566648772,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766385,
     "wof:name":"Yokoulene",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

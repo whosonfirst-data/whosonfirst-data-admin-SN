@@ -88,7 +88,15 @@
         }
     ],
     "wof:id":1226314317,
-    "wof:lastmodified":1566649189,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766487,
     "wof:name":"Ede",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

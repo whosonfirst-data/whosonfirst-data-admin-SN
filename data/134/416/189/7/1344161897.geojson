@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1344161897,
-    "wof:lastmodified":1566648148,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766221,
     "wof:name":"Hamdallaye",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

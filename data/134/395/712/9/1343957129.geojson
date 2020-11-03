@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343957129,
-    "wof:lastmodified":1566648121,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766212,
     "wof:name":"Diadala",
     "wof:parent_id":421191947,
     "wof:placetype":"locality",

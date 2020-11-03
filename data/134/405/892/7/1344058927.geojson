@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344058927,
-    "wof:lastmodified":1566648149,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766222,
     "wof:name":"Keur Rigal Sek",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

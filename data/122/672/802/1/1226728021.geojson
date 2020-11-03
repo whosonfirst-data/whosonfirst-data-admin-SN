@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226728021,
-    "wof:lastmodified":1566649071,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766459,
     "wof:name":"Kandio Kamako",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

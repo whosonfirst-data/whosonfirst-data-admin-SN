@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293394811,
-    "wof:lastmodified":1566648210,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766239,
     "wof:name":"Gourel Sadio",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

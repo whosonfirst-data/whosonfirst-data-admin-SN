@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344140705,
-    "wof:lastmodified":1566648080,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766200,
     "wof:name":"Tianka",
     "wof:parent_id":1108691477,
     "wof:placetype":"locality",

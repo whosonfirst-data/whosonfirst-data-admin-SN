@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259453971,
-    "wof:lastmodified":1566649052,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766454,
     "wof:name":"Njagabaar",
     "wof:parent_id":421187973,
     "wof:placetype":"locality",

@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1259563513,
-    "wof:lastmodified":1566649045,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766452,
     "wof:name":"Samik Diola",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

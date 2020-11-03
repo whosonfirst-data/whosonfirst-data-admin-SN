@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259874745,
-    "wof:lastmodified":1566649049,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766453,
     "wof:name":"Daga Youdoum",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

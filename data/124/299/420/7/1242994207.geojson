@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1242994207,
-    "wof:lastmodified":1566648945,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766430,
     "wof:name":"Dagdam",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

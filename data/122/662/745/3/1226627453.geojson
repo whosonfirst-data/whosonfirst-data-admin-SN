@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226627453,
-    "wof:lastmodified":1566649182,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766485,
     "wof:name":"Sare Dianko",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

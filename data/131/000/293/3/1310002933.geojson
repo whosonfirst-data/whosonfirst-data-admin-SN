@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310002933,
-    "wof:lastmodified":1566648667,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766357,
     "wof:name":"Tankoye",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

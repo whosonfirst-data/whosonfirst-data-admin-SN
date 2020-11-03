@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226729991,
-    "wof:lastmodified":1566649070,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766458,
     "wof:name":"Batabout",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

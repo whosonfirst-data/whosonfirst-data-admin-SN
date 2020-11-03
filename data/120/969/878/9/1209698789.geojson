@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1209698789,
-    "wof:lastmodified":1566648510,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766316,
     "wof:name":"Orndolde",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

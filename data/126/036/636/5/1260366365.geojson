@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260366365,
-    "wof:lastmodified":1566648605,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766337,
     "wof:name":"Bodedji",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

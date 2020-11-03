@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1344164469,
-    "wof:lastmodified":1566648147,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766221,
     "wof:name":"Ngaraf",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

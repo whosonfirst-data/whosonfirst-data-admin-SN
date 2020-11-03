@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1309785335,
-    "wof:lastmodified":1566648792,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766390,
     "wof:name":"Darou Ndiagne",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

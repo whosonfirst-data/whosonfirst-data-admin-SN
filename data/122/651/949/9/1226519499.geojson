@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226519499,
-    "wof:lastmodified":1566649108,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766467,
     "wof:name":"Boutolate",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

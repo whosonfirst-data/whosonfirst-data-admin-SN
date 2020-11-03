@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226032951,
-    "wof:lastmodified":1566649113,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766469,
     "wof:name":"Niepi Samba",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

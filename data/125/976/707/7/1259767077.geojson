@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259767077,
-    "wof:lastmodified":1566649018,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766446,
     "wof:name":"Keur Lali",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

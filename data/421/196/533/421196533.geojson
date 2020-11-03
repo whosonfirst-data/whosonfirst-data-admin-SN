@@ -97,7 +97,15 @@
         }
     ],
     "wof:id":421196533,
-    "wof:lastmodified":1566648826,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766399,
     "wof:name":"Guinguin\u00e9o",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

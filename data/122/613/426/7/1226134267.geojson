@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226134267,
-    "wof:lastmodified":1566649134,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766474,
     "wof:name":"Ndengle",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

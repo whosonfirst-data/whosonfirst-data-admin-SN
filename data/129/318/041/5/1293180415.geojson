@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293180415,
-    "wof:lastmodified":1566648279,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766261,
     "wof:name":"Memedou Komba",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

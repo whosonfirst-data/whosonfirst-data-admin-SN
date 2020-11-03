@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226829129,
-    "wof:lastmodified":1566649141,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766475,
     "wof:name":"Labissinti",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

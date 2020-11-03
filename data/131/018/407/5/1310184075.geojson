@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310184075,
-    "wof:lastmodified":1566648690,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766363,
     "wof:name":"Sava Gande",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

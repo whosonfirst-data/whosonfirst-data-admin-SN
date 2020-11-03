@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1292977255,
-    "wof:lastmodified":1566648274,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766259,
     "wof:name":"Loumbel Tedou",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

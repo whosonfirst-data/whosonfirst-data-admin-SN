@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226551431,
-    "wof:lastmodified":1566649164,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766481,
     "wof:name":"Ngokine",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

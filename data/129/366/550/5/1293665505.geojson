@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1293665505,
-    "wof:lastmodified":1566648245,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766250,
     "wof:name":"Tiambaledie",
     "wof:parent_id":1108691509,
     "wof:placetype":"locality",

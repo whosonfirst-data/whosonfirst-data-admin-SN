@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310182393,
-    "wof:lastmodified":1566648692,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766363,
     "wof:name":"Kahinda",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

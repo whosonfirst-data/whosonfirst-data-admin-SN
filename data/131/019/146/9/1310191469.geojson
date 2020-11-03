@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310191469,
-    "wof:lastmodified":1566648709,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766368,
     "wof:name":"Sokori",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

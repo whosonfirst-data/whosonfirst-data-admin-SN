@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326596179,
-    "wof:lastmodified":1566647957,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766162,
     "wof:name":"Tabadian",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

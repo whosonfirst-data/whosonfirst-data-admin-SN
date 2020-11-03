@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242761543,
-    "wof:lastmodified":1566648930,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766426,
     "wof:name":"Keur Tianderi",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

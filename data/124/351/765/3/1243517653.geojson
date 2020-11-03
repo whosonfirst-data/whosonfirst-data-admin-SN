@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1243517653,
-    "wof:lastmodified":1566648912,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766421,
     "wof:name":"Binbaba",
     "wof:parent_id":1108691457,
     "wof:placetype":"locality",

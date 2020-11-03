@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226225019,
-    "wof:lastmodified":1566649139,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766475,
     "wof:name":"Gasse Diabe",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260171033,
-    "wof:lastmodified":1566648622,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766343,
     "wof:name":"Darou Mayaye",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

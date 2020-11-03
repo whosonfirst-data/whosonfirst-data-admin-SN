@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259881653,
-    "wof:lastmodified":1566649055,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766455,
     "wof:name":"Darou Dieng",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

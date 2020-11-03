@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226437615,
-    "wof:lastmodified":1566649078,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766460,
     "wof:name":"Sintiou Diors",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

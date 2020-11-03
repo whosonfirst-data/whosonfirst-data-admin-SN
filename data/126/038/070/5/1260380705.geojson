@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260380705,
-    "wof:lastmodified":1566648597,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766335,
     "wof:name":"Naye Boyal",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

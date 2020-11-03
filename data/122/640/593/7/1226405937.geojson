@@ -76,7 +76,15 @@
         }
     ],
     "wof:id":1226405937,
-    "wof:lastmodified":1566649145,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766476,
     "wof:name":"Edale",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

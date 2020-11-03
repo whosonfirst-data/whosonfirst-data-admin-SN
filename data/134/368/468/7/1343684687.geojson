@@ -76,7 +76,15 @@
         }
     ],
     "wof:id":1343684687,
-    "wof:lastmodified":1566648126,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766214,
     "wof:name":"Galo",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

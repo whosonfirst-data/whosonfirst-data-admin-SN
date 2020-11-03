@@ -75,7 +75,15 @@
         }
     ],
     "wof:id":1108691471,
-    "wof:lastmodified":1566648641,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766349,
     "wof:name":"Velingara",
     "wof:parent_id":85677027,
     "wof:placetype":"county",

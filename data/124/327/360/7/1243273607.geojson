@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1243273607,
-    "wof:lastmodified":1566648946,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766430,
     "wof:name":"Ndiekhirat Ndlobene",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

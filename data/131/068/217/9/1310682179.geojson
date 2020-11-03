@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310682179,
-    "wof:lastmodified":1566648724,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766371,
     "wof:name":"Sare Pate",
     "wof:parent_id":1108691471,
     "wof:placetype":"locality",

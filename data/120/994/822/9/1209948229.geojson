@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1209948229,
-    "wof:lastmodified":1566648507,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766316,
     "wof:name":"Noubou",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

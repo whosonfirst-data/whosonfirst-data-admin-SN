@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":1360079687,
-    "wof:lastmodified":1566648743,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766377,
     "wof:name":"Pout Ndiack",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226122705,
-    "wof:lastmodified":1566649155,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766478,
     "wof:name":"Baraka Poukao",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

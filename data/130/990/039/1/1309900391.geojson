@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1309900391,
-    "wof:lastmodified":1566648782,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766387,
     "wof:name":"Keur Baboukar Ndiaye",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

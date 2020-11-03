@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293176767,
-    "wof:lastmodified":1566648295,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766266,
     "wof:name":"Kamahone",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

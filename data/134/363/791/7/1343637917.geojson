@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343637917,
-    "wof:lastmodified":1566648066,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766195,
     "wof:name":"Apol Peul",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

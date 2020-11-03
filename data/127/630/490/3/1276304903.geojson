@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276304903,
-    "wof:lastmodified":1566648409,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766300,
     "wof:name":"Keur Baka",
     "wof:parent_id":1108691477,
     "wof:placetype":"locality",

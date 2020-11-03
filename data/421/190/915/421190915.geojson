@@ -133,7 +133,15 @@
         }
     ],
     "wof:id":421190915,
-    "wof:lastmodified":1566648828,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766400,
     "wof:name":"S\u00e9dhiou",
     "wof:parent_id":1108691459,
     "wof:placetype":"locality",

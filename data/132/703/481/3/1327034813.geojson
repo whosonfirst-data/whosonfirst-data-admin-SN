@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1327034813,
-    "wof:lastmodified":1566647997,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766175,
     "wof:name":"Dioum Diare",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1309977721,
-    "wof:lastmodified":1566648781,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766387,
     "wof:name":"Goumo",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

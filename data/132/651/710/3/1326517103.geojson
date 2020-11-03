@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1326517103,
-    "wof:lastmodified":1566647951,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766160,
     "wof:name":"Darsalam",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

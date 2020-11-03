@@ -175,7 +175,15 @@
         }
     ],
     "wof:id":1293288405,
-    "wof:lastmodified":1566648292,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766266,
     "wof:name":"Taifa",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

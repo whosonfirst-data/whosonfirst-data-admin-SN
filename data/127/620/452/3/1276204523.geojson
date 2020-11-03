@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276204523,
-    "wof:lastmodified":1566648342,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766281,
     "wof:name":"Bantangueul Kassoum",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226412065,
-    "wof:lastmodified":1566649161,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766480,
     "wof:name":"Diapto",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

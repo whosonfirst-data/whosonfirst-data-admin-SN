@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1193020807,
-    "wof:lastmodified":1566648574,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766328,
     "wof:name":"Komoti",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

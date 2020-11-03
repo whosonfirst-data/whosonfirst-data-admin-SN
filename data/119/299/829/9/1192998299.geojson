@@ -70,7 +70,15 @@
         }
     ],
     "wof:id":1192998299,
-    "wof:lastmodified":1566648577,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766329,
     "wof:name":"Barouk",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

@@ -71,7 +71,15 @@
         }
     ],
     "wof:id":1326513635,
-    "wof:lastmodified":1566647947,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766159,
     "wof:name":"Agnam Lidoube",
     "wof:parent_id":890424907,
     "wof:placetype":"locality",

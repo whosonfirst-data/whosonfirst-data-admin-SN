@@ -70,7 +70,15 @@
         }
     ],
     "wof:id":1243156529,
-    "wof:lastmodified":1566648896,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766417,
     "wof:name":"Banou",
     "wof:parent_id":1108691491,
     "wof:placetype":"locality",

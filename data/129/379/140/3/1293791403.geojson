@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293791403,
-    "wof:lastmodified":1566648222,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766242,
     "wof:name":"Tiahitou",
     "wof:parent_id":1108691495,
     "wof:placetype":"locality",

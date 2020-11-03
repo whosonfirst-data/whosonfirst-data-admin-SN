@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343284743,
-    "wof:lastmodified":1566648168,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766227,
     "wof:name":"Bababe",
     "wof:parent_id":1108691497,
     "wof:placetype":"locality",

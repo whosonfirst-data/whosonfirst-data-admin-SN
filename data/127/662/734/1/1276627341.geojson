@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276627341,
-    "wof:lastmodified":1566648412,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766301,
     "wof:name":"Keur Modou Vilane",
     "wof:parent_id":1108691477,
     "wof:placetype":"locality",

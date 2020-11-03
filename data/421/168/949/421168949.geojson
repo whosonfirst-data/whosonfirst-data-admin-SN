@@ -239,7 +239,15 @@
         }
     ],
     "wof:id":421168949,
-    "wof:lastmodified":1566648819,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766398,
     "wof:name":"Louga",
     "wof:parent_id":1108691513,
     "wof:placetype":"locality",

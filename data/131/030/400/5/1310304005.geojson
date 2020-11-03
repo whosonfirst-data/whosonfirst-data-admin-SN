@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1310304005,
-    "wof:lastmodified":1566648673,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766359,
     "wof:name":"Toumbingfara",
     "wof:parent_id":1108691467,
     "wof:placetype":"locality",

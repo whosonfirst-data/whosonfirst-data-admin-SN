@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310477557,
-    "wof:lastmodified":1566648657,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766354,
     "wof:name":"Koussaor",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1209982675,
-    "wof:lastmodified":1566648441,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766308,
     "wof:name":"Sare Dimba Baneba",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

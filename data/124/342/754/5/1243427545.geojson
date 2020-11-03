@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1243427545,
-    "wof:lastmodified":1566648950,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766431,
     "wof:name":"Boulon Kadie",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

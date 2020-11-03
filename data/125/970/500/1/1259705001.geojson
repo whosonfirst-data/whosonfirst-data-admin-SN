@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1259705001,
-    "wof:lastmodified":1566649004,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766442,
     "wof:name":"Ai",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

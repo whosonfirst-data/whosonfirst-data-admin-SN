@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1292977995,
-    "wof:lastmodified":1566648273,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766259,
     "wof:name":"Kande",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

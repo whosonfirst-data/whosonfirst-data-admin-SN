@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1293558785,
-    "wof:lastmodified":1566648213,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766240,
     "wof:name":"Fass",
     "wof:parent_id":1108691489,
     "wof:placetype":"locality",

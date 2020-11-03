@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1242654771,
-    "wof:lastmodified":1566648938,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766428,
     "wof:name":"Katipa",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

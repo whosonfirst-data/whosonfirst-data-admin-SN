@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226120753,
-    "wof:lastmodified":1566649155,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766479,
     "wof:name":"Sare Koli",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

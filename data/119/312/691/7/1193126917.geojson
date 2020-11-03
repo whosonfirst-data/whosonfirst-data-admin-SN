@@ -115,7 +115,15 @@
         }
     ],
     "wof:id":1193126917,
-    "wof:lastmodified":1566648565,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766325,
     "wof:name":"Dom",
     "wof:parent_id":421185475,
     "wof:placetype":"locality",

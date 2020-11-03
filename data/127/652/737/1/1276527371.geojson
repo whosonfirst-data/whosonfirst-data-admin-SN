@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276527371,
-    "wof:lastmodified":1566648395,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766297,
     "wof:name":"Petogne",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

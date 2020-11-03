@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259956131,
-    "wof:lastmodified":1566649029,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766448,
     "wof:name":"Kafori",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":1226264109,
-    "wof:lastmodified":1566649083,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766461,
     "wof:name":"Lene",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1243050933,
-    "wof:lastmodified":1566648923,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766424,
     "wof:name":"Vendou Makam",
     "wof:parent_id":1108691507,
     "wof:placetype":"locality",

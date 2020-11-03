@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226825425,
-    "wof:lastmodified":1566649141,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766476,
     "wof:name":"Tambanoumouya",
     "wof:parent_id":1108691463,
     "wof:placetype":"locality",

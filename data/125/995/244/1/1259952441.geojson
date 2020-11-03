@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1259952441,
-    "wof:lastmodified":1566649028,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766448,
     "wof:name":"Keur Madi Touet",
     "wof:parent_id":1108691481,
     "wof:placetype":"locality",

@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1343479909,
-    "wof:lastmodified":1566648115,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766210,
     "wof:name":"Betanti",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

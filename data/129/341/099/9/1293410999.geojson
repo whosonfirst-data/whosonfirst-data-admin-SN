@@ -88,7 +88,15 @@
         }
     ],
     "wof:id":1293410999,
-    "wof:lastmodified":1566648222,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766242,
     "wof:name":"Babak",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

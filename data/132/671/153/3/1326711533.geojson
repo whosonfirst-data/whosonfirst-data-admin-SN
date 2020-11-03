@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1326711533,
-    "wof:lastmodified":1566648002,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766177,
     "wof:name":"Velingara Soto",
     "wof:parent_id":1108691473,
     "wof:placetype":"locality",

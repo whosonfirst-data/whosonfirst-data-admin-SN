@@ -72,7 +72,15 @@
         }
     ],
     "wof:id":1260385851,
-    "wof:lastmodified":1566648598,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766335,
     "wof:name":"Kissane",
     "wof:parent_id":421203459,
     "wof:placetype":"locality",

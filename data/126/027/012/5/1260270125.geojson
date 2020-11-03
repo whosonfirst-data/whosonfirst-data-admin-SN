@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260270125,
-    "wof:lastmodified":1566648615,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766341,
     "wof:name":"Boucotte Ouest",
     "wof:parent_id":421203237,
     "wof:placetype":"locality",

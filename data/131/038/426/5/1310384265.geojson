@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1310384265,
-    "wof:lastmodified":1566648663,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766356,
     "wof:name":"Yade Peul",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

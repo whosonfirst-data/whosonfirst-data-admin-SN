@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1309993057,
-    "wof:lastmodified":1566648785,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766388,
     "wof:name":"Kerouane",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

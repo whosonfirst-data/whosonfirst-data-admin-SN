@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1226028405,
-    "wof:lastmodified":1566649104,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766467,
     "wof:name":"Darou Pakatiar",
     "wof:parent_id":421181825,
     "wof:placetype":"locality",

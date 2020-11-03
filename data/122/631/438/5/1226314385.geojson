@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226314385,
-    "wof:lastmodified":1566649189,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766487,
     "wof:name":"Egatye",
     "wof:parent_id":1108691455,
     "wof:placetype":"locality",

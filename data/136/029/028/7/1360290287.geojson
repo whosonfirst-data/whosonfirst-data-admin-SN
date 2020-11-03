@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":1360290287,
-    "wof:lastmodified":1566648762,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766382,
     "wof:name":"Bannbadinnka",
     "wof:parent_id":1108691485,
     "wof:placetype":"locality",

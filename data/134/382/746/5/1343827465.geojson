@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343827465,
-    "wof:lastmodified":1566648114,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766210,
     "wof:name":"Belel Babo",
     "wof:parent_id":421166855,
     "wof:placetype":"locality",

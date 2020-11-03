@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1242944445,
-    "wof:lastmodified":1566648878,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766413,
     "wof:name":"Merina Dakar",
     "wof:parent_id":1108691503,
     "wof:placetype":"locality",

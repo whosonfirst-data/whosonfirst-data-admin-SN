@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1226720423,
-    "wof:lastmodified":1566649072,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766459,
     "wof:name":"Toubel Bali",
     "wof:parent_id":1108691501,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327418393,
-    "wof:lastmodified":1566647988,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766172,
     "wof:name":"Darou Mina",
     "wof:parent_id":421176669,
     "wof:placetype":"locality",

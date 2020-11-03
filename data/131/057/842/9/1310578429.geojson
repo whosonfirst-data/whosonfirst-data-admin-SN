@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":1310578429,
-    "wof:lastmodified":1566648717,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766370,
     "wof:name":"Mlomp",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

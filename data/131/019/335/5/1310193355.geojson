@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310193355,
-    "wof:lastmodified":1566648708,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766368,
     "wof:name":"Dioumana Bakari Balde",
     "wof:parent_id":1108691461,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276843897,
-    "wof:lastmodified":1566648391,
+    "wof:lang_x_official":[
+        "wol",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "wol",
+        "fra"
+    ],
+    "wof:lastmodified":1603766295,
     "wof:name":"Barobe",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",
