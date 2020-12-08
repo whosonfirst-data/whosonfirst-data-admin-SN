@@ -594,7 +594,9 @@
         85676997
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632365,
+    "wof:capital_of":[
+        85632365
+    ],
     "wof:concordances":{
         "gn:id":2253354,
         "gp:id":1411986,
@@ -619,7 +621,7 @@
         }
     ],
     "wof:id":421199619,
-    "wof:lastmodified":1587427906,
+    "wof:lastmodified":1607390900,
     "wof:name":"Dakar",
     "wof:parent_id":421187965,
     "wof:placetype":"locality",
