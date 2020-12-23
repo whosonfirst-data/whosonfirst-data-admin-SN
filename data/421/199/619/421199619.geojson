@@ -601,6 +601,7 @@
         "gn:id":2253354,
         "gp:id":1411986,
         "loc:id":"n79108879",
+        "ne:id":1159151513,
         "qs_pg:id":1220982,
         "wd:id":"Q3718",
         "wk:page":"Dakar"
@@ -621,7 +622,8 @@
         }
     ],
     "wof:id":421199619,
-    "wof:lastmodified":1607390900,
+    "wof:lastmodified":1608688189,
+    "wof:megacity":1,
     "wof:name":"Dakar",
     "wof:parent_id":421187965,
     "wof:placetype":"locality",
