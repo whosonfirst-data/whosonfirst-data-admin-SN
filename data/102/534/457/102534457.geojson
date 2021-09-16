@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-12.2202777778,12.5722222222,-12.2202777778,12.5722222222",
+    "geom:bbox":"-12.220278,12.572222,-12.220278,12.572222",
     "geom:latitude":12.572222,
     "geom:longitude":-12.220278,
     "iso:country":"SN",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "K\u00e9dougou Airport"
+    ],
+    "name:eng_x_variant":[
+        "KGG",
+        "GOTK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06cc\u062f\u0648\u06af\u0648"
@@ -76,7 +80,7 @@
         "wd:id":"Q8214351"
     },
     "wof:country":"SN",
-    "wof:geomhash":"5a89b58a05d08f7a87e2bfd0a776ade6",
+    "wof:geomhash":"36d7727ca98d4cb2fb97a64e1841cc65",
     "wof:hierarchy":[
         {
             "campus_id":102534457,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":102534457,
-    "wof:lastmodified":1566648048,
+    "wof:lastmodified":1631744910,
     "wof:name":"Kedougou Airport",
     "wof:parent_id":85676983,
     "wof:placetype":"campus",
@@ -97,10 +101,10 @@
     ]
 },
   "bbox": [
-    -12.220277777778,
-    12.572222222222,
-    -12.220277777778,
-    12.572222222222
+    -12.220278,
+    12.572222,
+    -12.220278,
+    12.572222
 ],
-  "geometry": {"coordinates":[-12.220277777778,12.572222222222],"type":"Point"}
+  "geometry": {"coordinates":[-12.220278,12.572222],"type":"Point"}
 }

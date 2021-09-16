@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-16.7461111111,12.41,-16.7461111111,12.41",
+    "geom:bbox":"-16.746111,12.41,-16.746111,12.41",
     "geom:latitude":12.41,
     "geom:longitude":-16.746111,
     "iso:country":"SN",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Cap Skirring Airport"
+    ],
+    "name:eng_x_variant":[
+        "CSK",
+        "GOGS"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u067e \u0627\u0633\u06a9\u0631"
@@ -85,7 +89,7 @@
         "wd:id":"Q2455361"
     },
     "wof:country":"SN",
-    "wof:geomhash":"70975984f9d61b6e39a1dd5f015e1222",
+    "wof:geomhash":"556bfed0affcbb92680ba468fe62afde",
     "wof:hierarchy":[
         {
             "campus_id":102534475,
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":102534475,
-    "wof:lastmodified":1566648048,
+    "wof:lastmodified":1631744910,
     "wof:name":"Cap Skiring Airport",
     "wof:parent_id":85677033,
     "wof:placetype":"campus",
@@ -106,10 +110,10 @@
     ]
 },
   "bbox": [
-    -16.746111111111,
+    -16.746111,
     12.41,
-    -16.746111111111,
+    -16.746111,
     12.41
 ],
-  "geometry": {"coordinates":[-16.746111111111,12.41],"type":"Point"}
+  "geometry": {"coordinates":[-16.746111,12.41],"type":"Point"}
 }
