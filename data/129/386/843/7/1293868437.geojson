@@ -36,6 +36,9 @@
     "name:fra_x_preferred":[
         "Yoro"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05e8\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Yoro"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1293868437,
-    "wof:lastmodified":1566648307,
+    "wof:lastmodified":1636495456,
     "wof:name":"Yoro",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

@@ -29,11 +29,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b8\u09b8\u09be\u09b0"
+    ],
     "name:ceb_x_preferred":[
         "Bassar"
     ],
     "name:deu_x_preferred":[
         "Bassar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c3\u03ac\u03c1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633\u0627\u0631"
     ],
     "name:fra_x_preferred":[
         "Bassar"
@@ -41,17 +50,32 @@
     "name:frr_x_preferred":[
         "Bassar"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e1\u05d0\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0938\u094d\u0938\u0930"
+    ],
     "name:hrv_x_preferred":[
         "Bassar"
     ],
     "name:hun_x_preferred":[
         "Bassar"
     ],
+    "name:ind_x_preferred":[
+        "Bassar"
+    ],
     "name:ita_x_preferred":[
         "Bassar"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30b5\u30c3\u30ea"
+    ],
     "name:kbp_x_preferred":[
         "Paas\u025b\u025b"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc0ac\ub974"
     ],
     "name:pol_x_preferred":[
         "Bassar"
@@ -61,6 +85,24 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0441\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Bassar"
+    ],
+    "name:swe_x_preferred":[
+        "Bassar"
+    ],
+    "name:tur_x_preferred":[
+        "Bassar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0441\u0430\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0633\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Bassar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +116,7 @@
         "gn:id":2254114
     },
     "wof:country":"SN",
-    "wof:geomhash":"49812df0c5536325695583a5ce112447",
+    "wof:geomhash":"e34f515409b478df1dd3a51ea014ab71",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +127,7 @@
         }
     ],
     "wof:id":1343651307,
-    "wof:lastmodified":1566648051,
+    "wof:lastmodified":1636495451,
     "wof:name":"Bassar",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",
@@ -95,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.61667000000001,
+    -16.61667,
     13.91667,
-    -16.61667000000001,
+    -16.61667,
     13.91667
 ],
-  "geometry": {"coordinates":[-16.61667000000001,13.91667],"type":"Point"}
+  "geometry": {"coordinates":[-16.61667,13.91667],"type":"Point"}
 }

@@ -56,6 +56,12 @@
     "name:frr_x_preferred":[
         "Matam"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05d0\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Matam"
+    ],
     "name:ita_x_preferred":[
         "Matam"
     ],
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1209297365,
-    "wof:lastmodified":1566648517,
+    "wof:lastmodified":1636495459,
     "wof:name":"Matam",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u043d-\u041b\u0443\u0456"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f-\u09b2\u09c1\u0987\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Saint Louis del Senegal"
     ],
@@ -87,6 +90,9 @@
         "\u0938\u0947\u0928\u094d\u091f \u0932\u0941\u0908\u0938 \u0926\u094d\u0935\u0940\u092a"
     ],
     "name:hrv_x_preferred":[
+        "Saint-Louis"
+    ],
+    "name:hun_x_preferred":[
         "Saint-Louis"
     ],
     "name:hye_x_preferred":[
@@ -320,7 +326,7 @@
         }
     ],
     "wof:id":421195693,
-    "wof:lastmodified":1566648821,
+    "wof:lastmodified":1636495465,
     "wof:name":"Saint-Louis",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

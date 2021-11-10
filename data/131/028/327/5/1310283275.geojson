@@ -32,7 +32,16 @@
     "name:ceb_x_preferred":[
         "Kossi"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Kossi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e1\u05d9"
+    ],
+    "name:hun_x_preferred":[
         "Kossi"
     ],
     "name:swe_x_preferred":[
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1310283275,
-    "wof:lastmodified":1566648702,
+    "wof:lastmodified":1636495463,
     "wof:name":"Kossi",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

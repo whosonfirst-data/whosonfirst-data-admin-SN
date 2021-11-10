@@ -34,11 +34,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u0997\u09c1\u0987\u099e\u09cd\u099a\u09cb\u09b0"
+    ],
     "name:ceb_x_preferred":[
         "Ziguinchor"
     ],
     "name:deu_x_preferred":[
         "Departement Ziguinchor"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03af\u03b3\u03ba\u03b9\u03bd\u03c3\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Ziguinchor"
@@ -47,6 +53,18 @@
         "Ziguinchor Department"
     ],
     "name:fra_x_preferred":[
+        "Ziguinchor"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d9\u05d2\u05d5\u05d0\u05d9\u05e0\u05e6'\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0940\u0917\u093f\u0902\u091a\u094b\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Ziguinchor"
+    ],
+    "name:ind_x_preferred":[
         "Ziguinchor"
     ],
     "name:jpn_x_preferred":[
@@ -62,6 +80,9 @@
         "\u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0417\u0438\u0433\u0438\u043d\u0448\u043e\u0440"
     ],
     "name:spa_x_preferred":[
+        "Ziguinchor"
+    ],
+    "name:tur_x_preferred":[
         "Ziguinchor"
     ],
     "name:und_x_variant":[
@@ -137,7 +158,7 @@
         }
     ],
     "wof:id":421203237,
-    "wof:lastmodified":1627522784,
+    "wof:lastmodified":1636495465,
     "wof:name":"Ziguinchor",
     "wof:parent_id":85677033,
     "wof:placetype":"county",
