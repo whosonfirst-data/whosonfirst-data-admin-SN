@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062f\u064a\u0648\u0631\u0628\u064a\u0644"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u044b\u0443\u0440\u0431\u0435\u043b\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09bf\u0989\u09b0\u09c7\u09ac\u09c7\u09b2 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:ceb_x_preferred":[
         "Diourbel"
+    ],
+    "name:ces_x_preferred":[
+        "Diourbelsk\u00fd kraj"
     ],
     "name:dan_x_preferred":[
         "Diourbel Region"
@@ -63,6 +69,9 @@
     "name:eus_x_preferred":[
         "Diourbel eskualdea"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062f\u06cc\u0648\u0631\u0628\u0644"
+    ],
     "name:fin_x_preferred":[
         "Diourbelin maakunta"
     ],
@@ -80,6 +89,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0ac0\u0a89\u0ab0\u0acd\u0aac\u0ac7\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hau_x_preferred":[
+        "Yankin Diourbel"
     ],
     "name:hin_x_preferred":[
         "\u0921\u093f\u0909\u0930\u092c\u0947\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -116,6 +128,9 @@
     ],
     "name:msa_x_preferred":[
         "Diourbel Region"
+    ],
+    "name:nan_x_preferred":[
+        "Diourbel Chiu"
     ],
     "name:nld_x_preferred":[
         "Diourbel"
@@ -176,6 +191,9 @@
     ],
     "name:wol_x_preferred":[
         "Diiwaanu Njaar\u00e9em"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e45\u5c14\u8d1d\u52d2\u533a"
     ],
     "name:zho_x_preferred":[
         "\u4e45\u5c14\u8d1d\u52d2\u533a"
@@ -305,7 +323,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1636495454,
+    "wof:lastmodified":1690865873,
     "wof:name":"Diourbel",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

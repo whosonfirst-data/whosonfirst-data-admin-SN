@@ -33,11 +33,17 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0641\u0627\u062a\u064a\u0643"
     ],
+    "name:bel_x_preferred":[
+        "\u0440\u044d\u0433\u0456\u0451\u043d \u0424\u0430\u0446\u0456\u043a"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09af\u09be\u099f\u09bf\u0995"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u0442\u0438\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Fatick"
     ],
     "name:cym_x_preferred":[
         "Fatick"
@@ -59,6 +65,9 @@
     ],
     "name:eus_x_preferred":[
         "Fatick eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u062a\u06cc\u06a9"
     ],
     "name:fin_x_preferred":[
         "Fatick"
@@ -117,6 +126,9 @@
     "name:msa_x_preferred":[
         "Fatick"
     ],
+    "name:nan_x_preferred":[
+        "Fatick Chiu"
+    ],
     "name:nld_x_preferred":[
         "Fatick"
     ],
@@ -173,6 +185,9 @@
     ],
     "name:wol_x_preferred":[
         "Diiwaanu Fatik"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6cd5\u8482\u514b\u533a"
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u8482\u514b\u533a"
@@ -304,7 +319,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1642551796,
+    "wof:lastmodified":1690865873,
     "wof:name":"Fatick",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u063a\u0646\u0648\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062c\u0646\u0648\u0646\u0627"
+    ],
     "name:ast_x_preferred":[
         "Bignona"
     ],
@@ -107,6 +110,12 @@
     "name:spa_x_preferred":[
         "Bignoma"
     ],
+    "name:spa_x_variant":[
+        "Bignona"
+    ],
+    "name:swa_x_preferred":[
+        "Bignona"
+    ],
     "name:swe_x_preferred":[
         "Bignona"
     ],
@@ -187,7 +196,7 @@
         }
     ],
     "wof:id":421184301,
-    "wof:lastmodified":1566648829,
+    "wof:lastmodified":1690865887,
     "wof:name":"Bignona",
     "wof:parent_id":421203235,
     "wof:placetype":"locality",

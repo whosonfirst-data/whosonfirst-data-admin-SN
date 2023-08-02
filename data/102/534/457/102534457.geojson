@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "K\u00e9dougou"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr K\u00e9dougou"
+    ],
     "name:deu_x_preferred":[
         "K\u00e9dougou Airport"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102534457,
-    "wof:lastmodified":1631744910,
+    "wof:lastmodified":1690865869,
     "wof:name":"Kedougou Airport",
     "wof:parent_id":85676983,
     "wof:placetype":"campus",

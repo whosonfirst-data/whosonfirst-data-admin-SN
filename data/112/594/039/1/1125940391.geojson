@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Sokone"
+    ],
     "name:ceb_x_preferred":[
         "Sokone"
     ],
@@ -31,6 +34,9 @@
     "name:eng_x_preferred":[
         "Sokone"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0646\u0647"
+    ],
     "name:fra_x_preferred":[
         "Sokone"
     ],
@@ -38,6 +44,9 @@
         "Sokone"
     ],
     "name:pol_x_preferred":[
+        "Sokone"
+    ],
+    "name:swa_x_preferred":[
         "Sokone"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1125940391,
-    "wof:lastmodified":1566648834,
+    "wof:lastmodified":1690865891,
     "wof:name":"Sokone",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

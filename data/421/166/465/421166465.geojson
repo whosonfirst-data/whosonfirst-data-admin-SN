@@ -26,7 +26,13 @@
     "name:eng_x_preferred":[
         "Palmarin"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u0627\u0631\u0645\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Palmarin"
+    ],
+    "name:ita_x_preferred":[
         "Palmarin"
     ],
     "name:jpn_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421166465,
-    "wof:lastmodified":1566648820,
+    "wof:lastmodified":1690865880,
     "wof:name":"Palmarin",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",

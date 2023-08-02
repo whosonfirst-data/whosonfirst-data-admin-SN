@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Diemb\u00e9ring"
+    ],
     "name:eng_x_preferred":[
         "Diemb\u00e9ring"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:spa_x_preferred":[
         "Diembering"
+    ],
+    "name:spa_x_variant":[
+        "Diemb\u00e9ring"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421180163,
-    "wof:lastmodified":1566648824,
+    "wof:lastmodified":1690865883,
     "wof:name":"Diemb\u00e9ring",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

@@ -66,6 +66,9 @@
     "name:eus_x_preferred":[
         "Tambacounda eskualdea"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u0628\u0627\u0648\u0646\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tambacoundan maakunta"
     ],
@@ -120,11 +123,20 @@
     "name:msa_x_preferred":[
         "Tambacounda Region"
     ],
+    "name:nan_x_preferred":[
+        "Tambacounda Chiu"
+    ],
     "name:nld_x_preferred":[
         "Tambacounda"
     ],
+    "name:nno_x_preferred":[
+        "Tambacounda-regionen"
+    ],
     "name:nob_x_preferred":[
         "Rambacounda region"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d5\u07ca\u07f2\u07ec\u07d3\u07ca\u07ec\u07de\u07ce\u07f2\u07ec\u07d8\u07ca\u07eb \u07d5\u07cc\u07f2\u07ec\u07de\u07ce\u07d8\u07ce\u07f2"
     ],
     "name:pol_x_preferred":[
         "Region Tambacounda"
@@ -182,6 +194,9 @@
     ],
     "name:wol_x_preferred":[
         "Diiwaanu Tambaakundaa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5766\u5df4\u6606\u8fbe\u533a"
     ],
     "name:zho_x_preferred":[
         "\u5766\u5df4\u6606\u9054\u5340"
@@ -252,7 +267,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1636495453,
+    "wof:lastmodified":1690865871,
     "wof:name":"Tambacounda",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

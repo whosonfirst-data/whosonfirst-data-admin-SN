@@ -37,8 +37,20 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u062a\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u062a\u064a\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Fatick"
+    ],
+    "name:bel_x_preferred":[
+        "\u0424\u0430\u0446\u0456\u043a"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09af\u09be\u099f\u09bf\u0995"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u0442\u0438\u043a"
     ],
     "name:cat_x_preferred":[
         "Fatick"
@@ -60,6 +72,9 @@
     ],
     "name:eus_x_preferred":[
         "Fatick"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u062a\u06cc\u06a9"
     ],
     "name:fin_x_preferred":[
         "Fatick"
@@ -136,6 +151,9 @@
     "name:spa_x_preferred":[
         "Fatick"
     ],
+    "name:swa_x_preferred":[
+        "Fatick"
+    ],
     "name:swe_x_preferred":[
         "Fatick"
     ],
@@ -147,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1f\u0e32\u0e15\u0e34\u0e04"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1f\u0e32\u0e15\u0e34\u0e01"
     ],
     "name:tur_x_preferred":[
         "Fatick"
@@ -231,7 +252,7 @@
         }
     ],
     "wof:id":421187935,
-    "wof:lastmodified":1636495466,
+    "wof:lastmodified":1690865883,
     "wof:name":"Fatick",
     "wof:parent_id":85677007,
     "wof:placetype":"county",
