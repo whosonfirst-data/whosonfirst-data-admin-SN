@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Oussouye"
+    ],
     "name:ceb_x_preferred":[
         "Oussouye"
     ],
@@ -24,6 +27,9 @@
         "Oussouye"
     ],
     "name:eng_x_preferred":[
+        "Oussouye"
+    ],
+    "name:fin_x_preferred":[
         "Oussouye"
     ],
     "name:fra_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421172821,
-    "wof:lastmodified":1566648826,
+    "wof:lastmodified":1690865884,
     "wof:name":"Oussouye",
     "wof:parent_id":421187971,
     "wof:placetype":"locality",

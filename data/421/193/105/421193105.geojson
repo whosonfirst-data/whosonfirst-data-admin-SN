@@ -47,17 +47,26 @@
         "Dakar",
         "Pikine"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u06a9\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Pikine"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30ad\u30f3\u770c"
     ],
+    "name:nan_x_preferred":[
+        "Pikine Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Pikine Department"
     ],
     "name:por_x_preferred":[
         "Pikine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u0438\u043d\u0435"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u91d1\u7701"
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":421193105,
-    "wof:lastmodified":1627522783,
+    "wof:lastmodified":1690865880,
     "wof:name":"Pikine",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

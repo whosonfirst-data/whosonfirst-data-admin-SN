@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Nioro du Rip"
+    ],
     "name:cat_x_preferred":[
         "Nioro del Rip"
     ],
@@ -39,6 +42,9 @@
         "Nioro du Rip"
     ],
     "name:pol_x_preferred":[
+        "Nioro du Rip"
+    ],
+    "name:swa_x_preferred":[
         "Nioro du Rip"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421199051,
-    "wof:lastmodified":1566648829,
+    "wof:lastmodified":1690865886,
     "wof:name":"Nioro du Rip",
     "wof:parent_id":1108691475,
     "wof:placetype":"locality",

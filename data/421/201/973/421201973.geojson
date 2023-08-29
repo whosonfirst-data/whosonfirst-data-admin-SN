@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u0631\u0648\u0641\u0633\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u0641\u0633\u0643"
+    ],
     "name:ast_x_preferred":[
         "Rufisque"
     ],
@@ -30,6 +33,9 @@
         "\u09b0\u09cb\u09ab\u09bf\u09b8\u09cd\u0995"
     ],
     "name:cat_x_preferred":[
+        "Rufisque"
+    ],
+    "name:ceb_x_preferred":[
         "Rufisque"
     ],
     "name:dan_x_preferred":[
@@ -40,6 +46,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03bf\u03cd\u03c6\u03b9\u03c3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03c5\u03c6\u03af\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Rufisque"
@@ -54,6 +63,9 @@
         "Rufisque"
     ],
     "name:fra_x_preferred":[
+        "Rufisque"
+    ],
+    "name:gle_x_preferred":[
         "Rufisque"
     ],
     "name:glg_x_preferred":[
@@ -104,6 +116,9 @@
     "name:mkd_x_preferred":[
         "\u0420\u0438\u0444\u0438\u0441\u043a"
     ],
+    "name:mlt_x_preferred":[
+        "Rufisque"
+    ],
     "name:msa_x_preferred":[
         "Rufisque"
     ],
@@ -134,6 +149,9 @@
     "name:spa_x_preferred":[
         "Rufisque"
     ],
+    "name:swa_x_preferred":[
+        "Rufisque"
+    ],
     "name:swe_x_preferred":[
         "Rufisque"
     ],
@@ -154,6 +172,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0641\u06cc\u0633\u0642\u0648\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Rufisque"
     ],
     "name:vie_x_preferred":[
         "Rufisque"
@@ -213,7 +234,7 @@
         }
     ],
     "wof:id":421201973,
-    "wof:lastmodified":1566648829,
+    "wof:lastmodified":1690865887,
     "wof:name":"Rufisque",
     "wof:parent_id":421187963,
     "wof:placetype":"locality",

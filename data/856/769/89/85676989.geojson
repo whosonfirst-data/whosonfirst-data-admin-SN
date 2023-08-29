@@ -36,6 +36,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09ab\u09cd\u09b0\u09bf\u09a8"
     ],
+    "name:cat_x_preferred":[
+        "Kaffrine"
+    ],
     "name:dan_x_preferred":[
         "Kaffrine"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:eus_x_preferred":[
         "Kaffrine eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0627\u0641\u0631\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Kaffrine"
@@ -108,6 +114,9 @@
     "name:msa_x_preferred":[
         "Kaffrine"
     ],
+    "name:nan_x_preferred":[
+        "Kaffrine Chiu"
+    ],
     "name:nld_x_preferred":[
         "Kaffrine"
     ],
@@ -153,6 +162,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041a\u0430\u0444\u0440\u0456\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u041a\u0430\u0444\u0440\u0438\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u0641\u0631\u06cc\u0646 \u0639\u0644\u0627\u0642\u06c1"
     ],
@@ -161,6 +173,9 @@
     ],
     "name:wol_x_preferred":[
         "Diiwaanu Kafrin"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u592b\u6797\u533a"
     ],
     "name:zho_x_preferred":[
         "\u5361\u592b\u6797\u5340"
@@ -250,7 +265,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1636495455,
+    "wof:lastmodified":1690865874,
     "wof:name":"Kaffrine",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

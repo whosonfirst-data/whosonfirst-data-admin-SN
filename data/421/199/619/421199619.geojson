@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Dakar"
     ],
+    "name:aka_x_preferred":[
+        "Dakar"
+    ],
     "name:amh_x_preferred":[
         "\u12f3\u12ab\u122d"
     ],
@@ -31,10 +34,16 @@
     "name:arg_x_preferred":[
         "Dakar"
     ],
+    "name:ary_x_preferred":[
+        "\u062f\u0627\u0643\u0627\u0631"
+    ],
     "name:arz_x_preferred":[
         "\u062f\u0627\u0643\u0627\u0631"
     ],
     "name:ast_x_preferred":[
+        "Dakar"
+    ],
+    "name:avk_x_preferred":[
         "Dakar"
     ],
     "name:azb_x_preferred":[
@@ -43,7 +52,13 @@
     "name:aze_x_preferred":[
         "Dakar"
     ],
+    "name:bak_x_preferred":[
+        "\u0414\u0430\u043a\u0430\u0440"
+    ],
     "name:bam_x_preferred":[
+        "Dakar"
+    ],
+    "name:ban_x_preferred":[
         "Dakar"
     ],
     "name:bel_x_preferred":[
@@ -190,6 +205,9 @@
     "name:ile_x_preferred":[
         "Dakar"
     ],
+    "name:ina_x_preferred":[
+        "Dakar"
+    ],
     "name:ind_x_preferred":[
         "Dakar"
     ],
@@ -262,10 +280,16 @@
     "name:mar_x_preferred":[
         "\u0921\u0915\u093e\u0930"
     ],
+    "name:mdf_x_preferred":[
+        "\u0414\u0430\u043a\u0430\u0440"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u043a\u0430\u0440"
     ],
     "name:mlg_x_preferred":[
+        "Dakar"
+    ],
+    "name:mlt_x_preferred":[
         "Dakar"
     ],
     "name:mon_x_preferred":[
@@ -276,6 +300,9 @@
     ],
     "name:msa_x_preferred":[
         "Dakar"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062f\u0627\u06a9\u0627\u0631"
     ],
     "name:nah_x_preferred":[
         "Dakar"
@@ -302,6 +329,9 @@
         "\u07d8\u07ca\u07ec\u07de\u07ca\u07ef\u07d9\u07cc\u07eb"
     ],
     "name:oci_x_preferred":[
+        "Dakar"
+    ],
+    "name:olo_x_preferred":[
         "Dakar"
     ],
     "name:oss_x_preferred":[
@@ -349,6 +379,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u043a\u0430\u0440"
     ],
+    "name:sat_x_preferred":[
+        "\u1c70\u1c5f\u1c60\u1c5f\u1c68"
+    ],
     "name:scn_x_preferred":[
         "Dakar"
     ],
@@ -362,6 +395,9 @@
         "Dakar"
     ],
     "name:slv_x_preferred":[
+        "Dakar"
+    ],
+    "name:smn_x_preferred":[
         "Dakar"
     ],
     "name:sna_x_preferred":[
@@ -420,6 +456,9 @@
     ],
     "name:udm_x_preferred":[
         "\u0414\u0430\u043a\u0430\u0440"
+    ],
+    "name:uig_x_preferred":[
+        "\u062f\u0627\u0643\u0627\u0631"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043a\u0430\u0440"
@@ -590,8 +629,8 @@
     "wof:belongsto":[
         102191573,
         85632365,
-        421187965,
-        85676997
+        85676997,
+        421187965
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -622,7 +661,7 @@
         }
     ],
     "wof:id":421199619,
-    "wof:lastmodified":1608688189,
+    "wof:lastmodified":1690865886,
     "wof:megacity":1,
     "wof:name":"Dakar",
     "wof:parent_id":421187965,

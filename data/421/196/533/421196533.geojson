@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Guinguin\u00e9o"
+    ],
     "name:ceb_x_preferred":[
         "Guinguin\u00e9o"
     ],
@@ -35,14 +38,23 @@
     "name:jpn_x_preferred":[
         "\u30ae\u30f3\u30ae\u30cd\u30aa"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0432\u0438\u043d\u0433\u0432\u0438\u043d\u044d\u043e"
+    ],
     "name:nld_x_preferred":[
         "Guinguin\u00e9o"
     ],
     "name:pol_x_preferred":[
         "Guinguin\u00e9o"
     ],
+    "name:swa_x_preferred":[
+        "Guinguin\u00e9o"
+    ],
     "name:swe_x_preferred":[
         "Guinguin\u00e9o"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0432\u0456\u043d\u0491\u0432\u0456\u043d\u0435\u043e"
     ],
     "name:zho_x_preferred":[
         "\u4eac\u5409\u5167\u5967"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":421196533,
-    "wof:lastmodified":1566648826,
+    "wof:lastmodified":1690865884,
     "wof:name":"Guinguin\u00e9o",
     "wof:parent_id":1108691479,
     "wof:placetype":"locality",

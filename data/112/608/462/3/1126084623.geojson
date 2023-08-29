@@ -30,6 +30,12 @@
     "name:fra_x_preferred":[
         "Yararh"
     ],
+    "name:glg_x_preferred":[
+        "Hann"
+    ],
+    "name:nld_x_preferred":[
+        "Hann"
+    ],
     "name:spa_x_preferred":[
         "Hann"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1126084623,
-    "wof:lastmodified":1566648835,
+    "wof:lastmodified":1690865891,
     "wof:name":"Yararh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

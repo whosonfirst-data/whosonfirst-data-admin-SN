@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0644\u0648\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0644\u0648\u064a\u0633"
+    ],
     "name:ast_x_preferred":[
         "Saint-Louis"
+    ],
+    "name:aze_x_preferred":[
+        "Sen-Lui"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u043d-\u041b\u0443\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0435\u043d-\u041b\u0443\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f-\u09b2\u09c1\u0987\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043d-\u041b\u0443\u0438"
     ],
     "name:cat_x_preferred":[
         "Saint Louis del Senegal"
@@ -49,6 +61,9 @@
     ],
     "name:deu_x_preferred":[
         "Saint-Louis"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd-\u039b\u03bf\u03c5\u03af"
     ],
     "name:eng_x_preferred":[
         "Saint-Louis"
@@ -77,6 +92,9 @@
     "name:ful_x_preferred":[
         "Ndar"
     ],
+    "name:gle_x_preferred":[
+        "Saint-Louis"
+    ],
     "name:grn_x_preferred":[
         "Saint Louis"
     ],
@@ -98,11 +116,17 @@
     "name:hye_x_preferred":[
         "\u054d\u0565\u0576 \u053c\u0578\u0582\u056b"
     ],
+    "name:ind_x_preferred":[
+        "Saint-Louis"
+    ],
     "name:ita_x_preferred":[
         "Saint-Louis"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\uff1d\u30eb\u30a4"
+    ],
+    "name:kaa_x_preferred":[
+        "Sen-lui"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10dc-\u10da\u10e3\u10d8"
@@ -113,8 +137,17 @@
     "name:lit_x_preferred":[
         "Sen Luji"
     ],
+    "name:lit_x_variant":[
+        "Sen Lui"
+    ],
     "name:mai_x_preferred":[
         "\u0938\u0947\u0928\u094d\u091f-\u0932\u094b\u0907\u0938"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u044d\u043d-\u041b\u0443\u0438"
+    ],
+    "name:mlt_x_preferred":[
+        "Saint-Louis"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0433\u0430\u043b\u044b\u043d \u0421\u0435\u043d-\u041b\u0443\u0438"
@@ -155,6 +188,9 @@
     "name:spa_x_preferred":[
         "Saint Louis"
     ],
+    "name:swa_x_preferred":[
+        "Saint-Louis"
+    ],
     "name:swe_x_preferred":[
         "Saint-Louis"
     ],
@@ -170,8 +206,17 @@
     "name:urd_x_variant":[
         "\u0633\u06cc\u0646\u0679-\u0644\u0648\u0626\u06cc\u0633"
     ],
+    "name:uzb_x_preferred":[
+        "Sen-lui"
+    ],
+    "name:vec_x_preferred":[
+        "Saint-Louis"
+    ],
     "name:vep_x_preferred":[
         "Sen Lui"
+    ],
+    "name:vie_x_preferred":[
+        "Saint-Louis"
     ],
     "name:war_x_preferred":[
         "Saint-Louis"
@@ -326,7 +371,7 @@
         }
     ],
     "wof:id":421195693,
-    "wof:lastmodified":1636495465,
+    "wof:lastmodified":1690865880,
     "wof:name":"Saint-Louis",
     "wof:parent_id":1108691511,
     "wof:placetype":"locality",

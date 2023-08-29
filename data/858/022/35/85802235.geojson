@@ -31,6 +31,9 @@
     "name:deu_x_preferred":[
         "M\u00e9dina"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bd\u03c4\u03b9\u03bd\u03ac"
+    ],
     "name:eng_x_preferred":[
         "M\u00e9dina"
     ],
@@ -131,7 +134,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582317836,
+    "wof:lastmodified":1690865876,
     "wof:name":"M\u00e9dina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

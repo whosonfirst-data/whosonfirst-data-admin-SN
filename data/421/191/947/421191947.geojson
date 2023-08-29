@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u0628\u0627\u0643\u0648\u0646\u062f\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Tambacounda Department"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Tambacounda"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u0628\u0648\u0646\u062f\u0627"
     ],
     "name:fra_x_preferred":[
         "Tambacounda"
@@ -55,8 +61,14 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30f3\u30d0\u30af\u30f3\u30c0\u770c"
     ],
+    "name:nan_x_preferred":[
+        "Tambacounda Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Tambacounda"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d5\u07ca\u07f2\u07ec\u07d3\u07ca\u07ec\u07de\u07ce\u07f2\u07ec\u07d8\u07ca\u07eb"
     ],
     "name:por_x_preferred":[
         "Tambacounda"
@@ -134,7 +146,7 @@
         }
     ],
     "wof:id":421191947,
-    "wof:lastmodified":1636495466,
+    "wof:lastmodified":1690865885,
     "wof:name":"Tambacounda",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

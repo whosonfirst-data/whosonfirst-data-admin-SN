@@ -132,6 +132,9 @@
     "name:msa_x_preferred":[
         "Ziguinchor"
     ],
+    "name:nan_x_preferred":[
+        "Ziguinchor Chiu"
+    ],
     "name:nld_x_preferred":[
         "Ziguinchor"
     ],
@@ -188,6 +191,9 @@
     ],
     "name:wol_x_preferred":[
         "Diiwaanu Siggcoor"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6d4e\u91d1\u7ecd\u5c14\u533a"
     ],
     "name:zho_x_preferred":[
         "\u6d4e\u91d1\u7ecd\u5c14\u533a"
@@ -317,7 +323,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1636495453,
+    "wof:lastmodified":1690865872,
     "wof:name":"Ziguinchor",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

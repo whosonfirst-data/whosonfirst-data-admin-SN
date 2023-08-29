@@ -66,6 +66,9 @@
     "name:eus_x_preferred":[
         "Kolda eskualdea"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0648\u0644\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kolda"
     ],
@@ -80,6 +83,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab2\u0acd\u0aa1\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d3\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0932\u094d\u0921\u093e"
@@ -120,6 +126,9 @@
     "name:msa_x_preferred":[
         "Kolda"
     ],
+    "name:nan_x_preferred":[
+        "Kolda Chiu"
+    ],
     "name:nld_x_preferred":[
         "Gebied Kolda"
     ],
@@ -128,6 +137,9 @@
     ],
     "name:nob_x_preferred":[
         "Kolda"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07d0\u07ec\u07df\u07d1\u07d8\u07ca\u07eb"
     ],
     "name:pol_x_preferred":[
         "Kolda"
@@ -188,6 +200,9 @@
     ],
     "name:wol_x_preferred":[
         "Diiwaanu Koldaa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u5c14\u8fbe\u533a"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u723e\u9054\u5340"
@@ -257,7 +272,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1636495454,
+    "wof:lastmodified":1690865872,
     "wof:name":"Kolda",
     "wof:parent_id":85632365,
     "wof:placetype":"region",
