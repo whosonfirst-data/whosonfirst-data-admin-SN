@@ -1093,7 +1093,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"221",
     "statoids:ds":"SN",
     "statoids:fifa":"SEN",
@@ -1168,7 +1168,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1694492053,
+    "wof:lastmodified":1694639508,
     "wof:name":"Senegal",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
