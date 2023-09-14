@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.462908,
-    "geom:area_square_m":197167496692.372192,
+    "geom:area_square_m":197167496692.368835,
     "geom:bbox":"-17.546278,12.307289,-11.348607,16.693054",
     "geom:latitude":14.36242,
     "geom:longitude":-14.467137,
@@ -14,6 +14,9 @@
     "iso:country":"SN",
     "itu:country_code":[
         "221"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SN"
@@ -1089,7 +1092,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"221",
     "statoids:ds":"SN",
     "statoids:fifa":"SEN",
@@ -1148,7 +1152,7 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"2d77d36c5f42d416ebfaee2a154127c2",
+    "wof:geomhash":"c6eac42035b3e582527687db1356e482",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1164,12 +1168,12 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865871,
+    "wof:lastmodified":1694639508,
     "wof:name":"Senegal",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":14133280,
-    "wof:population_rank":14,
+    "wof:population":16296364,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sn",
     "wof:shortcode":"SN",
     "wof:superseded_by":[],
