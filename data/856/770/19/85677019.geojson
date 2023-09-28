@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.417122,
-    "geom:area_square_m":28848541258.976482,
+    "geom:area_square_m":28848542015.685673,
     "geom:bbox":"-14.849304,14.406494,-12.586975,16.146118",
     "geom:latitude":15.151292,
     "geom:longitude":-13.733212,
@@ -230,17 +230,19 @@
         "gn:id":2248753,
         "gp:id":56055615,
         "hasc:id":"SN.MT",
+        "iso:code":"SN-MT",
         "iso:id":"SN-MT",
         "qs_pg:id":78474,
         "unlc:id":"SN-MT",
         "wd:id":"Q856275",
         "wk:page":"Matam Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"036740e818d2b009cc19dc8fe4e5d296",
+    "wof:geomhash":"bcdd747fddc749cfe5580f8e06fd881a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -257,7 +259,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865873,
+    "wof:lastmodified":1695884794,
     "wof:name":"Matam",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

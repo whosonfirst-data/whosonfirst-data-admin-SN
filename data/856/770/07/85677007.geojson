@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.58994,
-    "geom:area_square_m":7072844404.402997,
+    "geom:area_square_m":7072848240.50608,
     "geom:bbox":"-16.793096,13.586571,-15.462219,14.752502",
     "geom:latitude":14.164229,
     "geom:longitude":-16.328983,
@@ -292,17 +292,19 @@
         "gn:id":2251910,
         "gp:id":2346994,
         "hasc:id":"SN.FK",
+        "iso:code":"SN-FK",
         "iso:id":"SN-FK",
         "qs_pg:id":219614,
         "unlc:id":"SN-FK",
         "wd:id":"Q856282",
         "wk:page":"Fatick Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f10e42ee5c50b73d516097115f6cff92",
+    "wof:geomhash":"3bd9c67eb5487d9334ef2d69714f6f99",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -319,7 +321,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865873,
+    "wof:lastmodified":1695885133,
     "wof:name":"Fatick",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.611913,
-    "geom:area_square_m":7375568804.478768,
+    "geom:area_square_m":7375569068.972914,
     "geom:bbox":"-16.023499,12.424905,-15.112183,13.395286",
     "geom:latitude":12.893889,
     "geom:longitude":-15.586843,
@@ -230,17 +230,19 @@
         "gn:id":2249781,
         "gp:id":2346996,
         "hasc:id":"SN.SD",
+        "iso:code":"SN-SE",
         "iso:id":"SN-SE",
         "qs_pg:id":894990,
         "unlc:id":"SN-SE",
         "wd:id":"Q738081",
         "wk:page":"S\u00e9dhiou Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"92b2f4b85564ab96a32ded6eef1905c1",
+    "wof:geomhash":"f9bc9fc1d2175dc305bccab711adaafc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -257,7 +259,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865875,
+    "wof:lastmodified":1695884338,
     "wof:name":"Sedhiou",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

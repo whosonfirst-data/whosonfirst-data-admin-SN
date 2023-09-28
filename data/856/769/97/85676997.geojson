@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045757,
-    "geom:area_square_m":547131196.432903,
+    "geom:area_square_m":547131070.660593,
     "geom:bbox":"-17.530916,14.586814,-17.126221,14.88634",
     "geom:latitude":14.755572,
     "geom:longitude":-17.271206,
@@ -306,17 +306,19 @@
         "gn:id":2253350,
         "gp:id":2346988,
         "hasc:id":"SN.DK",
+        "iso:code":"SN-DK",
         "iso:id":"SN-DK",
         "qs_pg:id":191398,
         "unlc:id":"SN-DK",
         "wd:id":"Q856268",
         "wk:page":"Dakar Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6e47525eac69b6821a82ed7257d2a78b",
+    "wof:geomhash":"c92dfa567b9629cf5386a1c5a84beefb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -333,7 +335,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865875,
+    "wof:lastmodified":1695885134,
     "wof:name":"Dakar",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

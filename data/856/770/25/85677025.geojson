@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.55334,
-    "geom:area_square_m":6614335433.527568,
+    "geom:area_square_m":6614336171.011456,
     "geom:bbox":"-17.176757,14.05389,-16.176208,15.360291",
     "geom:latitude":14.823996,
     "geom:longitude":-16.75645,
@@ -289,17 +289,19 @@
         "gn:id":2244800,
         "gp:id":2346992,
         "hasc:id":"SN.TH",
+        "iso:code":"SN-TH",
         "iso:id":"SN-TH",
         "qs_pg:id":235639,
         "unlc:id":"SN-TH",
         "wd:id":"Q847682",
         "wk:page":"Thi\u00e8s Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"084da9d6d057c50757c1bf4a5b1bd884",
+    "wof:geomhash":"9892bb62d8bd79b69b28892742055efa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -316,7 +318,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865874,
+    "wof:lastmodified":1695884338,
     "wof:name":"Thies",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

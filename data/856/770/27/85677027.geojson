@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.143998,
-    "geom:area_square_m":13781392040.192282,
+    "geom:area_square_m":13781391877.626715,
     "geom:bbox":"-15.355713,12.674477,-13.450989,13.600463",
     "geom:latitude":13.030976,
     "geom:longitude":-14.420012,
@@ -246,16 +246,18 @@
         "gn:id":2249781,
         "gp:id":2346996,
         "hasc:id":"SN.KO",
+        "iso:code":"SN-KD",
         "iso:id":"SN-KD",
         "qs_pg:id":894990,
         "wd:id":"Q738081",
         "wk:page":"Kolda Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3dee51f571fca7532d8da6b4d4592d95",
+    "wof:geomhash":"310ea100009f025284a98733c75729b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -272,7 +274,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865872,
+    "wof:lastmodified":1695884794,
     "wof:name":"Kolda",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

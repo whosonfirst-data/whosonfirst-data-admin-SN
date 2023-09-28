@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.925099,
-    "geom:area_square_m":11089042865.943865,
+    "geom:area_square_m":11089042795.222706,
     "geom:bbox":"-15.862915,13.74317,-14.582597,14.723328",
     "geom:latitude":14.207833,
     "geom:longitude":-15.182113,
@@ -238,17 +238,19 @@
         "gn:id":7303935,
         "gp:id":56055612,
         "hasc:id":"SN.KF",
+        "iso:code":"SN-KA",
         "iso:id":"SN-KA",
         "qs_pg:id":230300,
         "unlc:id":"SN-KA",
         "wd:id":"Q1059694",
         "wk:page":"Kaffrine Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d9172cc08dd0e4fbf096d3d8913d80a",
+    "wof:geomhash":"0ada34519a3fd5318d1ef76763a6e44f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -265,7 +267,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865874,
+    "wof:lastmodified":1695884795,
     "wof:name":"Kaffrine",
     "wof:parent_id":85632365,
     "wof:placetype":"region",
