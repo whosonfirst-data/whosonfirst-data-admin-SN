@@ -1131,6 +1131,7 @@
         "hasc:id":"SN",
         "icao:code":"6V",
         "ioc:id":"SEN",
+        "iso:code":"SN",
         "itu:id":"SEN",
         "loc:id":"n79007506",
         "m49:code":"686",
@@ -1145,6 +1146,7 @@
         "wk:page":"Senegal",
         "wmo:id":"SG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:country_alpha3":"SEN",
     "wof:geom_alt":[
@@ -1168,7 +1170,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1694639508,
+    "wof:lastmodified":1695881162,
     "wof:name":"Senegal",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
