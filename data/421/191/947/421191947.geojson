@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.116805,
-    "geom:area_square_m":13428215660.457708,
+    "geom:area_square_m":13428215036.924694,
     "geom:bbox":"-14.430785,12.629939,-12.461182,14.412476",
     "geom:latitude":13.489376,
     "geom:longitude":-13.472529,
@@ -131,12 +131,13 @@
         "wd:id":"Q2086236",
         "wk:page":"Tambacounda Department"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459009715,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d441da09d95db8a636dbc0b312aef17c",
+    "wof:geomhash":"be4b20dca93b1cb6abf5d17e1ff95380",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421191947,
-    "wof:lastmodified":1690865885,
+    "wof:lastmodified":1695886655,
     "wof:name":"Tambacounda",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

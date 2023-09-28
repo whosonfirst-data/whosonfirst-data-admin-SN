@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222753,
-    "geom:area_square_m":2671028092.823075,
+    "geom:area_square_m":2671027652.261209,
     "geom:bbox":"-15.699585,13.74317,-15.104004,14.582182",
     "geom:latitude":14.129529,
     "geom:longitude":-15.44698,
@@ -113,9 +113,10 @@
     "wof:concordances":{
         "hasc:id":"SN.KF.KF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311878,
-    "wof:geomhash":"06131bec397096c57c130b40f24a162d",
+    "wof:geomhash":"6658cc53790dfe1205f259b8ed6c82d7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108691481,
-    "wof:lastmodified":1636495461,
+    "wof:lastmodified":1695886654,
     "wof:name":"Kaffrine",
     "wof:parent_id":85676989,
     "wof:placetype":"county",

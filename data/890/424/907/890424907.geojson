@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.481387,
-    "geom:area_square_m":5729767037.966925,
+    "geom:area_square_m":5729766813.871392,
     "geom:bbox":"-14.248383,15.290649,-13.158889,16.146118",
     "geom:latitude":15.720178,
     "geom:longitude":-13.633046,
@@ -113,12 +113,13 @@
         "wd:id":"Q2085162",
         "wk:page":"Matam Department"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1469051568,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f73b9ac7adebcbe4677b932c1029f51",
+    "wof:geomhash":"d344c93b3f86405f6c7f71ffb3b775f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":890424907,
-    "wof:lastmodified":1690865890,
+    "wof:lastmodified":1695886655,
     "wof:name":"Matam",
     "wof:parent_id":85677019,
     "wof:placetype":"county",

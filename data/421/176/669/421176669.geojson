@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187964,
-    "geom:area_square_m":2247383021.07517,
+    "geom:area_square_m":2247382906.191351,
     "geom:bbox":"-16.11607,14.514526,-15.436279,14.997681",
     "geom:latitude":14.772593,
     "geom:longitude":-15.833084,
@@ -94,12 +94,13 @@
         "hasc:id":"SN.DB.MK",
         "qs_pg:id":1063170
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459009115,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0bd28fbd680bb0997fc979e5d605ae5f",
+    "wof:geomhash":"0f51d2e2d8099e461f7fd7a279703faf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421176669,
-    "wof:lastmodified":1627522783,
+    "wof:lastmodified":1695886477,
     "wof:name":"Mbacke",
     "wof:parent_id":85677001,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096295,
-    "geom:area_square_m":1155065091.615866,
+    "geom:area_square_m":1155065392.694665,
     "geom:bbox":"-15.862915,13.774719,-15.477277,14.296692",
     "geom:latitude":14.052826,
     "geom:longitude":-15.684592,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"SN.KF.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311875,
-    "wof:geomhash":"fc7f1f850c8d967853333e4cacc27b0d",
+    "wof:geomhash":"8dc1d042246e3e1542ef7290564817fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108691477,
-    "wof:lastmodified":1627522782,
+    "wof:lastmodified":1695886476,
     "wof:name":"Birkelane",
     "wof:parent_id":85676989,
     "wof:placetype":"county",

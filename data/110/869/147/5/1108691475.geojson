@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192207,
-    "geom:area_square_m":2308722137.584415,
+    "geom:area_square_m":2308722137.584459,
     "geom:bbox":"-16.2515869141,13.5917415671,-15.4144001888,13.9120862158",
     "geom:latitude":13.733591,
     "geom:longitude":-15.834987,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"SN.KC.NR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311873,
-    "wof:geomhash":"c3de1cd3cc93d8c34081ce0be2ebf7b0",
+    "wof:geomhash":"2d2b9e9b92dd6191874b59c6f40e5365",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108691475,
-    "wof:lastmodified":1566648642,
+    "wof:lastmodified":1695886418,
     "wof:name":"Nioro du Rip",
     "wof:parent_id":85677011,
     "wof:placetype":"county",

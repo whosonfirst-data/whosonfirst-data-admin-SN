@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.392422,
-    "geom:area_square_m":4723877518.812633,
+    "geom:area_square_m":4723877113.860722,
     "geom:bbox":"-15.355713,12.868897,-14.307301,13.600463",
     "geom:latitude":13.214512,
     "geom:longitude":-14.866529,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SN.KO.YF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311872,
-    "wof:geomhash":"f752e13a3b52bc5cf2ee1d34a434585c",
+    "wof:geomhash":"bf6d17479ea4f26bf362855a1a7eb450",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108691473,
-    "wof:lastmodified":1627522783,
+    "wof:lastmodified":1695886478,
     "wof:name":"Medina Yoro Foulah",
     "wof:parent_id":85677027,
     "wof:placetype":"county",

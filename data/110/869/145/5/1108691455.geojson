@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159465,
-    "geom:area_square_m":1924316469.67719,
+    "geom:area_square_m":1924316423.230402,
     "geom:bbox":"-13.121611,12.368651,-12.388322,12.839699",
     "geom:latitude":12.60139,
     "geom:longitude":-12.79787,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SN.KG.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311862,
-    "wof:geomhash":"d40cd3b0f5133551f74372cabe3712f7",
+    "wof:geomhash":"ff455d655a625c6ea6645517898781e9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108691455,
-    "wof:lastmodified":1627522783,
+    "wof:lastmodified":1695886477,
     "wof:name":"Salemata",
     "wof:parent_id":85676983,
     "wof:placetype":"county",

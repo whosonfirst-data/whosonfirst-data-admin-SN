@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.588069,
-    "geom:area_square_m":7091841582.787507,
+    "geom:area_square_m":7091840413.649552,
     "geom:bbox":"-13.239067,12.307766,-11.721802,13.209617",
     "geom:latitude":12.76514,
     "geom:longitude":-12.434818,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SN.KG.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311868,
-    "wof:geomhash":"b8d075beb648d97b02238a46d5f627ad",
+    "wof:geomhash":"e504bde7d55ae4c21ac151c17cc63799",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108691463,
-    "wof:lastmodified":1627522782,
+    "wof:lastmodified":1695886476,
     "wof:name":"Kedougou",
     "wof:parent_id":85676983,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.556915,
-    "geom:area_square_m":6676809117.914646,
+    "geom:area_square_m":6676809117.914924,
     "geom:bbox":"-12.6862801449,13.3112792969,-11.8641775602,15.1002807617",
     "geom:latitude":14.163908,
     "geom:longitude":-12.253499,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"SN.TB.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311891,
-    "wof:geomhash":"6e6005018510e46c3f16066c21335251",
+    "wof:geomhash":"4e8dca4290b64ecc53ae26dfef50e2ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108691497,
-    "wof:lastmodified":1566648642,
+    "wof:lastmodified":1695886418,
     "wof:name":"Bakel",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

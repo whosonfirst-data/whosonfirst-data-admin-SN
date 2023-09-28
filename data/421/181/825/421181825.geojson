@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157549,
-    "geom:area_square_m":1889702855.823881,
+    "geom:area_square_m":1889702977.827646,
     "geom:bbox":"-16.388183,13.853565,-15.683777,14.370173",
     "geom:latitude":14.067271,
     "geom:longitude":-16.067016,
@@ -189,12 +189,13 @@
         "hasc:id":"SN.KC.KL",
         "qs_pg:id":505878
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459009308,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"321be15d91aac6e0cd9f7740c6947e0f",
+    "wof:geomhash":"941f0c663161a3d487ead926ba1f1349",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":421181825,
-    "wof:lastmodified":1636495466,
+    "wof:lastmodified":1695886655,
     "wof:name":"Kaolack",
     "wof:parent_id":85677011,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108135,
-    "geom:area_square_m":1292930358.263922,
+    "geom:area_square_m":1292930123.710585,
     "geom:bbox":"-16.385914,14.54133,-16.038585,15.02269",
     "geom:latitude":14.768219,
     "geom:longitude":-16.217617,
@@ -149,9 +149,10 @@
     "wof:concordances":{
         "hasc:id":"SN.DB.DB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311889,
-    "wof:geomhash":"60f51f21af5c1710e1581d36b24461f4",
+    "wof:geomhash":"e091f9218524c8a9621ded700951fef5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1108691493,
-    "wof:lastmodified":1636495462,
+    "wof:lastmodified":1695886654,
     "wof:name":"Diourbel",
     "wof:parent_id":85677001,
     "wof:placetype":"county",

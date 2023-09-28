@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090597,
-    "geom:area_square_m":1085612555.347656,
+    "geom:area_square_m":1085612802.019529,
     "geom:bbox":"-16.134277,14.107727,-15.688416,14.498108",
     "geom:latitude":14.284031,
     "geom:longitude":-15.916876,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SN.KC.GG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311877,
-    "wof:geomhash":"7c4cdc5ef81a3436afaca77105f9acd6",
+    "wof:geomhash":"63b7d22e94b5ad8154be9d16e29a5b59",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108691479,
-    "wof:lastmodified":1627522782,
+    "wof:lastmodified":1695886476,
     "wof:name":"Guinguineo",
     "wof:parent_id":85677011,
     "wof:placetype":"county",

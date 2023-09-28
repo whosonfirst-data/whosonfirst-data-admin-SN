@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.379993,
-    "geom:area_square_m":4554983645.205395,
+    "geom:area_square_m":4554983645.205382,
     "geom:bbox":"-15.145385828,13.7694944943,-14.5825974837,14.7036743164",
     "geom:latitude":14.204736,
     "geom:longitude":-14.858494,
@@ -108,12 +108,13 @@
         "hasc:id":"SN.KF.KU",
         "qs_pg:id":483153
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459008705,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"edf02d16a875091219fe41ea68fe7d48",
+    "wof:geomhash":"a469463796a4ddc07db410ded1b5ffbb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421166855,
-    "wof:lastmodified":1582317844,
+    "wof:lastmodified":1695886587,
     "wof:name":"Koungheul",
     "wof:parent_id":85676989,
     "wof:placetype":"county",

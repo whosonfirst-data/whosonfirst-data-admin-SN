@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121908,
-    "geom:area_square_m":1459213674.350005,
+    "geom:area_square_m":1459213674.349968,
     "geom:bbox":"-16.2239668945,14.3642827901,-15.4622192383,14.7525024414",
     "geom:latitude":14.52868,
     "geom:longitude":-15.837994,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"SN.FK.GS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311884,
-    "wof:geomhash":"a49872bf9863757e6906b5b2119aec6e",
+    "wof:geomhash":"21da434b53c47b66c9b292d78aee5b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108691491,
-    "wof:lastmodified":1566648643,
+    "wof:lastmodified":1695886418,
     "wof:name":"Gossas",
     "wof:parent_id":85677007,
     "wof:placetype":"county",

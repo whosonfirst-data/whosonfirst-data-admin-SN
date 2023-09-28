@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.724641,
-    "geom:area_square_m":8656046323.877672,
+    "geom:area_square_m":8656046323.877758,
     "geom:bbox":"-13.6728222881,14.4064941406,-12.5869750977,15.606845486",
     "geom:latitude":14.972392,
     "geom:longitude":-13.131215,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"SN.MT.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311893,
-    "wof:geomhash":"fd56036cb71f2e5b689e0dbeeff1fdc2",
+    "wof:geomhash":"0f929bceaed1c9c56ba00d8a706f5a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108691501,
-    "wof:lastmodified":1566648637,
+    "wof:lastmodified":1695886417,
     "wof:name":"Kanel",
     "wof:parent_id":85677019,
     "wof:placetype":"county",

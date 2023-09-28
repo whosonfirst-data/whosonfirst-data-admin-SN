@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15911,
-    "geom:area_square_m":1905112079.730402,
+    "geom:area_square_m":1905111646.01809,
     "geom:bbox":"-17.144621,14.05389,-16.518716,14.68988",
     "geom:latitude":14.458964,
     "geom:longitude":-16.830766,
@@ -93,12 +93,13 @@
         "hasc:id":"SN.TH.MR",
         "qs_pg:id":896713
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459009444,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e96c373b90a885b073d8c9c628a05fc",
+    "wof:geomhash":"3ee3b9a8ec5a85756c1554b1b9ed0fa0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421185475,
-    "wof:lastmodified":1627522783,
+    "wof:lastmodified":1695886477,
     "wof:name":"Mbour",
     "wof:parent_id":85677025,
     "wof:placetype":"county",

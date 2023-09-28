@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094956,
-    "geom:area_square_m":1146242618.605588,
+    "geom:area_square_m":1146242463.948187,
     "geom:bbox":"-16.537487,12.362231,-15.888443,12.658875",
     "geom:latitude":12.517766,
     "geom:longitude":-16.223011,
@@ -158,12 +158,13 @@
         "wd:id":"Q2087556",
         "wk:page":"Ziguinchor Department"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459010144,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"317f765dcbf9dcfb412a7c1325af9fc3",
+    "wof:geomhash":"8cd84fd00aa6f1b2f00e1b0dcf824522",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421203237,
-    "wof:lastmodified":1690865882,
+    "wof:lastmodified":1695886654,
     "wof:name":"Ziguinchor",
     "wof:parent_id":85677033,
     "wof:placetype":"county",

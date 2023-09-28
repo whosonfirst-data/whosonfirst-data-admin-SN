@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226059,
-    "geom:area_square_m":2707966036.299487,
+    "geom:area_square_m":2707966036.29956,
     "geom:bbox":"-15.4684005361,13.993693845,-15.0238037109,14.7233276367",
     "geom:latitude":14.356226,
     "geom:longitude":-15.251061,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"SN.KF.MH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311883,
-    "wof:geomhash":"49b775ec597938589968eaf1a51f3dd8",
+    "wof:geomhash":"19a009a1dc3e8f76bd81164bfb5b907c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108691489,
-    "wof:lastmodified":1566648638,
+    "wof:lastmodified":1695886417,
     "wof:name":"Malem Hodar",
     "wof:parent_id":85676989,
     "wof:placetype":"county",

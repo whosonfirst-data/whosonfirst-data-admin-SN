@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.310007,
-    "geom:area_square_m":15717257280.671246,
+    "geom:area_square_m":15717257280.671366,
     "geom:bbox":"-13.7054252921,13.2366943359,-12.2218017578,14.7084960937",
     "geom:latitude":13.997083,
     "geom:longitude":-12.929176,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"SN.TB.GY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311882,
-    "wof:geomhash":"cb5cc45a5e1696a3645490318d9afccb",
+    "wof:geomhash":"d267623cf83ba56b4cad3972833ee1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108691485,
-    "wof:lastmodified":1566648639,
+    "wof:lastmodified":1695886417,
     "wof:name":"Goudiry",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

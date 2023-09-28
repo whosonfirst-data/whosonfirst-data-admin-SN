@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074025,
-    "geom:area_square_m":893719470.963628,
+    "geom:area_square_m":893719470.963593,
     "geom:bbox":"-16.7939990746,12.337969219,-16.4352658349,12.6506957994",
     "geom:latitude":12.475579,
     "geom:longitude":-16.616051,
@@ -117,12 +117,13 @@
         "hasc:id":"SN.ZG.OU",
         "qs_pg:id":1086871
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e2d66c30e14e75372e4a7a3884862488",
+    "wof:geomhash":"e187bc5c4324f8d0a9a3949b3e927468",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421187971,
-    "wof:lastmodified":1582317844,
+    "wof:lastmodified":1695886587,
     "wof:name":"Oussouye",
     "wof:parent_id":85677033,
     "wof:placetype":"county",

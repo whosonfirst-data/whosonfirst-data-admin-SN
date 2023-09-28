@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259339,
-    "geom:area_square_m":3096215817.719921,
+    "geom:area_square_m":3096215817.719817,
     "geom:bbox":"-17.1090131418,14.8112792969,-16.1762084961,15.3602905273",
     "geom:latitude":15.088534,
     "geom:longitude":-16.651812,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"SN.TH.TV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311892,
-    "wof:geomhash":"03662ed96fa18b0f442916301898449e",
+    "wof:geomhash":"036aba9b9c004ff5c75ed653a8a6db21",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108691499,
-    "wof:lastmodified":1566648642,
+    "wof:lastmodified":1695886418,
     "wof:name":"Tivaouane",
     "wof:parent_id":85677025,
     "wof:placetype":"county",

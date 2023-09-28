@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001134,
-    "geom:area_square_m":13563805.100887,
+    "geom:area_square_m":13563742.29089,
     "geom:bbox":"-17.43042,14.744507,-17.362488,14.79839",
     "geom:latitude":14.77672,
     "geom:longitude":-17.395334,
@@ -224,12 +224,13 @@
         "wd:id":"Q1557691",
         "wk:page":"Gu\u00e9diawaye"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1469052299,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"af7c88f6a0c100d8fd2fe44c520faffb",
+    "wof:geomhash":"b48aad281192eccab5c101d7e0a71d81",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -239,7 +240,7 @@
         }
     ],
     "wof:id":890440853,
-    "wof:lastmodified":1690865890,
+    "wof:lastmodified":1695886588,
     "wof:name":"Guediewaye",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

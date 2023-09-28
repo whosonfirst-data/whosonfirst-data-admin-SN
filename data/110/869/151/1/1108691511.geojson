@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067786,
-    "geom:area_square_m":805877491.650319,
+    "geom:area_square_m":805877697.430867,
     "geom:bbox":"-16.525611,15.832969,-16.095395,16.140691",
     "geom:latitude":15.960059,
     "geom:longitude":-16.365532,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"SN.ST.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311897,
-    "wof:geomhash":"9009743319ce74b60cd974e39908c1d7",
+    "wof:geomhash":"42d6943c26e52ff576f5eb350b451fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108691511,
-    "wof:lastmodified":1636495461,
+    "wof:lastmodified":1695886654,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85676993,
     "wof:placetype":"county",

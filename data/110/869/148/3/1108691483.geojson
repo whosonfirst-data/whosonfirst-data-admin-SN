@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.576633,
-    "geom:area_square_m":6914309462.780785,
+    "geom:area_square_m":6914309462.7808,
     "geom:bbox":"-14.8335949535,13.5092778692,-13.7797851563,14.6586914063",
     "geom:latitude":14.132361,
     "geom:longitude":-14.339004,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"SN.TB.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311880,
-    "wof:geomhash":"89247d03da5a9301adaf75b30107d24c",
+    "wof:geomhash":"414eaf324b0660bff116b0c3171a623d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108691483,
-    "wof:lastmodified":1566648639,
+    "wof:lastmodified":1695886417,
     "wof:name":"Koumpentoum",
     "wof:parent_id":85677035,
     "wof:placetype":"county",

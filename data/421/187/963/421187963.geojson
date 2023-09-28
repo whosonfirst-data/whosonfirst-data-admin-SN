@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0312,
-    "geom:area_square_m":373056796.499505,
+    "geom:area_square_m":373056799.844748,
     "geom:bbox":"-17.328999,14.586814,-17.126221,14.88634",
     "geom:latitude":14.760713,
     "geom:longitude":-17.208443,
@@ -122,12 +122,13 @@
         "wd:id":"Q2067770",
         "wk:page":"Rufisque Department"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8aa9d7a8900c96faecb6651f54201fb9",
+    "wof:geomhash":"04cbb51712edd756dc6f45d4f28470c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421187963,
-    "wof:lastmodified":1690865883,
+    "wof:lastmodified":1695886587,
     "wof:name":"Rufisque",
     "wof:parent_id":85676997,
     "wof:placetype":"county",
