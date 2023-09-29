@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112045,
-    "geom:area_square_m":1339469400.837703,
+    "geom:area_square_m":1339469400.837785,
     "geom:bbox":"-16.687115059,14.5929794197,-16.2831100863,15.0270862567",
     "geom:latitude":14.802769,
     "geom:longitude":-16.483925,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"SN.DB.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311890,
-    "wof:geomhash":"4d6b10beb4c28aa80341384fad51e9e4",
+    "wof:geomhash":"3ac81377688d30874f2598b40b1ea43f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108691495,
-    "wof:lastmodified":1566648643,
+    "wof:lastmodified":1695886418,
     "wof:name":"Bambey",
     "wof:parent_id":85677001,
     "wof:placetype":"county",

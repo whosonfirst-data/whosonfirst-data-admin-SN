@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.617351,
-    "geom:area_square_m":19203581953.343708,
+    "geom:area_square_m":19203582466.28178,
     "geom:bbox":"-16.525611,15.493988,-13.69751,16.691711",
     "geom:latitude":16.210749,
     "geom:longitude":-15.030674,
@@ -238,16 +238,18 @@
         "gn:id":2246451,
         "gp:id":2346990,
         "hasc:id":"SN.ST",
+        "iso:code":"SN-SL",
         "iso:id":"SN-SL",
         "qs_pg:id":318818,
         "wd:id":"Q178872",
         "wk:page":"Saint-Louis Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02eff0c54ac981c6fa43b3833c25d759",
+    "wof:geomhash":"ee2fb1d004cef130d834c1a7ab2ab0bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -264,7 +266,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865874,
+    "wof:lastmodified":1695884795,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

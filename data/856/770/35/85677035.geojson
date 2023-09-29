@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.560359,
-    "geom:area_square_m":42736591521.823174,
+    "geom:area_square_m":42736590272.88868,
     "geom:bbox":"-14.833595,12.629939,-11.864178,15.100281",
     "geom:latitude":13.885831,
     "geom:longitude":-13.222258,
@@ -241,16 +241,18 @@
         "gn:id":2244990,
         "gp:id":2346991,
         "hasc:id":"SN.TB",
+        "iso:code":"SN-TC",
         "iso:id":"SN-TC",
         "qs_pg:id":235638,
         "wd:id":"Q848554",
         "wk:page":"Tambacounda Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3664ddde6c71707373e8f3770858325d",
+    "wof:geomhash":"36b37f49ebb2dd6d70969c45d4bac183",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -267,7 +269,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865871,
+    "wof:lastmodified":1695884794,
     "wof:name":"Tambacounda",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

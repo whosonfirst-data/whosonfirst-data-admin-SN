@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.348336,
-    "geom:area_square_m":16078162586.178257,
+    "geom:area_square_m":16078161840.182814,
     "geom:bbox":"-15.818787,14.612488,-14.496399,16.001099",
     "geom:latitude":15.339568,
     "geom:longitude":-15.178003,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SN.LG.LN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311896,
-    "wof:geomhash":"915ac6d6439ccb210ca8531dca47f18d",
+    "wof:geomhash":"fdc75acca76414bbb617582ad19f1c53",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108691509,
-    "wof:lastmodified":1627522782,
+    "wof:lastmodified":1695886477,
     "wof:name":"Linguere",
     "wof:parent_id":85677015,
     "wof:placetype":"county",

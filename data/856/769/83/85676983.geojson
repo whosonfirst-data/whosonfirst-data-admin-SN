@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.398205,
-    "geom:area_square_m":16856364222.772202,
+    "geom:area_square_m":16856364223.201145,
     "geom:bbox":"-13.239067,12.307766,-11.348006,13.461121",
     "geom:latitude":12.843309,
     "geom:longitude":-12.196767,
@@ -237,17 +237,19 @@
         "gn:id":7303936,
         "gp:id":56055613,
         "hasc:id":"SN.KG",
+        "iso:code":"SN-KE",
         "iso:id":"SN-KE",
         "qs_pg:id":1206083,
         "unlc:id":"SN-KE",
         "wd:id":"Q1046666",
         "wk:page":"K\u00e9dougou Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e1b8fa9f79fbaa9222e679261aaa1d4",
+    "wof:geomhash":"d4944a32560bd2e61ded555fcb0dd052",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -264,7 +266,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865875,
+    "wof:lastmodified":1695884338,
     "wof:name":"Kedougou",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

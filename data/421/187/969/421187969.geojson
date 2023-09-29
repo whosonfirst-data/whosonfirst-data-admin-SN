@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.24769,
-    "geom:area_square_m":2973680445.20485,
+    "geom:area_square_m":2973685207.953125,
     "geom:bbox":"-16.754634,13.586571,-16.08551,14.170282",
     "geom:latitude":13.84908,
     "geom:longitude":-16.427083,
@@ -93,12 +93,13 @@
         "hasc:id":"SN.FK.FD",
         "qs_pg:id":1086870
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c59177eedfdba3dab4e0d4686ef93f6",
+    "wof:geomhash":"7a25876ad83b8ea7749cc56be811d0c0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421187969,
-    "wof:lastmodified":1627522782,
+    "wof:lastmodified":1695886475,
     "wof:name":"Foundiougne",
     "wof:parent_id":85677007,
     "wof:placetype":"county",

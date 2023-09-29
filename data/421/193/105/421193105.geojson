@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00652,
-    "geom:area_square_m":77955603.066255,
+    "geom:area_square_m":77955483.344175,
     "geom:bbox":"-17.424805,14.717855,-17.297578,14.8143",
     "geom:latitude":14.76233,
     "geom:longitude":-17.348734,
@@ -120,12 +120,13 @@
         "wd:id":"Q255486",
         "wk:page":"Pikine Department"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459009760,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d09a51996407ac06f31773c97b976b0",
+    "wof:geomhash":"6f9bd2699457424d8b7cb732396d4e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421193105,
-    "wof:lastmodified":1690865880,
+    "wof:lastmodified":1695886477,
     "wof:name":"Pikine",
     "wof:parent_id":85676997,
     "wof:placetype":"county",

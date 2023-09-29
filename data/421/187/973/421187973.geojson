@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.44666,
-    "geom:area_square_m":5301562722.608241,
+    "geom:area_square_m":5301562620.611628,
     "geom:bbox":"-16.491601,15.926856,-15.333984,16.59668",
     "geom:latitude":16.280167,
     "geom:longitude":-15.87763,
@@ -122,12 +122,13 @@
         "wd:id":"Q3044632",
         "wk:page":"Dagana Department, Senegal"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"43892d51647d2badc4b27b0dbbfa4bbb",
+    "wof:geomhash":"038eb28344a60e020c16d76bbf1d08b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421187973,
-    "wof:lastmodified":1690865883,
+    "wof:lastmodified":1695886588,
     "wof:name":"Dagana",
     "wof:parent_id":85676993,
     "wof:placetype":"county",

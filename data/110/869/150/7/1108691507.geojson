@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.211094,
-    "geom:area_square_m":14462727897.131516,
+    "geom:area_square_m":14462728582.558151,
     "geom:bbox":"-14.849304,14.407049,-13.447681,15.805115",
     "geom:latitude":15.032214,
     "geom:longitude":-14.133223,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SN.MT.RN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311895,
-    "wof:geomhash":"b3765fa7a1e9c394cf89b47e3014b1e5",
+    "wof:geomhash":"234627dbc15f7fab23a6a431778049a8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108691507,
-    "wof:lastmodified":1627522783,
+    "wof:lastmodified":1695886478,
     "wof:name":"Ranerou",
     "wof:parent_id":85677019,
     "wof:placetype":"county",

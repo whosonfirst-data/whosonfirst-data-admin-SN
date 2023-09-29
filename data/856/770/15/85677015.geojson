@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.160347,
-    "geom:area_square_m":25750654036.74786,
+    "geom:area_square_m":25750651808.809219,
     "geom:bbox":"-16.809996,14.612488,-14.496399,16.187463",
     "geom:latitude":15.423093,
     "geom:longitude":-15.527653,
@@ -296,17 +296,19 @@
         "gn:id":2249221,
         "gp:id":2346993,
         "hasc:id":"SN.LG",
+        "iso:code":"SN-LG",
         "iso:id":"SN-LG",
         "qs_pg:id":424016,
         "unlc:id":"SN-LG",
         "wd:id":"Q738061",
         "wk:page":"Louga Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55f9c87830a5d0999ebaf7840251702a",
+    "wof:geomhash":"ca97a9fdec1833b011b02681bc252f36",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -323,7 +325,7 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1690865874,
+    "wof:lastmodified":1695884795,
     "wof:name":"Louga",
     "wof:parent_id":85632365,
     "wof:placetype":"region",

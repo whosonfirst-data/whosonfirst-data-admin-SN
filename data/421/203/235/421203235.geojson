@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.443381,
-    "geom:area_square_m":5344358130.46489,
+    "geom:area_square_m":5344358130.464957,
     "geom:bbox":"-16.7870907287,12.5543213005,-15.8939819336,13.1704465744",
     "geom:latitude":12.887631,
     "geom:longitude":-16.366679,
@@ -117,12 +117,13 @@
         "hasc:id":"SN.ZG.BG",
         "qs_pg:id":230301
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1459010144,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"35ca5de8a807060174d3299e19d24a36",
+    "wof:geomhash":"def880ab75fc8f3fa697d95668dbe4f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421203235,
-    "wof:lastmodified":1582317844,
+    "wof:lastmodified":1695886588,
     "wof:name":"Bignona",
     "wof:parent_id":85677033,
     "wof:placetype":"county",

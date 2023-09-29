@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228875,
-    "geom:area_square_m":2759673671.206129,
+    "geom:area_square_m":2759673444.394646,
     "geom:bbox":"-16.023499,12.5388,-15.112183,13.05011",
     "geom:latitude":12.807065,
     "geom:longitude":-15.616475,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SN.SD.SD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311865,
-    "wof:geomhash":"a7b0577cf46af901b1b29e3cf8c8e59f",
+    "wof:geomhash":"375561f67546626b1b6172b775d24c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108691459,
-    "wof:lastmodified":1627522783,
+    "wof:lastmodified":1695886477,
     "wof:name":"Sedhiou",
     "wof:parent_id":85676979,
     "wof:placetype":"county",

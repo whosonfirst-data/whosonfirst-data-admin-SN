@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144419,
-    "geom:area_square_m":1742529122.691894,
+    "geom:area_square_m":1742529122.691892,
     "geom:bbox":"-15.9686904949,12.4249053689,-15.1223743188,12.8633525413",
     "geom:latitude":12.633344,
     "geom:longitude":-15.512406,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"SN.SD.GP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SN",
     "wof:created":1474311864,
-    "wof:geomhash":"8cb6b3e835d4563dff9124b57f0df4e3",
+    "wof:geomhash":"6eece0bb6a5367c2cf50cf0dcaa2a119",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108691457,
-    "wof:lastmodified":1566648638,
+    "wof:lastmodified":1695886417,
     "wof:name":"Goudomp",
     "wof:parent_id":85676979,
     "wof:placetype":"county",
