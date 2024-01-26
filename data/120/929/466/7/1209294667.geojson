@@ -37,6 +37,11 @@
     "wof:concordances":{
         "gn:id":2251238
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2251237
+        ]
+    },
     "wof:country":"SN",
     "wof:geomhash":"d624afe2b7d00e7eb6510c7eb0d2475b",
     "wof:hierarchy":[
@@ -46,13 +51,15 @@
         }
     ],
     "wof:id":1209294667,
-    "wof:lastmodified":1566648519,
+    "wof:lastmodified":1706240665,
     "wof:name":"Guinal",
     "wof:parent_id":85632365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360164817
+    ],
     "wof:tags":[]
 },
   "bbox": [

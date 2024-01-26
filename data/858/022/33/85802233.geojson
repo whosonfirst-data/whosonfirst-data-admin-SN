@@ -9,6 +9,9 @@
     "geom:bbox":"-17.45343,14.714853,-17.45343,14.714853",
     "geom:latitude":14.714853,
     "geom:longitude":-17.45343,
+    "gn:country":"SN",
+    "gn:fcode":"PPL",
+    "gn:population":2352057,
     "iso:country":"SN",
     "lbl:bbox":"-17.45843,14.709853,-17.44843,14.719853",
     "lbl:latitude":14.714853,
@@ -24,6 +27,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
         "Grand Dakar"
@@ -64,12 +68,37 @@
     "qs:woe_lau":0,
     "qs:woe_local":1411986,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"SN",
+    "qs_pg:gn_country":"SN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2251339,
+    "qs_pg:gn_pop":2352057,
+    "qs_pg:name":"Grand Dakar",
+    "qs_pg:name_adm0":"S\u00e9n\u00e9gal",
+    "qs_pg:name_adm1":"Dakar",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":12,
+    "qs_pg:qs_id":1034547,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424943,
+    "qs_pg:woe_id":1413411,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "src:population":"quattroshapes_pg",
     "wd:wordcount":31,
+    "woe:adm0_id":23424943,
+    "woe:name_adm0":"S\u00e9n\u00e9gal",
+    "woe:name_adm1":"Dakar",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85676997,
         102191573,
@@ -83,6 +112,17 @@
         "qs_pg:id":1034547,
         "wd:id":"Q3113582",
         "wk:page":"Grand Dakar"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2251339
+        ],
+        "gp:id":[
+            1413411
+        ],
+        "qs_pg:id":[
+            1034547
+        ]
     },
     "wof:country":"SN",
     "wof:geom_alt":[
@@ -103,13 +143,17 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582317836,
+    "wof:lastmodified":1706240665,
     "wof:name":"Grand Dakar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
+    "wof:population":2352057,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-sn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126065435
+    ],
     "wof:tags":[]
 },
   "bbox": [
